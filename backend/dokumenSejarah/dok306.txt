@@ -1,0 +1,43 @@
+<add>
+<doc>
+<field name="DOCID">http://www.pengertiansejarah.com/revolusi-hijau-pada-masa-orde-baru.html</field>
+<field name="TITLE">Revolusi Hijau pada Masa Orde Baru</field>
+<field name="TEXT">
+Revolusi Hijau pada Masa Orde Baru –  Munculnya beberapa teknik pertanian pada abad ke-17 dan abad ke-18 dapat dilacak dari jenis tanaman baru dan beberapa perubahan ekonomi. Pada masa sekarang ini di negara yang maju dan sedang berkembang terjadi perbedaan makin besar dalam taraf hidup masyarakatnya. Hal ini disebabkan perbedaan antara efisiensi teknologi pertanian dan kenaikan jumlah penduduk.  Perubahan-perubahan di bidang pertanian sebenarnya telah berkali-kali terjadi dalam sejarah kehidupan manusia yang biasa dikenal dengan istilah revolusi.
+Perubahan dalam bidang pertanian itu dapat berupa peralatan pertanian, perubahan rotasi tanaman, dan perubahan sistem pengairan. Usaha ini ada yang cepat dan lambat. Usaha yang cepat inilah disebut revolusi, yaitu perubahan secara cepat menyangkut masalah pembaruan teknologi pertanian dan peningkatan produksi pertanian, baik secara kuantitatif maupun kualitatif. Revolusi Hijau merupakan bagian dari perubahan-perubahan yang terjadi dalam sistem pertanian pada abad sekarang ini.
+Revolusi Hijau pada dasarnya adalah suatu perubahan cara bercocok tanam dari cara tradisional ke cara modern. Revolusi Hijau ditandai dengan makin berkurangnya ketergantungan petani pada cuaca dan alam, digantikan dengan peran ilmu pengetahuan dan teknologi dalam upaya meningkatkan produksi pangan. Revolusi Hijau sering disebut juga Revolusi Agraria. Pengertian agraria meliputi bidang pertanian, perkebunan, peternakan, perikanan, dan kehutanan.
+Lahirnya Revolusi Hijau melalui proses panjang dan akhirnya meluas ke wilayah Asia dan Afrika. Revolusi Hijau mulai mendapat perhatian setelah Thomas Robert Malthus (1766–1834) mulai melakukan penelitian dan memaparkan hasilnya. Malthus menyatakan bahwa kemiskinan adalah masalah yang tidak bisa dihindari oleh manusia. Kemiskinan terjadi karena pertumbuhan penduduk dan peningkatan produksi pangan yang tidak seimbang. Pertumbuhan penduduk lebih cepat dibandingkan dengan peningkatan hasil pertanian (pangan). Malthus berpendapat bahwa pertumbuhan penduduk mengikuti deret ukur (1, 2, 4, 8, 16, 31, 64, dan seterusnya), sedangkan hasil pertanian mengikuti deret hitung (1, 3, 5, 7, 9, 11, 13, 15, dan seterusnya). Hasil penelitian Malthus itu menimbulkan kegemparan di Eropa dan Amerika.
+Akibatnya, muncul berbagai gerakan pengendalian pertumbuhan penduduk dan usaha penelitian pencarian bibit unggul dalam bidang pertanian. Revolusi Hijau menjadi proyek penelitian untuk meningkatkan produksi pangan di berbagai negara di dunia. Sejumlah varietas padi-padian baru yang unggul, khususnya gandum, padi, dan jagung dikembangkan dalam upaya melipatgandakan hasil pertanian. Pelaksanaan penelitian pertanian disponsori oleh lembaga Ford and Rockefeller Foundation. Penelitian itu dilakukan di negara Meksiko, Filipina, India, dan Pakistan.
+Di Meksiko pada tahun 1944 didirikan sebuah pusat penelitian benih jagung dan gandum. Pusat penelitian ini mendapat bimbingan langsung dari Rockefeller Foundation. Hanya dalam beberapa tahun, para peneliti di lembaga tersebut berhasil menemukan beberapa varietas baru yang hasilnya jauh di atas rata-rata hasil varietas lokal Meksiko.
+Diilhami oleh kesuksesan hasil penelitian di Meksiko, pada tahun 1962 Rockefeller Foundation bekerja sama dengan Ford Foundation mendirikan sebuah badan penelitian untuk tanaman padi di Filipina. Badan penelitian ini dinamakan International Rice Research Institute (IRRI) yang bertempat di Los Banos, Filipina. Pusat penelitian ini ternyata juga menghasilkan suatu varietas padi baru yang hasilnya jauh melebihi rata-rata hasil varietas lokal di Asia.
+Varietas baru tersebut merupakan hasil persilangan genetik antara varietas padi kerdil dari Taiwan yang bernama DeeGeowoogen dan varietas padi jangkung dari Indonesia yang bernama Peta. Hasil dari persilangan tersebut diberi nama IR 8-288-3 atau biasa dikenal dengan IR-8 dan di Indonesia dikenal dengan sebutan padi PB-8. Setelah penemuan padi PB- 8, disusul oleh penemuan varietasvarietas baru yang lain. Jenis-jenis bibit dari IRRI ini di Indonesia disebut padi unggul baru (PUB). Pada tahun 1966, IR-8 mulai disebarkan ke Asia diikuti oleh penyebaran IR-5 pada tahun 1967. Pada tahun 1968 di India, Pakistan, Sri Lanka, Filipina, Malaysia, Taiwan, Vietnam, dan Indonesia telah dilaksanakan penanaman padi jenis IR atau PUB secara luas di masyarakat. Pada tahun 1976 areal sawah di Asia yang ditanami PUB sudah mencapai 24 juta hektar.
+Revolusi Hijau adalah proses keberhasilan para teknologi pertanian dalam melakukan persilangan (breeding) antarjenis tanaman tertentu sehingga menghasilkan jenis tanaman unggul untuk meningkatkan produksi bahan pangan. Jenis tanaman unggul itu mempunyai ciri berumur pendek, memberikan hasil produksi berlipat ganda (dibandingkan dengan jenis tradisional) dan mudah beradaptasi dalam lingkungan apapun, asal memenuhi syarat, antara lain:
+1. tersedia cukup air;
+2. pemupukan teratur;
+3. tersedia bahan kimia pemberantas hama dan penyakit;
+4. tersedia bahan kimia pemberantas rerumputan pengganggu.
+Revolusi Hijau dapat memberikan keuntungan bagi kehidupan umat manusia, tetapi juga memberikan dampak negatif bagi kehidupan umat manusia.
+Keuntungan Revolusi Hijau bagi umat manusia, antara lain sebagai berikut.
+1. Revolusi Hijau menyebabkan munculnya tanaman jenis unggul berumur pendek sehingga intensitas penanaman per tahun menjadi bertambah (dari satu kali menjadi dua kali atau tiga kali per dua tahun). Akibatnya, tenaga kerja yang dibutuhkan lebih banyak. Demikian juga keharusan pemupukan, pemberantasan hama dan penyakit akan menambah kebutuhan tenaga kerja.
+2. Revolusi Hijau dapat meningkatkan pendapatan petani. Dengan paket teknologi, biaya produksi memang bertambah. Namun, tingkat produksi yang dihasilkannya akan memberikan sisa keuntungan jauh lebih besar daripada usaha pertanian tradisional.
+3. Revolusi Hijau dapat merangsang kesadaran petani dan masyarakat pada umumnya akan pentingnya teknologi. Dalam hal ini, terkandung pandangan atau harapan bahwa dengan masuknya petani ke dalam arus utama kehidupan ekonomi, petani, dan masyarakat pada umumnya akan menjadi sejahtera.
+4. Revolusi Hijau merangsang dinamika ekonomi masyarakat karena dengan hasil melimpah akan melahirkan pertumbuhan ekonomi yang meningkat pula di masyarakat. Hal ini sudah terjadi di beberapa negara, misalnya di Indonesia.
+Revolusi Hijau di Indonesia diformulasikan dalam konsep ‘Pancausaha Tani’ yaitu:
+1. pemilihan dan penggunaan bibit unggul atau varitas unggul;
+2. pemupukan yang teratur;
+3. pengairan yang cukup;
+4. pemberantasan hama secara intensif;
+5. teknik penanaman yang lebih teratur.
+Untuk meningkatkan produksi pangan dan produksi pertanian umumnya dilakukan dengan empat usaha pokok, yaitu sebagai berikut.
+1. Intensifikasi pertanian : usaha meningkatkan produksi pertanian dengan menerapkan pancausaha tani.
+2. Ekstensifikasi pertanian : usaha meningkatkan produksi pertanian dengan membuka lahan baru termasuk usaha penangkapan ikan dan penanaman rumput untuk makanan ternak.
+3. Diversifikasi pertanian : usaha meningkatkan produksi pertanian dengan keanekaragaman usaha tani.
+4. Rehabilitasi pertanian : usaha meningkatkan produksi pertanian dengan pemulihan kemampuan daya produkstivitas sumber daya pertanian yang sudah kritis.
+Dampak negatif munculnya Revolusi Hijau bagi para petani Indonesia, antara lain sebagai berikut.
+1. Sistem bagi hasil mengalami perubahan. Sistem panen secara bersamasama pada masa sebelumnya mulai digeser oleh sistem upah. Pembeli memborong seluruh hasil dan biasanya menggunakan sedikit tenaga kerja. Akibatnya, kesempatan kerja di pedesaan menjadi berkurang.
+2. Pengaruh ekonomi uang di dalam berbagai hubungan sosial di daerah pedesaan makin kuat.
+3. Ketergantungan pada pupuk kimia dan zat kimia pembasmi hama juga berdampak pada tingginya biaya produksi yang harus ditanggung petani.
+4. Peningkatan produksi pangan tidak diikuti oleh pendapatan petani secara keseluruhan karena penggunaan teknologi modern hanya dirasakan oleh petani kaya. [ps]
+</field>
+</doc>
+</add>

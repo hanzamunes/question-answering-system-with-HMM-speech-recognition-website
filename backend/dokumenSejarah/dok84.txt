@@ -1,0 +1,26 @@
+<add>
+<doc>
+<field name="DOCID">http://www.materisma.com/2014/05/sejarah-kerajaan-malaka.html</field>
+<field name="TITLE">Sejarah Kerajaan Malaka</field>
+<field name="TEXT">
+Sejarah Kerajaan Malaka - Kerajaan Malaka sekarang termasuk wilayah negara Malaysia, tetapi karena Malaka memainkan peranan penting dalam pertumbuhan kerajaan-kerajaan Islam di Indonesia maka kerajaan Malaka perlu dibahas dalam sejarah Islam di Indonesia.
+
+Pertumbuhan Kerajaan Malaka dipengaruhi oleh ramainya perdagangan internasional Samudera Hindia. Pelabuhan Malaka sebelumnya tidak memiliki kekuasaan politik, kecuali sebagai tempat persinggahan para pedagang dari berbagai bangsa, terutama pedagang yang beragama Islam.
+
+Tidak diketahui dengan pasti bagaimana awal berdirinya Kerajaan Malaka ini. Menurut beberapa versi, kerajaan ini didirikan oleh seorang pangeran dari Palembang bernama Parameswara yang lari ke Malaka ketika terjadi serangan dari Majapahit. Ia mendirikan kerajaan Malaka sekitar tahun 1400.
+
+Pada mulanya, Parameswara adalah seorang raja yang beragama Hindu. Setelah memeluk Islam, dia mengganti namanya dengan nama Islam, Muhammad Syah (1400-1414) . Raja pertama ini kemudian digantikan oleh Sultan Iskandar Syah (1414-1424). Selanjutnya raja-raja yang berkuasa di Malaka adalah Sultan Muzaffar Syah (1424-1444), Sultan Mansur Syah (1444-1477), dan Sultan Mahmud Syah (1477-1511).
+
+Kerajaan Malaka memiliki peran yang sangat besar di bidang perdagangan. Perdagangan menjadi sumber utama penghasilan Kerajaan Malaka. Terdapat beberapa ciri mengenai perdagangan di Malaka.
+
+1) Raja dan pejabat tinggi kerajaan terlibat dalam kegiatan dagang. Mereka memiliki kapal, nakhoda, dan awak kapal yang bekerja kepadanya. Selain itu, mereka juga menanamkan modalnya kepada perusahaan pelayaran.
+
+2) Pajak bea cukai yang dikenakan terhadap setiap barang dibedakan atas asal barang. Barang yang berasal dari Asia Barat, seperti India, Persia, Arab, dan lain-lain, dikenakan bea sebesar 6%. Sedangkan barang-barang dari Asia Timur, termasuk pedagang dari kepulauan Nusantara tidak dikenakan bea cukai, namun mereka harus memberikan upeti kepada raja dan para pembesar pelabuhan.
+
+3) Perdagangan dijalankan dalam dua jenis. Pertama, pedagang memasukkan modal dalam bentuk barang dagangan yang diangkut dengan kapal untuk dijual ke negeri lain. Kedua, pedagang menitipkan barang atau meminjamkan uang kepada nakhoda yang akan membagi keuntungannya dengan pedagang pemberi modal.
+
+4) Kerajaan mengeluarkan berbagai undang-undang yang mengatur perdagangan di Kerajaan Malaka, agar perdagangan berjalan lancar. Kerajaan ini mengalami keruntuhan setelah Malaka dikuasai oleh Portugis di bawah pimpinan Alfonso d’Albuquerque, pada tahun 1511. Dengan demikian, kekuasaan politik Kerajaan Malaka hanya berlangsung kurang lebih satu abad.
+
+</field>
+</doc>
+</add>

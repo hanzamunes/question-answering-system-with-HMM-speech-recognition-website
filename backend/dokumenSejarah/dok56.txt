@@ -1,0 +1,30 @@
+<add>
+<doc>
+<field name="DOCID">http://www.materisma.com/2014/01/sejarah-perlawanan-pangeran-diponegoro.html</field>
+<field name="TITLE">Sejarah Perlawanan Pangeran Diponegoro Terhadap Belanda (1825–1830)</field>
+<field name="TEXT">
+#Sejarah_Kelas_11 Sejarah Perlawanan Pangeran Diponegoro Terhadap Belanda (1825–1830) - Pengaruh Belanda di Surakarta dan Yogyakarta semakin bertambah kuat pada permulaan abad ke-19. Khususnya di Yogyakarta, campur tangan Belanda telah menimbulkan kekecewaan di kalangan kerabat keraton yang kemudian menimbulkan perlawanan di bawah pimpinan Pangeran Diponegoro. Sebab-sebab perlawanan Diponegoro, antara lain sebagai berikut.
+
+a. Adanya kekecewaan dan kebencian kerabat istana terhadap tindakan Belanda yang makin intensif mencampuri urusan keraton melalui Patih Danurejo (kaki tangan Belanda).
+b. Adanya kebencian rakyat pada umumnya dan para petani khususnya akibat tekanan pajak yang sangat memberatkan.
+c. Adanya kekecewaan di kalangan para bangsawan, karena hak-haknya banyak yang dikurangi.
+d. Sebagai sebab khususnya ialah adanya pembuatan jalan oleh Belanda melewati makam leluhur Pangeran Diponegoro di Tegalrejo.
+
+Pertempuran pertama meletus pada tanggal 20 Juli 1825 di Tegalrejo. Setelah pertempuran di Tegalrejo, Pangeran Diponegoro dan pasukannya menyingkir ke Dekso. Di daerah Plered, pasukan Diponegoro dipimpin oleh Kertapengalasan yang memiliki kemampuan yang cukup kuat.
+
+Kabar mengenai pecahnya perang melawan Belanda segera meluas ke berbagai daerah. Dengan dikumandangkannya perang sabil, di Surakarta oleh Kiai Mojo, di Kedu oleh Kiai Hasan Besari, dan di daerah-daerah lain maka pada pertempuran-pertempuran tahun 1825–1826 pasukan Belanda banyak terpukul dan terdesak.
+
+Melihat kenyatan ini, kemudian Belanda menggunakan usaha dan tipu daya untuk mematahkan perlawanan, antara lain sebagai berikut.
+
+a. Siasat benteng stelsel, yang dilakukan oleh Jenderal de Kock mulai tahun 1827.
+b. Siasat bujukan agar perlawanan menjadi reda.
+c. Siasat pemberian hadiah sebesar 20.000,- ringgit kepada siapa saja yang dapat menangkap Pangeran Diponegoro.
+d. Siasat tipu muslihat, yaitu ajakan berunding dengan Pangeran Diponegoro dan akhirnya ditangkap.
+
+Dengan berbagai tipu daya, akhirnya satu per satu pemimpin perlawanan tertangkap dan menyerah, antara lain Pangeran Suryamataram dan Ario Prangwadono (tertangkap 19 Januari 1827), Pangeran Serang, dan Notoprodjo (menyerah 21 Juni 1827, Pangeran Mangkubumi (menyerah 27 September 1829), dan Alibasah Sentot Prawirodirdjo (menyerah tanggal 24 Oktober 1829). Kesemuanya itu merupakan pukulan yang berat bagi Pangeran Diponegoro.
+
+Melihat situasi yang demikian, pihak Belanda ingin menyelesaikan perang secara cepat. Jenderal de Kock melakukan tipu muslihat dengan mengajak berunding Pangeran Diponegoro. De Kock berjanji apabila perundingan gagal maka Diponegoro diperbolehkan kembali ke pertahanan.  Atas dasar janji tersebut, Diponegoro mau berunding di rumah Residen Kedu, Magelang pada tanggal 28 Maret 1830. Namun, De Kock ingkar janji sehingga Pangeran Diponegoro ditangkap ketika perundingan mengalami kegagalan. Pangeran Diponegoro kemudian di bawa ke Batavia, di[indahkan ke Menado, dan pada tahun 1834 dipindahkan ke Makassar hingga wafatnya pada tanggal 8 Januari 1855.
+
+</field>
+</doc>
+</add>

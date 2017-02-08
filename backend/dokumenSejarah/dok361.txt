@@ -1,0 +1,15 @@
+<add>
+<doc>
+<field name="DOCID">http://www.pengertiansejarah.com/sistem-penguasaan-tanah-pajak-dan-tenaga-kerja-hindu-buddha.html</field>
+<field name="TITLE">Sistem Penguasaan Tanah, Pajak dan Tenaga Kerja Hindu-Buddha</field>
+<field name="TEXT">
+Sistem Penguasaan Tanah, Pajak dan Tenaga Kerja Hindu-Buddha – Pada kesempatan ini kita akan membahas 3 hal, yaitu sistem penguasaan tanah, sistem pajak dan tenaga kerja masyarakat Hindu-Buddha.
+1. Sistem penguasaan tanah
+Tanah dalam lingkungan sebuah kerajaan secara umum menjadi milik kerajaan. Namun, pengolahan atau pemanfaatan diserahkan kepada rakyat yang hidup dalam lingkup kerajaan tersebut. Hak pemanfaatan lahan ini disebut hak anggaduh, artinya rakyat hanya dipinjami tanah oleh raja. Tanah garapan itu dapat dipindahtangankan kepada rakyat lainnya dalam lingkup kerajaan yang sama dan hak anggaduh tersebut dapat digunakan secara turun temurun. Akan tetapi, jika sewaktu-waktu raja memintanya kembali, misalnya, untuk keperluan pendirian candi atau bangunan milik kerajaan atau suatu kepentingan umum lainnya, rakyat tidak dapat menolak.
+2. Sistem pajak
+Pengembangan dan jaminan kelangsungan suatu kerajaan tentu memerlukan biaya. Biaya ini diambil dari hasil perdagangan, pertanian, dan pungutan pajak kepada rakyat. Pajak dipungut oleh pejabat di tingkat daerah dari desa-desa yang ada di wilayahnya. Setiap habis panen, pajak tersebut wajib diserahkan pada kerajaan. Di tingkat pusat, ada petugas khusus yang bertugas mencatat luas tanah di wilayah kerajaan untuk dijadikan dasar perhitungan penetapan pajak yang wajib dipungut. Rakyat diwajibkan untuk membayar pajak tepat waktu.
+3. Tenaga kerja
+Tenaga kerja berasal dari rakyat. Dalam hal ini, rakyat merupakan abdinya yang harus menaati semua perintahnya. Hal ini dikarenakan pada masa itu, kekuasaan raja merupakan kekuasaan tertinggi dan mutlak sebab raja dianggap sebagai penjelmaan dewa di bumi dan memerintah atas nama dewa. Oleh karena itu, rakyat dituntut untuk bersikap setia kepada raja.
+</field>
+</doc>
+</add>

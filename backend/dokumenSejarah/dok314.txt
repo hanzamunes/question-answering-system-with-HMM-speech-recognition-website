@@ -1,0 +1,30 @@
+<add>
+<doc>
+<field name="DOCID">http://www.pengertiansejarah.com/sejarah-bentuk-organisasi-gerakan-non-blok.html</field>
+<field name="TITLE">Sejarah Bentuk Organisasi Gerakan Non Blok</field>
+<field name="TEXT">
+Sejarah Bentuk Organisasi Gerakan Non Blok – Di dalam Gerakan Non Blok tidak terdapat struktur organisasi yang mengurus kegiatan di berbagai bidang karena Gerakan Non Blok bukan merupakan lembaga. Gerakan Non Blok mengandalkan perjuangan pada kekuatan moral. Satu-satunya pengurus dalam Gerakan Non Blok adalah ketua. Ketua Gerakan Non Blok dijabat oleh kepala pemerintahan negara yang menjadi tuan rumah Konferensi Tingkat Tinggi (KTT) Gerakan Non Blok. KTT Gerakan Non Blok dihadiri oleh para kepala pemerintahan dan kepala negara anggota Gerakan Non Blok.
+Kegiatan Gerakan Non Blok meliputi bidang berikut ini.
+Kegiatan yang dilakukan Gerakan Non Blok dalam bidang politik dan perdamaian dunia, antara lain ikut berusaha:
+1. meredakan ketegangan dunia;
+2. mengusahakan terciptanya perdamaian dunia;
+3. mengusahakan terwujudnya hubungan antarbangsa secara demokratis;
+4. mengusahakan pelucutan senjata dan pengurangan senjata nuklir;
+5. menghapus pangkalan militer asing dan pakta-pakta militer;
+6. melenyapkan kolonialisme;
+7. menyelesaikan sengketa antarnegara dan perang-perang lokal, separti Perang Irak-Iran, masalah di wilayah Timur Tegah (Midle East);
+8. menghapus persekutuan militer;
+9. menentang rasialisme dan apartheid.
+Kegiatan-kegiatan tersebut diselenggarkan melalui forum PBB, konferensikonferensi internasional dan pendekatan langsung dengan negara-negara yang terlibat.
+Kegiatan yang dilakukan Gerakan Non Blok dalam bidang ekonomi, antara lain:
+1. ikut berusaha memperjuangkan kemerdekaan atau kebebasan dalam bidang ekonomi dan kerja sama atas dasar persamaan derajat;
+2. ikut berusaha mewujudkan suatu tatanan ekonomi dunia baru (TEBD) sehingga terdapat hubungan kerja sama saling menguntungkan antara negara maju dan negara sedang berkembang. Pelaksanaan tata ekonomi dunia baru yang diperjuangkan Gerakan Non Blok dalam forum PBB adalah sebagai berikut.
+(1) Dialog Utara–Selatan
+Dialog Utara–Selatan adalah pertemuan yang membahas kerja sama saling menguntungkan antara kelompok negara maju yang merupakan negara industri (Utara) dan negara-negara berkembang (Selatan). Dengan adanya dialog Utara–Selatan diharapkan dapat menghilangkan kesenjangan antara negara maju dan berkembang sehingga terwujud tata ekonomi dunia baru yang adil dan merata.
+(2) Kerja Sama Selatan–Selatan
+Kerja sama Selatan–Selatan merupakan bentuk kerja sama antarnegara berkembang dalam bidang ekonomi dan teknologi.
+(3) Kelompok 77
+Kelompok 77 merupakan kelompok negara berkembang yang berjuang untuk memperoleh keadilan ekonomi atas negara-negara maju. Kelompok 77 dibentuk di Jenewa, Swiss pada tahun 1964. Kelompok 77 beranggotakan negara di kawasan Asia, Amerika Latin dan Karibia, serta Afrika.
+</field>
+</doc>
+</add>

@@ -1,0 +1,29 @@
+<add>
+<doc>
+<field name="DOCID">http://www.gurusejarah.com/2015/01/perkembangan-industri-pertanian-dan.html</field>
+<field name="TITLE">Perkembangan Industri Pertanian dan Nonpertanian serta Pengaruhnya terhadap Perekonomian Indonesia</field>
+<field name="TEXT">
+Perkembangan Industri Pertanian dan Nonpertanian serta Pengaruhnya terhadap Perekonomian Indonesia - James Watt berhasil mengadakan perbaikan penemuan Mesin Uap tahun 1765 yang sebelumnya ditemukan oleh New Comen. Inovasi ini menjadi dasar dari turbin (mesin penggerak dalam industri berat). Sehingga James Watt dikenal sebagai Bapak Revolusi, sebab penemuannya (mesin uap) menjadi tenaga penggerak mesin industri dan menjadi salah satu pendorong terjadinya revolusi industri. Pada abad ke–18, revolusi industri membawa kemajuan ekonomi di Eropa, AS, dan negara berkembang. Kebijaksanaan dalam pembangunan industry antara lain sebagai berikut.
+Untuk meningkatkan pendapatan per kapita.
+Menciptakan lapangan kerja baru.
+Pemerataan kesempatan berusaha.
+Meningkatkan nilai tambah bahan mentah dan bahan baku.
+Meningkatkan produktivitas.
+Meningkatkan ekspor.
+Menghemat devisa.
+Untuk melaksanakan kebijaksanaan dalam pembangunan, langkah-langkah yang ditempuh adalah sebagai berikut.
+Mengembangkan industri kecil dan industri rumah tangga dalam upaya menambah pendapatan dan penciptaan lapangan kerja.
+Mengembangkan industri pengolahan hasil pertanian, perkebunan, peternakan, perikanan, dan kehutanan dalam rangka memanfaatkan seoptimal mungkin sumber daya nasional.
+Mengembangkan industri yang berorientasi ekspor sebagai penggerak utama untuk mempercepat laju pertumbuhan industri dan ekonomi.
+Meningkatkan kemampuan pengusaha teknologi termasuk pengembangan inovasi dalam proses produksi teknologi serta penguasaan teknologi rancang bangun.
+Mengembangkan kewirausahaan dan profesionalisme tenaga industri, baik secara kuantitas maupun kualitas.
+Pembangunan industri di Indonesia ditopang oleh beberapa faktor antara lain sebagai berikut.
+Cadangan bahan mentah yang melimpah meliputi hasil pertanian, perkebunan, peternakan, perikanan, kehutanan, kelautan.
+Jumlah penduduk yang besar sebagai tenaga kerja dan pemasaran hasil industri.
+Letak Indonesia sangat strategis pada posisi silang dunia.
+Berkembangnya ahli-ahli iptek.
+Pada Pelita VI dalam PJPT II, prioritas diletakkan pada penataan industry nasional, iptek menuju masyarakat industri serta pembangunan SDM.
+Baca Juga:
+</field>
+</doc>
+</add>

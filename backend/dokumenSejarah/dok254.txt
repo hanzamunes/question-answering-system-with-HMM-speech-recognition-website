@@ -1,0 +1,10 @@
+<add>
+<doc>
+<field name="DOCID">http://www.gurusejarah.com/2015/01/f-wuz.html</field>
+<field name="TITLE">F. Wuz Tokoh Pembaca Berita Proklamasi di Radio</field>
+<field name="TEXT">
+F. Wuz Tokoh Pembaca Berita Proklamasi di Radio - F. Wuz bersama Yusuf Ronodipuro adalah perintis siaran RRI, F. Wuz adalah tokoh yang membacakan berita Proklamasi di Radio.  Setelah Ir. Soekarno membacakan teks proklamasi, pada hari itu juga teks proklamasi telah sampai di tangan Kepala Bagian Radio dari Kantor Domei, Waidan B. Palenewen. Ia menerima teks proklamasi dari seorang wartawan Domei yang bernama Syahruddin. Kemudian ia memerintahkan F. Wuz (seorang markonis), supaya berita proklamasi disiarkan tiga kali berturut-turut. 
+Baru dua kali F. Wuz melaksanakan tugasnya, masuklah orang Jepang ke ruangan radio sambil marah-marah, sebab mengetahui berita proklamasi telah tersiar ke luar melalui udara. Akibat dari penyiaran tersebut, pimpinan tentara Jepang di Jawa memerintahkan untuk meralat berita dan menyatakan sebagai kekeliruan. Pada tanggal 20 Agustus 1945 pemancar tersebut disegel oleh Jepang dan para pegawainya dilarang masuk. Sekalipun pemancar pada kantor Domei disegel, para pemuda bersama Jusuf Ronodipuro (seorang  pembaca berita di Radio Domei) ternyata membuat pemancar baru dengan bantuan teknisi radio, di antaranya Sukarman, Sutamto, Susilahardja, dan  Suhandar. Mereka mendirikan pemancar baru di Menteng 31 (disahkan menjadi RRI pada tanggal 18 Agustus), dengan kode panggilan DJK 1. Dari sinilah selanjutnya berita proklamasi kemerdekaan disiarkan.[gs]
+</field>
+</doc>
+</add>

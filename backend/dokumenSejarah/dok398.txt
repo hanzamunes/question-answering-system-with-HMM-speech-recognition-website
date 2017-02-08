@@ -1,0 +1,35 @@
+<add>
+<doc>
+<field name="DOCID">https://fatihsaputro.wordpress.com/kumpulan-materi-pembelajaran-sejarah-di-sma/materi-sejarah-kelas-12-ips-semester-1-bab-5/</field>
+<field name="TITLE">PERKEMBANGAN PEMERINTAHAN ORDE BARU</field>
+<field name="TEXT">
+MASA ORDE BARU
+Secara resmi presiden Soekarno mengakhiri kekuasaan dan menyerahkan kepada Letjen Soeharto pada tanggal 20 Februari 1967 yang dikukuhkan dalam Sidang Istimewa MPRS dengan ketetapan MPRS No. XXXIII/MPRS/1967. sehingga secara resmi Indonesia memasuki masa pemerintahan Orde Baru.
+
+Soekarno-Soeharo
+Hakikat Orde Baru
+Tatanan kehidupan bermasyarakat, berbangsa dan bernegara yang diletakkan pada pelaksanaan Pancasila dan UUD 1945 secara murni dan konsekuen.
+Landasan Orde Baru :
+1. Landasan Ideal : Pancasila
+2. Landasan Konstitusional : UUD 1945
+3. Landasan Operasional : TAP MPRS/MPR
+Beberapa ketetapan MPRS pada masa Orde Baru :
+• TAP MPRS No. IV/MPRS/1966 dan TAP MPRS No. IX/MPRS/1966 tentang pengukuhan tindakan pengemban Supersemar yang membubarkan PKI beserta organisasi massanya.
+• TAP MPRS No. XXV/MPRS/1966 tentang pelarangan faham dan ajaran Komunisme/Marxieme-Leninisme di Indonesia
+• TAP MPRS No. XX/MPRS/1966 tentang pelurusan kembali tertib konstitusional berdasarkan Pancasila dan tertib hukum
+Pembangunan nasional selalu berpatokan pada Trilogi Pembangunan yaitu :
+v Pemerataan pembangunan dan hasil-hasilnya yang menuju pada terciptanya keadilan sosial bagi seluruh rakyat
+v Pertumbuhan ekonomi yang cukup tinggi
+v Stabilitas nasional yang sehat dan dinamis
+Yang diterapkan dalam Delapan Jalur Pemerataan yaitu :
+1. Pemerataan pemenuhan kebutuhan pokok rakyat, terutama sandang, pangan dan perumahan
+2. Pemerataan kesempatan memperoleh pendidikan dan pelayanan kesehatan
+3. Pemerataan pembagian pendapatan
+4. Pemerataan kesempatan kerja
+5. Pemerataan kesempatan berusaha
+6. Pemerataan kesempatan berpartisipasi dalam pembangunan khususunya bagi generasi muda dan kaum wanita
+7. Pemerataan penyebaran pembangunan di seluruh wilayah tanah air
+8. Pemerataan kesempatan memperoleh keadilan
+</field>
+</doc>
+</add>

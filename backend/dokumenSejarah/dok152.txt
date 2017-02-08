@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="DOCID">http://www.gurusejarah.com/2015/01/penguasaan-kepulauan-di-indonesia-oleh.html</field>
+<field name="TITLE">Penguasaan Kepulauan di Indonesia Oleh Jepang</field>
+<field name="TEXT">
+Penguasaan Kepulauan di Indonesia Oleh Jepang Sejak pengeboman Pearl Harbour oleh angkatan udara Jepang pada 8 Desember 1941, serangan terus dilancarkan ke angkatan laut Amerika Serikat di Pasifik dan juga diarahkan ke Indonesia. Serangan terhadap Indonesia tersebut bertujuan untuk mendapatkan cadangan logistik dan bahan industri perang, seperti minyak tanah, timah, dan aluminium.
+Pada Januari 1942, Jepang mendarat di Indonesia melalui Ambon dan seluruh Maluku. Jepang berhasil mengusai Tarakan di Kalimantan Timur dan Balikpapan (12 Januari 1942), kemudian menyerang Sumatera dan Jawa (Februari 1942). Pada tanggal 1 Maret 1942, kemenangan tentara Jepang dalam Perang Pasifik menunjukkan kemampuan Jepang dalam mengontrol wilayah yang sangat luas, yaitu dari Burma sampai Pulau Wake. 
+Untuk menghadapi gerak invasi tentara Jepang, Belanda membentuk Komando Gabungan Tentara Serikat yang disebut ABDACOM (American British Dutch Australian Command) yang bermarkas di Lembang dan panglimanya bernama Jenderal Sir Archhibald. Jenderal Imamura dan pasukannya mendarat di Jawa pada tanggal 1 Maret 1942. Pendaratan itu dilaksanakan di tiga tempat, yakni di Banten, Eretan Wetan-Indramayu, dan di sekitar Bojonegoro  Pasukan Jepang dengan cepat menyerbu pusat-pusat kekuatan tentara Belanda di Jawa. Tanggal 5 Maret 1942 Batavia jatuh ke tangan Jepang. Akhirnya pada tanggal 8 Maret 1942 Jenderal Ter Poorten atas nama komandan pasukan Belanda/Sekutu menandatangani penyerahan tidak bersyarat kepada Jepang yang diwakili Jenderal Imamura. Penandatanganan ini dilaksanakan di Kalijati, Subang.  Dengan demikian berakhirlah penjajahan Belanda di Indonesia. Kemudian Indonesia berada di bawah pendudukan tentara Jepang.
+Namun Belanda segera mendirikan pemerintahan pelarian (exile government) di Australia di bawah pimpinan H.J. Van Mook. Perlu dipahami bahwa “rentetan kemenangan yang dicapai tentara Jepang sejak melancarkan Perang Pasifik membuka pintu bagi mereka untuk menduduki tanah Hindia Belanda”. Kedatangan “saudara tua”, sebagaimana Jepang menyebut dirinya, mula-mula disambut dengan penuh harapan, tetapi kemudian mengecewakan rakyat. Walaupun demikian, pendudukan Jepang membuka sejarah baru bagi Indonesia”.[gs]
+</field>
+</doc>
+</add>

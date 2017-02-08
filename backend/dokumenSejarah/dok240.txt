@@ -1,0 +1,11 @@
+<add>
+<doc>
+<field name="DOCID">http://www.gurusejarah.com/2015/01/burhanuddin-mohammad-diah.html</field>
+<field name="TITLE">BM Diah Tokoh Penyiaran Berita Proklamasi</field>
+<field name="TEXT">
+BM Diah Tokoh Penyiaran Berita Proklamasi Burhanuddin Mohammad Diah atau BM Diah yang lahir di Banda Aceh 7 April 1917 adalah seorang tokoh pers, pejuang kemerdekaan, diplomat dan pengusaha Indonesia. Nama asli B.M. Diah yang sesungguhnya hanyalah Burhanuddin. Nama ayahnya adalah Mohammad Diah, yang berasal dari Barus Sumatara Utara. Ayahnya adalah seorang pegawai pabean di Aceh Barat yang kemudian menjadi penerjemah. Burhanuddin kemudian menambahkan nama ayahnya kepada namanya sendiri.
+Mohammad Diah adalah seorang yang terpandang dan kaya di lingkungannya. Namun hidupnya boros, sehingga ketika ia lahir Burhanuddin tidak dapat menikmati kekayaan ayahnya. Ditambah lagi karena seminggu setelah kelahirannya, ayahnya meninggal dunia. Ibunya kemudian mengambil alih tanggung jawab memelihara keluarganya. Untuk itu ia terjun ke dunia usaha berjualan emas, intan, dan pakaian. Namun delapan tahun kemudian Siti Sa'idah pun berpulang, sehingga Burhanuddin diasuh oleh kakak perempuannya, Siti Hafsyah. Burhanuddin belajar di HIS, kemudian melanjutkan ke Taman Siswa di Medan. Keputusan ini diambilnya karena ia tidak mau belajar di bawah asuhan guru-guru Belanda.
+Pada 1 Oktober 1945, B.M. Diah mendirikan Harian Merdeka. Diah menjadi pemimpin redaksi, Joesoef Isak menjadi wakilnya, dan Rosihan Anwar menjadi redaktur. Diah memimpin surat kabar ini hingga akhir hayatnya, meskipun belakangan ia lebih banyak menangani PT Masa Merdeka, penerbit Harian "Merdeka". Pada April 1945, bersama istrinya Herawati, Diah mendirikan koran berbahasa Inggris, Indonesian Observer. Ia dinilai sebagai penulis editorial yang baik, seorang nasional pro-Soekarno menentang militerisme. Ia pernah bertolak pandangan dengan pihak militer setelah Peristiwa 17 Oktober, sehingga ia terpaksa berpindah-pindah tempat untuk menghindari kejaran petugas-petugas militer. Ketika pemerintahan Orde Baru, Diah memutuskan untuk mengubah sebutan "Tionghoa" menjadi "Cina" , "Republik Rakyat Tiongkok" menjadi "Republik Rakyat Cina" dan dikenal sebagai satu-satunya pers yang gigih tetap mempertahankan istilah "Tionghoa" dan "Tiongkok".[gs]
+</field>
+</doc>
+</add>

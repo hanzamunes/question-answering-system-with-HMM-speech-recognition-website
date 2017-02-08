@@ -1,0 +1,17 @@
+<add>
+<doc>
+<field name="DOCID">http://www.gurusejarah.com/2015/03/komisi-tiga-negara-sebagai-mediator.html</field>
+<field name="TITLE">Komisi tiga Negara sebagai mediator yang berharga</field>
+<field name="TEXT">
+Komisi tiga Negara sebagai mediator yang berharga - KTN merupakan sebuahkomite yang dibentik oleh Dewan Keamanan PBB yg bakal menjadi penengah konflik antara Indonesia serta Belanda. Komite ini di kenal sebagai Committee of Good Offices for Indonesia (Komite Jasa Baik Untuk Indonesia), Komisi Tiga Negara (KTN), disebut begitu sebab beranggotakan tiga negara, yaitu
+Australia yang dipilih oleh Indonesia diwakili oleh Richard C. Kirby
+Belgia yang dipilih oleh Belanda diwakili oleh Paul van Zeeland
+Amerika Serikat sebagai pihak yang netral menunjuk Dr. Frank Graham.
+Tugas KTN                                                
+Menguasai dengan cara langsung penghentian tembak menembak sesuai dengan resolusi PBB
+Menjadi penengah konflik antara Indonesia serta Belanda.
+Memasang patok-patok wilayah status quo yang dibantu oleh TNI
+Mempertemukan kembali Indonesia serta Belanda dalam Perundingan Renville. Tetapi, Perundingan Renville ini mengdampakkan wilayah RI makin sempit.[gs]
+</field>
+</doc>
+</add>

@@ -1,0 +1,44 @@
+<add>
+<doc>
+<field name="DOCID">http://sejarah-interaktif.blogspot.com/2011/12/kutai.html</field>
+<field name="TITLE">KERAJAAN KUTAI</field>
+<field name="TEXT">
+Kutai Martadipura adalah kerajaan tertua bercorak Hindu di Nusantara dan seluruh Asia Tenggara. Kerajaan ini terletak di Muara Kaman, Kalimantan Timur, tepatnya di hulu sungai Mahakam. Nama Kutai diambil dari nama tempat ditemukannya prasasti yang menggambarkan kerajaan tersebut. Nama Kutai diberikan oleh para ahli karena tidak ada prasasti yang secara jelas menyebutkan nama kerajaan ini. Karena memang sangat sedikit informasi yang dapat diperoleh akibat kurangnya sumber sejarah.
+ 
+
+ 
+
+
+
+ 
+Yupa
+ 
+Informasi yang ada diperoleh dari Yupa / Tugu dalam upacara pengorbanan yang berasal dari abad ke-4. Ada tujuh buah yupa yang menjadi sumber utama bagi para ahli dalam menginterpretasikan sejarah Kerajaan Kutai. Dari salah satu yupa tersebut diketahui bahwa raja yang memerintah kerajaan Kutai saat itu adalah Mulawarman. Namanya dicatat dalam yupa karena kedermawanannya menyedekahkan 1.000 ekor lembu kepada brahmana.
+ 
+
+ 
+
+Mulawarman
+ 
+Mulawarman adalah anak Aswawarman dan cucu Kudungga. Nama Mulawarman dan Aswawarman sangat kental dengan pengaruh bahasa Sanskerta bila dilihat dari cara penulisannya. Kudungga adalah pembesar dari Kerajaan Campa (Kamboja) yang datang ke Indonesia. Kudungga sendiri diduga belum menganut agama Budha.
+ 
+
+ 
+ 
+Aswawarman
+ 
+Aswawarman mungkin adalah raja pertama Kerajaan Kutai yang bercorak Hindu. Ia juga diketahui sebagai pendiri dinasti Kerajaan Kutai sehingga diberi gelar Wangsakerta, yang artinya pembentuk keluarga. Aswawarman memiliki 3 orang putera, dan salah satunya adalah Mulawarman.
+ 
+Putra Aswawarman adalah Mulawarman. Dari yupa diketahui bahwa pada masa pemerintahan Mulawarman, Kerajaan Kutai mengalami masa keemasan. Wilayah kekuasaannya meliputi hampir seluruh wilayah Kalimantan Timur. Rakyat Kutai hidup sejahtera dan makmur.
+ 
+Kerajaan Kutai seakan-akan tak tampak lagi oleh dunia luar karena kurangnya komunikasi dengan pihak asing, hingga sangat sedikit yang mendengar namanya.
+ 
+
+ 
+ 
+Berakhir
+ 
+Kerajaan Kutai berakhir saat Raja Kutai yang bernama Maharaja Dharma Setia tewas dalam peperangan di tangan Raja Kutai Kartanegara ke-13, Aji Pangeran Anum Panji Mendapa. Perlu diingat bahwa Kutai ini (Kutai Martadipura) berbeda dengan Kerajaan Kutai Kartanegara yang ibukotanya pertama kali berada di Kutai Lama (Tanjung Kute). Kutai Kartanegara inilah, di tahun 1365, yang disebutkan dalam sastra Jawa Negarakertagama. Kutai Kartanegara selanjutnya menjadi kerajaan Islam yang disebut Kesultanan Kutai Kartanegara.
+</field>
+</doc>
+</add>

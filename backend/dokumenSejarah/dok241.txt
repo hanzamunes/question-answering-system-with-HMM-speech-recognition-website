@@ -1,0 +1,9 @@
+<add>
+<doc>
+<field name="DOCID">http://www.gurusejarah.com/2015/01/latif-hendraningrat.html</field>
+<field name="TITLE">Latief Hendraningrat Pengibar Bendera Pusaka Sewaktu Proklamasi</field>
+<field name="TEXT">
+Latief Hendraningrat Pengibar Bendera Pusaka Sewaktu Proklamasi - lahir di Jakarta, 15 Februari 1911 – meninggal di Jakarta, 14 Maret 1983 pada umur 72 tahun) adalah seorang prajurit PETA berpangkat Sudanco pengerek bendera Sang Saka Merah Putih tanggal 17 Agustus 1945 di Jalan Pegangsaan Timur 56.  Beliau mengenyam pendidikan di Sekolah Tinggi Hukum. Saat menjadi mahasiswa itu ia sekaligus mengajar bahasa Inggris di beberapa sekolah menengah swasta, seperti yang dikelola oleh Muhammadiyah dan Perguruan Rakyat. Ia pernah dikirim oleh pemerintah Hindia Belanda ke World Fair) di New York, sebagai ketua rombongan tari. Dalam masa pendudukan Jepang ia giat dalam Pusat Latihan Pemuda (Seinen Kunrenshoo), kemudian menjadi anggota pasukan Pembela Tanah Air (Peta). Dalam masa setelah Proklamasi Kemerdekaan, beliau terlibat dalam berbagai pertempuran. Kemudian menjabat komandan Komando Kota ketika Belanda menyerbu Yogyakarta (1948). Setelah berhasil keluar dari Yogyakarta yang sudah terkepung, beliau melakukan gerilya. Setelah penyerahan kedaulatan, beliau mula-mula ditugaskan di Markas Besar Angkatan Darat, kemudian ditunjuk sebagai atase militer Rl untuk Filipina (1952), lalu dipindahkan ke Washington hingga tahun 1956. Sekembalinya di Indonesia beliau ditugaskan memimpin Sekolah Staf dan Komando Angkatan Darat (SSKAD, yang kini menjadi Seskoad). Jabatannya setelah itu antara lain rektor IKIP Negeri Jakarta (1964-1965). Pada tahun 1967 Hendraningrat memasuki masa pensiun dengan pangkat brigadir jenderal. Sejak itu beliau menjadi seorang wiraswastawan dan aktif di Yayasan Perguruan Rakyat, organisasi Indonesia Muda dan ASITA (Association of the Indonesian Tours and Travel Agencies).[gs]
+</field>
+</doc>
+</add>

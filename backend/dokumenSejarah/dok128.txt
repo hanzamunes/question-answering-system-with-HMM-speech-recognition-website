@@ -1,0 +1,30 @@
+<add>
+<doc>
+<field name="DOCID">http://www.materisma.com/2014/01/sejarah-perlawanan-kaum-paderi-terhadap.html</field>
+<field name="TITLE">Sejarah Perlawanan Kaum Paderi Terhadap Belanda (1821–1838)</field>
+<field name="TEXT">
+Sejarah Perlawanan Kaum Paderi Terhadap Belanda (1821–1838) - Perang Paderi melawan Belanda berlangsung 1821–1838, tetapi gerakan Paderi sendiri sudah ada sejak awal abad ke-19. Di lihat dari sasarannya, gerakan Paderi dapat dibagi menjadi dua periode.
+
+a. Periode 1803–1821 adalah masa perang Paderi melawan Adat dengan corak keagamaan.
+b. Periode 1821–1838 adalah masa perang Paderi melawan Belanda dengan corak keagamaan dan patriotisme.
+
+Sejak tahun 1821 saat kembalinya tiga orang haji dari Mekkah, yaitu Haji Miskin, Haji Sumanik dan Haji Piabang, gerakan Paderi melawan kaum Adat dimulai. Kaum Paderi berkeinginan memperbaiki masyarakat Minangkabau dengan mengembalikan kehidupannya yang sesuai dengan ajaran Islam yang sebenarnya. Padahal kaum Adat justru ingin melestarikan adat istiadat warisan leluhur mereka.
+
+Adat yang selama itu dianut dan yang menjadi sasaran gerakan Paderi adalah kebiasaan-kebiasaan buruk, seperti menyabung ayam, berjudi, madat, dan minum-minuman keras. Terjadilan perbenturan antara kaum Adat dengan kaum Paderi. Kaum Adat yang merasa terdesak, kemudian minta bantuan kepada pihak ketiga, yang semula Inggris kemudian digantikan oleh Belanda (berdasarkan Konvensi London).
+
+Perang Paderi melawan Belanda meletus ketika Belanda mengerahkan pasukannya menduduki Semawang pada tanggal 18 Februari 1821. Masa Perang Paderi melawan Belanda dapat dibagi menjadi tiga periode.
+
+a. Periode 1821–1825, ditandai dengan meletusnya perlawanan di seluruh daerah Minangkabau. Di bawah pimpinan Tuanku Pasaman, kaum Paderi menggempur pos-pos Belanda yang ada di Semawang, Sulit Air, Sipinan, dan tempat-tempat lain.  Pertempuran menimbulkan banyak korban di kedua belah pihak. Tuanku Pasaman kemudian mengundurkan diri ke daerah Lintau. Sebaliknya, Belanda yang telah berhasil menguasai Lembah Tanah Datar, kemudian mendirikan benteng pertahanan di Batusangkar (Fort Van den Capellen).
+b. Periode 1825–1830, ditandai dengan meredanya pertempuran. Kaum Paderi perlu menyusun kekuatan, sedangkan pihak Belanda baru memusatkan perhatiannya menghadapi perlawanan Diponegoro di Jawa.
+c. Periode 1830–1838, ditandai dengan perlawanan di kedua belah yang makin menghebat. Pemimpin di pihak Belanda, antara lain Letkol A.F. Raaff, Kolonel de Stuer, Mac. Gillavry dan Elout, sedangkan di pihak Paderi ialah Tuanku Imam Bonjol, Tuanku Nan Renceh, Tuanku nan Gapuk, Tuanku Hitam, Tuanku Nan Cerdik dan Tuanku Tambusi. Pada tahun 1833, Belanda mengeluarkan Pelakat Panjang yang isinya, antara lain sebagai berikut.
+
+a. Penduduk dibebaskan dari pembayaran pajak yang berat dan kerja rodi.
+b. Belanda akan bertindak sebagai penengah jika terjadi perselisihan antarpenduduk.
+c. Penduduk boleh mengatur pemerintahan sendiri.
+d. Hubungan dagang hanya diperbolehkan dengan Belanda.
+
+Belanda menjalankan siasat pengepungan mulai masuk tahun 1837 terhadap Benteng Bonjol. Akhirnya, Benteng Bonjol berhasil dilumpuhkan oleh Belanda. Selanjutnya, Belanda mengajak berunding kaum Paderi yang berujung pada penangkapan Tuanku Imam Bonjol (25 Oktober 1837).  Setelah ditahan, Tuanku Imam Bonjol dibuang ke Cianjur, dipindahkan ke Ambon (1839), dan tahun 1841 dipindahkan ke Manado hingga wafat tanggal 6 November 1864.Perlawanan kaum Paderi kemudian dilanjutkan oleh Tuanku Tambusai. Setelah Imam Bonjol tertangkap, akhirnya seluruh Sumatra Barat jatuh ke tangan Belanda. Itu berarti seluruh perlawanan dari kaum Paderi berhasil dipatahkan oleh Belanda.
+
+</field>
+</doc>
+</add>

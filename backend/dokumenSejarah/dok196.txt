@@ -1,0 +1,41 @@
+<add>
+<doc>
+<field name="DOCID">http://www.gurusejarah.com/2015/01/perkembangan-sistem-informasi.html</field>
+<field name="TITLE">Perkembangan Sistem Informasi, Komunikasi, dan Transportasi serta Dampaknya dalam Kehidupan Bermasyarakat, Berbangsa, dan Bernegara</field>
+<field name="TEXT">
+Perkembangan Sistem Informasi, Komunikasi, dan Transportasi serta Dampaknya dalam Kehidupan Bermasyarakat, Berbangsa, dan Bernegara
+Pengertian Informasi dan Komunikasi serta Transportasi
+Menurut Kamus Besar Bahasa Indonesia, sistem berarti perangkat unsure yang secara teratur saling berkaitan sehingga membentuk suatu totalitas. Informasi adalah data yang telah diperoleh, sehingga mempunyai arti dan nilai. Menurut Kamus Besar Bahasa Indonesia, informasi berarti penerangan, keterangan, pemberitahuan, kabar atau berita. Menurut Alfin Toffler (Seorang Futurolog AS), informasi adalah fakta, laporan, perkembangan, perasaanperasaan, membuat kecenderungan-kecenderungan yang dapat memengaruhi keputusan/pembentukan masyarakat/dunia. Pengertian komunikasi adalah membagi informasi, memberitahu, memindahkan atau bentukan pikiran baik secara lisan maupun tulisan. Definisi lain menyebutkan komunikasi adalah suatu transformasi informasi antarorang atau kelompok atau lembaga dalam bentuk penyebaran berita melalui lisan, tulisan, suara, gambar maupun lambang tertentu. Komunikasi massa adalah penyebaran informasi atau komunikasi yang membawa pesan untuk orang banyak, Misalnya koran, televisi, majalah, radio sebagai pemberi informasi (sender) dan masyarakat sebagai penerima informasi (receiver). Pengertian transportasi adalah pengangkutan barang (benda) atau sebagai jenis kendaraan sesuai dengan kemajuan teknologi.
+Sejarah Satelit di Indonesia
+Sejarah Radio diIndonesia
+Sejarah Televisi di Indonesia
+Sarana Perhubungan
+Penggunaan roda diperkenalkan pertama oleh bangsa Hyksos tahun 1675 SM. Penemuan mesin uap oleh James Watt 1769 membawa perubahan besar karena transportasi (kapal, lokomotif, mobil) dijalankan dengan mesin uap. Dengan berkembangnya sektor perhubungan/transportasi berperan untuk:
+meningkatkan produksi dan jasa;
+meningkatkan arus wisata;
+memperlancar arus informasi;
+memperlancar arus barang dan manusia;
+Sarana perhubungan meliputi darat, laut, dan udara;
+Perhubungan Darat
+ Sarana perhubungan darat paling banyak diminati karena relatif murah, cepat, mudah dijangkau. Untuk meningkatkan sarana transportasi upaya yang ditempuh pemerintah, antara lain sebagai
+berikut.
+Pemeliharaan rehabilitasi jalan raya yang sudah ada.
+Membangun jalan tol dan jalan layang, ringroad.
+Pembangunan jalan kereta api.
+Rehabilitasi infrastruktur dan penyediaan tambahan perlengkapan operasional jalan KA.
+Pengadaan kereta api lebih modern, Argo Bromo, dan Argo Gede.
+Perhubungan Laut
+Upaya pemerintah dalam meningkatkan sarana transportasi laut adalah:
+Merehabilitasi dan meningkatkan kapasitas infrastruktur yang ada.
+Pengadaan kapal Feri dan kapal pengangkut barang.
+Perbaikan pelabuhan laut, terminal peti kemas, dan dermaga-dermaga.
+Meluncurkan kapal cepat Palindo Jaya 500 tahun 1995.
+Mendirikan PT PAL di Surabaya sebagai pusat pengembangan industry maritim Indonesia.
+Tujuan pembangunan perhubungan laut:
+Mempercepat lalu lintas antarpulau.
+Meningkatkan perdagangan domestik dan internasional.
+Perhubungan Udara
+Perkembangan transportasi udara ditandai dengan semakin mudah dan cepatnya transportasi antarprovinsi, antarpulau, dan antarnegara. Dengan adanya maskapai penerbangan perintis, yaitu Merpati Nusantara, Mandala, Bouroq, Sempati, dan PT Industri Pesawat Terbang Nurtania berubah menjadi IPTN (Industri Pesawat Terbang Nusantara) yang sekarang dikenal dengan pesawat NC-212, Helikopter NBO 105, CN 235 (Tetuko), N-250 (Gathotkaca), serta produksi komponen pesawat F-16, Boeing 747, dan Boeing 737. Perkembangan informasi, komunikasi, dan transportasi dapat meningkatkan arus informasi, memperpendek jarak antarpulau, maupun antarnegara.[gs]
+</field>
+</doc>
+</add>

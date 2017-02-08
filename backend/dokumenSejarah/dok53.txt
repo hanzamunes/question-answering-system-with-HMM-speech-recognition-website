@@ -1,0 +1,20 @@
+<add>
+<doc>
+<field name="DOCID">http://www.materisma.com/2014/01/sejarah-perlawanan-di-bali-terhadap.html</field>
+<field name="TITLE">Sejarah Perlawanan Rakyat Bali Terhadap Belanda (1846–1905)</field>
+<field name="TEXT">
+Sejarah Perlawanan Rakyat Bali Terhadap Belanda (1846–1905) - Di Bali timbulnya perlawanan rakyat melawan Belanda, setelah Belanda berulang kali memaksakan kehendaknya untuk menghapuskan hak tawan karang. Hak tawan karang yakni hak bagi kerajaan-kerajaan Bali untuk merampas perahu yang terdampar di pantai wilayah kekuasaan kerajaan yang bersangkutan.
+
+Telah berulang kali kapal Belanda hendak dirampas, namun Belanda memprotes dan mengadakan perjanjian sehingga terbebas. Raja-raja Bali yang pernah diajak berunding ialah Raja Klungklung dan Raja Badung (1841); Raja Buleleng dan Raja Karangasem (1843). Akan tetapi, kesemuanya tidak diindahkan sehingga Belanda memutuskan untuk menggunakan kekerasan dalam usaha menundukkan Bali.
+
+Dalam menghadapi perlawanan rakyat Bali, pihak Belanda terpaksa mengerahkan ekspedisi militer secara besar-besaran sebanyak tiga kali. Ekspedisi pertama (1846) dengan kekuatan 1.700 orang pasukan dan gagal dalam usaha menundukkan rakyat Bali.  Ekspedisi kedua (1848) dengan kekuatan yang lebih besar dari yang pertama dan disambut dengan perlawanan oleh I Gusti Ktut Jelantik, yang telah mempersiapkan pasukannya di Benteng Jagaraga sehingga dikenal dengan Perang Jagaraga I. Ekspedisi Belanda ini pun juga berhasil digagalkan.
+
+Kekalahan ekspedisi Belanda baik yang pertama maupun yang kedua, menyebabkan pemerintah Hindia Belanda mengirimkan ekspedisi ketiga (1849) dengan kekuatan yang lebih besar lagi yakni 4.177 orang pasukan, kemudian menimbulkan Perang Jagaraga II. Perang berlangsung selama dua hari dua malam (tanggal 15 dan 16 April 1849) dan menunjukkan semangat perjuangan rakyat Bali yang heroik dalam mengusir penjajahan Belanda. 
+
+Dalam pertempuran ini, pihak Belanda mengerahkan pasukan darat dan laut yang terbagi dalam tiga kolone. Kolone 1 di bawah pimpinan Van Swieten; kolone 2 dipercayakan kepada La Bron de Vexela, dan kolone 3 dipimpin oleh Poland. Setelah terjadi pertempuran sengit, akhirnya Benteng Jagaraga jatuh ke tangan Belanda. Prajurit Bali dan para pemimpin mereka termasuk I Gusti Jelantik, berhasil meloloskan diri.
+
+Perlawanan rakyat Bali tidaklah padam. Pada tahun 1858, I Nyoman Gempol mengangkat senjata melawan Belanda, namun berhasil dipukul mundur. Selanjutnya, tahun 1868 terjadi lagi perlawanan di bawah pimpinan Ida Made Rai, ini pun juga mengalami kegagalan. Perlawanan masih terus berlanjut dan baru pada awal abad ke-20 (1905), seluruh Bali berada di bawah kekuasaan Belanda.
+
+</field>
+</doc>
+</add>

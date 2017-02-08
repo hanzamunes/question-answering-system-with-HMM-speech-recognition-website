@@ -1,0 +1,35 @@
+<add>
+<doc>
+<field name="DOCID">http://www.gurusejarah.com/2013/06/sejarah-gerakan-non-blok.html</field>
+<field name="TITLE">Sejarah Gerakan Non Blok</field>
+<field name="TEXT">
+Sejarah Gerakan Non Blok Perang Dunia II (1939–1945) telah menimbulkan berbagai akibat yang mengerikan bagi umat manusia. Selain jutaan manusia mati, terjadi pula kehancuran berbagai bangunan, sarana produksi, sarana transportasi, terjadi krisis ekonomi, dan penyebaran wabah penyakit. Peta politik dunia pun ikut berubah. Dua kekuatan adidaya telah lahir yang menyebabkan terjadinya pertentangan di antara keduanya.
+Gerakan Non Blok (GNB) atau Non Alignment(NAM) merupakan gerakan yang tidak memihak/netral terhadap Blok Barat dan Blok Timur.
+Di sela-sela puing kehancuran akibat Perang Dunia II, muncullah dua negara adidaya yang saling berhadapan. Mereka berebut pengaruh terhadap negara-negara yang sedang berkembang agar menjadi sekutunya. Dua negara adidaya itu ialah Amerika Serikat dan Uni Soviet. Persaingan kekuatan di antara dua blok itu mengakibatkan terjadinya Perang Dingin (the Cold War).Mereka saling berhadapan, bersaing, dan saling memperkuat sistem persenjataan. 
+Setiap kelompok telah mengarahkan kekuatan bomnya ke negara lawan. Akibatnya, situasi dunia tercekam oleh ketakutan akan meletusnya Perang Dunia III atau Perang Nuklir yang jauh lebih mengerikan dibandingkan Perang Dunia I dan Perang Dunia II. Menghadapi situasi dunia yang penuh konflik tersebut, Indonesia menentukan sistem politik luar negeri bebas aktif. Prinsip kebijak-sanaan politik luar negeri Indonesia tersebut ternyata juga sesuai dengan sikap negara-negara sedang berkembang lainnya. Oleh karena itu, mereka sepakat untuk membentuk suatu kelompok baru yang netral, tidak memihak Blok Barat ataupun Blok Timur. Kelompok inilah yang nantinya disebut kelompok negara-negara Non Blok. Dengan demikian faktor-faktor yang melatarbelakangi berdirinya Gerakan Non Blok adalah sebagai berikut.
+Munculnya dua blok, yaitu Blok Barat di bawah Amerika Serikat dan Blok Timur di bawah Uni Soviet yang saling memperebutkan pengaruh di dunia.
+Adanya kecemasan negara-negara yang baru merdeka dan negara-negara berkembang, sehingga berupaya meredakan ketegangan dunia.
+Ditandatanganinya “Dokumen Brioni” tahun 1956 oleh Presiden Joseph Broz Tito (Yugoslavia), PM Jawaharlal Nehru (India), Presiden Gamal Abdul Nasser (Mesir), bertujuan mempersatukan negara-negara non blok.
+Terjadinya krisis Kuba 1961 karena US membangun pangkalan militer di Kuba secara besar-besaran, sehingga mengkhawatirkan AS.
+Pertemuan 5 orang negarawan pada sidang umum PBB di markas besar PBB, yaitu: Presiden Soekarno (Indonesia), PM Jawaharlal Nehru (India), Presiden Gamal Abdul Nasser (Mesir), Presiden Joseph Broz Tito (Yugoslavia), dan Presiden Kwame Nkrumah (Ghana).
+Berdirinya Gerakan Non Blok (Non Aligned Movement)diprakarsai oleh para pemimpin negara dari Indonesia (Presiden Soekarno), Republik Persatuan Arab–Mesir (Presiden Gamal Abdul Nasser), India (Perdana Menteri Pandith Jawaharlal Nehru), Yugoslavia (Presiden Joseph Broz Tito), dan Ghana (Presiden Kwame Nkrumah).
+Tujuan Gerakan Non Blok
+Gerakan Non Blok mempunyai tujuan, antara lain:
+meredakan ketegangan dunia sebagai akibat pertentangan dua blok adidaya yang bersengketa;
+mengusahakan terciptanya suasana dunia yang aman dan damai;
+mengusahakan terwujudnya hubungan antarbangsa secara demokratis;
+menentang kolonialisme, politik apartheid,dan rasialisme;
+memperjuangkan kebebasan dalam bidang ekonomi dan kerja sama atas dasar persamaan derajat;
+meningkatkan solidaritas di antara negara-negara anggota Gerakan Non Blok;
+menggalang kerja sama antara negara berkembang dan negara maju menuju terciptanya tata ekonomi dunia baru.
+Asas Gerakan Non Blok
+GNB bukanlah suatu blok tersendiri dan tidak bergabung ke dalam blok dunia yang saling bertentangan.
+GNB merupakan wadah perjuangan negara-negara yang sedang berkembang yang gerakannya tidak pasif.
+GNB berusaha mendukung perjuangan dekolonisasi di semua tempat, memegang teguh perjuangan melawan imperialisme, kolonialisme, neokolonialisme, rasialisme, apartheid, dan zionisme.
+Pada waktu berdirinya, GNB hanya beranggota 25 negara. Setiap diseleng-garakan KTT anggotanya selalu bertambah, sebab setiap negara dapat diterima menjadi anggota GNB dengan memenuhi persyaratan. Adapun syarat menjadi anggota GNB adalah sebagai berikut:
+menganut politik bebas dan hidup berdampingan secara damai;
+mendukung gerakan-gerakan kemerdekaan nasional;
+tidak menjadi anggota salah satu pakta militer Amerika Serikat atau Uni Soviet.[am]
+</field>
+</doc>
+</add>

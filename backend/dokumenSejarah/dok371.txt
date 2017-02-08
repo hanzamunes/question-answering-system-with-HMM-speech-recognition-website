@@ -1,0 +1,31 @@
+<add>
+<doc>
+<field name="DOCID">http://sejarah-interaktif.blogspot.com/2011/11/fakta-fakta-tentang-proses-interaksi.html</field>
+<field name="TITLE">FAKTA-FAKTA TENTANG PROSES INTERAKSI MASYARAKAT DENGAN TRADISI HINDU-BUDHA</field>
+<field name="TEXT">
+Penyusunan dan identifikasi fakta-fakta tentang interaksi dengan tradisi Hindu-Budha dapat diperkuat dengan berita-berita asing terutama dari China tentang Indonesia.
+
+a. Kalimantan
+
+Di daerah Mura Kaman,Kutai beberapa prasasti berhuruf Pallawa dan berbahasa Sansekerta. Prasasti-prasasti tersebut dipahatkan pada tiang-tiang batu yang dinamakan yupa. Sekalipun tidak mencantumkan angka tahun, namun berdasarkan huruf dan bahasanya,diduga berasal dari tahun 400 M. prasati tersebut dibuat pada masa pemerintahan Raja Mulawarman.
+
+Salah satu diantara prasasti itu memuat silsilah Mulawaaaarman. Tugu batu ini didirikan oleh para Brahmana sebagai peringatan selamatan(kenduri). Uraian sinkat terhadap dua prasasti itu,mengungkap fakta mengenai keberadaan Kerajaan Kutai di Kalimantan pada abad ke-5 M. Sekaligus membuktikan bahwa memang telah terjadi interaksi antara budaya lokal dengan tradisi Hindu-Budha. Agama yang berkembang didaerah itu adalah Syiwaisme. Hal ini dapat diketahui dari adanya sebutan ansuman yang berarti Dewa Matahari dalam mitologi Hindu,di Jawa lebih dikenal dengan sebutan waprakeswara.
+
+Salah satu yang menarik adalah dijadikannya Aswawarman seagai pendiri dinasti atau wangsakartya, dan bukan Kudungga. Kudungga tidak dianggap sebagai wangsakarta karena belum beragama Hindu. Hal ini tercermin dari namankya yang masih menggunakan nama lokal.
+
+b. Jawa
+
+Peninggalan kepurbakalaan di Jawa ditenukan dalam jumlah yang cukup banyak, sehingga memudahkan untuk memudahkan untuk melakukan identifikasi fakta-fakta tentang proses interaksi masyarakat dengan tradisi Hindu-Budha. Hubungan antara masyarakat Jawa dengan tradisi Hindu-Budha berlangsung lama dan dengan intensitas yang sangat tinggi.
+
+Diawali dengan perkembangan di Jawa Barat,berlanjut dan memuncak di Jawa Timur,untuk selanjutnya ke Bali.Peninggalan kepurbakalaan ditemukan dalam berbagai bentuk sepserti prasasti,candi,petirtaan(pemandian),arca,perhiasan,dan sebagainya. Dengan demikian,upaya untuk mencari fakta guna merekontruksi kondisi kehidupan masyarakatnya,khususnya tentang interaksinya dengan tradisi Hindu-Budha ,menjadi lebih lengkap. Melalui peninggalan-peninggalan tersebut,kita dapat mengetahui bahwa pada masa lampau,di Jawa pernah berkembang beberapa institusi politik berupa kerajaan,misalnya Tarumanegara,Kalingga,Mataram,Medang,Kahuripan,Kediri,Singasari,Majapahit,dan sebagainya.
+
+c. Sumatra
+
+Berdasarkan berita Cina,diperoleh keterangan bahwa pada abad ke-7 M di Sumatra terdapat kerajaan-kerajaan yang bernama To-lang-p'o-hwang(Tulangbawang)Molo-yeu(Melayu),dan Che-lifo-che(Sriwijaya). Berdasarkan keterangan yang dibawa oleh pendeta budha bernama I-Tsing yang pada tahun 671 M berangkat dari Kanton menuju India.Ia singgah di Sriwijaya selama enam bulan untuk belajar bahasa sansekerta. Kemudian singgah di Melayu selam dua bulan,baru kemudian menuju ke India dan tinggal disana selama sepuluh tahun.Tahun 685 M ia kembali ke Sriwijaya,dan tinggal selama empat tahun untuk menerjemahkan berbagai kitab suci Budha,dari bahasa sansekerta ke dalam bahasa Cina.
+
+d. Bali
+
+Tidak diketahui secara pasti dari daerah mana tradisi Hindu-Budha masuk ke Bali,tetapi kemungkinan besar berasal dari jawa.Kemungkinan ini diperkuat dengan ditemukannya Arca Budha berlanggam Jawa Tengah di Goa Gajah,Bedahulu.Dalam prasasti kubu-kubu (905 M) disebutkan daerah yang bernama Bantan telah ditaklukkan oleh Mataram pada masa Raja Balitung. 
+</field>
+</doc>
+</add>

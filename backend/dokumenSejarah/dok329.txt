@@ -1,0 +1,10 @@
+<add>
+<doc>
+<field name="DOCID">http://www.pengertiansejarah.com/sejarah-kerajaan-holing.html</field>
+<field name="TITLE">Sejarah Kerajaan Holing</field>
+<field name="TEXT">
+Sejarah Kerajaan Holing – Suatu berita dari Cina pada masa dinasti Tang menyebutkan bahwa di Jawa ada suatu kerajaan yang bernama Holingatau Kaling, tepatnya di daerah Jawa Tengah dekat Jepara sekarang. Kerajaan ini menghasilkan penyu, emas, perak, cula, gading, dan orangorangnya pandai membuat minuman dari kelapa. Berita ini disampaikan oleh I-Tsing. Ia mengatakan bahwa pada tahun 664, pendeta Hwining dan pembantunya Yunki pergi ke Holing untuk mempelajari agama Buddha. Ia juga menerjemahkan kitab suci agama Buddha dari bahasa Sanskerta ke bahasa Cina dibantu pendeta Janabhadra dari Holing. Kitab terjemahan Hwining tersebut adalah bagian terakhir dari kitab Varinirvanayang mengisahkan tentang pembukaan jenazah Sang Buddha.
+Kerajaan Holing diperintah oleh seorang raja wanita yang bernama Ratu Sima sejak tahun 674. Ia memerintah dengan keras dan menghendaki agar kejujuran dijunjung tinggi. Bahkan putranya sendiri dihukum potong kaki karena dituduh mencuri. Kota Kerajaan Holing dikelilingi pagar kayu. Ratunya hidup dalam istana yang bertingkat, atapnya dibuat dari daun rumbia. Singgasananya terbuat dari gading.
+</field>
+</doc>
+</add>

@@ -1,0 +1,46 @@
+<add>
+<doc>
+<field name="DOCID">http://www.gurusejarah.com/2015/01/ppki.html</field>
+<field name="TITLE">PPKI</field>
+<field name="TEXT">
+PPKI Panitia Persiapan Kemerdekaan Indonesia - Panitia Persiapan Kemerdekaan Indonesia (PPKI) atau 独立準備委員会 (Dokuritsu Junbi Iinkai). Panitia Yang dibentuk pada tanggal 7 Agustus 1945 dan diketuai oleh Ir. Soekarno ini mempunyai tugas untuk mempersiapkan Kemerdekaan Indonesia.
+Pada tanggal 9 Agustus 1945, Ir. Soekarno, Drs. Moh. Hatta, dan dr. Radjiman Wediodiningrat bertolak ke Dalat (Vietnam Selatan) untuk memenuhi panggilan Marsekal Muda Terauchi. Ia adalah panglima tentara umum selatan yang membawahi seluruh tentara Jepang di Asia Tenggara. Marsekal Muda Terauchi menyampaikan kepada ketiga pemimpin nasional Indonesia tersebut bahwa kemaharajaan telah memutuskan untuk memberi kemerdekaan kepada Indonesia. Wilayah Indonesia meliputi seluruh bekas wilayah Hindi Belanda. Sebelumnya sudah ada BPUPKI namun karena dianggap terlalu cepat ingin melaksanakan proklamasi kemerdekaan, maka Jepang membubarkannya. Pada awalnya PPKI beranggotakan 21 orang :
+12 orang dari Jawa,
+3 orang dari Sumatra,
+2 orang dari Sulawesi,
+1 orang dari Kalimantan,
+1 orang dari Nusa Tenggara,
+1 orang dari Maluku,
+1 orang dari golongan Tionghoa.
+Susunan awal anggota PPKI adalah sebagai berikut
+Ir. Soekarno (Ketua)
+Drs. Moh. Hatta (Wakil Ketua)
+Prof. Mr. Dr. Soepomo (Anggota)
+KRT Radjiman Wedyodiningrat (Anggota)
+R. P. Soeroso (Anggota)
+Soetardjo Kartohadikoesoemo (Anggota)
+Kiai Abdoel Wachid Hasjim (Anggota)
+Ki Bagus Hadikusumo (Anggota)
+Otto Iskandardinata (Anggota)
+Abdoel Kadir (Anggota)
+Pangeran Soerjohamidjojo (Anggota)
+Pangeran Poerbojo (Anggota)
+Dr. Mohammad Amir (Anggota)
+Mr. Abdul Maghfar (Anggota)
+Mr. Teuku Mohammad Hasan (Anggota)
+Dr. GSSJ Ratulangi (Anggota)
+Andi Pangerang (Anggota)
+A.H. Hamidan (Anggota)
+I Goesti Ketoet Poedja (Anggota)
+Mr. Johannes Latuharhary (Anggota)
+Drs. Yap Tjwan Bing (Anggota)
+Selanjutnya tanpa sepengetahuan Jepang, keanggotaan bertambah 6 yaitu :
+Achmad Soebardjo (Penasehat)
+Sajoeti Melik (Anggota)
+Ki Hadjar Dewantara (Anggota)
+R.A.A. Wiranatakoesoema (Anggota)
+Kasman Singodimedjo (Anggota)
+Iwa Koesoemasoemantri (Anggota).[gs]
+</field>
+</doc>
+</add>

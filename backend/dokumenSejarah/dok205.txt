@@ -1,0 +1,39 @@
+<add>
+<doc>
+<field name="DOCID">http://www.gurusejarah.com/2015/01/kehidupan-politik-indonesia-di-awal.html</field>
+<field name="TITLE">Kehidupan Politik Indonesia di Awal Kemerdekaan</field>
+<field name="TEXT">
+Kehidupan Politik Indonesia di Awal Kemerdekaan -  Dengan disetujuinya Konferensi Meja Bundar (KMB) pada tanggal 2 November 1949 maka terbentuklah Republik Indonesia Serikat (RIS). RIS ternyata tidak bertahan lama karena tidak mendapat dukungan dari rakyat dan sebagian besar anggota Kabinet RIS adalah orang-orang Republik. Pada tanggal 17 Agustus 1950, RIS dibubarkan dan kembali ke Negara Kesatuan Republik Indonesia (NKRI) dengan berdasarkan Undang-undang Dasar Sementara. (UUDS) 1950. Pada waktu negara kita menganut sistem demokrasi parlementer dalam pelaksanaan demokrasi liberal (1950 - 1959) terdapat tujuh buah kabinet yang memegang pemerintahan, sehingga rata-rata setiap terjadi pergantian kabinet. Oleh karena tiap-tiap kabinet  tidak berumur panjang, maka programnya tidak dapat dilaksanakan. Hal inilah yang kemudian menimbulkan instabilitas baik di bidang politik, sosial, maupun keamanan.
+Kabinet-kabinet pada masa demokrasi liberal :
+1.  Kabinet Natsir (6 September 1950 - 21 Maret 1951)
+Menggiatkan usaha mencapai keamanan dan ketenteraman
+Konsolidasi dan menyernpurnakain susunan pemerintahan
+Menyempurnakan organisasi angkatan Perang
+Mengembangkan dan memperkokoh ekonomi rakyat
+Memperjuangkan penyelesaian Irian Barat
+2.Kabinet Sukiman (27 April 1951 - 3 April 1952)
+Menjalankan tindakan-tindakan yang tegas sebagai recana untuk menjamin keamanan dan ketertiban.
+Mengusahakan kemakmuran rakyat
+Mempersiapkan pemilihan umum
+Mempersiapkan undang-undang perburuhan
+Menjalankan politik luar negeri bebas aktif
+Memperjuangkan Irian Barat
+3.Kabinet Wilopo (3 April 1952 - 2 Juni 1953)
+Melaksanakan pemilihan umum Memajukan tingkat penghidupan rakyat Mengatasi keamanan dengan kebijaksanaan sebagai negara Melengkapi undang-undang perburuhan Mempercepat usaha perbaikan dan pembaharuan pendidikan dan pengajaran Melaksanakan politik luar negeri bebas aktif, menyelesaikan hubungan Uni Indonesia - Belanda atas dasar negara merdeka dan meneruskan perjuangan pengembalian Irian Barat
+4.Kabinet Ali Sastroamijoyo, 1 adalah sebagai berikut:
+Program dalam negeri, mencakup soal keamanan, pemilu, kemakmuran dankeuangan, organisasi negara, dan perundang-undangan. program luar negeri, meliputi pelaksanaan politik luar negeri bebas aktif dan pengembalian Irian Barat
+5. Kabinet Burhanuddin Harahap (12 Agustus 1955 - 3 Maret 1956)
+Kabinet Ali I digantikan oleh Kabinet Burhanuddin Harahap dari masyumi, dengan programnya sebagai berikut :
+Mengembalikan kewibawaan pemerintah Melaksanakan pemilihan umum Menangani masalah desentralisasi, inflasi dan pemberantasan korupsi Pengembalian Irian Barat Melaksanakan kerja sama Asia - Afrika berdasarkan politik bebas aktif
+Prestasi yang menonjol dari kebinet ini adalah:
+Berhasil melaksanakan pemilu pertama bagi Indonesia Pembubaran Uni Indonesia – Belanda
+6.Kabinet Ali Sastroamijoyo 11 (20 Maret - 4 Maret 1957)
+Program kabinet Ali Sastroamijoyo 11 adalah sebagai berikut
+Pembatalan KMB Pengembalian Irian Barat Menjalankan politik luar negeri bebas aktif. Meneruskan kerja sama negara-negara Asia Afrika dan melaksanakan keputusan-keputusan KAA di Bandung tahun 1955.
+7.Kabinet Juanda (9 April 1957 - 5 Juli 1959)
+Kabinet A II digantikan oleh Kabinet Juanda. Program Kabinet Juanda dikenal dengan nama “Panca Karya” antara lain sebagai berikut :
+Membentuk Dewan Nasional Normalisasi keadaan politik Melancarkan pelaksanaan pembatalan KMB Perjuangan mengembalian Irian Barat Memperingati pembangunan
+Kabinet ini berakhlr dengan dikeluarkan Dekrit Presiden 6 Juli 1959.[gs]
+</field>
+</doc>
+</add>

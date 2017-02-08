@@ -1,0 +1,20 @@
+<add>
+<doc>
+<field name="DOCID">http://www.gurusejarah.com/2015/01/dekrit-presiden-5-juli-1959.html</field>
+<field name="TITLE">Dekrit Presiden 5 Juli 1959</field>
+<field name="TEXT">
+Dekrit Presiden 5 Juli 1959 Badan Konstituante yang dibentuk melalui pemilihan urnurn 1955, dipersiapkan untuk merumuskan UUD (konstitusi) baru sebagai pengganti UUDS 1950. Sejak tahun 1956 konstituante merumuskan UUD yang baru. Akan tetapi hingga tahun 1959 Badan Konstituante tidak pernah dapat merumuskan UUD yang baru. Dalam sidang-sidangnya, selalu diwarnai adanya benturan-benturan antara partai politik dan golongan, mereka lebih mementingkan kelompoknya sendiri sehingga mengabaikan kepentingan nasional. Kegagalan Konstituante merumuskan UUD sebagai pengganti UUDS 1950 menyebabkan negara dilanda kekalutan konstitusional, sehingga mengganggu dan membahayakan stabilitas Nasional dengan persatuan bangsa Indonesia. Pada tanggal 21 Februari 1957 Presiden Soekarno mengajukan gagasan yang dikenal dengan Konsepsi Soekarno, dengan isi pokoknya adalah sebagai berikut :
+Sistem Demokrasi Parlementer secara berat tidak cocok dengan kepribadian bangsa  Indonesia, sehingga harus diganti dengan demokrasi terpimpin.
+Dibentuk Kabinet Gotong Royong yang terdiri dari semua partai dan organisasi masyarakat lainnya.
+Pembentukan Dewan Nasional yang terdiri dari golongan fungsional dalam masyarakat.
+Dalam konsepsi ini presiden juga mengusulkan perlunya dibentuk kabinet ke empat yaitu PNI, Masyumi NU dan PKI. Beberapa partai seperti Masyumi, NU, PSII, Partai Katolik dan PIR tidak menyetujuinya karena perubahan sistem pemerintahan menjadi wewenang Badan Konstituante. Pada tanggal 25 April 1959 dihadapan sidang konstituante, Presiden Soekarno menganjurkan agar kembali kepada UUD 1945 Anjuran ini diperdebatkan dalam sidang konstituante, kemudian diputuskan untuk mengadakan pemungutar suara (voting). Sebagai gambaran hasil-hasil pemungutar suara waktu itu adalah sebagai berikut:
+Pada tanggal 30 Mei 1959, 269 suara setuju dan 199 suara menolak
+Pada tanggal 1 Juni 1959, 263 suara setuju dan 203 suara menolak
+Pada tanggal 2 Juli 1959, 264 suara setuju dan 204 suara meniolak
+Meskipun mayoritas suara setuju kembali pada UUD 1945, namun karena jumlahnya tidak mencukup dua pertiga anggota konstituante seperti yang diisyaratkan dalam pasal 137 UUDS 1950, maka tidak dapat diambil keputusan atas anjuran Bung Karno tersebut. Pada tanggal 3 Juni 1959 Badan Konstituante memasuki masa reses (Istirahat tidak mengadakan sidang) dengan batas waktu yang tidak ditentukan dan berbagai fraksi dalam konstituante menyatakar tidak akan menghadiri sidang. Sementara pada tanggal yang sama pemerintah mengeluarkan larangan kegiatan politik dengan peraturan nomor Prt/PEPERPU/040/1959. Kegagalan Badan Konstituante mencapai kesepakatan untuk kembali ke UUD 1945, masa reses yang tidak menentu dan pernyataan berbagai fraksi yang memboikot untuk menghadiri sidang, menyebabkan Presiden Soekarno mengambil langkah ­melalui Dekret Presiden 5 Juli 1959 isinya sebagai berikut :
+Pembubaran Badan Konstituante
+Berlakunya UUD 1945 dan tidak berlakunya UUDS 1950
+Pembentukan MPRS dan DPAS.[gs]
+</field>
+</doc>
+</add>

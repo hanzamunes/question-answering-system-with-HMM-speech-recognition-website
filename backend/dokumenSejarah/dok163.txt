@@ -1,0 +1,20 @@
+<add>
+<doc>
+<field name="DOCID">http://www.gurusejarah.com/2015/01/pemerintahan-sipil-jepang-di-indonesia.html</field>
+<field name="TITLE">Pemerintahan Sipil Jepang di Indonesia</field>
+<field name="TEXT">
+Pemerintahan Sipil Jepang di Indonesia Pulau Jawa menjadi pusat pemerintahan yang terpenting, bahkan jabatan Gubernur Jenderal masa Hindia Belanda dihapus dan diambil alih oleh panglima tentara Jepang di Jawa. Sementara status pegawai dan pemerintahan sipil masa Hindia Belanda tetap diakui kedudukannya asal memiliki kesetiaan terhadap Jepang. Status badan pemerintahan dan UU di masa Belanda tetap diakui sah untuk sementara, asal tidak bertentangan dengan aturan kesetiaan tentara Jepang. Kebijakan pemerintah militer Jepang di bidang politik dan birokrasi dampak yang dirasakan bangsa Indonesia antara lain terjadinya perubahan struktur pemerintahan dari sipil ke militer, terjadi mobilitas sosial vertikal (pergerakan sosial ke atas dalam birokrasi) dalam masyarakat Indonesia. Sisi positif yang dapat Anda ketahui, bangsa Indonesia mendapat pelajaran berharga sebagai jawaban cara mengatur pemerintahan, karena adanya kesempatan yang diberikan pemerintah Jepang untuk menduduki jabatan penting seperti Gubernur, dan wakil Gubernur, Residen, Kepala Polisi.
+Struktur pemerimtahan Sipil jepang
+Pulau Jawa dan Madura (kecuali kedua koci, Surakarta dan Yogyakarta) dibagi atas enam wilayah pemerintahan.
+Syu (karesidenan), dipimpin oleh seorang syuco.
+Syi (kotapraja), dipimpin oleh seorang syico.
+Ken (kabupaten), dipimpin oleh seorang kenco.
+Gun (kawedanan atau distrik), dipimpin oleh seorang gunco.
+Son (kecamatan), dipimpin oleh seorang sonco.
+Ku (kelurahan atau desa), dipimpin oleh seorang kuco.
+Selain pemerintahan militer (gunsei) angkatan darat, Armada Selatan Kedua juga membentuk suatu pemerintahan yang disebut Minseibu. Pemerintahan ini terdapat di tiga tempat, yaitu Kalimantan, Sulawesi, dan Seram. Daerah bawahannya meliputi syu, ken, bunken (subkabupaten), gun, dan son.
+Dalam rangka mempertahankan kekuasaan dan menghapus pengaruh Belanda pada masyarakat Indonesia, Jepang menetapkan Undang-Undang No. 4. Undang-undang tersebut menetapkan bahwa
+hanya bendera Jepang, Hinomaru, yang boleh dipasang hanya lagu kebangsaan Jepang, Kimigayo, yang boleh diperdengarkan pada hari-hari besar. mulai tanggal 1 April 1942, semua lapisan masyarakat harus menggunakan pembagian waktu sesuai dengan yang dipergunakan di Jepang. Perbedaan waktu antara Tokyo dan Jawa pada masa itu adalah 90 menit. mulai tanggal 29 April 1942 ditetapkan bahwa kalender yang dipakai adalah kalender Jepang yang bernama Sumera. Tahun 1942 pada kalender Masehi sama dengan tahun 2602 pada kalender Sumera.  Rakyat Indonesia juga diwajibkan untuk ikut merayakan hari raya Tencosetsu, yaitu hari lahirnya Kaisar Hirohito.[gs]
+</field>
+</doc>
+</add>

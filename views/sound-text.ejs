@@ -1,0 +1,200 @@
+
+<!DOCTYPE html>
+<!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->  
+<!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->  
+<!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->  
+<head>
+    <title>Question Answering System with HMM Speech Recognition</title>
+    <!-- Meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Question Answering System with HMM Speech Recognition">
+    <meta name="author" content="Hobert">    
+    <link rel="shortcut icon" href="favicon.ico">  
+    <link rel="icon" href="./favicon.ico">
+    <meta property="og:image" content="assets/images/web-logo.jpg">
+    <meta property="og:image:type" content="image/png">
+    <meta property="og:image:width" content="1024">
+    <meta property="og:image:height" content="1024">
+    <meta property=”og:description” content=”Hobert Website” />
+    <meta name=”twitter:title” content=”Hobert website” />
+    <link href='https://fonts.googleapis.com/css?family=Roboto:400,500,400italic,300italic,300,500italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+    <!-- Global CSS -->
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="assets/plugins/bootstrap/css/bootstrap.min.css">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="assets/plugins/bootstrap/css/bootstrap-theme.min.css">
+    <!-- Plugins CSS -->
+    <link rel="stylesheet" href="assets/plugins/font-awesome/css/font-awesome.css">
+    
+    <!-- Theme CSS -->  
+    <link id="theme-style" rel="stylesheet" href="assets/css/styles.css">
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+    <!-- Angular.JS -->
+</head> 
+
+<body>
+    
+    <header class="header">
+        <div class="page-nav-space-holder hidden-xs">
+            <div id="page-nav-wrapper" class="page-nav-wrapper text-center">
+                <div class="container">
+                    <ul id="page-nav" class="nav page-nav list-inline">
+                        <li><a href="/">Home</a></li>
+                        <li><a  href="/sound">Suara</a></li>
+                        <li><a  href="/text">Text</a></li>
+                        <li class="active"><a  href="/sound-text">Sound and Text</a></li>
+                    </ul><!--//page-nav-->
+                </div>
+            </div><!--//page-nav-wrapper-->
+        </div>
+        
+        
+    </header><!--//header-->
+    
+
+     <div class="wrapper container">
+        
+
+        <section id="kampretan-section" class="kampretan-section section">
+            <h2 class="section-title">Sound to Text</h2>
+            <div class="record sound"  ng-app="soundApp" ng-controller="soundCtrl">
+                    
+                    <div class="player text-center">
+                        <p>Record Sound here</p>
+                        <button type="button" id="button_stop" class="btn {{greenRecord}}" ng-disabled="cantRecord" ng-click="recordFunction()" >
+                          <i class="{{recorder}}"></i>
+                        </button>
+
+                        <!-- <button type="button" id="button_play" class="btn {{greenPlayer}}" ng-disabled="cantPlayed" ng-click="playFunction()"> -->
+                          <!-- <i class="{{player}}"></i> -->
+                        <!-- </button> -->
+                        <!-- <p>State: {{state}}</p>    -->
+                    </div>
+                    <h4 align="left">Question Generated:</h4>
+                    <div class="item active">
+                        <blockquote class="quote">
+                            <p>Lorem ipsum dolor sit amet, autem honestatis ad ius, mei omnis laboramus cu. Et solum perfecto vituperatoribus per. Vis iracundia elaboraret definitionem ut. Sea modo choro euismod et, purto errem saperet et usu. Mea iudico explicari te. At sea soluta albucius, usu ea gubergren persecuti, eu sonet graecis salutatus mel.</p>
+                        </blockquote>
+                    </div>
+
+                    <div class="player text-center" >
+                        
+                        <button class="btn btn-primary">Get Answer</button>
+                        <h4 align="left">Output Text:</h4>
+                        <div class="item active" id="output-text">
+                            <blockquote class="quote">
+                                <p>Lorem ipsum dolor sit amet, autem honestatis ad ius, mei omnis laboramus cu. Et solum perfecto vituperatoribus per. Vis iracundia elaboraret definitionem ut. Sea modo choro euismod et, purto errem saperet et usu. Mea iudico explicari te. At sea soluta albucius, usu ea gubergren persecuti, eu sonet graecis salutatus mel.</p>
+                            </blockquote>
+                        </div>
+                    </div>
+                    <div class="col-md-6col-md-offset-3" id="grow-box" >
+                        <div class="relevant-list" ng-hide="showR">
+                            <h4>Relevant Document:</h4>
+                            <ul style="list-style-type:circle">
+                              <li><a href="#">Lorem ipsum dolor sit amet,</a></li>
+                              <li><a href="#">autem honestatis ad ius,</a></li>
+                              <li><a href="#">mei omnis laboramus cu.</a></li>
+                              <li><a href="#">Et solum perfecto vituperatoribus per.</a></li>
+                              <li><a href="#">Vis iracundia elaboraret definitionem ut.</a></li>
+                              <li><a href="#">Sea modo choro euismod et,</a></li>
+                              <li><a href="#">purto errem saperet et usu.</a></li>
+                              <li><a href="#">Mea iudico explicari te.</a></li>
+                              <li><a href="#">At sea soluta albucius,</a></li>
+                              <li><a href="#">usu ea gubergren persecuti,</a></li>
+                              <li><a href="#">eu sonet graecis salutatus mel.</a></li>
+                            </ul>    
+                        </div>
+                        <br>
+                        <div class="btnshow-frame text-center">
+                            <button type="button" class="btn btn-link" ng-click="showRelevantFunction()"> <i class="fa fa-chevron-up" ng-hide="showR"></i><br ng-hide="showR">{{resultBtnText}} <br ng-hide="!showR"> <i class="fa fa-chevron-down" ng-hide="!showR"></i> </button>
+                        </div>
+                    </div>
+
+            </div>
+        </section><!--//section-->
+        
+        
+    </div><!--//wrapper-->
+    
+    <footer class="footer text-center">
+        <div class="container">
+            <small class="copyright">Template Copyright @ <a href="http://themes.3rdwavemedia.com/" target="_blank">3rd Wave Media</a> | Edited by: <a href="http://leopisang.net/" target="_blank">Leonardo Cahaya</a> </small>
+        </div><!--//container-->
+    </footer>
+    
+    
+    <!-- Javascript -->          
+    <script type="text/javascript" src="assets/plugins/jquery-1.12.4.min.js"></script>
+    <script type="text/javascript" src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>   
+    <script type="text/javascript" src="assets/plugins/easy-pie-chart/dist/jquery.easypiechart.min.js"></script>
+    <script type="text/javascript" src="assets/plugins/imagesloaded.pkgd.min.js"></script> 
+    <script type="text/javascript" src="assets/plugins/isotope.pkgd.min.js"></script>  
+
+    <!-- custom js -->
+    <script type="text/javascript" src="assets/js/main.js"></script>
+    <script type="text/javascript">
+        var state = 'stop';
+        var app = angular.module('soundApp', []);
+        app.controller('soundCtrl', function($scope) {
+            $scope.player = 'fa fa-play';
+            $scope.recorder = 'fa fa-microphone';
+            $scope.greenRecord = 'btn-danger';
+            $scope.greenPlayer = '';
+            $scope.state = 'stopR';
+            $scope.cantRecord = false;
+            $scope.cantPlayed = true;
+
+            $scope.showR = true;
+                    $scope.resultBtnText = 'Show Relevant Document';
+                    $scope.showRelevantFunction = function(){
+                        $scope.showR = !$scope.showR;
+                        if(!$scope.showR) {
+                            $scope.resultBtnText = 'Hide Relevant Document';
+                        } else {
+                            $scope.resultBtnText = 'Show Relevant Document';
+                        }
+                    }
+
+
+            $scope.recordFunction = function() {
+                if($scope.state == 'playR'){
+                        $scope.state = 'stopR';
+                        $scope.recorder = 'fa fa-microphone';
+                        $scope.greenRecord = 'btn-danger';
+                        $scope.cantRecord = false;
+                        $scope.cantPlayed = false;
+                } else {
+                    $scope.state = 'playR';
+                    $scope.recorder = 'fa fa-stop';
+                    $scope.cantPlayed = true;
+                    $scope.greenRecord = 'btn-success';
+                }
+            }
+            $scope.playFunction = function() {
+                if($scope.state == 'playP'){
+                    $scope.player = 'fa fa-play';
+                    $scope.cantRecord = false;
+                    $scope.greenPlayer = '';
+                    $scope.state = 'stopP';
+                } else {
+                    $scope.state = 'playP';
+                    $scope.cantRecord = true;
+                    $scope.player = 'fa fa-stop';
+                    $scope.greenPlayer = 'btn-success';
+                }
+            }
+        });
+
+    </script>
+
+</body>
+</html> 
+

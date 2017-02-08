@@ -1,0 +1,9 @@
+<add>
+<doc>
+<field name="DOCID">http://www.pengertiansejarah.com/pengaruh-kebudayaan-hindu-buddha-terhadap-sistem-kepercayaan.html</field>
+<field name="TITLE">Pengaruh kebudayaan Hindu-Buddha terhadap sistem kepercayaan</field>
+<field name="TEXT">
+Pengaruh kebudayaan Hindu-Buddha terhadap sistem kepercayaan – Pada saat budaya Hindu-Buddha masuk ke Indonesia, masyarakat masih menganut kepercayaan asli, yaitu animisme dan dinamisme. Akibat adanya proses akulturasi, agama Hindu dan Buddha lalu diterima penduduk asli. Dibandingkan agama Hindu, agama Buddha lebih mudah diterima oleh masyarakat kebanyakan sehingga dapat berkembang pesat dan menyebar ke berbagai wilayah. Sebabnya adalah agama Buddha tidak mengenal kasta, tidak membeda-bedakan manusia, dan menganggap semua manusia itu sama derajatnya di hadapan Tuhan (tidak diskriminatif). Menurut agama Buddha, setiap manusia dapat mencapai nirwana asalkan baik budi pekertinya dan berjasa terhadap masyarakat.
+</field>
+</doc>
+</add>

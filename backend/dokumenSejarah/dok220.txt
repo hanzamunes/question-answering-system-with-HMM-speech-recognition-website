@@ -1,0 +1,43 @@
+<add>
+<doc>
+<field name="DOCID">http://www.gurusejarah.com/2014/09/revolusi-industri.html</field>
+<field name="TITLE">Revolusi Industri</field>
+<field name="TEXT">
+Revolusi Industri adalah sebuah ungkapan yang digunakan untuk menamai perubahan dan perkembangan pesat yang awalnya terjadi di Inggris setelah ditemukannya mesin uap. Revolusi ini mengubah cara hidup banyak orang, terutama yang tinggal di perkotaan dan wilayah-wilayah industri. Kemajuan teknologi mengakibatkan tenaga untuk menggerakkan mesin yang semula masih menggunakan tangan menjadi penggunaan mesin yang digerakkanoleh tenaga uap.
+Lahirnya Revolusi Industri
+Revolusi Industri terjadi pada pertengahan abad ke-18. Awalnya didahului oleh revolusi agraria. Ada dua tahap revolusi agraria. Revolusi Agraria I adalah tahapan terjadinya perubahan penggunaan tanah yang semula hanya untuk pertanian menjadi usaha pertanian, perkebunan, dan peternakan yang terpadu. Revolusi Agraria II mengubah cara mengerjakan tanah yang semula tradisional dengan penggunaan mesin-mesin atau mekanisasi. Revolusi Industri terjadi di Inggris karena sebab-sebab berikut.
+Inggris memiliki cukup bahan dasar untuk industri, seperti wol, batu bara, dan kapas yang diperoleh dari tanah jajahan.
+Bangsa Inggris rajin mengadakan penyelidikan terhadap ilmu alam sehingga banyak  penemuan baru. Hal ini didukung dengan didirikannya lembaga ilmiah Royal Society for Improving Natural Knowledge pada tahun 1662.
+Adanya kemajuan pesat dalam pelayaran yang membawa kemajuan perdagangan Inggris.
+Inggris memiliki cukup modal untuk memajukan industrinya.
+Inggris memiliki kongsi dagang EIC yang merupakan alat kemajuan bagi perdagangan negara.
+Tahap Revolusi Industri
+Revolusi Industri terdiri dari tiga tahap.
+Revolusi Industri I ditandai dengan masih dipergunakannya teknik kuno, yaitu penggunaan uap untuk menggerakkan mesin yang berbahan bakar kayu atau batu bara. Revolusi tahap pertama terjadi di Inggris pada abad ke-18.
+Revolusi Industri II ditandai dengan penggunaan teknik baru berupa mesin bermotor yang berbahan bakar listrik atau bensin. Revolusi tahap kedua ini terjadi di Amerika Serikat dan Jerman pada abad ke-19.
+Revolusi Industri III ditandai dengan penggunaan teknik kimia-hayati berbahan bakar atom atau nuklir. Revolusi tahap ketiga ini terjadi di Amerika Serikat dan Uni Soviet pada abad ke-20
+Revolusi Industri mendorong peningkatan penggunan mesin-mesin sehingga terjadi efisiensi dalam produksi batu bara, besi, dan baja. Perkembangan ini ditunjang oleh adanya pembangunan jalan kereta api, alat transportasi, dan pengembangan sistem perbankan serta perkreditan.
+Dampak-dampak revolusi industri
+Bidang ekonomi. Dampak Revolusi Industri dalam bidang ekonomi adalah munculnya pabrik-pabrik, lahirnya pengusaha kaya, biaya produksi rendah sehingga harga barang semakin rendah, upah buruh menjadi rendah, perdagangan dunia semakin maju, tumbuhnya kapitalisme industri yang berpusat pada perseorangan, dan matinya industri rumah tangga.
+Bidang politik Dampak Revolusi Industri dalam bidang politik sebagai berikut.
+Munculnya kaum borjuis sebab kemajuan industri melahirkan orang-orang kaya baru yang merupakan penguasa industri.
+Tumbuhnya demokrasi dan nasionalisme.
+Munculnya imperialisme modern, yaitu upaya mengembangkan imperialisme yang berlandaskan kekuatan ekonomi, mencari tanah jajahan, bahan mentah serta mengembangkan pasar bagi industrinya.
+Berkembangnya liberalisme yang awalnya hanya berkembang di Inggris ketika berlangsung Revolusi Agraria dan Revolusi Industri. Dalam menentukan kebijakan politik dan ekonomi, partai liberal sangat berpengaruh.
+Bidang sosial. Akibat berkembangnya industri, pusat pekerjaan berpindah ke kota. Terjadilah urbanisasi besar-besaran ke kota. Para buruh tani pergi ke kota untuk menjadi buruh pabrik. Kota-kota besar pun menjadi padat dan semakin sesak. Para buruh hidup berjejal-jejal di tempat tinggal yang kumuh dan kotor. Tidak hanya itu, dalam pekerjaan, mereka menjadi objek pemerasan majikan. Buruh bekerja rata-rata 12 jamdalam sehari, namun tetap miskin. Kemiskinan berakibat langsung pada meningkatnya kejahatan dan ketergantungan pada minuman keras. Dampak lain adalah pengangguran, wanita dan anak ikut bekerja, dan kurangnya jaminan kesejahteraan.
+Revolusi Sosial
+Dampak negatif Revolusi Industri mendorong lahirnya Revolusi Sosial. Revolusi sosial adalah usaha untuk mengubah hidup rakyat dari tidak layak menjadi layak. Kotakota industri di Inggris, seperti Liverpool, Manchester, dan Birmingham penuh sesak dengan perkampungan kumuh para buruh yang kurang terjamin kehidupannya sebab upah mereka murah. Untuk memperbaiki nasib mereka, pemerintah dan parlemen Inggris mengeluarkan kebijakan-kebijakan berikut.
+Catholic Emancipation Bill (1829), berisi ketentuan bahwa kaum Protestan dan Katolik mempunyai hak yang sama untuk menjadi anggota parlemen dan pegawai negeri.
+Reform Bill (1832), berisi ketentuan bahwa perwakilan di parlemen sesuai dengan jumlah penduduk, hak pilih ditentukan berdasar atas pembayaran pajak, serta daerah kosong harus dihapuskan perwakilannya.
+Abolition Bill (1833), berisi ketentuan penghapusan perbudakan di Inggris dan koloninya.
+Factory Act (1833), berisi ketentuan bahwa anak-anak yang berumur di bawah sembilan tahun tidak boleh bekerja sebagai buruh perusahaan, mereka hanya boleh bekerja selama sembilan jam dan mendapat pendidikan selama dua jam dari majikan.
+Poor Law (1834), berisi ketentuan tentang pendirian rumah kerja bagi pengemis dan penganggur, rumah perawatan bagi orang cacat, dan pemberian bantuan bagi mereka yang tidak bekerja karena lanjut usia.
+Corn Law (1815 – 1846), berisi ketentuan tentang larangan impor gandum dari luar negeri. Selama melalui proses Revolusi Sosial, kaum buruh semakin sadar bahwa nasib mereka di tangan mereka sendiri dan harus diperjuangkan sendiri. Sebagai wadah perjuangan tersebut, mereka mendirikan serikat pekerja. Pada tahun 1851, muncul serikat pekerja yang sudah tersusun baik, yaitu The Amalgamated Society of Engineers (Persatuan Insinyur). Kelompok ini meninggalkan cara agitasi dan menggunakan cara collective bargaining, yaitu membuat perjanjian kerja yang berlaku untuk semua buruh melalui jalan perundingan dengan majikan. Sejak berdirinya serikat pekerja, kondisi kehidupan buruh mulai dapat terjamin.
+Pengaruh Revolusi Industri di Indonesia
+Telah disebutkan sebelumnya bahwa Revolusi Industri menimbulkan adanya imperialisme modern yang bertujuan mencari bahan mentah, tenaga kerja murah, dan pasar bagi hasil-hasil produksi. Perdagangan bebas melahirkan konsep liberalisme. Hal ini mengimbas pada negara-negara koloni, seperti juga wilayah-wilayah di Asia yang menjadi jajahan bangsa Eropa. Termasuk Indonesia.
+Ketika Thomas Stamford Raffles, gubernur jenderal dari Inggris, berkuasa di Indonesia (1811 – 1816), ia berupaya memperkenalkan prinsip-prinsip liberalisme di Indonesia. Kebijakan yang diberlakukannya, antara lain, memperkenalkan sistem ekonomi uang, memberlakukan pajak sewa tanah untuk memberi kepastian siapa pemilik tanah, menghapus penyerahan wajib, menghapus kerja rodi, serta menghapus perbudakan. Ketika Inggris menyerahkan Indonesia ke tangan Belanda, dibuat perjanjian bahwa Belanda akan tetap memberlakukan perdagangan bebas. Oleh karena itu, banyak perusahaan Inggris yang berdiri di Indonesia. Pengaruh Revolusi Industri juga sampai ke negeri Belanda dan memengaruhi sikap terhadap tanah jajahan. Politik imperialisme Belanda yang awalnya menggunakan caracara kuno, yaitu pemerasan, kekerasan, dan eksploitasi kekayaan Indonesia di kemudian hari mendapat protes dari kaum humanis Belanda yang berpaham liberal. Muncullah politik Etis di Indonesia. Keuntungan yang diperoleh bangsa Indonesia dari perubahan sikap Belanda tersebut adalah sebagai berikut.
+Politik Etis memberi kesempatan pada bangsa Indonesia untuk memperoleh edukasi atau pendidikan sehingga dapat membawa pemikiran yang lebih maju.
+Politik Kolonial Liberal memberi angin kebebasan bagi bangsa Indonesia untuk berhubungan langsung dengan bangsa-bangsa asing lainnya.[gs]
+</field>
+</doc>
+</add>

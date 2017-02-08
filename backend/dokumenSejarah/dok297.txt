@@ -1,0 +1,54 @@
+<add>
+<doc>
+<field name="DOCID">http://www.pengertiansejarah.com/pengertian-revolusi-hijau-latar-belakang-perkembagan-keuntungan-dan-kelemahan.html</field>
+<field name="TITLE">Pengertian Revolusi Hijau, Latar Belakang, Perkembagan, Keuntungan dan Kelemahan</field>
+<field name="TEXT">
+ Pengertian Revolusi Hijau –  Revolusi hijau sering dikenal dengan revolusi agraria yaitu suatu perubahan cara bercocok tanam dari cara tradisional berubah ke cara modern untuk meningkatkan produktivitas pertanian. Definisi lain menyebutkan revolusi hijau adalah revolusi produksi biji-bijian dari penemuan ilmiah berupa benih unggul baru dari varietas gandum, padi, jagung yang membawa dampak tingginya hasil panen. Tujuan revolusi hijau adalah meningkatkan produktivitas pertanian dengan cara penelitian dan eksperimen bibit unggul.
+Adapun latar belakang munculnya revolusi hijau adalah sebagai berikut.
+1. Hancurnya lahan pertanian akibat PD I dan PD II.
+2. Pertambahan penduduk meningkat sehingga kebutuhan pangan juga meningkat.
+3. Adanya lahan tidur.
+4. Upaya peningkatan produksi pangan.
+Gagasan tentang revolusi hijau bermula dari hasil penelitian dan tulisan Thomas Robert Malthus (1766 – 1834) yang berpendapat bahwa “Kemiskinan dan kemelaratan adalah masalah yang dihadapi manusia yang disebabkan oleh tidak seimbangnya pertumbuhan penduduk dengan peningkatan produksi pertanian. Pertumbuhan penduduk sangat cepat dihitung dengan deret ukur (1, 2, 4, 8, 16, 32, 64, 128, dst.) sedangkan peningkatan produksi pertanian dihitung dengan deret hitung (1, 3, 5, 7, 9, 11, 13, 15, dst.)”. Pengaruh tulisan Robert Malthus tersebut, yaitu:
+1. gerakan pengendalian pertumbuhan penduduk dengan cara pengontrolan jumlah kelahiran;
+2. gerakan usaha mencari dan meneliti bibit unggul dalam bidang pertanian.
+Revolusi hijau dimulai sejak berakhirnya PD I yang berakibat hancurnya lahan pertanian. Penelitian disponsori oleh Ford and Rockefeller Foundation di Meksiko, Filipina, India, dan Pakistan. IMWIC (International Maize and Wheat Improvement Centre) merupakan pusat penelitian di Meksiko. Sedangkan di Filipina, IRRI (International Rice Research Institute) berhasil mengembangkan bibit padi baru yang produktif yang disebut padi ajaib atau padi IR-8.
+Pada tahun 1970 dibentuk CGIAR (Consultative Group for International Agriculture Research) yang bertujuan untuk memberikan bantuan kepada berbagai pusat penelitian international. Pada tahun 1970 juga, Norman Borlang  mendapatkan hadiah nobel karena gagasannya mencetuskan revolusi hijau dengan mencari jenis tanaman biji-bijian yang bentuknya cocok untuk mengubah energi surya menjadi karbohidrat pada tanah yang diolah menjadi subur dengan tanaman yang tahan terhadap hama penyakit. Upaya meningkatkan produktivitas pertanian antara lain dengan cara sebagai berikut.
+1. Pembukaan areal pertanian dengan pengolahan tanah.
+2. Mekanisme pertanian dengan penggunaan alat-alat pertanian modern seperti bajak dan mesin penggiling.
+3. Penggunaan pupuk-pupuk baru.
+4. Penggunaan metode yang tepat untuk memberantas hama, misalnya dengan alat penyemprot hama, penggunaan pestisida, herbisida, dan fungisida.
+Perkembangan Revolusi Hijau juga berpengaruh terhadap Indonesia. Upaya peningkatan produktivitas pertanian Indonesia dilakukan dengan cara-cara sebagai berikut.
+a. Intensifikasi Pertanian
+Intensifikasi pertanian yaitu upaya peningkatan produksi pertanian dengan menerapkan formula pancausaha tani (pengolahan tanah, pemilihan bibit unggul, pemupukan, irigasi, dan pemberantasan hama).
+b. Ekstensifikasi Pertanian
+Ekstensifikasi pertanian yaitu upaya peningkatan produksi pertanian dengan memperluas lahan pertanian, biasanya di luar Pulau Jawa.
+c. Diversifikasi Pertanian
+Diversifikasi pertanian yaitu upaya peningkatan produksi pertanian dengan cara penganekaragaman tanaman, misal dengan sistem tumpang sari (di antara lahan sawah ditanami kacang panjang, jagung, dan sebagainya).
+d. Rehabilitasi pertanian
+Rehabilitasi pertanian yaitu upaya peningkatan produksi pertanian dengan cara pemulihan kemampuan daya produktivitas sumber daya pertanian yang sudah kritis.
+Faktor-faktor penyebab timbulnya lahan kritis adalah sebagai berikut.
+1. Penanaman yang terus menerus.
+2. Penggunaan pupuk kimia (pestisida, herbisida).
+3. Erosi karena penebangan liar.
+4. Irigasi yang tidak teratur.
+Upaya untuk memperbaiki lahan pertanian antara lain dilakukan dengan cara-cara sebagai berikut.
+1. Reboisasi untuk kawasan hutan/nonhutan.
+2. Melakukan tebang pilih.
+3. Pembibitan kembali.
+4. Penanaman sejuta pohon.
+5. Penanaman tanah lembah/pegunungan dengan terasering/sengkedan.
+6. Seleksi tanaman (tanaman pelindung/tua).
+Adapun keuntungan dari adanya Revolusi Hijau, adalah berikut ini.
+1. Ditemukannya berbagai jenis tanaman dan biji-bijian/varietas unggul.
+2. Meningkatnya produksi pertanian yang berarti dapat mengatasi pangan.
+3. Pendapatan petani meningkat yang berarti meningkatnya kesejahteraan petani.
+Tahun 1988, Indonesia mendapat penghargaan dari FAO karena berhasil dalam swasembada pangan.
+Sedangkan kelemahan dari Revolusi Hijau adalah berikut ini.
+1. Menghabiskan dana yang besar untuk biaya penelitian.
+2. Menurunnya daya produksi tanah karena ditanami terus menerus.
+3. Polusi tanah dan air akibat penggunaan pupuk pestisida yang berlebihan.
+4. Dengan mekanisasi pertanian mengakibatkan tenaga manusia digantikan mesin.[ps]
+</field>
+</doc>
+</add>

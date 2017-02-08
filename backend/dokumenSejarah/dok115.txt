@@ -1,0 +1,70 @@
+<add>
+<doc>
+<field name="DOCID">http://www.materisma.com/2014/02/sejarah-kerajaan-sriwijaya.html</field>
+<field name="TITLE">Sejarah Kerajaan Sriwijaya (Kehidupan Politik, Ekonomi, Sosial dan Budaya)</field>
+<field name="TEXT">
+Kerajaan Sriwijaya merupakan sebuah kerajaan besar yang terletak di Sumatera Selatan. Menurut para ahli, pusat Kerajaan Sriwijaya ada di Palembang dan diperkirakan telah berdiri pada abad ke-7 M. Sumber sejarah kerajaan Sriwijaya berupa prasasti dan berita Cina. Sumber yang berupa prasasti terdiri atas dua, yaitu prasasti yang berasal dari dalam negeri dan prasasti yang berasal dari luar negeri.
+
+Prasasti yang berasal dari dalam negeri antara lain: prasasti Kedukan Bukit (683 m), Talang Tuwo (684 m), Telaga Batu (683), Kota Kapur (686), Karang Berahi (686), Palas Pasemah dan Amoghapasa (1286). Sementara itu, prasasti yang berasal dari luar negeri antara lain; Ligor (775), Nalanda, Piagam Laiden, Tanjore (1030 M), Canton (1075 M), Grahi (1183 M) dan Chaiya (1230).  Begitu pula sumber naskah dan buku yang berasal dari dalam negeri adalah kitab Pararaton, sedangkan dari luar negeri antara lain kitab memoir dan record karya I-Tsing, Kronik dinasti Tang, Sung, dan Ming, kitab Lingwai-tai-ta karya Chou-ku-fei dan kitab Chu-fon-chi karya Chaou- fu hua. 
+
+Para sejarawan masih berbeda pendapat tentang Sriwijaya yaitu awal berkembang dan berakhirnya serta lokasi ibu kotanya. Menurut Coedes, Sriwijaya berkembang pada abad ke-7 di Palembang dan runtuh pada abad ke-14. Pendapatnya didasarkan pada ditemukannya toponim Shih Li Fo Shih dan San Fo Tsi. Menurutnya Shih Li Fo Shih merupakan perkataan Cina untuk menyebut Sriwijaya. 
+
+Sementara itu, San Fo Tsi yang ada pada sumber Cina dari abad ke-9 sampai dengan abad ke-14 merupakan kependekan dari Shih Li Fo Shih. Slamet Mulyana berpendapat lain, dia setuju dengan pendapat Coedes yang menganggap bahwa Shih Li Fo Shih adalah Sriwijaya, namun San Fo Tsi tidak sama dengan Shih Li Fo Shih. Menurutnya Sriwijaya berkembang sampai abad ke-9, dan sejak itu Sriwijaya berhasil ditaklukkan oleh San Fo Tsi (Swarnabhumi). 
+
+Mengenai ibu kota Sriwijaya, para ahli mendasarkan pendapatnya pada daerah yang disebutkan dalam prasasti Kedukan Bukit yaitu Minanga. Prasasti Kedukan Bukit berangka tahun 604 saka (682 M) ditemukan di daerah Kedukan Bukit, di tepi Sungai Tatang, dekat Palembang.
+
+Adapun isi prasasti Kedukan Bukit, adalah sebagai berikut:
+
+Pada tahun saka 605 hari kesebelas bulan terang bulan waiseka dapunta hyang naik di perahu mengadakan perajalanan pada hari ketujuh bulan terang. Bulan jyestha dapunta hyang berangkat dari minanga. Tambahan beliau membawa tentara dua laksa (20.000), dua ratus koli di perahu, yang berjalan darat seribu, tiga ratus dua belas banyaknya datang di mukha upang, dengan senang hati, pada ghari kelima bulan terang bulan asada, dengan lega gembira datang membuat wanua ... . perajalanan jaya sriwijy memberikan kepuasan.
+
+Poerbacaraka berpendapat bahwa Minanga adalah pertemuan antara sungai Kampar Kanan dan Kampar Kiri, sehingga beliau berpendapat bahwa ibu kota Sriwijaya adalah di Minangkabau. Muhammad Yamin mengartikan Minanga Tanwan adalah air tawar dan Sriwijaya ibu kotanya terletak di Palembang. Bukhori berpendapat sama dengan Muhammad Yamin bahwa ibu kota Sriwijaya terletak di sekitar daerah Palembang
+
+Prasasti Kedukan Bukit isinya menceritakan bahwa pada tanggal 11 Waisaka 604 (23 April 682), Raja Sriwijaya yang bergelar Dapunta Hyang naik perahu memimpin operasi militer. Lalu pada tanggal 7 paro terang bulan Jesta (19 Mei) Dapunta Hyang berangkat dari Minanga Tamwan untuk kembali ke ibu kota. Mereka bersukacita karena pulang dengan kemenangan. Pada tangga 5 Asada (16 Juni) mereka tiba di Muka Upang (sebelah timur Palembang). Sesampai di ibu kota, Dapunta Hyang memerintahkan pembuatan bangunan suci sebagai tanda rasa syukur.
+
+Prasasti Ligor A (775) ditemukan di Muangthai selatan
+
+“Pujian terhadap raja Sriwijaya yang di ibaratkan bagai Mnu yang memberi berkah bagi dunia menyerupai Indra dan semua raja tetangga taat kepadanya ditulis pula pendirian sebuah bangunan batu trisamayacahtya untuk padma, pani, sakyamuni, dan wajrpani”.
+
+Prasasti Ligor B,
+
+Pujian bagi raja yang berhasil menaklukkan musuh-musuhnya dan merupakan wujud kembar dewa kasta yang dengan kekuatannya disebut (sebagai dewa) Wisnu, kedua mematahkan keangkuhan semua musuhnya (Sarwarimadawimthana). Ia adalah keturunan dari (keluarga Syailendra) yang tersohor disebut Srimaharaja.”
+
+Prasasti Ligor yang ditemukan di semenanjung tanah Melayu menceritakan tentang Raja Sriwijaya dan pembangunan trisamayacaithya untuk menyembah dewa-dewa agama Buddha, serta menyebutkan seorang raja bernama Wisnu dengan gelar Sarwarimadawimathana atau pembunuh musuh-musuh yang sombong tiada bersisa. Begitu pula prasasti Nalanda yang dikeluarkan oleh Raja Dewa Paladewa. Isinya menyebutkan tentang pendirian bangunan biara di Nalanda oleh Raja Balaputradewa, Raja Sriwijaya yang menganut agama Buddha.
+
+Daerah kekuasaan Sriwijaya meliputi seluruh Sumatra, sebagian Jawa, Semenanjung Malaya, dan Muangthai Selatan. Dengan menguasai Selat Malaka, Selat Sunda, dan Laut Jawa, Kerajaan Sriwijaya menguasai jalur lalu lintas pelayaran dan perdagangan internasional. Untuk itu penghasilan negara Sriwijaya terutama diperoleh dari perdagangan (komoditas ekspor dan bea cukai kapal-kapal yang singgah di wilayah Sriwijaya). Jadi, kerajaan ini lebih menitikberatkan pada bidang maritim dan perdagangan. 
+
+Sejak pertengahan abad ke-9, Sriwijaya diperintah oleh Dinasti Syailendra. Hal ini dinyatakan dalam prasasti Nalanda di India, yang menguraikan permintaan Raja Balaputradewa dari Sriwijaya kepada Raja Dewapaladewa dari Benggala untuk mendirikan wihara di Nalanda pada tahun 860.  Disebutkan juga dalam prasasti itu, bahwa Balaputradewa adalah putra Samaragrawira, yaitu raja Jawa dari Dinasti Syailendra. Prasasti kota kapur (686 M) isinya tentang cerita peperangan dan sumpah atau kutukan bagi orang-orang yang melanggar peraturan dan kehendak penguasa. Adapun yang lebih menarik tentang isi prasasti ini, ialah bagian terakhir yang berbunyi:
+
+“Tahun saka 608 hari pertama bulan terang bulan waisaka, itulah
+waktunya sumpah ini dipahat, pada waktu itu tentara Sriwijaya
+berangkat tanah Jawa karena tidak mau tunduk kepada Sriwijaya.”
+
+Dari prasasti tersebut dapat ditarik kesimpulan bahwa Sriwijaya pernah ada upaya untuk menaklukkan Jawa. Para ahli menerangkan bahwa kerajaan di Jawa yang ditaklukkan adalah Tarumanegara. Hubungan dengan India tidak bertahan lama, sebab pada awal abad ke-11 Raja Rajendracola dari Kerajaan Colamandala melakukan penyerbuan besar-besaran ke wilayah Sriwijaya, antara lain Kedah, Aceh, Nikobar, Binanga, Melayu, dan Palembang. Berita penyerangan tersebut ada dalam prasasti Tanjore di India Selatan. 
+
+Tetapi, penyerbuan Colamandala dapat dipukul mundur atas bantuan Raja Airlangga dari Jawa Timur. Atas jasanya ini, Airlangga dinikahkan dengan Sanggramawijayatunggadewi, putri Raja Sriwijaya. Kekuatan Sriwijaya mulai menurun setelah berhasil memukul mundur pasukan Colamandala.  Menurunnya kekuatan itu dapat terlihat dari ketidakmampuannya mengawasi dan memberi perlindungan bagi pelayaran dan perdagangan yang ada di perairan Indonesia. Keadaan itu dimanfaatkan juga oleh kerajaan-kerajaan vasal (bawahan) untuk melepaskan diri dari kekuasaan Sriwijaya, seperti yang dilakukan oleh kerajaan Malayu (Jambi). Prasasti Tanjore (1030) yang dikeluarkan oleh Rjendra berisi 
+
+Tentara Colal melakukan serangan dua kali ke beberapa negeri diantaranya ke Sriwijaya, pertama tahun 1015 dan kedua 1025. Pada serangan kedua berhasil menawan rajanya yang bernama Sri Sangramwijaya Tunggawarman, setelah meminta maaf, dia ditakhtakan kembali.
+
+Sementara itu, prasasti Wirarajendra, yang dikeluarkan oleh Raja Cola (1068), berisikan bahwa pasukan Cola menyerang kembali Sriwijaya tahun 1067. Selanjutnya pada abad ke-13 dan ke-14, kebesaran Sriwijaya tidak pernah disebut-sebut lagi dalam sumber-sumber sejarah. Jadi, kapan Kerajaan Sriwijaya mengalami keruntuhan ? Menurut catatan Cina, utusan Sriwijaya terakhir datang ke Cina pada tahun 1178. Selain itu, pada catatan Chufan-chi yang ditulis oleh Chau Ju Kua tahun 1225 disebutkan bahwa Palembang (ibu kota Sriwijaya) telah menjadi negeri taklukan Malayu.
+
+b. Kehidupan ekonomi Kerajaan Sriwijaya
+
+Kerajaan Sriwijaya adalah salah satu kerajaan terbesar di Indonesia pada masa silam. Kerajaan Sriwijaya mampu mengembangkan diri sebagai negara maritim yang pernah menguasai lalu lintas pelayaran dan perdagangan internasional selama berabad-abad dengan menguasai Selat Malaka, Selat Sunda, dan Laut Jawa. Setiap pelayaran dan perdagangan dari Asia Barat ke Asia Timur atau sebaliknya harus melewati wilayah Kerajaan Sriwijaya yang meliputi seluruh Sumatra, sebagian Jawa, Semenanjung Malaysia, dan Muangthai Selatan.  Keadaan ini juga yang membawa penghasilan Kerajaan Sriwijaya terutama diperoleh dari komoditas ekspor dan bea cukai bagi kapal-kapal yang singgah di pelabuhan-pelabuhan milik Sriwijaya. Komoditas ekspor Sriwijaya antara lain kapur barus, cendana, gading gajah, buah-buahan, kapas, cula badak, dan wangi-wangian.
+
+c. Kehidupan sosial-budaya Kerajaan Sriwijaya
+
+Prasasti Amoghpasha (1286) berbunyi 
+“Pada tahun saka 1208 .....tatkala itulah arca paduka amoghappasa lokeswara dengan empat belas pengikutnya serta tujuh ratna permata dibawa dari bhumi Jawa ke suwarnabhumi supaya ditegakan. 
+Sumber sejarah lain mengenai Kerajaan Sriwijaya dapat dilihat dari berita Cina. Berita itu datang dari seorang pendeta yang bernama I-Tsing yang pada tahun 671 berdiam di Sriwijaya untuk belajar tata bahasa Sanskerta sebagai persiapan kunjungannya ke India. I-Tsing menyebutkan bahwa di negeri Sriwijaya dikelilingi oleh benteng. Di negeri ini ada seribu orang pendeta yang belajar agama Buddha.
+
+Seperi halnya di India, para pendeta Cina yang mau belajar agama ke India dianjurkan untuk belajar terlebih dahulu di Sriwijaya selama satu sampai dua tahun. Disebutkan juga bahwa para pendeta yang belajar agama Buddha di Sriwijaya dibimbing oleh seorang guru yang sangat terkenal bernama Sakyakirti. Berdasarkan berita I-Tsing dapat disimpulkan bahwa kerajaan Sriwijaya sejak abad ke-7 M merupakan pusat kegiatan ilmiah agama Buddha di Asia Tenggara.
+
+Prasasti Nalanda berisi tentang pembebasan tanah untuk pendirian sebuah biara atas permintaan raja Swarnadiva, Balaputradewa, cucu raja Jawa berjuluk Wirawairimathana, yang berputra Samaargrawira yang menikahi putri Raja Dharmasetu. Dari prasasti-prasasti tersebut kita dapat menarik kesimpulan bahwa raja sangat memperhatikan dunia pendidikan dalam memajukan dan mengembangkan kerajaannya. Pendidikan yang berbasis pengajaran agama Buddha disatu sisi telah membawa corak kehidupan yang khas pada masyarakat Sriwijaya
+
+d. Kepercayaan Kerajaan Sriwijaya
+
+Kerajaan Sriwijaya merupakan pusat agama Buddha di Asia Tenggara. Hal itu dibuktikan dengan banyaknya biksu yang terdapat di Sriwijaya beserta pusat pendidikannya. Meskipun demikian, tidak menutup kemungkinan, bahwa penduduk yang beragama Hindu terdapat pula di Sriwijaya.  Prasasti Talang Tuo isinya menyebutkan tentang pembuatan kebun Sriksetra atas perintah Dapunta Hyang Sri Jayanasa sebagai suatu pranidhana (na ar). Di samping itu, terdapat doa dan harapan yang menunjukkan sifat agama Buddha. Sebaliknya, prasasti Karang Berahi, prasasti Telaga Batu, dan prasasti Palas Pasemah umumnya berisi doa, kutukan, dan ancaman terhadap orang yang melakukan kejahatan dan tidak taat pada peraturan Raja Sriwijaya.  Adapun penyebab keruntuhan kerajaan Sriwijaya dapat dilihat pada materi Penyebab Runtuhnya Kerajaan Hindu-Buddha di Indonesia
+
+</field>
+</doc>
+</add>

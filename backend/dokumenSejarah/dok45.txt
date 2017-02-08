@@ -1,0 +1,20 @@
+<add>
+<doc>
+<field name="DOCID">http://www.materisma.com/2014/02/peta-jalur-masuk-dan-berkembangnya-hindu-buddha.html</field>
+<field name="TITLE">Peta Jalur Masuk dan Berkembangnya Agama dan Kepercayaan Hindu–Buddha</field>
+<field name="TEXT">
+Peta Jalur Masuk dan Berkembangnya Agama dan Kepercayaan Hindu–Buddha - Pada sekitar abad ke-2 sampai dengan 5 Masehi, diperkirakan telah masuk agama dan kebudayaan Buddha ke Indonesia. Kemudian disusul pengaruh Hindu ke Indonesia pada abad ke-5 Masehi. Agama dan budaya Hindu-Buddha dibawa ke Indonesia oleh para pedagang dan pendeta dari India atau Cina, masuk ke Indonesia mengikuti dua jalur.
+
+a. Melalui Jalur Laut
+
+Para penyebar agama dan budaya Hindu –Buddha yang menggunakan jalur laut datang ke Indonesia mengikuti rombongan kapal-kapal para dagang yang biasa beraktivitas pada jalur India–Cina. Rute perjalanan para penyebar agama dan budaya Hindu Buddha, yaitu dari India menuju Myanmar, Thailand, Semenanjung Malaya, kemudian ke Nusantara. 
+
+Sementara itu, dari Semenanjung Malaya ada yang terus ke Kamboja, Vietnam, Cina, Korea, dan Jepang. Di antara mereka ada yang langsung dari India menuju Indonesia dengan memanfaatkan bertiupnya angin muson barat.
+
+b. Melalui Jalur Darat
+
+Para penyebar agama dan budaya Hindu –Buddha yang menggunakan jalur darat mengikuti para pedagang melalui Jalan Sutra, dari India ke Tibet terus ke utara sampai dengan Cina, Korea, dan Jepang. Ada juga yang melakukan perjalanan dari India utara menuju Bangladesh, Myanmar, Thailand, Semenanjung Malaya kemudian berlayar menuju Indonesia.
+
+</field>
+</doc>
+</add>

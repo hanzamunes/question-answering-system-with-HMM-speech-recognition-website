@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name="DOCID">http://www.pengertiansejarah.com/sejarah-pokok-pokok-penting-pesan-jakarta-jakarta-message.html</field>
+<field name="TITLE">Sejarah Pokok Pokok Penting Pesan Jakarta (Jakarta Message)</field>
+<field name="TEXT">
+Sejarah Pokok Pokok Penting Pesan Jakarta (Jakarta Message) – Pada kesempatan ini admin Pengertian Sejarah akan berbagi tentang Sejarah Pokok Pokok Penting Pesan Jakarta (Jakarta Message), sebelumnya admin juga sudah berbagi tentang Sejarah Bentuk Organisasi Gerakan Non Blok.
+Para pemimpin negara-negara anggota Gerakan Non Blok (GNB) mengakhiri KTT X dengan menelorkan sebuah ”Jakarta Massage“ (Pesan Jakarta). Berikut ini pokok-pokok penting dari 27 pesan.
+1. Gerakan Non Blok telah membantu memperbaiki iklim politik internasional pada akhir Perang Dingin, dengan mempertahankan “validitas dan relevasi”Nonblok. Melalui dialog dan kerja sama, akan memproyeksikan gerakan sebagai sebuah semangat, komponen yang saling bergantung yang konstruktif dan sungguh-sungguh dari arus hubungan internasional.
+2. Dunia masih menghadapi hambatan-hambatan berbahaya untuk menyelaraskan seperti halnya konflik-konflik kekerasan, agresi, dan pencaplokan negara lain, perselisihan antaretnik, bentuk-bentuk baru rasisme, ketidaktoleransian agama dan nasionalisme yang diartikan secara sempit.
+3. Gerakan Non Blok akan membentuk sebuah kelompok untuk memainkan sebuah peran penting dalam membangkitkan kembali, reinstrukturisasi dan demokratisasi PBB. Para anggota mendesak agar kelima anggota tetap DK PBB membuang hak veto dan meraka mengatakan bahwa keanggotaan DK PBB harus didefinisikan kembali agar mencerminkan perubahan setelah berakhirnya Perang Dingin.
+4. Menyerukan perang terhadap keadaan di bawah perkembangan, kemiskinan dan kebodohan, dengan mengatakan bahwa mereka harus menghancurkan beban utang (luar negeri), proteksionisme, rendahnya harga-harga komoditas dan mengecilkan gangguan arus uang negaranegara miskin.
+5. Hal itu menimbulkan kecemasan tentang kegagalan untuk menyelesaikan perundingan perdagangan multilateral dan menyerukan negaranegara maju untuk menguatkan penyelesaian yang memuaskan putaran Uruguay.
+6. Untuk meningkatkan kerja sama Selatan–Selatan, GNB mendesak dilakukannya kerja sama yang kongkrit dan praktis dalam hal produksi makanan dan penduduk, perdagangan dan investasi untuk memahami rasa percaya diri secara bersama-sama.
+7. Pada bagian lain menganggap koordinasi atas upaya dan strategi dengan kelompok 77 (forum ekonomi negara-negara berkembang) mengenai kepentingan-kepentingan yang mendesak melalui komite koordinasi gabungan yang mantap.
+8. Juga diserukan “Persekutuan-persekutuan Global yang baru dalam menyeimbangkan sumber keuangan untuk negara-negara miskin dan alih teknologi lingkungan lebih besar.”
+9. GNB juga menyatakan memberi dukungan yang pantang mundur kepada rakyat Palestina untuk berupaya menentukan nasib sendiri dan mengakhiri diskriminasi rasial di Afrika selatan.
+10. Tidak ada negara yang boleh menggunakan kekuatannya untuk memaksakan konsep-konsep demokrasi dan hak-hak asasi manusia yang mereka anut kepada negara lain atau menerapkannya sebagai syarat (pemberian bantuan).
+11. GNB berjanji untuk tetap memegang teguh komitmen meraka dalam mengupayakan sebuah dunia yang bebas nuklir. Mereka juga menyatakan keprihatian yang dalam atas pemakaian dana secara besar-besaran untuk persenjataan, padahal dana tersebut mestinya bisa disalurkan untuk pembangunan.
+</field>
+</doc>
+</add>

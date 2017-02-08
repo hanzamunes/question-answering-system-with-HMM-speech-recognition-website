@@ -1,0 +1,19 @@
+<add>
+<doc>
+<field name="DOCID">http://www.pengertiansejarah.com/ciri-ciri-pokok-kebijakan-pemerintahan-orde-baru.html</field>
+<field name="TITLE">Ciri-Ciri Pokok Kebijakan Pemerintahan Orde Baru</field>
+<field name="TEXT">
+Ciri-Ciri Pokok Kebijakan Pemerintahan Orde Baru –  Sebagai langkah awal untuk menciptakan stabilitas nasional, Sidang Umum IV MPRS telah memutuskan untuk menugaskan Letjen. Soeharto selaku pengemban Surat Perintah 11 Maret 1966 atau Supersemar yang sudah ditingkatkan menjadi Ketetapan MPRS No. IX/ MPRS untuk membentuk kabinet baru. Dibentuk Kabinet Ampera yang bertugas:
+1. menciptakan stabilitas politik,
+2. menciptakan stabilitas ekonomi.
+Tugas pokok itulah yang disebut Dwidarma Kabinet Ampera. Program yang dicanangkan Kabinet Ampera disebut Caturkarya Kabinet Ampera, yaitu:
+1. memperbaiki perikehidupan rakyat terutama di bidang sandang dan pangan;
+2. melaksanakan pemilihan umum dalam batas waktu seperti tercantum dalam Ketetapan MPRS No. XI/MPRS/1966 (5 Juli 1968);
+3. melaksanakan politik luar negeri yang bebas dan aktif untuk kepentingan nasional sesuai dengan Ketetapan MPRS No. XI/MPRS/1966;
+4. melanjutkan perjuangan antiimperialisme dan antikolonialisme dalam segala bentuk dan manifestasinya.
+Kabinet Ampera dipimpin oleh Presiden Soekarno, tetapi pelaksanaannya dilakukan oleh Presidium Kabinet. Presidium Kabinet dipimpin oleh Jenderal Soeharto. Jadi, di sini terdapat dualisme kepemimpinan dalam Kabinet Ampera. Akibatnya, perjalanan tugas kabinet kurang lancar yang berarti pula kurang menguntungkan bagi stabilitas politik.
+Pada tanggal 22 Februari 1967 dengan penuh kebijaksanaan, Presiden Soekarno menyerahkan kekuasaan kepada Jenderal Soeharto sebagai pengemban Ketetapan MPRS No. IX/MPRS/1966. Penyerahan kekuasaan tersebut merupakan peristiwa sangat penting dalam usaha mengatasi situasi konflik yang sedang memuncak pada saat itu. Penyerahan itu tertuang dalam Pengumuman Presiden Mandataris MPRS, Panglima Tertinggi ABRI Tanggal 20 Februari 1967. Pengumuman itu didasarkan atas Ketetapan MPRS No. XV/MPRS/1966 yang menyatakan apabila presiden berhalangan, pemegang Surat Perintah 11 Maret 1966 berfungsi sebagai pemegang jabatan presiden.
+Jenderal Soeharto selaku pengemban Ketetapan MPRS No. IX/MPRS/ 1966 pada tanggal 4 Maret 1967 memberikan keterangan pemerintah di hadapan sidang DPRGR mengenai terjadinya penyerahan kekuasaan. Pemerintah tetap berpendirian bahwa penyelesaian konstitusional tentang penyerahan kekuasaan tetap perlu dilaksanakan melalui sidang MPRS. Oleh karena itu, untuk menghindari pertentangan politik yang berlarut-larut, diadakan Sidang Istimewa MPRS dari tanggal 7 sampai dengan 12 Maret 1967 di Jakarta yang berhasil mengakhiri konflik politik. Berdasarkan Tap MPR XXXIII Secara umum, kebijakan pemerintah Orde Baru terdiri atas kebijakan dalam negeri dan kebijakan luar negeri. [ps]
+</field>
+</doc>
+</add>

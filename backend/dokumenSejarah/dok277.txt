@@ -1,0 +1,15 @@
+<add>
+<doc>
+<field name="DOCID">http://www.gurusejarah.com/2015/08/ciri-ciri-pokok-kebijakan-pemerintahan.html</field>
+<field name="TITLE">Ciri-Ciri Pokok Kebijakan Pemerintahan Orde Baru</field>
+<field name="TEXT">
+menciptakan stabilitas politik,
+menciptakan stabilitas ekonomi.
+memperbaiki perikehidupan rakyat terutama di bidang sandang dan pangan;
+melaksanakan pemilihan umum dalam batas waktu seperti tercantum dalam Ketetapan MPRS No. XI/MPRS/1966 (5 Juli 1968);
+melaksanakan politik luar negeri yang bebas dan aktif untuk kepentingan nasional sesuai dengan Ketetapan MPRS No. XI/MPRS/1966;
+melanjutkan perjuangan antiimperialisme dan antikolonialisme dalam segala bentuk dan manifestasinya.
+Pembangunan sektor pertanian diberi prioritas yang sangat tinggi karena menjadi kunci bagi pemenuhan kebutuhan pangan rakyat dan sumber kehidupan sebagian besar masyarakat. Repelita I dapat dilaksanakan dan selesai dengan baik, bahkan berbagai kegiatan pembangunan dipercepat sehingga dapat diikuti  oleh Repelita selanjutnya. Perhatian khusus pada sektor terbesar yang bermanfaat menghidupi rakyat, yaitu sektor pertanian. Sektor pertanian harus dibangun
+</field>
+</doc>
+</add>

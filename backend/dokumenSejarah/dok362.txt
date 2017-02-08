@@ -1,0 +1,23 @@
+<add>
+<doc>
+<field name="DOCID">http://www.pengertiansejarah.com/tindak-lanjut-supersemar.html</field>
+<field name="TITLE">Tindak Lanjut Supersemar</field>
+<field name="TEXT">
+ Tindak Lanjut Supersemar – Sebagai tindak lanjut keluarnya Surat Perintah 11 Maret 1966, Letnan Jenderal Soeharto sebagai pengemban Supersemar segera mengambil tindakan untuk menata kembali kehidupan bermasyarakat, berbangsa, dan bernegara sesuai dengan Pancasila dan UUD 1945, yaitu sebagai berikut.
+1. Tanggal 12 Maret 1966, dikeluarkanlah surat keputusan yang berisi pembubaran dan larangan PKI beserta ormas-ormasnya yang bernaung dan berlindung atau senada dengannya, beraktivitas dan hidup di seluruh wilayah  Indonesia. Keputusan tersebut diperkuat dengan Keputusan Presiden/Pangti ABRI/Mandataris MPRS No.1/3/1966 tangal 12 Maret 1966. Keputusan pembubaran PKI beserta ormas-ormasnya mendapat sambutan dan dukungan dari seluruh rakyat karena merupakan salah satu realisasi dari Tritura.
+2. Tanggal 18 Maret 1966 pengemban Supersemar mengamankan 15 orang menteri yang dinilai tersangkut dalam G 30 S/PKI dan diragukan etika baiknya yang dituangkan dalam Keputusan Presiden No. 5 Tanggal 18 Maret 1966.
+3. Tanggal 27 Maret pengemban Supersemar membentuk Kabinet Dwikora yang disempurnakan untuk menjalankan pemerintahan. Tokoh-tokoh yang duduk di dalam kabinet ini adalah mereka yang jelas tidak terlibat dalam G 30 S/PKI.
+4. Membersihkan lembaga legislatif dimulai dari tokoh-tokoh pimpinan MPRS dan DPRGR yang diduga terlibat G 30 S/PKI. Sebagai tindak lanjut kemudian dibentuk pimpinan DPRGR dan MPRS yang baru. Pimpinan DPRGR baru memberhentikan 62 orang anggota DPRGR yang mewakili PKI dan ormas-ormasnya.
+5. Memisahkan jabatan pimpinan DPRGR dengan jabatan eksekutif sehingga pimpinan DPRGR tidak lagi diberi kedudukan sebagai menteri. MPRS dibersihkan dari unsur-unsur G 30 S/PKI. Seperti halnya dengan DPRGR, keanggotaan PKI dalam MPRS dinyatakan gugur. Sesuai dengan UUD 1945, MPRS mempunyai kedudukan yang lebih tinggi daripada lembaga kepresidenan.
+Tanggal 20 Juni sampai 5 Juli 1966 diadakan Sidang Umum IV MPRS dengan hasil sebagai berikut.
+1. Ketetapan MPRS No. IX/MPRS/1966 tentang Pengesahan dan Pengukuhan Supersemar.
+2. Ketetapan MPRS No. X/MPRS/1966 mengatur Kedudukan LembagaLembaga Negara Tingkat Pusat dan Daerah.
+3. Ketetapan MPRS No. XII/MPRS/1966 tentang Kebijaksanaan Politik Luar Negeri RI Bebas Aktif.
+4. Ketetapan MPRS No. XIII/MPRS/1966 tentang Pembentukan Kabinet Ampera.
+5. Ketetapan MPRS No. XIX/MPRS/1966 tentang Peninjauan Kembali Tap. MPRS yang Bertentangan dengan UUD 1945.
+6. Ketetapan MPRS No. XX/MPRS/1966 tentang Sumber Tertib Hukum RI dan Tata Urutan Perundang-undangan di Indonesia.
+7. Ketetapan MPRS No. XXV/MPRS/1966 tentang Pembubaran PKI dan Pernyataan PKI dan Ormas-Ormasnya sebagai Organisasi Terlarang di Indonesia.
+Dengan berakhirnya Sidang Umum IV MPRS, berarti landasan awal Orde Baru berhasil ditegakkan. Demikian pula dua dari tiga tuntutan rakyat (Tritura) telah dipenuhi, yaitu pembubaran PKI dan pembersihan kabinet dari unsurunsur PKI. Sementara itu, tuntutan ketiga, yaitu penurunan harga yang berarti perbaikan bidang ekonomi belum diwujudkan. Hal itu terjadi karena syarat  mewujudkannya perlu dilakukan dengan pembangunan secara terus-menerus dan membutuhkan waktu yang cukup lama. Pelaksanaan pembangunan agar lancar dan mencapai hasil maksimal memerlukan stabilitas nasional. [ps]
+</field>
+</doc>
+</add>

@@ -1,0 +1,41 @@
+<add>
+<doc>
+<field name="DOCID">http://www.pengertiansejarah.com/proses-masuk-dan-berkembangnya-agama-hindu-buddha-di-indonesia.html</field>
+<field name="TITLE">Proses Masuk dan Berkembangnya Agama Hindu-Buddha di Indonesia</field>
+<field name="TEXT">
+Proses Masuk dan Berkembangnya Agama Hindu-Buddha di Indonesia – Agama dan kebudayaan Hindu-Buddha masuk ke Indonesia melalui kontak perdagangan. Pada awalnya, orang-orang India bersikap aktif dalam perdagangan tersebut. Hal ini menurut Claudius Ptolomeus (Yunani) didorong oleh kekayaan Indonesia akan emas, perak, cengkih, dan lada yang menarik para pedagang mancanegara. Hubungan perdagangan ini telah berlangsung sejak sekitar abad ke-5 M.
+Khusus mengenai penyebaran hinduisme sebagai agama dijelaskan melalui banyak teori.
+1. Teori brahmana
+Teori ini dikemukakan oleh Van Leuryang berpendapat bahwa agama Hindu masuk ke Indonesia dibawa oleh pendeta. Teori ini memiliki kelemahan, yaitu di India ada peraturan bahwa brahmana tidak boleh keluar dari negerinya. Jadi, tidak mungkin mereka dapat menyiarkan agama ke Indonesia.
+2. Teori ksatria
+Teori ini dikemukakan oleh Majumdar, Moekrji, dan Nehru. Mereka berpendapat bahwa agama Hindu masuk ke Indonesia dibawa oleh prajurit yang mengadakan ekspansi. Oleh sebab itu, teori ini sering pula disebut teori kolonisasi. Kelemahan teori ini adalah tidak ada bukti sejarah yang menunjukkan bahwa Indonesia pernah ditaklukkan India.
+3. Teori waisya
+Teori ini dikemukakan oleh Kromyang mengatakan bahwa agama Hindu masuk ke Indonesia dibawa oleh para pedagang, mengingat bahwa sejak tahun 500 SM, Nusantara telah menjadi jalur perdagangan antara India dan Cina. Dalam perjalanan perdagangan inilah diperkirakan para pedagang India itu singgah di Indonesia dan menyebarkan agama Hindu.
+4. Teori sudra
+Teori ini dikemukakan oleh banyak orang. Intinya adalah bahwa agama Hindu dibawa oleh kaum sudra yang datang di Nusantara untuk memperbaiki nasib.
+5. Teori nasional
+Teori ini dikemukakan oleh F.D.K. Boschyang mengatakan bahwa dalam proses penyebaran agama Hindu ini, bangsa Indonesia berperan sangat aktif. Setelah dinobatkan sebagai seorang Hindu, mereka kemudian giat menyebarkan agama Hindu dan segala aktivitasnya. Pendapatnya ini didasarkan pada temuan adanya unsur-unsur budaya India dalam budaya Indonesia. Menurutnya, pada masa itu telah terbentuk golongan cendekiawan yang disebut “Clerk”. Proses akulturasi antara budaya Indonesia dan India disebutnya sebagai proses penyuburan.
+Hal-hal yang dilakukan para brahmana di Indonesia dalam rangka penghinduan, antara lain,
+1. Abhiseka, yaitu upacara penobatan raja,
+2. Vratyastoma, yaitu upacara pencucian diri (pemberian kasta),
+3. Kulapanjika, yaitu memberikan silsilah raja, dan
+4. Castra, yaitu cara membuat mantra.
+6. Teori arus balik
+Menurut teori ini, bangsa Indonesia tidak hanya menerima pengetahuan agama dari orang-orang asing yang datang. Mereka juga aktif mencari ilmu agama di negeri orang dan menyebarkannya setelah kembali ke kampung halamannya.
+Adapun teori mengenai perkembangan kebudayaan Hindu-Buddha India di Asia, khususnya di Nusantara, sebagai berikut.
+1. Kerajaan Kalingga di India pada abad ke-3 ditaklukkan Raja Ashoka dari Arya sehingga banyak warganya yang bermigrasi ke Indonesia.
+2. Invasi (penguasaan) suku Khusana ke Indonesia menyebabkan banyak warganya yang bermigrasi ke Indonesia.
+3. Coedes berpendapat bahwa kontak hinduisme ke Nusantara terjadi karena adanya larangan mencari emas ke Siberia oleh Kaisar Vespasianus. Oleh karena itu, para pedagang India mencari emas ke Swarnadwipa (Sumatra).
+Bukti adanya pengaruh Hindu-Buddha di Indonesia sebagai berikut.
+1. Adanya arca Buddha bergaya amarawati(gaya India Selatan) di Sempaga, Sulawesi Selatan, dan di Jember. Arca di Sempaga merupakan yang tertua. Selain itu, ditemukan pula arca bergaya gandhara(India Utara) di Bukit Siguntang (Sumatra Selatan) dan Kota Bangun, Kutai.
+2. Adanya prasasti berhuruf Pallawa dan berbahasa Sanskerta di Kutai dan Tarumanegara.
+3. Adanya penganut agama Hindu dan Buddha di Indonesia.
+4. Berkembangnya seni patung di Indonesia.
+5. Penggunaan istilah warmansebagai nama raja seperti di India.
+6. Munculnya kerajaan-kerajaan bercorak Hindu-Buddha.
+7. Penggunaan bahasa Sanskerta dan tulisan Pallawa dalam kehidupan masyarakat.
+8. Adanya sistem kemaharajaan.
+9. Adanya kitab-kitab sastra yang bercorak Hindu.
+</field>
+</doc>
+</add>

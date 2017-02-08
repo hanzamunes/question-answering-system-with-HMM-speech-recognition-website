@@ -1,0 +1,24 @@
+<add>
+<doc>
+<field name="DOCID">http://www.pengertiansejarah.com/sejarah-organisasi-militer-bentukan-jepang.html</field>
+<field name="TITLE">Sejarah Organisasi Militer Bentukan Jepang</field>
+<field name="TEXT">
+Sejarah Organisasi Militer Bentukan Jepang – Pada bulan Januari 1942 Jepang menduduki Malaysia, Sumatera, Jawa, dan Sulawesi. Malaysia pada waktu itu dikuasai Sekutu berhasil direbut Jepang. Pada tanggal 24 Januari 1942 Jepang menduduki Tarakan, Balikpapan, dan Kendari. Balikpapan merupakan sumber-sumber minyak maka diserang dengan hati-hati agar tetap utuh, tetapi dibumihanguskan oleh tentara Belanda. Tanggal 3 Februari 1942 Samarinda diduduki pasukan Jepang. Pada waktu itu Samarinda masih dikuasai tentara Hindia Belanda (KNIL). Dengan direbutnya lapangan terbang oleh Jepang, maka tanggal 10 Februari 1942 Banjarmasin dengan mudah dapat diduduki. Pada tanggal 4 Februari 1942 Ambon berhasil diduduki Jepang, kemudian dilanjutkan pada tanggal 14 Februari 1942 menguasai Palembang dan sekitarnya. Dengan jatuhnya Palembang maka dengan mudah Jepang masuk ke Jawa. Dalam penyerbuan-penyerbuan itu Jepang lebih kuat dibanding Sekutu karena Jepang memiliki bantuan kekuatan udara taktis. Sedangkan kekuatan udara Sekutu sudah dihancurkan dalam pertempuran-pertempuran awal di Indonesia maupun Malaya (Malaysia).
+Berikut ini Organisasi Organisasi Militer Bentukan Jepang:
+Heiho
+Heiho merupakan pasukan bentukan tentara Jepang pada masa Perang Dunia II. Pasukan ini dibentuk berdasarkan instruksi Bagian Angkatan Darat Markas Besar Umum Kemaharajaan Jepang pada tanggal 2 September 1942 dan mulai merekrut anggotanya pada tanggal 22 April 1943.
+Heiho merupakan organisasi militer resmi yang dibentuk pada bulan April 1945. Anggotanya adalah para pemuda yang berusia 18 – 25 tahun. Heiho  merupakan barisan pembantu kesatuan angkatan perang dan dimasukkan sebagai bagian dari ketentaraan Jepang. Heiho dijadikan sebagai tenaga kasar yang dibutuhkan dalam peperangan misalnya memindahkan senjata dan peluru dari gudang ke atas truk, serta pemeliharaan senjata lain-lain. Sampai berakhirnya masa pendudukan Jepang jumlah anggota Heiho mencapai 42.000 orang. Prajurit Heiho juga dikirim ke luar negeri untuk menghadapi pasukan Sekutu antara lain ke Malaya (Malaysia), Birma (Myanmar), dan Kepulauan Salomon. Heiho dibubarkan oleh Panitia Persiapan Kemerdekaan Indonesia (PPKI) setelah Jepang menyerah kepada Sekutu.
+Peta
+PETA dibentuk pada tanggal 3 Oktober 1944 atas usul Gotot Mangkupraja kepada Letjend. Kumakici Harada (Panglima Tentara ke-16). PETA di Sumatera dikenal dengan Gyugun. Pembentukan PETA ini berbeda dengan organisasi lain bentukan Jepang. Anggota PETA terdiri atas orang Indonesia yang mendapat pendidikan militer Jepang. PETA bertugas mempertahankan tanah air Indonesia. PETA merupakan tentara garis kedua. Di Jawa dibentuk 50 batalion PETA. Jabatan komando batalion dipegang oleh orang Indonesia tetapi setiap komandan ada pelatih dan penasihat Jepang. Tokoh-tokoh PETA yang terkenal antara lain Supriyadi, Jenderal Sudirman, Jenderal Gatot Subroto, dan Jenderal Ahmad Yani. Pergerakan massa rakyat dalam organisasi-organisasi di atas telah mendorong rakyat memiliki keberanian, sikap mental untuk menentang penjajah, pemahaman terhadap kemerdekaan maupun sikap mental yang mengarah pada terbentuknya nasionalisme.
+Perbedaan Peta dengan Heiho
+Peta
+1. PETA langsung di bawah organisasi Jepang
+2. PETA bertugas sebagai mata mata Jepang
+3. PETA dibentuk bertujuan untuk membantu tentara Jepang berperang melawan sekutu
+Heiho
+1. Prajurit Heiho bagian dari tentara Jepang
+2. Heiho bertugas mengumpulkan pajak dari rakyat
+3. Heiho dibentuk bertujuan untuk membantu tentara Jepang berperang melawan sekutu.
+</field>
+</doc>
+</add>

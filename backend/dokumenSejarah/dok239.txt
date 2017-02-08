@@ -1,0 +1,27 @@
+<add>
+<doc>
+<field name="DOCID">http://www.gurusejarah.com/2015/01/oki-organisasi-konferensi-islam.html</field>
+<field name="TITLE">OKI (Organisasi Konferensi Islam)</field>
+<field name="TEXT">
+OKI (Organisasi Konferensi Islam) Organisasi ini didirikan pada tanggal 25 September 1969 berdasarkan Deklarasi Rabat (Maroko) atas prakarsa Raja Hussein II (Maroko) dan Raja Faisal (Arab Saudi). Sekretaris Jenderal OKI berkedudukan di Jeddah (Arab Saudi)
+Latar Belakang Berdirinya OKI
+Adanya pembakaran Masjid Aqsho oleh Israel
+Didudukinya wilayah negara-negara Arab oleh Israel sampai akibat perang Arab - Israel tahun 1967.
+Didudukinya Yerusalem oleh Israel
+Tujuan Organisasi Konferensi Islam (OKI)
+Meningkatkan kerja sama dan solidaritas Islam antarnegara anggota OKI
+Berusaha melenyapkan perbedaan rasial, diskriminasi, dan kolonialisme
+Mengkoordinasi usaha-usaha untuk melindungi tempat-tempat suci
+Mendukung dan membantu rakyat Palestine untuk mendapatkan hak dan pembebasan tanah air.
+Memperteguh semua perjuangan umat Islam
+Keanggotaan OKI
+Anggota OKI adalah negara-negara Islam dan negara-negara yang mayoritas penduduknya beragama Islam.
+Badan-badan Khusus OKI
+Badan-badan utama yang terdiri dari konferensi para raja/kepala pemerintahan, konferensi para menteri luar negeri, sekretaris Jenderal dan Mahkamah Islam Internasional.
+Komite khusus yang terdiri atas beberapa hal antara lain Komite AI-Quds Yerusalem, Komite tetap Keuangan dan Komite Ekonomi, Sosial, dan budaya.
+Badan-badan Subsider
+Lembaga-lembaga dan organisasi yang bersifat otonom, antara lain The Islamic Development Bank, Islamic Internasional News Agency dan lain sebagainya.
+OKI berkembang cukup pesat dan perjuangannya menunjukkan hasil yang memadai misalnya perjuangan tentang penghapusan apartheid di Afrika Selatan, Khusus Moro, di Filip ina Selatan, Afganistan, dan lain sebagainya. Di samping usaha dalam bidang ekonomi yang berhasil membentuk Dana Konsolidasi Pembangunan Dunia Islam.[gs]
+</field>
+</doc>
+</add>

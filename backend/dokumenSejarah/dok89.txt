@@ -1,0 +1,47 @@
+<add>
+<doc>
+<field name="DOCID">http://www.materisma.com/2014/05/sejarah-kerajaan-makassar-goa-tallo.html</field>
+<field name="TITLE">Sejarah Kerajaan Makassar (Goa-Tallo)</field>
+<field name="TEXT">
+Sejarah Kerajaan Makassar (Goa-Tallo)
+
+a. Kehidupan Politik Kerajaan Makassar
+
+Pada abad ke-17 di Sulawesi Selatan telah muncul beberapa kerajaan kecil, seperti Goa, Tallo, Sopeng, dan Bone. Di antara kerajaan-kerajaan tersebut yang kemudian muncul sebagai kerajaan besar ialah Goa dan Tallo. Keduanya lebih dikenal dengan nama Kerajaan Makassar. 
+
+Faktor yang membawa perkembangan Makassar, antara lain sebagai berikut.
+
+1) Terletak di tepi sungai.
+2) Letak Makasar yang sangat strategis dalam lalu lintas perdagangan Malaka–Maluku.
+3) Jatuhnya Malaka ke tangan Portugis 1511.
+4) Beralihnya sistem pemerintahan di Jawa Tengah ke corak agraris.
+
+Pada tahun 1605 penguasa dari kerajaan kembar Goa dan Tallo memeluk agama Islam setelah menerima dakwah dari Dato Ri Bandang. Raja Tallo bernama Karaeng Mataoya yang bergelar Sultan Abdullah dengan julukan Awalul Islam dan Raja Goa bernama Daeng Manrabia dengan gelar Sultan Alaudin. Pada masa dwitunggal ini giat mengislamkan rakyat. Oleh karena itu, Kerajaan Makassar merupakan kerajaan Islam pertama di Sulawesi Selatan. 
+
+Kerajaan Goa–Tallo (Makassar) berkembang di bawah pemerintahan Muhammad Said (1639–1653) dan mencapai puncak kejayaan pada masa pemerintahan Sultan Hasanuddin (1654–1670). Sultan Hasanuddin mendapat julukan Ayam Jantan dari Timur karena keberaniannya menetang monopoli Belanda. Usaha-usaha penetrasi kekuasaan terhadap Makassar dilakukan oleh VOC dalam rangka melaksanakan politik monopoli perdagangan.
+
+Hubungan Makasar–VOC yang semula baik, kemudian retak dan akhirnya menjadi permusuhan. Pertempuran besar meletus pada tahun 1666 ketika Makassar di bawah pemerintahan Sultan Hasanuddin. Dalam pertempuran ini, VOC di bawah pimpinan Speelman berkoalisi dengan Kapten Jonker dari Ambon dan Aru Palaka Raja Bone.
+
+Perlawanan Hasanuddin berhasil dipatahkan dan para pemimpin yang tidak mau tunduk kepada VOC, seperti Kraeng Galesung dan Montemerano melarikan diri ke Jawa. Sultan Hasanuddin dipaksa menandatangani Perjanjian Bongaya pada tanggal 18 Nopember 1667. Isi Perjanjian Bongaya sangat merugikan rakyat Makassar, seperti berikut ini.
+
+1) Wilayah Makassar terbatas pada Goa. Wilayah Bone dikembalikan kepada Aru Palaka.
+2) Kapal Makassar dilarang berlayar tanpa seizin VOC.
+3) Makassar tertutup untuk semua bangsa, kecuali VOC dengan hak monopolinya.
+4) Semua benteng harus dihancurkan, kecuali satu yakni Benteng Ujung Pandang yang kemudian namanya diganti menjadi Benteng Rotterdam.
+5) Makassar harus mengganti kerugian perang sebesar 250 ribu ringgit. Walaupun Sultan Hasanuddin telah menandatangani perjanjian tersebut, perlawanan terhadap VOC muncul lagi (1667–1669). Makassar berhasil dihancurkan dan selanjutnya dinyatakan sebagai milik VOC.
+
+b. Kehidupan Ekonomi Kerajaan Makassar
+
+Untuk menunjang Makassar sebagai pelabuhan transit dan untuk mencukupi kebutuhannya maka kerajaan ini menguasai daerah-daerah sekitarnya. Di sebelah timur ditaklukanlah Kerajaan Bone, sedangan untuk memperlancar dan memperluas jalan perdagangan, Makasar mengusai daerah-daerah selatan, seperti Pulau Selayar, Buton, Lombok, dan Sumbawa di Nusa Tenggara Barat. Dengan demikian, jalan perdagangan pada waktu musim Barat yang melalui sebelah utara kepulauan Nusa Tenggara dan jalan perdagangan waktu musim Timur yang melalui sebelah selatan dapat dikuasainya.
+
+Makassar berkembang sebagai pelabuhan internasional, banyak pedagang asing, seperti Portugis, Inggris ,dan Denmark berdagang di Makassar. Dengan jenis perahu-perahunya seperti pinisi dan lambo, pedagang Makassar memegang peranan penting dalam perdagangan di Indonesia.  Hal ini menyebabkan mereka berhadapan dengan Belanda sehingga menimbulkan beberapa kali peperangan. Pihak Belanda yang merasa berkuasa atas Maluku sebagai sumber rempah rempah, menganggap Makasar sebagai pelabuhan gelap. Hal itu disebabkan di Makasar dijual belikan rempah-rempah yang berasal dari Maluku.
+
+Untuk mengatur pelayaran dan perniagaan dalam wilayahnya disusunlah hukum niaga dan perniagaan yang disebut Ade Allopioping Bicarance Pabbalu'e dan sebuah naskah lontar karya Amanna Gappa.
+
+c. Aspek Sosial–Budaya Kerajaan Makassar
+
+Mengingat Makaasar sebagai kerajaan maritim dengan sumber kehidupan masyarakat pada aktivitas pelayaran perdagangan maka sebagian besar kebudayaannya dipengaruhi oleh keadaan tersebut. Hasil kebudayaan yang terkenal dari Makasar adalah perahu pinisi dan lambo. Selain itu juga berkembang kebudayaan lain, seperti seni bangun, seni sastra, seni suara, dan sebagainya.
+
+</field>
+</doc>
+</add>

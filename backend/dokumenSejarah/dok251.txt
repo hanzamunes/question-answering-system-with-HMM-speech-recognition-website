@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name="DOCID">http://www.gurusejarah.com/2016/07/perkembangan-situasi-politik-dan.html</field>
+<field name="TITLE">Perkembangan Situasi Politik dan Kenegaraan Indonesia di awal Kemerdekaan</field>
+<field name="TEXT">
+Perkembangan Situasi Politik dan Kenegaraan Indonesia di awal Kemerdekaan - Pada dasarnya, perkembangan situasi politik dan kenegaraan Indonesia pada awal kemerdekaan sangat dipengaruhi oleh pembentukan KNIP serta dikeluarkannya Maklumat Politik 3 November 1945 oleh wakil Presiden Moh. Hatta. Isi maklumat tersebut menekankan pentingnya kemunculan partai-partai politik di Indonesia. Partai politik harus muncul sebelum pemilihan anggota Badan Perwakilan Rakyat yang dilangsungkan pada Januari 1946.
+
+Keragaman Ideologi Partai Politik di Indonesia
+Maklumat Politik 3 November 1945, yang dikeluarkan oleh Moh. Hatta, hadir sebagai sebuah peraturan dari pemerintah Indonesia yang bertujuan mengakomodasi suara rakyat yang majemuk. Akibatnya, munculah partai-partai politik dengan berbagai ideologi. Partai-partai politik tersebut mempunyai arah dan metode pergerakan yang berbeda-beda.
+Di antaranya adalah partai politik berhaluan nasionalis, yaitu PNI penggabungan dari Partai Rakyat Indonesia, Serikat Rakyat Indonesia, dan Gabungan Republik Indonesia yang berdiri pada 29 Januari 1946, dipimpin oleh Sidik Djojosukaro.
+Kemunculan partai-partai berhaluan sosialis-komunis pada walnya merupakan bentuk pertumbuhan demokrasi di Indonesia. Namun, seiring perkembangannya, partai ini menerapkan cara revolusioner yang tidak dapat diterima oleh masyarakat Indonesia.
+Hubungan antara KNIP dan Lembaga Pemerintahan
+Dilatarbelakangi oleh berbagai situasi negara yang genting, seperti keadaan Jakarta di awal 1946, yang sangat rawan oleh teror dan intimidasi pihak asing , mengharuskan para petinggi bangsa untuk memindahkan ibu kota negara ke Yogyakarta pada 4 Januari 1946 untuk sementara waktu.
+Pada dasarnya, posisi wewenang KNIP dikukuhkan melalui Maklumat X, 16 Oktober 1945, yang memberikan kuasa legislatif terhadap badan tersebut. Dengan maklumat itu, KNIP yang dibentuk pada 22 Agustus 1945, berposisi seperti layaknya Dewan Perwakilan Rakyat untuk sementara waktu sebelum dilaksanakannya pemilihan umum untuk memilih anggota Dewan Perwakilan Rakyat yang sebenarnya. Tugas Komisi Nasional Indonesia Pusat (KNIP) adalah membantu dan menjadi pengawas kinerja presiden dalam melaksanakan tugas pemerintahan. KNIP mempunyai kuasa untuk memberikan usulan kebijakan kepada presiden dalam melaksanakan tugas-tugas pemerintahan. Sementara itu, Komite Nasional Indonesia Daerah (KNID) bertugas untuk membantu dan mengawasi jalannya kinerja pemerintahan di tataran lebih rendah daripada presiden, seperti gubernur dan bupati.
+Hubungan antara Keragaman Ideologi dan Pembentukan Lembaga Kepresidenan
+Terdapatnya keragaman ideologi yang terbagi ke dalam golongan nasionalis, agama, dan sosialis-komunis pada era awal kemerdekaan ternyata mengandung implikasi yang signifikan terhadap struktur kepemimpinan negara. Perubahan otoritas KNIP dan munculnya berbagai partai politik di Indonesia menjadi dua katalisator utama terhadap perubahan struktur kekuasaan pemerintahan. Naiknya Sutan Syahrir sebagai Perdana Menteri Indonesia juga memiliki andil dalam perubahan itu.
+Lembaga kepresidenan sendiri telah dibentuk pada 2 September 1945, pada kesempatan itu, Presiden Soekarno membentuk susunan kabinet sebagai pelaksana eksekutif dari lembaga kepresidenan Indonesia. Hal itu merupakan manifestasi dari penguatan lembaga kepresidenan untuk dapat melaksanakan tugas negara dengan optimal.
+Susunan kabinet yang dibentuk pada 2 September 1945, pada dasarnya, mencerminkan komposisi yang mewakili keragaman ideologi di Indonesia. Meskipun partai-partai politik baru bermunculan, setelah dikeluarkannya Maklumat 3 November 1945, kondisi keragaman ideologi ini telah berperan besar dalam susunan lembaga kepresidenan negara.[gs]
+</field>
+</doc>
+</add>

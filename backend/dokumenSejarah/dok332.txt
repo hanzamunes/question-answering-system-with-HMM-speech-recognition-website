@@ -1,0 +1,10 @@
+<add>
+<doc>
+<field name="DOCID">http://www.pengertiansejarah.com/sejarah-kerajaan-melayu.html</field>
+<field name="TITLE">Sejarah Kerajaan Melayu</field>
+<field name="TEXT">
+Sejarah Kerajaan Melayu – Kerajaan Melayu adalah salah satu kerajaan tertua di Sumatra. Menurut berita Cina, ketika I-Tsing akan pergi ke India, selain singgah di Jawa ia juga singgah di Sumatra. Salah satunya adalah di Kerajaan Melayu. Namun, ketika pada tahun 692 ia kembali dari India dan singgah di Sumatra, Kerajaan Melayu telah ditaklukkan oleh Sriwijaya. Berita lain dari Cina menyebutkan bahwa pada tahun 644 datang utusan dari negeri Mo-lo-yeu ke Cina untuk membawa hasil bumi sebagai persembahan dan perkenalan. Bukti lain keberadaan Kerajaan Melayu adalah kitab Negarakertagamadan Pararaton yang menyebutkan bahwa Raja Kertanegara (Singasari) mengirim pasukan tentaranya ke Melayu dalam Ekspedisi Melayu untuk mempererat persahabatan Singasari – Melayu dalam rangka menghadapi ancaman Cina yang saat itu dipimpin Kubhilai Khan. Dalam ekspedisi itu Raja Kertanegara mempersembahkan arca Buddha Amogapasa yang kemudian ditempatkan di Dharmasraya. Pemberian ini membuat Raja Melayu, Sri Manliwarmadewa sangat senang.
+Kerajaan Melayu sempat hilang dari pemberitaan dan baru muncul kembali sebagai kerajaan merdeka di masa pemerintahan Raja Adityawarman pada abad ke-14. Adityawarman adalah keturunan keluarga Majapahit yang sebelum menjadi raja di Melayu sempat menjabat sebagai Wredha Menteri (Menteri Tua) pada masa pemerintahan Tribhuwanatunggadewi. Sebagai raja, ia bergelar Aryadewa Rajapu Aditya. Pada masa pemerintahannya, Kerajaan Melayu mencapai kejayaan. Kekuasaannya sampai di Pagarruyung, Sumatra Barat, dan ibu kotanya dipindahkan ke Minangkabau sekarang. Salah satu peninggalannya adalah candi Muara Takus. Candi ini bercorak Buddha sebab Adityawarman adalah seorang penganut Buddha.
+</field>
+</doc>
+</add>

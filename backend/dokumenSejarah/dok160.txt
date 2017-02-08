@@ -1,0 +1,17 @@
+<add>
+<doc>
+<field name="DOCID">http://www.gurusejarah.com/2015/01/pemerintahan-militer-jepang-di-indonesia.html</field>
+<field name="TITLE">Pemerintahan Militer Jepang di Indonesia</field>
+<field name="TEXT">
+Pemerintahan Militer Jepang di Indonesia - Di Indonesia, tentara Jepang masuk di awali dengan menguasai Tarakan selanjutnya menguasai Balikpapan, Pontianak, Banjarmasin, Palembang, Batavia (Jakarta), Bogor terus ke Subang, dan terakhir Kalijati. Dalam waktu yang singkat Indonesia telah jatuh ke tangan Jepang.
+Penyerahan tanpa syarat oleh Letjen H. Ter Poorten selaku Panglima Angkatan Perang Hindia Belanda atas nama Angkatan Perang Sekutu kepada Angkatan Perang Jepang di bawah pimpinan Letjen Hitosyi Imamura pada tanggal 8 Maret 1942 di Kalijati menandai berakhirnya kekuasaan pemerintahan Belanda di Indonesia dan digantikan oleh kekuasaan Kemaharajaan Jepang.
+Pemerintahan militer Jepang di Indonesia terbagi atas tiga wilayah kekuasaan berikut :
+Tentara XVI (Rikugun/Angkatan Darat) memerintah atas wilayah Jawa dan Madura yang berpusat di Jakarta.
+Tentara XXV (Rikugun /Angkatan Darat) memerintah atas wilayah Sumatra yang berpusat di Bukittinggi.
+Armada Selatan II (kaigun/Angkatan Laut) memerintah atas wilayah Kalimantan, Sulawesi, Nusa Tenggara, Maluku, dan Papua berpusat di Makassar.
+Pemerintahan pada wilayah masing-masing tersebut dipimpin oleh kepala staf tentara/armada dengan gelar gunseikan (kepala pemerintahan militer) dan staf pemerintahan militer disebut gunseikanbu.
+Susunan pemerintahan militer Jepang sebagai berikut.
+
+</field>
+</doc>
+</add>

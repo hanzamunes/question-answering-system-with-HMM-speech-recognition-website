@@ -1,0 +1,43 @@
+<add>
+<doc>
+<field name="DOCID">http://www.materisma.com/2014/01/perkembangan-nasionalisme-turki.html</field>
+<field name="TITLE">Perkembangan Nasionalisme Turki</field>
+<field name="TEXT">
+Perkembangan Nasionalisme Turki
+a. Kemunduran Turki Usmani
+
+Kerajaan Turki Usmani yang pernah mencapai puncak kejayaannya pada abad ke-19 terus mengalami kemunduran sampai akhirnya mendapat julukan The Sick Man. Hal ini disebabkan oleh berikut ini.
+
+1) Tidak ada lagi sultan-sultan yang kuat dan besar.
+2) Intrik-intrik dalam istana semakin merajalela.
+3) Tentara Janisari yang terkenal telah merosot martabatnya menjadi pengacau kerajaan daripada pembela kerajaan.
+4) Pemerintahan yang lemah dan kacau mengakibatkan adanya Krisis Gezag sehingga negara-negara bagian berani mengadakan pemberontakan untuk melepaskan diri dari Turki.
+5) Revolusi Prancis mengilhami negara-negara bagian untuk merdeka (seperti, Yunani, Bulgaria, Serbia, Rumania, dan Mesir).
+b. Masalah Timur
+Kelemahan Turki kemudian dimanfaatkan oleh negara-negara imperialisme Barat untuk menguasai jajahan Turki atau menghancurkan Turki sekaligus. Adanya perbenturan kepentingan antara negar -negara Barat mengenai status Turki dan daerah jajahan inilah yang menimbulkan “Masalah Timur” (The Eastren Question ).
+c. Timbulnya Nasionalisme Turki
+
+Sebab-sebab timbulnya nasionalisme Turki adalah sebagai berikut.
+
+1) Kekuasaan Turki Usmani yang semakin merosot.
+2) Adanya pengaruh dari Revolusi Prancis dengan semboyannya liberte, egalite, dan fraternite.
+3) Timbulnya kaum terpelajar yang berpaham modern sehingga mereka mengetahui apa itu liberalisme, nasionalisme, dan demokrasi.
+4) KIegiatan bangsa Barat yang semakin gencar untuk merebut daerah-daerah jajahan Turki dan siap menghancurkan Turki.
+
+Dalam situasi demikian itulah, akhirnya mendorong timbulnya semangat nasionalisme terutama di kalangan tokoh-tokoh muda untuk mengadakan pembaharuan di segala bidang. Tokohnya, antara lain Kemal Pasha, Midhat Pasha, Rasjid Pasha, dan Ali Pasha. Pada tahun 1906, dibawah pimpinan Kemal Pasha berdirilah perkumpulan Tanah Air dan Kemerdekaan dan pada tahun l908 tumbuh menjadi Gerakan Turki Muda. 
+
+1) menyelamatkan Turki dari keruntuhan total;
+2) menanamkan semangat nasionalisme di kalangan rakyat;
+3) mengadakan perbaikan sosial, ekonomi dan budaya;
+4) mengadakan pembaharuan organisasi pemerintahan.
+d. Turki dalam Perang Dunia I
+
+Selama Perang Dunia I, pemerintah Turki didominasi oleh Gerakan Turki Muda. Dalam Perang Dunia I, Turki memihak kepada Jerman (Sentral) dan ikut serta membendung serangan Rusia, Inggris, dan Prancis ke Laut Tengah. Sekutu menyerang Dardanella, tetapi dapat digagalkan oleh Mustafa Kemal Pasha dalam pe-tempuran di Gallipoli. Itulah sebabnya, Mustafa Kemal Pasha disebut Pahlawan Gallipoli. Sejak itulah Sekutu tidak berani menerobos Dardanella.
+
+Perang Dunia I berakhir dengan kekalahan di pihak blok Sentral, sehingga terjadilah Perjanjian Sevres (20 Agustus 1920) antara Sekutu dan Turki. Akan tetapi, pemimpin Turki Muda tidak mau menyerah begitu saja. Tampillah The Strong Man Turki, yakni Mustafa Kemal Pasha yang menentang Sekutu dan tidak mau mengakui Perjanjian Sevres yang dibuat dengan Sultan. Ia memimpin gerakan revolusi dan berhasil menurunkan Sultan Muhammad V dari takhtanya (1 November 1923). Selanjutnya, ia memperbarui Perjanjian Sevres dengan Perjanjian Lausanne yang isinya tidak begitu merugikan Turki.
+
+Tepat pada tanggal 29 Oktober 1923 secara resmi diumumkan proklamasi kemerdekaan Turki. Sejak itu Kerajaan Turki Usmani yang ortodok dihapuskan dan digantikan dengan Republik Turki yang modern. Ankara dijadikan sebagai ibu kotanya. Sebagai presiden pertama ialah Mustafa Kemal Pasha atau disebut juga Kemal Pasha Attaturk (Bapak Bangsa Turki). Ismet Pasha atau Ismet Inonu sebagai perdana menterinya.
+
+</field>
+</doc>
+</add>

@@ -1,0 +1,15 @@
+<add>
+<doc>
+<field name="DOCID">http://www.gurusejarah.com/2015/03/perjanjian-linggarjati.html</field>
+<field name="TITLE">Perjanjian Linggarjati</field>
+<field name="TEXT">
+Perundingan Linggarjati - Masuknya AFNEI yang memboncengi NICA ke Indonesia sebab Jepang menetapkan status quo di Indonesia menyebabkan erjadinya konflik antara Indonesia dengan Belanda, semacam contohnya Momen 10 November, tidak hanya itu pemerintah Inggris menjadi penanggung jawab untuk menyelesaikan konflik politik serta militer di Asia, oleh sebab itu, Sir Archibald Clark Kerr, diplomat Inggris, mengajak Indonesia serta Belanda untuk berunding di Hooge Veluwe, tetapi perundingan tersebut gagal sebab Indonesia meminta Belanda mengakui kedaulatannya atas Jawa, Sumatera serta Madura, tetapi Belanda hanya mau mengakui Indonesia atas Jawa serta Madura saja.
+Pada akhir Agustus 1946, pemerintah Inggris mengirimkan Lord Killearn ke Indonesia untuk menyelesaikan perundingan antara Indonesia dengan Belanda. Pada tanggal 7 Oktober 1946 bertempat di Konsulat Jenderal Inggris di Jakarta dibuka perundingan Indonesia-Belanda dengan dipimpin oleh Lord Killearn. Perundingan ini menghasilkan persetujuan gencatan senjata (14 Oktober) serta meratakan jalan ke arah perundingan di Linggarjati yang dimulai tanggal 11 November 1946.
+Linggarjati merupakan kota kecil yang berda dikurang lebih 21 km sebelah barat Cirebon. Perundingan Linggarjati dilaksanakan pada tanggal 10-15 November 1946. dalam perundingan Linggarjati delegasi Indonesia dipimpin perdana Menteri Sutan Syahrir, sedangkan delegasi Belanda diwakili oleh Prof. S. Schemerhorn serta Dr. H,J. Van. Mook. Penengah serta pemimpin perundingan dari pihak Inggris, yaitu Lord Killeam. Hasil perundingan diumumkan pada tanggal 15 November 1946 serta sudah tersusun sebagai naskah persetujuan yang terdiri atas 17 pasal, antara lain berisi sebagai berikut:
+Belanda mengakui dengan cara de facto Republik Indonesia dengan wilayah kekuasaan yang meliputi Sumatra, Jawa serta Madura. Belanda wajib meninggalkan wilayah de facto paling lambat 1 Januari 1949.
+Republik Indonesia serta Belanda bakal bekerja sama dalam membentuk Negara Indonesia Serikat, dengan nama Republik Indonesia Serikat, yang salah satu tahapnya merupakan Republik Indonesia
+Republik Indonesia Serikat serta Belanda bakal membentuk Uni Indonesia - Belanda dengan Ratu Belanda sebagai ketuanya.
+Hasil perundingan Linggarjati menimulkan beberapa pendapat pro serta kontra di kalngan partai politik di Indonesia. Perundingan Linggarjati memenyesalkan pihak Reopublik Indonesia krena wilayahnya terus sempit, yaitu hanya meliputi Jawa, Madura serta Sumatera. Faktor ini menyebababkan terjadinya pergolakan di Bali Novmber 1946 dibawah ceo Letnan Kolonel Gusti Ngurah Rai, dengan perang puputan/ perang habis-habisan (puputan Margarana ) serta pertempuran Manado dipimpin Letkol Taulu yang dibantu oleh Residen Lapian melawan tentara KNIL (Belanda).[gs]
+</field>
+</doc>
+</add>

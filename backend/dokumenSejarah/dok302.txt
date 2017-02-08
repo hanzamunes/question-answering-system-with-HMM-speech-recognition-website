@@ -1,0 +1,26 @@
+<add>
+<doc>
+<field name="DOCID">http://www.pengertiansejarah.com/perkembangan-tradisi-hindu-buddha.html</field>
+<field name="TITLE">Perkembangan Tradisi Hindu-Buddha</field>
+<field name="TEXT">
+Perkembangan Tradisi Hindu-Buddha – Pada masa berkembangnya agama Hindu-Buddha di Nusantara, tradisi HinduBuddha mengalami perkembangan yang cukup pesat di wilayah Nusantara dalam berbagai sektor sebagai berikut.
+1. Sistem struktur sosial masyarakat
+Masuk dan berkembangnya agama Hindu di Indonesia memengaruhi sektor kehidupan masyarakat Indonesia, termasuk sistem dan struktur sosial masyarakatnya. Pengaruhnya dapat dilihat melalui diterapkannya sistem pembagian kasta pada masyarakat Indonesia. Sistem pembagian kasta di Indonesia tidak seperti yang ada di India, akan tetapi merupakan sistem pengelompokan masyarakat melalui tingkatantingkatan kehidupan masyarakat dan berlaku turun temurun. Hal ini untuk menunjukkan status sosial dalam masyarakat Indonesia. Sementara itu, di India perbedaan sistem kasta sangat mendasar sebab untuk membedakan status sosial antara golongan Arya dan Dravida.
+Pada masyarakat Indonesia yang mendapat pengaruh Buddha muncul pembagian kelompok masyarakat bhiksu dan bhiksuni, yaitu kelompok masyarakat yang tinggal di wihara-wihara dan hidup mementingkan rohani saja, tata kehidupan duniawi mulai ditinggalkan. Kelompok masyarakat yang lain adalah kelompok masyarakat umum, yakni kelompok masyarakat yang masih mementingkan hidup duniawi. Sistem dan struktur masyarakat Indonesia yang mendapat pengaruh Hindu-Buddha berkembang pada masa Kerajaan Sriwijaya dan Kerajaan Mataram. Kerajaan Sriwijaya merupakan kerajaan maritim di mana kehidupan rakyatnya banyak bergantung pada kelautan. Sriwijaya banyak menguasai jalur-jalur dan pusat perdagangan maka Sriwijaya menjadi kerajaan yang besar dan penting, karenanya menjadi kerajaan nasional yang pertama di Nusantara.
+Kerajaan Mataram Hindu terdiri atas daerah pusat yang dikenal dengan ibu kota kerajaan (tempat tinggal raja, putra raja, kerabat dekat raja, serta pejabat tinggi kerajaan) dan daerah watak, yaitu daerah yang dikuasai para rakai atau pamgat yang berkedudukan sebagai pegawai tinggi kerajaan yang berkedudukan turun-temurun.
+2. Pemerintahan
+Sebelum pengaruh Hindu ke Nusantara, bangsa Indonesia sudah mengenal sistem pemerintahan, yakni dari seorang kepala suku dikenal bentuk kesukuan, seorang kepala suku menduduki jabatannya berdasarkan kemampuan yang dimiliki, maka ia pemimpin yang dipilih oleh kelompok sukunya secara demokratis. Mereka memiliki kelebihan dalam anggota kelompoknya.
+Masuk dan berkembangnya agama Hindu dan Buddha di Indonesia membawa pengaruh yakni mulai lahirnya kerajaan. Kerajaan Hindu pertama di Indonesia adalah Kerajaan Kutai dengan rajanya Mulawarman. Raja berkuasa secara turun temurun sehingga keluarga raja memiliki kehormatan di tengah-tengah masyarakat negara. Raja memiliki kekuasaan tunggal, tidak ada lembaga yang mampu menandingi kekuasaan raja.
+3. Kesenian
+Perkembangan bidang kesenian tampak sekali dalam seni bangunan, seni rupa, dan seni sastra.
+1. Seni bangunan yakni adanya bangunan candi Hindu dan candi Buddha yang banyak ditemukan di Nusantara. Dasar pembangunan candi berasal dari zaman megalitikum sehingga candi-candi yang ada di Nusantara memiliki bentuk bangunan yang megah serta punden berundak seperti yang tampak pada candi Borobudur.
+2. Seni rupa, seni lukis yang masuk ke Nusantara berkembang, ditandai dengan ditemukannya patung Buddha berlanggam Gandara di Kota Bangun Kutai, dan patung Buddha berlanggam Amarawati yang ditemukan di Sulawesi, adanya hiasan perahu yang menunjukkan majunya seni di Nusantara saat itu serta pada dinding candi Prambanan kita jumpai relief Ramayana.
+3. Dalam bidang sastra, seni sastra Hindu banyak kita jumpai pada prasasti-prasasti serta kitab-kitab sastra. Banyak prasasti di Nusantara menggunakan bahasa Sanskerta bahkan kitab-kitab sastra zaman Hindu dominan menggunakan bahasa tersebut dan tulisan Palawa.
+4. Perkembangan teknologi
+Kemajuan teknologi sangat besar pengaruhnya terhadap kehidupan sosial dan budaya masyarakat. Sebelum pengaruh Hindu masuk ke Nusantara bangsa Indonesia sudah memiliki teknologi yang tinggi khususnya dalam pembuatan alat kehidupan baik yang terbuat dari batu atau logam.
+Setelah adanya pengaruh Hindu, teknologi semakin maju, misalnya pembuatan candi. Jika dibandingkan dengan candi-candi di India maka candi di Indonesia jauh lebih megah dan kokoh seperti candi Borobudur, candi Prambanan. Dengan demikian, bangsa Indonesia memiliki pengetahuan teknologi yang sudah tinggi.
+5. Perkembangan pendidikan
+Pendidikan berkembang pesat setelah adanya pengaruh Hindu, yakni masyarakat mendapat pendidikan yang dilakukan para pendeta Hindu dan Buddha. Mereka ada yang berguru kepada pendeta dengan pergi ke rumah-rumah pendeta atau berada di tempat khusus seperti wihara-wihara. Kaum Brahmana yang memberikan pendidikan serta mengajarkan agama Hindu kepada masyarakat di daerah-daerah membuka tempat-tempat pendidikan yang dikenal Pasraman. Di Pasraman inilah, masyarakat Indonesia mendapatkan berbagai pengetahuan yang diajarkan para Brahmana.
+</field>
+</doc>
+</add>

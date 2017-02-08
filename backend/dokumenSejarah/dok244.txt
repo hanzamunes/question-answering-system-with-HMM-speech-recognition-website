@@ -1,0 +1,11 @@
+<add>
+<doc>
+<field name="DOCID">http://www.gurusejarah.com/2015/01/suwirjo.html</field>
+<field name="TITLE">Suwiryo Walikota Jakarta Sewaktu Proklamasi</field>
+<field name="TEXT">
+Suwiryo Walikota Jakarta Sewaktu Proklamasi Suwirjo dikenal sebagai Gubernur Jakarta pertama untuk periode masa jabatan 1945 – 1951. Suwiryo lahir di Wonogiri, Jawa Tengah pada tahun 1903. 
+Ia menjabat sebagai gubernur dalam masa pergolakan mempertahankan kemerdekaan, sehingga ia pernah ditangkap Belanda. Dalam masa kepemimpinannya Suwiryo yang berlangsung pada tahun 1945- 1947ia ditangkap Belanda. Setelah bebas dari tahanan Belanda, kemudian ia melanjutkan pemerintahan pada tahun 1950-1951.
+eliau adalah walikota Jakarta Raya yang mengusahakan kegiatan upacara proklamasi dan pembacaan proklamasi berjalan aman dan lancar.[gs]
+</field>
+</doc>
+</add>

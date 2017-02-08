@@ -1,0 +1,20 @@
+<add>
+<doc>
+<field name="DOCID">http://www.gurusejarah.com/2015/01/pemilihan-umum-1955.html</field>
+<field name="TITLE">Pemilihan Umum 1955</field>
+<field name="TEXT">
+Pemilihan Umum 1955 Pada tanggal 22 Agustus 1945 (Presiden mengumumkan bahwa sistem kepartaian RI adalah partai tunggal dengan Partai Nasional Indonesia (PNI) sebagai satu-satunya organisasi politik di Indonesia, akan tetapi sistem ini tidak dapat dilaksanakan. Kemudian atas usul BP KNIP bahwa rakyat diberi kesempatan seluas-luasnya untuk mendirikan partai politik, maka pada tanggal 3 November 1945 pemerintah mengeluarkan maklumat tentang pembentukan partai-partai Indonesia. Berdasarkan maklumat yang ditandatangani oleh Wapres tersebut, terbentuk partai-partai politik sebagai berikut:
+Masyumi berdiri 7 November 1945 dipimpin oleh Dr. Sukiman Wiryosanjoyo
+PKI, berdiri 7 November 1945 dipimpin oleh Mr. Moh. Yusuf
+Partai Buruh Indonesia (PBI), berdoro 8 Nopember 1945 dipimpin oleh Nyono
+Partai Rakyat Jelata (PRJ), berdiri 8 Nopember 1945 dipimpin oleh Sutan Dewanis
+Partai Kristen Indonesia (Parkindo), berdiri 10 November 1945 dipimpin oleh D.S Probowinoto
+Partai Sosialis Indonesia (PSI), berdiri 7 Desember1945 dipimpin oleh Mr. Amir Syarifudin
+Partai Rakyat Sosial (PRS), berdiri 20 Nopember 9445 oleh Sutan Syahrir
+Partai Katolik Republik Indosia (PKRI), berdiri 7 Desember 1945 oleh I.J. Kasimo
+Persatuan Rakyat Marhain Indonesia (Permai), berdiri 7 Desember 1945 oleh J.B. Assa
+Partai Nasional Indonesia (PNI), berdiri 29 Januari 1946 dipimpin oleh Sidik Joyosukarto
+Pemilu I setelah Indonesia merdeka baru dapat terlaksana pada tahun 1955, yaitu pada masa Kabinet Burhanuddin Harahap. Kabinet ini merupakan kabinet koalisi antara partai  Partai Masyumi, PSII, NU, PSI, Partai Katolik, dan Parkindo. Pemilu  I bertujuan untuk memilih anggota DPR dan anggota Dewan Konstituante. Pemilihan anggota DPR dilaksanakan pada tanggal 29 September 1955.. Pelantikan anggota DPR dilaksanakan pada tanggal pada tanggal 15 Desember 1955 dan dilantik pada tanggal 10 Nopember 1956. Dalam pemilu I akhirnya muncul empat partai besar, yaitu Masyumi 57 kursi, PNI 57 kursi, NU 45 kursi dan PKI 39 kursi. Pemilu 1955 ternyata dapat berjalan dengan bersih dan tidak ada korban jiwa. Suasana demokratis yang dapat tercipta pada waktu itu merupakan suatu kebanggaan tersendiri bagi bangsa Indonesia yang baru pertama kali menyelenggarakan pemilihan. Akan tetapi pada kenyataannya pemilu yang sangat didambakan rakyat dapat membawa ke arah kemajuan, ternyata tidak mampu membawa kestabilan politik di Indonesia, sebab perselisihan antar partai tetap berlangsung, sehingga masalah-masalah parlementer sulit diselesaikan.[gs]
+</field>
+</doc>
+</add>

@@ -1,0 +1,10 @@
+<add>
+<doc>
+<field name="DOCID">http://www.gurusejarah.com/2015/01/muwardi.html</field>
+<field name="TITLE">Muwardi Pengawal Peristiwa Proklamasi</field>
+<field name="TEXT">
+Muwardi Pengawal Peristiwa Proklamasi Muwardi adalah salah satu pahlawan kemerdekaan RI. Dia lahir di Pati, Jawa Tengah di tahun 1907. Muwardi adalah seorang dokter lulusan dari School Tot Opleiding Voor Indische Artsen (STOVIA). Dia kemudian melanjutkan pendidikannya dengan mengambil spesialis di sekolah Telinga, Hidung, dan Tenggorokan (THT). Dalam organisasi, Muwardi sudah aktif karena dia pernah menjadi Pemimpin Umum Pandu Kebangsaan (Kepanduan Bangsa Indonesia). Pada saat Proklamasi Kemerdekaan, dia mempunyai peran penting di dalamnya. Pada tanggal 16 Agustus 1945 dia memerintahkan Barisan Pelopor untuk menjaga Lapangan Ikada (sekarang Lapangan Monas) yang rencananya akan digunakan sebagai tempat pembacaan teks proklamasi. Usai proklamasi, Barisan pelopor Istimewa juga dibentuk oleh Dr Muwardi untuk menjaga rumah dari Presiden dan Wakil Presiden yang juga proklamator (Soekarno-Hatta).
+Suwardi mengganti nama barisan pelopor menjadi barisan Benteng, ketika pusat barisan itu pindah ke Solo pada tahun 1964. Sebelum pindah di Solo, dan ketika masih di Jakarta, dia juga ikut dalam pertempuran melawan Inggris. Suwardi tetap menjalankan tugasnya sebagai dokter walaupun dia aktif di berbagai organisasi. Lalu bersama dokter dokter lainnya dia mendirikan sekolah kedokteran di Jebres Solo kemudian sekolah itu pindah ke Klaten. Untuk menghadapi pemberontakan PKI, beliau mendirikan Gerakan Rakyat Revolusioner. Ketika PKI melakukan aksi brutal mereka pada 11 September 1948 di Madiun, dan Pada tanggal 13 september tahun 1948 di Solo PKI melakukan serangkaian penculikan dan pembunuhan. Dr, Muwardi turut menjadi korban kebiadaban PKI tersebut,dia diculik dan di bunuh pada saat akan pergi menjalankan praktik sebagai dokter di rumah sakit Jebres. Suwardi diberi gelar sebagai pahlawan Kemerdekaan Nasional pada tanggal 04 Agustus 1964, Berdasarkan Surat Keputusan Presiden R.I No.190 Tahun 1964.[gs]
+</field>
+</doc>
+</add>

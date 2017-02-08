@@ -1,0 +1,26 @@
+<add>
+<doc>
+<field name="DOCID">http://sejarah-interaktif.blogspot.com/2011/11/politik-luar-negeri-indonesia.html</field>
+<field name="TITLE">POLITIK LUAR NEGERI INDONESIA</field>
+<field name="TEXT">
+Sejak proklamasi Indonesia menganut politik luar negeri bebas aktif. Bebas artinya Indonesia tidakmemihak kepada salah satu blok dan menempuh cara sendiri dalam menangani masalah-masalah internasional. Sedangkan aktif artinya Indonesia berusaha sekuat tenaga untuk ikut memelihara perdamaian dunia dan berpartisipasi meredakan ketegangan internasional.
+Politik ini dipilih dalam rangka menjamin kerjasama dan hubungan baik dengan bangsa lain di dunia. Politik yang dicetuskan Mohammad Hatta ini dijalankan dari awal terbentuknya Indonesia hingga saat ini meskipun dalam pelaksanaannya tidak sesuai karena adanya pengaruh dengan perubahan politik di dunia.
+
+~ Penyimpangan terhadap politik luar negeri Indonesia yang bebas aktif dianggap mulai muncul ketika Indonesia pada masa Kabinet Sukiman (1951) dengan mengadakan pertukaran surat antara Menteri Luar Negeri Ahmad Subarjo dan Duta Besar Amerika Serikat Merle Cochran dalam rangka mendapatkan bantuan dari Amerika Serikat. Hal ini menimbulkan protes sebab dianggap telah meninggalkan politik bebas aktif dan memasukkan Indonesia ke dalam sistem pertahanan Blok Barat.
+~ Sementara itu pada masa Kabinet Ali Sastroamijoyo I menitik beratkan pada kerjasama antara negara-negara Asia-Afrika dengan menyelenggarakan Konferensi Asia-Afrika. Kenyataan tersebut bukan berarti Indonesia akan membentuk blok ketiga. Tujuan dibentuk organisasi ini adalah sebagai landasan dalam rangka memupuk solidaritas Asia-Afrika dan menyusun kekuatanagar mendapatkan posisi yang menguntungkan bagi bangsa Asia-Afrika di tengah percaturan politik internasional.
+~ Pada masa Burhanuddin Harahap (1955) politik luar negeri Indonesia lebih dekat dengan Blok Barat, baik dengan Amerika, Australia, Inggris, Singapura dan Malaysia. Indonesia mendapatkan bantuan makanan dari Amerika (US$ 96.700.000).
+~ Tahun 1956 untuk menunjukkan bahwa pemerintah Indonesia menganut politik bebas aktif maka presiden Soekarno mengunjungi Uni Soviet. Dan ditandatangani perjanjian kerja sama pemberian bantuan ekonomi dengan tidak mengikat dari Uni Soviet(US$ 100.000.000). Indonesia juga mengunjungi Cekoslowakia, Yugoslavia, dan Cina. Indonesia juga mengirimkan pasukan perdamaian di bawah PBB yang dikenal dengan Pasukan Garuda.
+~ Pada masa Demokrasi Terpimpin, Indonesia turut mempelopori berdirinya Gerakan Non Blok (1961) sejak saat itu Manifesto Politik (Manipol) menjadi dasar pengambilan kebijakan luar negeri Indonesia sehingga dunia terbagi menjadi NEFO (negara-negara komunis) dan OLDEFO (negara-negara kolonialis dan imperialis). Indonesia termasuk dalam kelompok NEFO sehingga menjalin hubungan erat dengan negara bok timur dan menjaga jarak dengan negara blok barat. Politik tersebut selanjutnya berkembang semakin radikal menjadi politik mercusuar dan politik poros. Politik Indonesia yang agresif selama masa Demokrasi Terpimpin memboroskan devisa, inflasi menjadi tidak terkontrol terlebih dengan adanya pemberontakan PKI 1965.
+~ Politik pada masa Orde Baru lebih memperhatikan masalah stabilitas regional akan menjamin keberhasilan rencana pembangunan Indonesia.
+
+Upaya yang dilakukan Indonesia yaitu dengan :
+· Mempertahankan persahabatan dengan pihak barat
+· Menjalankan politik pintu terbuka bagi infestor asing serta pinjaman luar negeri.
+· Bergabungnya kembali Indonesia sebagai anggota PBB pada 28 Desember 1966.
+· Memperbaiki hubungan dengan sejumlah negara yang sempat renggang karena adanya politik konfrontasi masa Orde Lama.
+· Didirikan pula bentuk kerjasama regional ASEAN dalam rangka menjaga stabilitas kawasan.
+· Pada 1992 Indonesia menjad ketua Gerakan Non Blok tetapi pada saat itu timbul pertikaian dan perpecahan di negara Yugoslavia (Serbia menyerang Bosnia yang mayoritas beragama Islam).
+· Indonesia menggunakan APEC untuk menentukan posisi kepemimpinan Indonesia. Awalnya Indonesia tidak mau bergabung sebab takut tidak mampu menghadapi liberalisasi perdagangan dan dipandang dapat mengurangi rasa kerjasama dianatara negara-negara ASEAN tetapi setelah berakhirnya Perang Dingin Indonesia bergabung dalam APEC. Dengan demikian Indonesia siap untuk mengikuti perdagangan bebas bagi negara-negara berkembang pada tahun 2020. 
+</field>
+</doc>
+</add>

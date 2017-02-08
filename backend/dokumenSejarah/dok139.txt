@@ -1,0 +1,43 @@
+<add>
+<doc>
+<field name="DOCID">http://www.materisma.com/2014/01/pengertian-dan-latar-belakang-lahirnya.html</field>
+<field name="TITLE">Pengertian dan Latar Belakang Lahirnya Pergerakan Nasional Indonesia</field>
+<field name="TEXT">
+Pengertian dan Latar Belakang Lahirnya Pergerakan Nasional Indonesia - Pergerakan nasional Indonesia mempunyai pengertian sebagai berikut.
+Pengertian Pergerakan Nasional Indonesia
+
+a. Pergerakan
+
+Maksud dari "pergerakan" di sini meliputi segala macam aksi dengan mengggunakan "organisasi modern" untuk menentang penjajahan dan mencapai kemerdekaan. Dengan organisasi ini menunjuk bahwa aksi tersebut disusun secara teratur dalam arti ada pemimpinnya, anggota, dasar dan, tujuan yang ingin dicapai. Penggunaan organisasi modern ini menunjukkan adanya perbedaan dengan upaya melawan penjajah sebelum tahun 1908.
+b Nasional
+
+Istilah "nasional" menunjuk sifat dari pergerakan, yakni semua aksi dengan organisasi modern yang mencakup semua aspek kehidupan, seperti ekonomi, sosial, politik, budaya dan kultural dengan tujuan yang sama, yakni melawan penjajahan untuk digantikan dengan kekuasaan yang dipegang oleh bangsa Indonesia sendiri. 
+
+Istilah ”nasional” dalam hal ini oleh Sartono Kartodirdjo (1990) diartikan sebagai kata sifat dari suatu "nation" yang menunjukkan kumpulan individu-individu yang disatukan oleh ikatan politik, bahasa, kultural, dan sebagainya.
+c. Indonesia
+
+Nama "Indonesia" yang digunakan berfungsi sebagai simbolis di dalam sejarah pergerakan nasional dan dengan makin majunya pergerakan nasional, maka sebutan "Indonesia" merupakan keharusan. Berdasarkan keterangan tersebut dapat dimengerti bahwa sejarah pergerakan nasional adalah bagian dari sejarah Indonesia yang meliputi periode sekitar 40 tahun yang dimulai sejak lahirnya Budi Utomo ( BU) sebagai organisasi nasional yang pertama sampai dengan terbentuknya bangsa Indonesia 1945 yang ditandai oleh Proklamasi Kemerdekaan Indonesia.
+
+Tidak dapat dipungkiri bahwa sejarah pergerakan nasional sebagai fenomena historis adalah hasil dari perkembangan faktor ekonomi, sosial, politik, kultural, dan religius dan di antara faktor-faktor itu saling terjadi interelasi. Sejarah pergerakan nasional yang dimulai dari berdirinya Budi Utomo (BU) sampai dengan tercapainya kemerdekaan 1945 dapat dibagi menjadi beberapa masa, seperti berikut.
+
+1) Masa Awal Perkembangan, yang ditandai dengan berdirinya oraginisasi seperti Budi Utomo (BU), Sarekat Islam (SI), dan Indische Partij (IP).
+2) Masa Radikal, ditandai dengan berdirinya Partai Komunis Indonesia (PKI), Partai Nasional Indonesia (PNI) dan Perhimpunan Indonesia (IP).
+3) Masa Bertahan, ditandai dengan berdirinya Fraksi Nasional, Petisi Sutardjo, dan Gabungan Politik Indonesia (GAPI).
+Latar Belakang Lahirnya Pergerakan Nasional Indonesia
+
+Lahirnya pegerakan pasional Indonesia tidak terlepas dari peristiwa-peristiwa di Benua Asia saat itu.
+a. Faktor Intern
+
+1) Adanya penjajahan yang mengakibatkan penderitaan dan kesengsaraan sehingga menimbulkan tekad untuk menentangnya.
+2) Adanya kenangan akan kejayaan masa lampau, seperti zaman Sriwijaya dan Majapahit.
+3) Munculnya kaum intelektual yang kemudian menjadi pemimpin pergerakan nasional.
+b. Faktor Ekstern
+
+1) Adanya All Indian National Congress 1885 dan Gandhiisme di India.
+2) Adanya Gerakan Turki Muda 1908 di Turki.
+3) Adanya kemenangan Jepang atas Rusia (1905) menyadarkan dan membangkitkan bangsa-bangsa Asia untuk melawan bangsa-bangsa Barat.
+4)  Munculnya paham-paham baru di Eropa dan Amerika yang masuk ke Indonesia, seperti liberalisme, demokrasi, dan nasionalisme mempercepat  timbulnya nasionalisme Indonesia.
+
+</field>
+</doc>
+</add>

@@ -1,0 +1,43 @@
+<add>
+<doc>
+<field name="DOCID">http://www.gurusejarah.com/2015/01/asean-assosiation-of-south-eastnations.html</field>
+<field name="TITLE">ASEAN (Assosiation of South East Nations)</field>
+<field name="TEXT">
+ASEAN (Assosiation of South East Nations) ASEAN atau Perbara (Persatuan bangsa-bangsa Asia Tenggara) didirikan berdasarkan Deklarasi Bangkok 8 Agustus 1967, yang ditandatangani oleh lima menteri luar negeri negara-negara di kawasan Asia Tenggara, antara lain:
+Adam Malik (Indonesia)
+Tun Abdul Rozak (Malaysia)
+Thanat Khoman (Thailand)
+S. Rajaratnam (Singapura)
+Narcisco Ramos (Filipina).
+
+Berdirinya ASEAN dilatarbelakangi oleh persamaan-persamaan yang dimiliki oleh negara-negara Asia Tenggara, antara lain persamaan nasib, kepentingan, letak geografis dan sosial budaya. Berdasarkan Deklarasi Bangkok tahun 1967, tujuan ASEAN antara lain sebagai berikut:
+Mempercepat pertumbuhan ekonomi, kemajuan sosial dan perkembangan kebudayaan melalui usaha­-usaha bersama dalam semangat persamaan persahabatan.
+Memajukan perdamaian dan stabilitas regional dengan menghormati keadilan, hukum serta prinsip­prinsip Piagam PBB.
+Menunjukkan kerja sama secara aktif dan tukar-menukar bantuan untuk kepentingan bersama dalam bidang ekonomi, sosial, budaya.      dan  dministrasi.
+Memajukan studi tentang Asia Tenggara
+Anggota ASEAN
+Keanggotaan ASEAN terbuka bagi negara di Asia Tenggara dengan syarat bahwa negara tersebut dapat menyetujui dasar dan tujuan ASEAN seperti yang tercantum dalam Deklarasi Bangkok, mengenai anggota baru perlu adanya kesepakatan oleh kelima negara pendiri ASEAN. Anggota-anggota ASEAN antara lain, Indonesia, Malaysia, Thailand, Singapura, Filipina, Brunai Darussalam (7 Januari 1984), Vietnam (28 Juli 1985), Laos (23 Juli 1997), Birma (23 Juli 1997), dan Kamboja (15 Desember 1998). Dasar-dasar kerja sama ASEAN, antara lain sebagai berikut:
+Saling menghormati terhadap kemerdekaan, kedaulatan, persamaan, integritas teritorial dan identitas semua bangsa.
+Mengakui hak setiap bangsa untuk menghidupkan nasional.yang bebas dari turut campur, subversi dan konvensi dari luar.
+Tidak sating turut campur urusan dalam negeri masing-masing.
+Penyelesaian pertikaian dengan persaingan secara damai.
+Tidak menggunakan ancaman atau penggunaan kekuatan.
+Menjalankan kerja sama secara efektif.
+Kerjasama ASEAN
+Di bidang Ekonomi. Ada lima komisi tetap df bidang ekonomi, antara lain: Komite Pangan, Pertanian, dan Kehutangan (COFAF) di Indonesia; Komite Transportasi dan Komunikasi (COTAC) di Malaysia; Komite Industri, Pertambangan, dan Energi (COIME) di Singapura; Komite Keuangan dan Perbankan (COFAB)'di Thailand; Komite Perdagangan dan Pariwisata (COTT) di Singapura
+Di bidang Sosial. Kerja sama ASEAN di bidang sosial ditangani oleh komite Pengembangan Sosial (COSD Commute on Social Development). Hasilnya peningkatan kerja sama dalam menanggulangi masalah kependudukan dan dalam mencegah sekaligus pemberantasan narkoba.
+Di Bidang Kebudayaan. Di bidang kebudayaan ditangani oleh due komite tetap ASEAN yaitu Komite Ketudayaan dan Penerangan (COCI), serta Komite Pengetahuan dan Teknologi (COST).
+Di Bidang Politik. Sejak tahun 1971 memasuki kerja sama di bidang politik. Hal ini didasarkan pada deklarasi Kuala Lumpur 27 November 1971, yang mencetuskan konsepsi wilayah Asia Tenggara sebagai suatu kawasan damai, bebas dan netral (ZOPFAN: Zone of Peace Freedom and Neutrality).
+Konferensi Tingkat Tinggi (KTT) ASEAN
+KTT I Tanggal 23 - 24 Februari 1976 di Denpasar, Indonesia
+KTT II Tanggal 4 - 5 Agustus 1977 di Kuala Lumpur, Malaysia
+KTT III Tanggal 14 - 15 Desember 1987 di Manila. Filipina,
+KTT IV Tanggal 27 - 28 Februari 1992 di Singapura
+KTT V Tanggal 14 - 15 Desember 1995 di Bangkok, Thailand
+KTT VI Tanggal 15 - 17 Desember 1998 di Hanoi, Vietnam
+Sekretaris ASEAN
+Sekretaris tetap ASEAN, dipimpin oleh seorang Sekretaris Jenderal (Sekjend) yang berkedudukan di Jakarta, Indonesia.
+Sekretaris Nasional ASEAN, berada di setiap negara anggota ASEAN.[gs]
+</field>
+</doc>
+</add>

@@ -1,0 +1,13 @@
+<add>
+<doc>
+<field name="DOCID">http://www.gurusejarah.com/2015/01/dampak-situasi-eropa-terhadap.html</field>
+<field name="TITLE">Dampak Situasi Eropa terhadap Perkembangan Kolonialisme Barat di Indonesia</field>
+<field name="TEXT">
+Dampak Situasi Eropa terhadap Perkembangan Kolonialisme Barat di Indonesia  Kolonialisme adalah suatu bentuk penguasaan atau penjajahan yang dilakukan oleh suatu negara (kolonialis) terhadap suatu daerah atau bangsa lain dalam rangka memperluas wilayah kekuasaannya. Kolonialisme ditandai dengan adanya penguasaan suatu daerah, kemudian disusul dengan pemindahan penduduk dari negara kolonial ke wilayah yang telah dikuasainya tersebut. Sejak abad ke-15, proses kolonialisme yang dilakukan oleh bangsa-bangsa Eropa dipusatkan ke suatu kawasan yang disebut Dunia Timur.
+Proses kolonialisme yang dipusatkan pada Dunia Timur, khususnya Kepulauan Indonesia pada dasarnya tidak bisa dilepaskan dari kondisi ekonomi, sosial, dan politik yang terjadi di Dunia Barat saat itu. Kebutuhan akan rempah-rempah yang mendorong pencarian daerah-daerah utama penghasil rempah-rempah serta semangat untuk menyebarkan agama Nasrani menjadi pendorong kuat pencarian dan penaklukan daerah-daerah baru (Reconquista). Di sisi lain, terdapat pula hal yang tak bisa diabaikan keberadaannya bagi perkembangan kolonialisme Eropa, yaitu jatuhnya Konstantinopel sebagai Ibu Kota Romawi Timur ke tangan penguasa Kerajaan Turki Usmani pada tahun 1453. Dengan jatuhnya Konstantinopel sebagai satu-satunya jalur perdagangan ke Dunia Timur, maka pengaruh perdagangan di sekitar Laut Tengah dan Asia Barat dikuasai oleh bangsa Turki. Pada saat itu, banyak para pedagang Eropa yang merasa dirugikan oleh peraturan-peraturan dagang yang diberlakukan oleh Turki. Kondisi demikian, akhirnya mendorong pedagang-pedagang Eropa untuk mencari sendiri jalan ke Dunia Timur dalam rangka untuk mendapatkan barang-barang dagangan, termasuk rempah-rempah yang laku dan sangat dibutuhkan di pasaran Eropa.
+Merkantilisme
+Revolusi Industri
+Kapitalisme
+</field>
+</doc>
+</add>

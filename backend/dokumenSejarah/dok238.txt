@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="DOCID">http://www.gurusejarah.com/2015/01/sayuti-melik.html</field>
+<field name="TITLE">Sayuti Melik Tokoh Pengetik Naskah Proklamasi</field>
+<field name="TEXT">
+Sayuti Melik Tokoh Pengetik Naskah Proklamasi Sayuti melik adalah sosok yang mengetik naskah teks proklamasi tersebut. Tentang siapa sosok Sayuti Melik memang tak banyak informasi yang diperoleh. Dalam buku sejarah pun hanya sebatas menjelaskan bahwa Sayuti Melik lah yang mengetetik naskah teks proklamasi. Ada sedikit informasi tambahan bahwa Sayuti Melik cukup lama menjadi sekertaris pribadi Soekarno.
+Sayuti Melik adalah seorang wartawan dan pejuang nasional. Sebagai pejuang dan sekaligus wartawan,  Sayuti Melik terlibat langsung dalam persiapan priklamasi tersebut. Dia termasuk salah satu dari kelompok lima yakni Soekarno, Mohammad Hatta, Sukarni dan Achmad Subarjo. Keterlibatan Sayuti Melik terutama dalam merumuskan point - point penting yang kelak akan menjadi teks proklamasi. Kejadian itu berlangsung dini hari di rumah Maeda, seorang perwira tinggi jepang berpangkat laksamana madya.
+Sayuti Melik lahir di Dusun Kalidogo, Kelurahan Purwobinangun, Paken, Kabupaten Sleman, Yogyakarta. Ayahnya bernama Dul Maini, seorang kepala kerohanian di sembung kala itu. Dalam perumusan naskah teks proklamasi tersebut menurut beberapa rujukan terjadi perbincangan sengit tenntang siapa yang menandatangani naskah proklamasi tersebut. Saat itu redaksi naskahnya sendiri telah mendapat persetujuan bulat, terutama pada langkah penentuan nasib bangsa Indonesia selanjutnya itu. Lalu setelah jeda, Sukarni maju ke depan dan menyatakan bahwa uang mentanda tangani naskah proklamasi tersebut tidak perlu semua anggota, melainkan Soekarno dan Mohammad Hatta saja atas nama bangsa Indonesia.
+Hadirin menyambut usulan itu dengan tepuk tangan. Tapi sesungguhnya yang mempunyai gagasan untuk mengusulkan hal tersebut tidak lain adalah Sayuti Melik dan diucapkan Sukarni di podium. Kedati Mohammad Hatta yang awalnya mengusulkan agar naskah tersebut ditanda tangani oleh keompok lima kecewa dengan diterimanya usul dari Sukarni tersebut. Tapi sejarah kemudian mencatat bahwa yang menandatangani naskah teks proklamasi pada akhirnya adalah Soekarno dan Beliau sendiri.[gs]
+</field>
+</doc>
+</add>

@@ -1,0 +1,12 @@
+<add>
+<doc>
+<field name="DOCID">http://www.gurusejarah.com/2015/01/syahruddin.html</field>
+<field name="TITLE">Biografi Syahruddin Tokoh Pemberitaan Proklamasi Kemerdekaan Indonesia</field>
+<field name="TEXT">
+Biografi Syahruddin Tokoh Pemberitaan Proklamasi Kemerdekaan Indonesia - Syahruddin dalah seorang telegraphis pada kantor berita Jepang (DOMEI) yang mengabarkan berita proklamasi kemerdekaan Negara Indonesia ke seluruh dunia secara sembunyi-sembunyi ketika personil jepang istirahat pada tanggal 17 agustus 1945 jam 4 sore. Tanpa jasa syahruddin, maka niscaya berita proklamasi tidak akan cepat disebarluaskan.
+Jumat, 17 Agustus 1945, sekitar jam 17:30 WIB. Saat itu  Pak Jusuf sedang berada di kantornya, Hoso Kyoku (Radio Militer Jepang di Jakarta). Tiba-tiba muncullah Syahruddin, seorang pewarta dari kantor berita Jepang Domei dengan tergesa-gesa. (Catatan: Pak Jusuf sempat meralat kebenaran berita bahwa yang datang itu adalah sejarawan Des Alwi). Syahruddin yang masuk ke kantor Hoso Kyoku dengan melompati pagar itu menyerahkan selembar kertas dari Adam Malik yang isinya “Harap berita terlampir disiarkan”. Berita yang dimaksud adalah Naskah Proklamasi yang telah dibacakan Bung Karno jam 10 pagi. Masalahnya, semua studio radio Hoso Kyoku sudah di jaga ketat sejak beberapa hari sebelumnya, tepatnya sehari setelah  Hiroshima dan Nagasaki di bom oleh Amerika. Jusuf kemudian berunding dengan rekan-rekannya, diantaranya Bachtiar Lubis (kakak dari Sastrawan dan tokoh pers Indonesia Mochtar Lubis) dan Joe Saragih, seorang teknisi radio.
+Beruntung, studio siaran luar negeri tidak dijaga. Saat itu juga dengan bantuan Joe, kabel di studio siaran dalam negeri di lepas dan disambungkan ke studio siaran luar negeri. Tepat pukul 19:00 WIB selama kurang lebh 15 menit Jusuf pun membacakan kabar tentang proklamasi di udara, sementara di studio siaran dalam negeri tetap berlangsung siaran seperti biasa untuk mengecoh perhatian tentang Jepang.
+Belakangan tentara Jepang mengetahui akal bulus Jusuf dan kawan-kawannya. Mereka pun sempat disiksa. Beruntung mereka selamat. Malam itu pun radio Hoso Kyoku resmi dinyatakan bubar, tetapi dunia saat itu juga sudah mengetahui kabar tentang proklamasi langsung dari mulut Jusuf Ronodipuro. Sayang rekaman suara ini tidak diketahui lagi keberadaannya, atau jangan-jangan sudah tidak ada mengingat malam itu juga radio tersebut ditutup oleh Jepang.[gs]
+</field>
+</doc>
+</add>

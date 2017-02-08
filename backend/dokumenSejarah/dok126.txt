@@ -1,0 +1,18 @@
+<add>
+<doc>
+<field name="DOCID">http://www.materisma.com/2014/01/sejarah-perlawanan-di-kalimantan.html</field>
+<field name="TITLE">Sejarah Perlawanan Rakyat Kalimantan Selatan Terhadap Belanda (1859–1905)</field>
+<field name="TEXT">
+Sejarah Perlawanan Rakyat Kalimantan Selatan Terhadap Belanda (1859–1905) - Di Kalimantan Selatan, Belanda telah lama melakukan campur tangan dalam urusan Istana Banjar. Puncak kebencian terhadap Belanda dan akhirnya meletus menjadi perlawanan, ketika terjadi kericuan pergantian takhta Kerajaan Banjar setelah wafatnya Sultan Adam tahun 1857. Dalam hal ini Belanda mengangkat Pangeran Tamjidillah sebagai Sultan Banjar.
+
+Rakyat tidak mau menerima sebab Pangeran Hidayat yang lebih berhak dan lebih disenangi rakyat. Pertempuran rakyat Banjar melawan Belanda berkobar pada tahun 1859 di bawah pimpinan Pangeran Antasari. 
+
+Dalam pertempuran ini Pangeran Hidayat berada di pihak rakyat. Tokoh-tokoh lain dalam pertempuran ini, antara lain Kiai Demang Leman, Haji Nasrun, Haji Buyasin, Tumenggung Suropati, dan Kiai Langlang. Pasukan Antasari menyerbu pos-pos Belanda yang ada di Martapura dan Pangron pada akhir April 1859. Di bawah pimpinan Kiai Demang Leman dan Haji Buyasin pada bulan Agustus 1859 pasukan Banjar berhasil merebut benteng Belanda di Tabanio.
+
+Ketika pertempuran sedang berlangsung, Belanda memecat Pangeran Hidayat sebagai mangkubumi karena menolak untuk menghentikan perlawanan. Pada tanggal 11 Juni 1860 jabatan sultan kosong (karena Sultan Tamjidillah diturunkan dari takhtanya oleh pihak Belanda, Andresen) dan jabatan mangkubumi dihapuskan. Dengan demikian, Kerajaan Banjar dihapuskan dan dimasukkan dalam wilayah kekuasaan Belanda.
+
+Pertempuran terus meluas ke berbagai daerah, seperti Tanah Laut, Barito, Hulu Sungai Kapuas, dan Kahayan. Dalam menghadapi serangan-serangan ini, Belanda mengalami kesulitan, namun setelah mendapatkan bantuan dari luar akhirnya Belanda berhasil mematahkan perlawanan rakyat. Pada tanggal 3 Februari 1862, Pangeran Hidayat tertangkap dan dibuang ke Jawa.  Pangeran Antasari yang pada tanggal 14 Maret 1862 diangkat oleh rakyat sebagai pemimpin tertinggi agama Islam dengan gelar Panembahan Amiruddin Khalifahtul Mukminin gugur dalam pertempuran di Hulu Teweh pada tanggal 11 Oktober 1862. Sepeninggal Pangeran Antasari, perjuangan rakyat Banjar dilanjutkan oleh teman-teman seperjuangan. Perlawanan rakyat benar-benar dapat dikatakan padam setelah gugurnya Gusti Matseman tahun 1905.
+
+</field>
+</doc>
+</add>

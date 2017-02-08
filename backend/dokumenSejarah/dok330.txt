@@ -1,0 +1,10 @@
+<add>
+<doc>
+<field name="DOCID">http://www.pengertiansejarah.com/sejarah-kerajaan-kanjuruhan.html</field>
+<field name="TITLE">Sejarah Kerajaan Kanjuruhan</field>
+<field name="TEXT">
+Sejarah Kerajaan Kanjuruhan – Kerajaan Kanjuruhan merupakan kerajaan tertua di Jawa Timur. Berdiri sekitar tahun 760. Keberadaan kerajaan ini dapat diketahui dari prasasti Dinoyo yang ditemukan di desa Dinoyo, barat laut Malang. Isi prasasti itu adalah kisah pendirian sebuah bangunan suci untuk pemujaan Dewa Agastya. Pendirinya adalah Raja Gajayana, putra Dewasimha.
+Raja ini mempunyai putri bernama Uttejana. Prasasti Dinoyo ditulis dengan huruf Jawa Kuno dan menggunakan bahasa Sanskerta. Bangunan suci yang disebutkan dalam prasasti tersebut sekarang dikenal sebagai candi Badut.
+</field>
+</doc>
+</add>

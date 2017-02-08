@@ -1,0 +1,37 @@
+<add>
+<doc>
+<field name="DOCID">http://www.materisma.com/2014/01/perkembangan-nasionalisme-mesir.html</field>
+<field name="TITLE">Perkembangan Nasionalisme Mesir</field>
+<field name="TEXT">
+Perkembangan Nasionalisme Mesir - Sejak dibukanya Terusan Suez pada tahun 1869, negara-negara Barat terutama Inggris dan Prancis saling berlomba memperebutkan pengaruhnya di Mesir. Pengaruh kekuasaan Inggris makin kuat mulai tahun 1875, yakni saat Khedive Ismail (1863–1879) membutuhkan uang sehubungan dengan krisisnya keuangan Mesir. Khedive Ismail kemudian menjual sebagian besar saham Mersir pada Terusan Suez kepada Inggris.
+
+Di samping itu, Mesir juga meminjam uang dari Inggris dan Prancis. Mesir karena tidak dapat membayar hutang-hutangnya maka Inggris dan Prancis masuk ke Mesir dan memberesi hutang-hutangnya. Dengan demikian, sejak tahun 1876, Inggris dan Prancis telah ikut campur dalam pemerintahan di Mesir.
+
+a. Krisis Keuangan Mesir Adanya campur tangan Inggris dan Prancis dalam pemerintahan, khususnya pada saham-saham Terusan Suez menimbulkan kekecewaan yang kemudian muncul perlawanan rakyat. Kebangkitan nasional Mesir ditandai dengan adanya pemberontakan Arabi Pasha (1881–1882).  Mula-mula gerakan ini antiorang asing (Inggris, Prancis dan Turki), tetapi akhirnya menjadi gerakan untuk menuntut perubahan sistem pemerintahan. Gerakan Arabi ini timbul karena pengaruh Jamaluddin al Afghani yang ketika itu mengajar di Mesir. Perlawanan rakyat yang dipimpin oleh Arabi Pasha ini sangat membahayakan kedudukan Inggris dan Prancis di Mesir. Inggris akhirnya bertindak dan berhasil menumpas pemberontakan Arabi Pasha.
+b. Timbulnya Nasionalime Mesir
+
+Mesir termasuk negara Arab sehingga bangkitnya nasionalisme Mesir merupakan hal yang sama dengan bangkitnya nasionalisme Arab. Adapun sebab-sebab timbulnya nasionalisme Mesir adalah sebagai berikut.
+
+1) Adanya gerakan Wahabi, semula merupakan gerakan agama yang kemudian memberontak pemerintahan Turki. Dengan demikian, secara politik membangkitkan tumbuhnya nasionalisme Mesir.
+2) Adanya pengaruh Revolusi Prancis. Ketika Napoleon Bonaparte mendarat di Mesir, ia juga membawa suara Revolusi Prancis yang kemudian menimbulkan paham liberal dan nasionalisme Mesir.
+3) Munculnya kaum intelektual yang berpaham modern.
+4) Adanya Gerakan Pan Arab, yang dirintis oleh Amir Chetib Arslan dengan yang menganjurkan persatuan semua bangsa Arab dengan tujuan untuk mencapai kemerdekaan bangsanya.
+
+Sekalipun pemberontakan Arabi Pasha berhasil dipadamkan, namun cita-cita perjuangan Arabi Pasha merupakan sumber aspirasi semangat nasionalisme bangsa Mesir. Hal ini terbukti pada tanggal 7 Desember 1907 telah diadakan kongres nasional yang pertama di bawah pimpinan Mustafa Kamil. Tujuannya adalah pembangunan Mesir secara liberal untuk mencapai kemerdekaan penuh. Pemerintah Mesir yang dipengaruhi oleh Inggris berusaha untuk menindas gerakan ini, akan tetapi gerakan nasional ini tetap hidup dan makin kuat bahkan kemudian menjelma menjadi Partai Wafd (Utusan) di bawah pimpinan Saad Zaghlul Pasha.
+
+Ketika Perang Dunia I selesai, Partai Wafd menuntut Mesir sebagai negara merdeka dan ikut serta dalam konferensi perdamaian di Prancis. Inggris menolak, bahkan mengasingkan Zaghlul Pasha ke Malta. Pada tahun 1919 di Mesir timbul pemberontakan dan Zaghlul Pasha dibebaskan kembali. Kaum nasionalise Mesir menuntut kemerdekaan penuh. Pemberontakan berkobar lagi, Zaghlul Pasha ditangkap lagi dan diasingkan ke Gibraltar. Inggris yang tidak dapat menekan nasionalisme Mesir, terpaksa mengeluarkan Pernyataan Unilateral (Unilateral Declaration) pada tanggal 28 Februari 1922. 
+
+Isi Uniteral Declaration adalah sebagai berikut :
+
+1) Inggris mengakui kemerdekaan dan kedaulatan Mesir.
+2) Inggris berhak atas empat masalah pokok,seperti berikut:
+a) mempertahakan Terusan Suez;
+b) mempergunakan daerah militer untuk operasi militer;
+c) mempertahankan Mesir terhadap agresi bangsa lain;
+d) melindungi bangsa asing di Mesir dan kepentingannya.
+
+Uniteral Declaration 1922 merupakan saat yang bersejarah bagi Mesi  sebab sejak itu dunia internasional menganggap Mesir telah merdeka, meskipun belum penuh. Sebaliknya, di pihak kaum nasionalis Mesir tetap tetap menentangnya sebab Inggris tetap berhak atas empat masalah pokok tersebut di atas. Itulah sebabnya, kaum nasionalisme Mesir terus berjuang melawan Inggris untuk mencapai kemerdekaan penuh. Hal ini baru terwujud setelah Perang Dunia II berakhir (Oktober 1954).
+
+</field>
+</doc>
+</add>

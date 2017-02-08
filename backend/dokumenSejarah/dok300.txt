@@ -1,0 +1,35 @@
+<add>
+<doc>
+<field name="DOCID">http://www.pengertiansejarah.com/perkembangan-dan-budaya-buddha.html</field>
+<field name="TITLE">Perkembangan dan budaya Buddha</field>
+<field name="TEXT">
+Perkembangan dan budaya Buddha – Ketika agama Hindu mengalami kemunduran, muncullah agama Buddha di India yang disiarkan oleh Siddharta Gautama. Ajaran Buddha ditulis dalam kitab suci Tripitakayang berarti tiga keranjang atau tiga himpunan nikmat. Isi kitab suci Tripitaka sebagai berikut.
+1. Suttapitaka, berisikan himpunan ajaran dan khotbah Buddha. Bagian terbesar adalah percakapan antara Buddha dan beberapa orang muridnya. Di dalamnya terdapat pula kitab meditasi dan peribadatan.
+2. Winayapitaka, berisikan tata hidup setiap anggota biara (sangha).
+3. Abhidharmapitaka, ditujukan bagi lapisan terpelajar dalam agama Buddha sebab merupakan pelajaran lanjutan.
+Ada empat tempat yang dianggap suci dalam agama Buddha.
+1. Taman Lumbini di Kapilawastu, tempat lahirnya Siddharta (563 SM).
+2. Bodhgaya, tempat Siddharta menerima wahyu Buddha.
+3. Kusinagara, tempat wafatnya Siddharta pada tahun 482 SM.
+4. Benares, tempat Siddharta pertama kali berkhotbah.
+Ajaran Buddha seperti yang dikhotbahkan Siddharta di Taman Menjangan, Benares, berisikan hal-hal berikut.
+Aryastyani, yakni empat kebenaran utama dan delapan jalan tengah (Astavida). Empat kebenaran utama, yaitu
+1) hidup adalah derita (duka) atau samsara,
+2) samsara disebabkan oleh hasrat keinginan (tresna) atau tanha,
+3) tresna harus dihilangkan, dan
+4) cara menghilangkan tresnaadalah dengan delapan jalan tengah.
+Delapan jalan tengah, yaitu
+1) pengertian yang benar,
+2) maksud yang benar,
+3) bicara yang benar,
+4) laku yang benar,
+5) kerja yang benar,
+6) ikhtiar yang benar,
+8) renungan yang benar.
+7) ingatan yang benar, dan
+1. Pratityasamudpada, artinya rantai sebab akibat yang terdiri atas dua belas rantai dan masing-masing merupakan sebab dari hal berikutnya.
+Pada bangunan peribadatan Buddha akan kita temui stupa, yaitu bangunan berbentuk kubah yang berdiri di atas sebuah lapik dan diberi payung. Fungsi bangunan ini adalah sebagai lambang suci agama Buddha, tanda peringatan terjadinya suatu peristiwa dalam hidup Buddha, tempat penyimpanan tulang jenazah Buddha, dan tempat menyimpan benda suci.
+Agama Buddha berkembang pesat di India pada masa Wangsa Maurya di bawah Raja Ashoka. Raja ini pada awalnya memusuhi agama Buddha. Ia menciptakan “neraka Ashoka”, yaitu hukuman rebus bagi penganut Buddha. Namun, pada suatu ketika orang yang diperintahkannya untuk direbus tidak mati. Raja Ashoka sadar dari kekeliruannya dan masuk agama Buddha. Bahkan, ia menjadi raja yang saleh dan menetapkan agama Buddha sebagai agama negara. Ia pun mengajarkan Ahimsa, yaitu larangan membunuh dan melukai makhluk. Berkat raja ini, agama Buddha dapat disiarkan ke seluruh dunia.
+</field>
+</doc>
+</add>

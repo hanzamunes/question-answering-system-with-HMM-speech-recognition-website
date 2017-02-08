@@ -1,0 +1,51 @@
+<add>
+<doc>
+<field name="DOCID">http://www.gurusejarah.com/2015/08/upaya-mempersiapkan-kemerdekaan.html</field>
+<field name="TITLE">Upaya Mempersiapkan Kemerdekaan Indonesia</field>
+<field name="TEXT">
+Upaya Mempersiapkan Kemerdekaan Indonesia - Kekalahan Jepang dalam Perang Pasifik semakin Jelas, sehingga pada 1 Maret 1945 Jenderal Kumakichi Harada mengumumkan dibentuknya suatu badan khusus yang bertugas menyelidiki usaha-usaha persiapan kemerdekaan Indonesia yang bernama Dokuritsu Junbi Chosakai atau Badan Penyelidik Usaha-usaha Persiapak Kemerdekaan Indonesia (BPUPKI). Badan ini bertujuan untuk mempelajari dan mempersiapkan hal-hal penting mengenai tata pemerintahan Indonesia Merdeka. Anggota dari BUPKI terdiri atas 60 orang tokoh bangsa Indonesia dan 7 orang bangsa Jepang (mereka tidak mempunyai hak suara) diketuai oleh KRT Radjiman Widyodiningrat dan wakil ketua R. Surono dan seorang lagi orang Jepang. BPUPKI diresmikan pada tanggal 29 Mei 1945. Sidang pertama berlangsung pada 29 Mei-1 Juni 1945 yang membicarakan dasar filsafat Negara Indonesia Merdeka. Tokoh-tokoh yang mengusulkan dasar Negara ini, yakni:
+Mr. Muh. Yamin
+Pada sidang tanggal 29 Mei 1945, Mr. Muh. Yamin mengajukan lima rancangan dasar Negara Indonesia, yakni:
+Peri Kebangsaan
+Peri Kemanusiaan
+Peri Ketuhanan
+Peri Kerakyatan
+Kesejahteraan Rakyat
+Prof. Dr. Supomo
+Pada sidang tanggal 31 Mei 1945, Prof. Dr. Supomo mengajukan lima rancangan dasar Negara, yakni:
+Persatuan
+Kekeluargaan
+Mufakat dan Demokrasi
+Musyawarah
+Keadilan Sosial
+Ir. Soekarno
+Pada sidang tanggal 1 Juni 1945, mengajukan lima rancangan yang dinamakan Pancasila, yakni:
+Kebangsaan Indonesia
+Internasionalisme atau Peri Kemanusiaan
+Mufakat atau Demokrasi
+Kesejahteraan Sosial
+Ketuhanan Yang Maha Esa
+Setelah persidangan pertama itu selesai, BPUPKI menundan persidangan hingga bulan Juli 1945. Namun pada tanggal 22 Juni 1945, Sembilan orang anggota yaitu Ir. Soekarno, Drs. Moch. Hatta, Mr. Muh. Yamin, Mr. Ahmad Subarjo, Mr. A. A. Maramis, Abdulkahar Muzakkar, Wachid Hasyim, H. Agus Salim dan Abikusno Tjokrosujoso membentuk panitia Sembilan atau panitia kecil. Panitia Sembilan ini menghasilkan dokumen yang berisi asas dan tujuan Indonesia Merdeka. Dokumen ini lebih dikenal dengan nama Piagam Djakarta, yang isinya sebagai berikut:
+Ketuhanan dengan berkewajiban menjalankan syariat-syariat Islam bagi para pemeluknya.
+Kemanusian yang adil dan beradab
+Persatuan Indonesia
+Kerakyatan yang dipimpin oleh hikmah kebijaksanaan dalam permusyawaratan atau perwakilan
+Keadilan sosial bagi seluruh rakyat Indonesia.
+Landasan Dasar Proklamasi Kemerdekaan Indonesia
+Landasan dasar nasional
+Landasan ini tercermin di dalam pembukaan UUD 1945, sekaligus merupakan Deklarasi Kemerdekaan Indonesia. Adapun pokok-pokok isi Pembukaan UUD 1945:
+Bahwa kemerdekaan itu adalah hak segala bangsa….
+Dan perjuangan kemerdekaan Indonesia telah sampailah kepada saat yang berbahagia….
+Atas berkat rahmat Allah Yang Maha Kuasa…
+Kemudian daripada itu untuk membentuk suatu pemerintahan Negara Indonesia….untuk memajukan kesejahteraan umum, mencerdaskan kehidupan bangsa, dan ikut melaksanakan ketertiban dunia berdasarkan kekerdekaan, perdamaian abadi dan keadilan social….
+Landasan dasar Internasional
+Piagam Atlantik (14 agustus 1941) yang ditanda tangani oleh Franklin Delano Roosevelt (Presiden AS) dengan Winston Churchill (PM Inggris). Yang berisi:
+Tidak boleh ada perluasan daerah tampa persetujuan dari penduduk Asli.
+Setiap bangsa berhak menentukan dan menetapkan bentuk pemerintahannya sendiri.
+Setiap bangsa berhak mendapat kesempatan untuk bebas dari rasa takut dan bebas dari kemiskinan.
+Piagam San Fransisco, merupakan Piagam PBB yang diresmikan dan ditandatangani oleh 50 negara sebagai Negara yang pertama menjadi anggotanya. Dalam Piagam PBB ini disebutkan:
+“… kami akan meneguhkan keyakinan akan dasar-dasar hak manusia sebagai manusia sesuai dengan harkat dan derajat manusia berdasarkan atas hak-hak yang sama….serta berusaha memajukan rakyat dan tingkat kehidupan yang lebih baik dalam suasana kemerdekaan yang lebih luas”.
+Berdasarkan kedua piagam itu, maka bangsa Indonesia berhak menentukan nasib sendiri, berhak untuk hidup bebas dari kemiskinan dan rasa takut. Maka berdasarkan piagam tersebut pula, Proklamasi Kemerdekaan Indonesia memiliki kedudukan yang kuat, baik secara nasional maupun Internasional.[gs]
+</field>
+</doc>
+</add>

@@ -1,0 +1,21 @@
+<add>
+<doc>
+<field name="DOCID">http://www.pengertiansejarah.com/sejarah-asean-free-trade-area-afta.html</field>
+<field name="TITLE">Sejarah Asean Free Trade Area (AFTA)</field>
+<field name="TEXT">
+Sejarah Asean Free Trade Area (AFTA) – AFTA atau kawasan perdagangan bebas adalah suatu bentuk kerja sama negara-negara anggota ASEAN untuk membentuk kawasan perdagangan bebas. Pembentukan AFTA berdasarkan pertemuan para Menteri Ekonomi anggota ASEAN pada tahun 1994 di Chiang Mai, Thailand.
+Pertemuan Chiang Mai menghasilkan tiga keputusan penting sebagai berikut.
+1) Seluruh anggota ASEAN sepakat bahwa pembentukan kawasan perdagangan bebas dipercepat pelaksanaannya dari tahun 2010 menjadi 2005.
+2) Jumlah produk yang telah disetujui masuk dalam daftar AFTA (inclusion list/IL) ditambah dan semua produk yang tergolong dalam temporary exclusion list/TEL secara bertahap akan masuk IL. Semua produk TEL diharapkan masuk dalam IL pada tanggal 1 Januari 2000.
+3) Memasukkan semua produk pertama yang belum masuk dalam skema common effective preferential tariff (CEPT) yang terbagi sebagai berikut.
+1. Daftar produk yang segera masuk dalam IL menjadi immediate inclusion list/IIL mulai tarifnya menjadi 0–5% pada tahun 2003.
+2. Produk yang memiliki sensitivitas (sensitive list), seperti beras dan gula, akan diperlakukan khusus di luar skema CEPT.
+3. Produk dalam kategori TEL akan menjadi IL pada tahun 2003.
+Negara-negara anggota ASEAN menggagas melaksanakan AFTA dengan tujuan:
+1. meningkatkan perdagangan dan spesialisasi di lingkungan keanggotaan ASEAN;
+2. meningkatkan jumlah ekspor negara-negara anggota ASEAN;
+3. meningkatkan investasi dalam kegiatan produksi dan jasa antaranggota ASEAN;
+4. meningkatkan masuknya investasi dari luar negara anggota ASEAN.
+</field>
+</doc>
+</add>

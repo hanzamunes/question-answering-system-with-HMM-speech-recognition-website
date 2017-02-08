@@ -1,0 +1,14 @@
+<add>
+<doc>
+<field name="DOCID">http://sejarah-interaktif.blogspot.com/2011/12/kerajaan-tarumanegara.html</field>
+<field name="TITLE">KERAJAAN TARUMANEGARA</field>
+<field name="TEXT">
+Berdirinya kerajaan Tarumanegara di Jawa Barat hampir bersamaan dengan Kerajaan Kutai. Tarumanegara didirikan oleh Rajadirajaguru Jayasingawarman pada tahun 358 yang kemudian digantikan oleh putranya, Dharmayawarman (352-395). Kata 
+Taruma berhubungan dengan katak tarum berarti nilai atau biru. Sampai sekarang nama taruma masih digunakan sebagai nama ganti sungai, yaitu sungai Citarum (ci=sungai).Maharaja Punawarman 
+ adalah raja Tarumanegara yang ketiga (395-434 M). Ia membangun ibu kota kerajaan baru pada tahun 397 yang terletak lebih dekat ke pantai. Ibu kota baru itu bernama Sundapura. Menurut prasasti Tugu pada tahun 417, Punawarman memerintahkan penggalian sungai Gomati dan Candrabaga sepanjang 6112 tombak (sekitar 11km). Ia berhasil membawa Tarumanegara menjadi kerajaan besar. Kekuasannya membentang dari daerah Bekasi di timur sampai ke Banten Selatan di barat.
+ Prasati-prasasti lain yang menceritakan Kerajaan Tarumanegara: 
+ 1. Prasasti Ciaruteun 2. Prasasti Kebon kopi 3. Prasasti Jambu (Pasir Koleangkak) 4. Prasasti Cidanghiang (Munjul) 5. Prasasti Awi (Muara Ciaten) Dari isi beberapa prasasti tersebut disimpulkan bahwa : 
+ Punawarman menganut agama Hindu Waisnawa (Aliran pemuja dewa Wisnu). Adapun menurut Fa-Hien yang tiba di To-lo-mo pada abad ke-7 M diterangkan bahwa agama yang dianut masyarakat Tarumanegara adalah Hindu, Budha, dan animisme-dinamisme 
+</field>
+</doc>
+</add>

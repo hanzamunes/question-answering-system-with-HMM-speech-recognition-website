@@ -1,0 +1,22 @@
+<add>
+<doc>
+<field name="DOCID">http://www.pengertiansejarah.com/sejarah-bentuk-bentuk-perang-dingin.html</field>
+<field name="TITLE">Sejarah Bentuk Bentuk Perang Dingin</field>
+<field name="TEXT">
+Sejarah Bentuk Bentuk Perang Dingin – Perebutan pengaruh antara Amerika Serikat dengan Uni Soviet meliputi bidang politik, ekonomi, militer, dan ruang angkasa.
+1) Bidang Politik
+Pihak AS berusaha menjadikan negara-negara yang baru merdeka dan negara-negara sedang berkembang menjadi sebagai negara demokrasi dengan tujuan agar hak-hak asasi manusia dapat terjamin. Untuk negara yang kalah perang yaitu Jerman dan Jepang dikembangkan paham demokrasi dan sistem  perekonomian kapitalisme. Sedangkan pihak US mengembangkan paham sosialisme-komunisme dengan pembangunan ekonomi rencana lima tahun dengan cara diktator, tertutup. Dengan sistem ini US dikenal sebagai ‘negara tirai besi’, sedangkan negara di bawah pengaruhnya di Asia yaitu Cina mendapat julukan ‘negara tirai bambu’.
+2) Bidang Ekonomi
+AS dan US saling memperebutkan pengaruhnya dengan menjadi pahlawan ekonomi yaitu menjadi negara kreditur dengan memberikan bantuan, pinjaman kepada negara-negara berkembang, seperti Mashall Plan (Eropean Recovery Program) yakni bantuan ekonomi dan militer kepada negara-negara di kawasan Eropa Barat. Selain itu Presiden Henry S Truman memberikan bantuan teknis dan ekonomi khusus kepada Turki dan Yunani, yang dikenal dengan Truman Doctrin.
+3) Bidang Militer
+Perebutan pengaruh antara AS dengan US dalam bidang militer dalam bentuk pakta pertahanan militer. Berlangsungnya Perang Dingin menyebabkan Amerika Serikat dan Uni Soviet saling curiga satu dengan yang lain. Untuk mengantisipasi kemungkinan terjadinya perang terbuka, kedua negara adidaya beserta para sekutunya saling memperkuat pertahanan dan militernya. Amerika Serikat beserta para sekutunya berusaha membentuk ikatan militer guna menghadapi serangan Uni Soviet. Pada masa Perang Dunia II berkembang opini dunia bahwa pasukan Uni Soviet lebih unggul jumlah personel dan persenjataannya. Hal itu dibuktikan dengan keberhasilan pasukan Uni Soviet dalam menghentikan gerakan pasukan Jerman di wilayah Eropa Timur. Hal itu berlaku sebaliknya, Amerika Serikat tersendat-sendat menghentikan laju pasukan Jerman di Eropa Barat meskipun dibantu Inggris.
+Di kawasan Atlantik Utara, Amerika Serikat bersama sekutunya Inggris, Prancis, Belanda, Belgia, Luksemburg, Norwegia, dan Kanada, setuju untuk membentuk persekutuan militer bersama. Persekutuan militer itu disebut North Atlantic Treaty Organization (NATO) yang berdiri tahun 1949. Keanggotaan NATO diperluas lagi dengan masuknya Italia dan Islandia, Yunani, dan Turki (1952) serta Jerman Barat (1955). Di dalam NATO terdapat ketentuan bahwa serangan terhadap salah satu negara anggota dianggap sebagai serangan terhadap keseluruhan sehingga semua negara anggota wajib saling memberi bantuan.
+Amerika Serikat juga berusaha menggelar kekuatan militernya di kawasan Timur Tengah dan Asia Selatan. Untuk keperluan itu, Amerika Serikat bersama Turki, Irak, Iran, dan Pakistan membentuk kerja sama militer. Nama kerja sama militer itu adalah Middle East Treaty Organization yang disingkat METO atau dikenal dengan CENTO (Central Treaty Organization) yang berdiri tahun 1959 yang semula bernama Pakta Bagdad (1955).
+Untuk menahan laju perluasan komunis di Asia Tenggara, Amerika Serikat membentuk kerja sama militer yang disebut South East Asia Treaty Organization atau SEATO. Pada tahun 1954, kerja sama militer itu terdiri atas negara Amerika Serikat, Inggris, Prancis, Australia, Thailand, Filipina, dan Selandia Baru.
+Sementara itu, laju komunis di Pasifik Selatan coba dihambat Amerika Serikat dengan membentuk kerja sama militer pula. Kerja sama pertahanan di Pasifik Selatan disebut ANZUS (Australia, New Zeland, and United States) dengan anggota AS, Australia dan New Zeland yang didirikan atas dasar Tripatite Security Treaty pada tanggal 1 September 1951.
+Sedangkan Uni Soviet berusaha mengimbangi kekuatan militer Blok Barat dengan membentuk kerja sama militer pula. Pada 14 Mei 1955 Uni Soviet bersama Mongolia, Polandia, Cekoslowakia, Bulgaria, Rumania, dan Jerman Timur membentuk Pact of Mutual Assistance and Unifield Command atau dikenal dengan sebutan Pakta Warsawa.
+4) Bidang Ruang angkasa
+Perebutan pengaruh antara AS dengan US juga melanda pada kecanggihan teknologi ruang angkasa lebih lanjut di bahas pada subbab eksploitasi teknologi ruang angkasa.
+</field>
+</doc>
+</add>

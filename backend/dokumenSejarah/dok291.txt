@@ -1,0 +1,11 @@
+<add>
+<doc>
+<field name="DOCID">http://www.pengertiansejarah.com/pengaruh-kebudayaan-hindu-buddha-terhadap-seni-sastra.html</field>
+<field name="TITLE">Pengaruh kebudayaan Hindu-Buddha terhadap seni sastra</field>
+<field name="TEXT">
+Pengaruh kebudayaan Hindu-Buddha terhadap seni sastra – Wiracarita atau kisah kepahlawanan India yang memasyarakat di Indonesia dan memengaruhi kehidupan serta perkembangan sosial budaya adalah cerita Mahabharata dan Ramayana. Kitab Mahabharataterdiri atas delapan belas jilid (parwa). Setiap jilid terbagi lagi menjadi beberapa bagian (juga disebut parwa) yang digubah dalam bentuk syair. Cerita pokoknya meliputi 24.000 seloka. Sebagian besar isi kitab ini menceritakan peperangan sengit selama delapan hari antara Pandawa dan Kurawa. Kata Mahabharatayudha sendiri berarti peperangan besar antarkeluarga Bharata. Menurut cerita, kitab ini dihimpun oleh Wiyasa Dwipayana. Akan tetapi, para ahli sejarah beranggapan bahwa lebih masuk akal jika kitab itu merupakan kumpulan berbagai cerita brahmana antara tahun 400 SM sampai 400 M.
+Kitab Ramayanadikarang oleh Walmiki. Kitab ini terdiri atas tujuh jilid (kanda) dan digubah dalam bentuk syair sebanyak 24.000 seloka. Kitab ini berisi perjuangan Rama dalam merebut kembali istrinya, Dewi Sinta (Sita), yang diculik oleh Rahwana. Dalam perjuangannya, Rama yang selalu ditemani Laksmana (adiknya) itu mendapat bantuan dari pasukan kera yang dipimpin oleh Sugriwa. Selain itu, Rama juga dibantu oleh Gunawan Wibhisana, adik Rahwana yang diusir oleh kakaknya karena bermaksud membela kebenaran (Rama). Perjuangan tersebut menimbulkan peperangan besar dan banyak korban berjatuhan. Di akhir cerita, Rahwana beserta anak buahnya gugur dan Dewi Sinta kembali kepada Rama.
+Akulturasi di bidang sastra dapat dilihat pada adanya modifikasi cerita-cerita asli India dengan unsur tokoh-tokoh Indonesia serta peristiwa-peristiwa yang seolah-olah terjadi di Indonesia. Contohnya adalah penambahan tokoh punakawan (Semar, Bagong, Gareng, Petruk) dalam kisah Mahabharata. Bahkan, dalam literatur-literatur keagamaan Hindu-Buddha di Indonesia sulit kita temukan cerita asli seperti yang ada di negeri asalnya. Pengaruh kebudayaan India yang dipertahankan dalam kesusastraan adalah gagasan, konsep, dan pandangan-pandangannya.
+</field>
+</doc>
+</add>

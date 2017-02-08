@@ -1,0 +1,16 @@
+<add>
+<doc>
+<field name="DOCID">http://www.gurusejarah.com/2015/01/pengiriman-pasukan-garuda.html</field>
+<field name="TITLE">Pengiriman Pasukan Garuda</field>
+<field name="TEXT">
+Pengiriman Pasukan Garuda Pada tanggal 26 Juli 1956 Presiden Mesir Gamal Abdul Nasser menasionalisasi Terusan Suez, akibatnya Inggris dan Perancis yang memiliki saham atas Terusan Suez menjadi marah dan mengirimkan pasukannya untuk menggempur Mesir. Serangan Inggris dan Perancis yang dibantu Israel terhadap Mesir sangat membahayakan perdamaian dunia sehingga PBB terpaksa turun tangan dan mengirimkan pasukan perdamaian. Indonesia mengirimkan pasukan Garuda I untuk bergabung dengan pasukan negara-negara lain di bawah PBB. Pasukan perdamaian PBB yang dikirim ke Timur Tengah (Mesir) dinamakan United Nations Emergency Force (U N E F). Pasukan Garuda I di bawah pimpinan Mayor Sudiyono berkekuatan 550 personil terbagi atas kesatuan Teriotium IV Diponegoro, Teritorium V Brawijaya dengan komando Letkol Infantri Suyudi Sumodiharjo Pasukan  Garuda I berhasil  melaksanakan tugasnya dengan baik dan pada tanggal 12 September 1957 pasukan Garuda I ini membuat Indonesia terus mendapat kepercayaan dari PBB untuk membantu memelihara perdamaian di berbagai belahan dunia bila terjadi sengketa, diantaranya sebagai berikut :
+Pasukan Garuda 11 di bawah pimpinan Kolonel Priyanto diberangkatkan ke Kongo 10 September 1960 untuk bergabung dengan pasukan perdamaian PBB dengan United Nations Operation for the Congo (UNOC), bertugas hingga bulan Mei 1961.
+Pasukan Garuda III di bawah pimpinan Brigjen Kemal juga bertugas di Kongo dari bulan Desember 1962 sampai bulan Agustus 1964.
+Pasukan Garuda IV di bawah pimpinan Brigjen TNI Wivono, bertugas di Vietnam mulai bulan Januari 1973 sampai Juli 1972.
+Pasukan Garuda VII di bawah pimpinan Kolonel Rudini dan wakilnya Mayor Basofi Sudirman dikirim ke Timur Tengah pada tanggal 3 Desember 1973.
+Pasukan Garuda VII di bawah pimpinan Brigjen Sukemi Sumantrio bertugas di Vietnam dari bulan AF 1974 sampai November 1974, kemudian digantikan Pasukan Garuda VlIi di bawah pimpinan Brigjen T, Bambang Sumantri dari bulan November 1974 sampai bulan Juni 1975. Pada tahun ini pula pasuka perdamaian PBB untuk Vietnam ICCS (IntemasionalCommision for Control and Supervision) ditarik mend. sefelah seluruh Vietnam jatuh ke tangan Vietnam Utara atau Vietkong yang berhaluan komunis.
+Pasukan Garuda VIII di bawah pimpinan Kolonel Gunawan Wibisono, Kontingen Garuda VI dan V bergabung dalam pasukan perdamaian PBB yang diberi nama United Nations Emergency Force (UNIEF)
+Bagi bangsa Indonesia pengiriman Misi Garuda untuk memenuhi permintaan PBB memiliki alasan yang kuat. Yang pertama sesuai dengan Pembukaan UUD 1945 alinea keempat yang berbunyi ikut melaksanaka ketertiban dunia berdasarkan perdamaian abadi dan keadilan sosial dan kedua sesuai dengan politik Luar Ngeri Indonesia bebas aktif.[gs]
+</field>
+</doc>
+</add>

@@ -1,0 +1,25 @@
+<add>
+<doc>
+<field name="DOCID">http://www.pengertiansejarah.com/sejarah-konferensi-pendahuluan-asia-afrika.html</field>
+<field name="TITLE">Sejarah Konferensi Pendahuluan Asia Afrika</field>
+<field name="TEXT">
+Sejarah Konferensi Pendahuluan Asia Afrika – Pada kesempatan ini admin Pengertian Sejarah akan berbagi tentang Sejarah Konferensi Pendahuluan Asia Afrika, sebelumnya admin juga sudah berbagi tentang Sejarah Latar Belakang Pelaksanaan Konferensi Asia Afrika.
+Sebelum Konferensi Asia Afrika dilaksanakan, terlebih dahulu diadakan konferensi pendahuluan sebagai persiapan.
+Konferensi pendahuluan tersebut, antara lain sebagai berikut.
+Konferensi pendahuluan yang pertama diselenggarakan di Kolombo, ibu kota negara Sri Lanka pada tanggal 28 April–2 Mei 1954. Konferensi dihadiri oleh lima orang perdana menteri dari negara sebagai berikut.
+1. Perdana Menteri Pakistan : Muhammad Ali Jinnah
+2. Perdana Menteri Sri Lanka : Sir John Kotelawala
+3. Perdana Menteri Burma (Myanmar) : U Nu
+4. Perdana Menteri Indonesia : Ali Sastroamijoyo
+5. Perdana Menteri India : Jawaharlal Nehru
+Konferensi Kolombo membahas masalah Vietnam, sebagai persiapan untuk menghadapi Konferensi di Jenewa. Di samping itu Konferensi Kolombo secara aklamasi memutuskan akan mengadakan Konferensi Asia Afrika dan pemerintah Indonesia ditunjuk sebagai penyelenggaranya. Kelima negara yang wakilnya hadir dalam Konferensi Kolombo kemudian dikenal dengan nama Pancanegara. Kelima negara itu disebut sebagai negara sponsor. Konferensi Kolombo juga terkenal dengan nama Konferensi Pancanegara I.
+Konferensi pendahuluan yang kedua diselenggarakan di Bogor pada tanggal 22–29 Desember 1954. Konferensi itu dihadiri pula oleh perdana menteri negara-negara peserta Konferensi Kolombo.
+Konferensi Bogor memutuskan hal-hal sebagai berikut.
+1. Konferensi Asia Afrika akan diselenggarakan di Bandung pada bulan 18-24 April 1955.
+2. Penetapan tujuan KAA dan menetapkan negara-negara yang akan diundang sebagai peserta Konferensi Asia Afrika.
+3. Hal-hal yang akan dibicarakan dalam Konferensi Asia Afrika.
+4. Pemberian dukungan terhadap tuntutan Indonesia mengenai Irian Barat.
+Konferensi Bogor juga terkenal dengan nama Konferensi Pancanegara II.
+</field>
+</doc>
+</add>

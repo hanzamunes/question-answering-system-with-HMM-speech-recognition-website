@@ -1,0 +1,22 @@
+<add>
+<doc>
+<field name="DOCID">http://www.materisma.com/2014/01/sejarah-perlawanan-rakyat-maluku-di.html</field>
+<field name="TITLE">Sejarah Perlawanan Rakyat Maluku di Bawah Thomas Matullesi (Pattimura) 1817</field>
+<field name="TEXT">
+#Sejarah_Kelas_11 Sejarah Perlawanan Rakyat Maluku di Bawah Thomas Matullesi (Pattimura) 1817 - Sejak abad ke-17 perlawanan rakyat Maluku terhadap Kompeni sudah terjadi, namun perlawanan yang dahsyat baru muncul pada permulaan abad ke-19, di bawah pimpinan Thomas Matulessi (lebih dikenal dengan nama Pattimura).
+
+Latar belakang timbulnya perlawanan Pattimura, di samping adanya tekanan-tekanan yang berat di bidang ekonomi sejak kekuasaan VOC juga dikarenakan hal sebagai berikut.
+
+a. Sebab ekonomis, yakni adanya tindakan-tindakan pemerintah Belanda yang memperberat kehidupan rakyat, seperti sistem penyerahan secara paksa, kewajiban kerja blandong, penyerahan atap dan gaba-gaba, penyerahan ikan asin, dendeng dan kopi. Selain itu, beredarnya uang kertas yang menyebabkan rakyat Maluku tidak dapat menggunakannya untuk keperluan sehari-hari karena belum terbiasa.
+
+b. Sebab psikologis, yaitu adanya pemecatan guru-guru sekolah akibat pengurangan sekolah dan gereja, serta pengiriman orang-orang Maluku untuk dinas militer ke Batavia. Hal-hal tersebut di atas merupakan tindakan penindasan pemerintah Belanda terhadap rakyat Maluku. 
+
+Oleh karena itu, rakyat Maluku bangkit dan berjuang melawan imperialisme Belanda. Aksi perlawanan meletus pada tanggal 15 Mei 1817 dengan menyerang Benteng Duurstede di Saparua.  Setelah terjadi pertempuran sengit, akhirnya Benteng Duurstede jatuh ke tangan rakyat Maluku di bawah pimpinan Pattimura. Banyak korban di pihak Belanda termasuk Residen Belanda, Van den Berg ikut terbunuh dalam pertempuran.
+
+Kemenangan atas pemerintah kolonial Belanda memperbesar semangat perlawanan rakyat sehingga perlawanan meluas ke Ambon, Seram dan pulau-pulau lain. Di Hitu perlawanan rakyat muncul pada permulaan bulan Juni 1817 di bawah pimpinan Ulupaha. Rakyat Haruku di bawah pimpinan Kapten Lucas Selano, Aron dan Patti Saba.
+
+Situasi pertempuran berbalik setelah datangnya bala bantuan dari Batavia di bawah pimpinan Buyskes. Pasukan Belanda terus mengadakan penggempuran dan berhasil menguasai kembali daerah-daerah Maluku. Perlawanan semakin mereda setelah banyak para pemimpin tertawan, seperti Thomas Matulessi (Pattimura), Anthonie Rhebok, Thomas Pattiweal, Lucas Latumahina, dan Johanes Matulessi.  Dalam perlawanan ini juga muncul tokoh wanita yakni Christina Martha Tiahahu. Sebagai pahlawan rakyat yang tertindas oleh penjajah. Tepat pada tanggal 16 Desember 1817, Thomas Matulessi dan kawan-kawan seperjuangannya menjalani hukuman mati di tiang gantungan.
+
+</field>
+</doc>
+</add>

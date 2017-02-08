@@ -1,0 +1,40 @@
+<add>
+<doc>
+<field name="DOCID">http://www.materisma.com/2014/02/sejarah-masa-penjajahan-jepang-di-indonesia.html</field>
+<field name="TITLE">Sejarah Masa Penjajahan Jepang di Indonesia ( Masuk dan Tanggapan Tokoh Nasionalis)</field>
+<field name="TEXT">
+Sejarah Masa Penjajahan Jepang di Indonesia ( Masuk dan Tanggapan Tokoh Nasionalis) - Adanya rencana Jepang untuk membentuk negara Asia Timur Raya menyebabkan Jepang terlibat dalam Perang Pasifik. Dalam waktu yang relatif singkat, Jepang telah berhasil menguasai kawasan Asia Tenggara termasuk Indonesia. 
+
+Adanya masa Pendudukan Jepang di Indonesia mengakibatkan kesengsaraan rakyat, baik secara lahir maupun batin. Hal itu disebabkanJepang mengadakan eksploitasi baik di bidang ekonomi maupun sosial. Di balik segi negatif, masa Pendudukan Jepang juga ada segi positifnya, yakni adanya penggunaan bahasa Indonesia dan latihan kemiliteran yang dijalankan.
+1. Masuknya Jepang ke Indonesia
+
+Meletusnya Perang Asia Pasifik diawali dengan serangan Jepang ke Pangkalan Angkatan Laut Amerika Serikat di Pearl Harbour (Hawai) pada tanggal 7 Desember 1941. Keesok harinya, yakni tanggal 8 Desember 1941, Amerika Serikat, Inggris, dan Belanda mengumumkan perang kepada Jepang sehingga berkobarlah Perang Asia Pasifik.
+
+Jepang yang sebelumnya telah menyerbu Cina (1937) dan Indocina dengan taktik gerak cepat melanjutkaqn serangan ke sasaran berikutnya, yaitu Muangthai, Burma, Malaya, Filipina, dan Hindia Belanda (Indonesia).  Untuk menghadapi agresi dan ofensif militer Jepang, pihak Sekutu membentuk pasukan gabungan yang dalam komando ABDACOM (American, British, Dutch, and Australia Command = gabungan tentara Amerika Serikat, Inggris, Belanda dan Australia) di bawah pimpinan Letjen H. Ter Poorten yang juga menjabat Panglima Tentara Hindia Belanda (KNIL).
+
+Di Indonesia, Jepang memperoleh kemajuan yang pesat. Di awali dengan menguasai Tarakan selanjutnya Jepang menguasai Balikpapan, Pontianak, Banjarmasin, Palembang, Batavia (Jakarta), Bogor terus ke Subang, dan terakhir Kalijati. Dalam waktu yang singkat Indonesia telah jatuh ke tangan Jepang.
+
+Penyerahan tanpa syarat oleh Letjen H. Ter Poorten selaku Panglima Angkatan Perang Hindia Belanda atas nama Angkatan Perang Sekutu kepada Angkatan Perang Jepang di bawah pimpinan Letjen Hitosyi Imamura pada tanggal 8 Maret 1942 di Kalijati menandai berakhirnya kekuasaan pemerintahan Belanda di Indonesia dan digantikan oleh kekuasaan Kemaharajaan Jepang.  Berbeda dengan zaman Belanda yang merupakan pemerintahan sipil maka zaman Jepang merupakan pemerintahan militer. Pemerintahan militer Jepang di Indonesia terbagi atas tiga wilayah kekuasaan berikut ini.
+
+a. Tentara XVI (Angkatan Darat) memerintah atas wilayah Jawa dan Madura yang berpusat di Jakarta.
+b. Tentara XXV (Angkatan Darat) memerintah atas wilayah Sumatra yang berpusat di Bukittinggi.
+c. Armada Selatan II (Angkatan Laut) memerintah atas wilayah Kalimantan, Sulawesi, Nusa Tenggara, Maluku, dan Papua berpusat di Makassar. 
+
+Pemerintahan pada wilayah masing-masing tersebut dipimpin oleh kepala staf tentara/armada dengan gelar gunseikan (kepala pemerintahan militer) dan kantornya disebut gunseikanbu.
+2. Tanggapan Para Tokoh Nasionalis
+
+Masuknya tentara Jepang ke Indonesia pada awalnya mendapat sambutan baik dari penduduk setempat. Tokoh-tokoh nasional Indonesia, seperti Ir. Soekarno dan Drs. Moh. Hatta bersedia melakukan kerja sama dengan pihak pendudukan Jepang. Faktor-faktor yang menyebabkan adanya kerja sama itu, antara lain sebagai berikut.
+
+a. Kebangkitan bangsa-bangsa Timur. Orang Timur memandang kemenangan Jepang sebagai suatu kemenangan Asia atas Eropa. Hal ini terpengaruh propaganda Jepang, yakni pembebasan bangsa-bangsa Asia dari penjajahan bangsa-bangsa Barat.
+
+b. Adanya Ramalan Jayabaya yang hidup di kalangan rakyat bahwa akan datang orang-orang kate ( Jepang) yang akan menguasai Indonesia selama "seumur jagung" dan sesudahnya kemerdekaan akan dicapai.
+
+c. Sikap keras pemerintah Hindia Belanda menjelang akhir kekuasaannya. Pemerintah Belanda menolak Petisi Sutardjo (1936), dan juga menolak uluran tangan GAPI dengan slogan "Indonesia Berparlemen"(1939). Itu semua meyakinkan tokoh-tokoh pergerakan nasional bahwa dari pihak kolonial Belanda tidak dapat diharapkan apa-apa yang menyangkut kemerdekaan. Sebaliknya dari pihak Jepang sejak semula telah bicara mengenai kemerdekaan bangsa-bangsa Asia.
+
+d. Pada zaman pemerintahan Hindia Belanda kaum nasionalis selalu ditekan, sebaliknya pada zaman pendudukan Jepang golongan nasionalis diajak bekerja sama. Itulah sebabnya jika zaman Hindia Belanda sebagai besar tokoh nasionalis mengambil sikap nonkooperatif maka pada zaman  pendudukan Jepang sebagian besar mengambil sikap kooperatif.
+
+Dengan demikian, tokoh-tokoh pergerakan nasional dalam perjuangannya menyesuaikan diri dengan memasuki dan bekerja sama dengan pemerintah Jepang. Di samping itu, juga ada yang menempuh bergerak di bawah tanah, baik dengan atau tanpa menggunakan alat-alat pemerintah Jepang.
+
+</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<add>
+<doc>
+<field name="DOCID">http://www.materisma.com/2014/05/sejarah-kerajaan-aceh.html</field>
+<field name="TITLE">Sejarah Kerajaan Aceh</field>
+<field name="TEXT">
+Sejarah Kerajaan Aceh - Kerajaan Aceh berdiri dan muncul sebagai kekuatan baru di Selat Malaka, pada abad ke-16 setelah jatuhnya Malaka ke tangan Portugis. Para pedagang Islam tidak mengakui kekuasaan Portugis di Malaka dan segera memindahkan jalur perniagaan ke bandar-bandar lainnya di seluruh Nusantara.  Peran Malaka sebagai pusat perdagangan internasional digantikan oleh Aceh selama beberapa abad. Di Selat Malaka, Kerajaan Aceh bersaing dengan Kerajaan Johor di Semenanjung Malaysia.
+
+Kerajaan Aceh didirikan oleh Ali Mughayat Syah, adalah pendiri Kerajaan Aceh dan sekaligus sebagai raja pertamanya. Pada tahun 1514 - 1528 ia mulai bertakhta. Letak Kerajaan Aceh di Kutaraja (Banda Aceh sekarang). Pada tahun 1520, Kerajaan Aceh berhasil menguasai Daerah Pasai, Deli, dan Aru. Penguasaan terhadap daerah-daerah tersebut menyebabkan Aceh dapat mengontrol daerah penghasil lada dan emas.
+
+Pada masa pemerintahan Sultan Iskandar Muda (1607 1636), Kerajaan Aceh mencapai puncak kejayaan. Wilayah kekuasaan Aceh pada saat itu meliputi Semenanjung Malaya dan sebagian Sumatra, kecuali Palembang dan Lampung yang dipengaruhi Banten. Perdagangan di Selat Malaka berkembang pesat dan Aceh memiliki hegemoni atas Selat Malaka, walaupun pelabuhan Malaka gagal dikuasai. 
+
+Pelabuhan Aceh dibuka luas menjadi suatu bandar transito yang dapat menghubungkan perdagangan Islam di dunia Barat. Pada masa Sultan Iskandar Muda ini juga dibangun masjid besar Aceh yang berdiri hingga saat ini yaitu Masjid Baiturrahman.
+
+Secara ekonomi masyarakat Aceh mengalami perkembangan secara pesat. Hal ini disebabkan daerahnya yang subur. Kesuburan tersebut ditandai dengan dihasilkannya barang-barang ekspor lainnya seperti beras, timah, emas, perak, dan rempah-rempah di pelabuhan Aceh.  Pada masa Iskandar Muda, ia berusaha mengembangkan tanaman lada sebagai komoditas dagang utama. Agar harga lada di Aceh tetap tinggi, kebun-kebun di Kedah dibabat habis, sedangkan kebun lada di Aceh terus dipelihara. Dengan cara ini, pedagang-pedagang dari Barat hanya bisa membeli lada dari Aceh. Dengan monopoli ini, Aceh memperoleh keuntungan yang besar.
+
+Kerajaan Aceh memiliki hubungan diplomatik dengan kerajaan-kerajaan lain, baik dari Barat maupun dari Timur. Pertukaran diplomat dan kerja sama ekonomi dengan Turki telah terbina sejak tahun 1582. Menurut Hikayat Aceh, Kerajaan Aceh telah mengadakan perjanjian politik dan dagang dengan Kamboja, Champa, Chiangmai, Lamer, Pashula, dan Cina. Selain itu, Aceh juga memiliki hubungan diplomatik dengan Prancis, Inggris, dan Belanda.
+
+</field>
+</doc>
+</add>

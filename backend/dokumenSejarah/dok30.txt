@@ -1,0 +1,71 @@
+<add>
+<doc>
+<field name="DOCID">http://www.materisma.com/2014/03/sejarah-timbulnya-revolusi-industri-dan.html</field>
+<field name="TITLE">Sejarah Timbulnya Revolusi Industri dan Berbagai Penemuan Penting</field>
+<field name="TEXT">
+Sejarah Timbulnya Revolusi Industri dan Berbagai Penemuan Penting - Perubahan besar, secara cepat, dan radikal yang mempengaruhi kehidupan corak manusia sering disebut revolusi. Istilah revolusi biasanya digunakan dalam melihat perubahan politik atau sistem pemerintahan.  Namun, Revolusi Industri di Inggris pada hakikakatnya adalah perubahan dalam cara pembuatan barang-barang yang semula dikerjakan dengan tangan (tenaga manusia) kemudian digantikan dengan tenaga mesin. Dengan demikian, barang-barang dapat dihasilkan dalam jumlah banyak dengan waktu yang relatif singkat.
+
+Sebab-sebab Timbulnya Revolusi Industri
+
+Revolusi Industri untuk kali pertamanya muncul di Inggris. Banyak faktor yang mempengaruhinya. Adapun faktor-faktornya yang menyebabkannya adalah sebagai berikut.
+
+a. Situasi politik yang stabil. Adanya Revolusi Glorius tahun 1688 yang mengharuskan raja bersumpah setia kepada Bill of Right sehingga raja tunduk kepada undang-undang dan hanya menarik pajak berdasarkan atas persejutuan parlemen.
+
+b. Inggris kaya bahan tambang, seperti batu bara, biji besi, timah, dan kaolin. Di samping itu, wol juga yang sangat menunjang industri tekstil.
+
+c. Adanya penemuan baru di bidang teknologi yang dapat mempermudah cara kerja dan meningkatkan hasil produksi, misalnya alat-alat pemintal, mesin tenun, mesin uap, dan sebagainya.
+
+d. Kemakmuran Inggris akibat majunya pelayaran dan perdagangan sehingga dapat menyediakan modal yang besar untuk bidang usaha. Di samping itu, di Inggris juga tersedia bahan mentah yang cukup karena Inggris mempunyai banyak daerah jajahan yang menghasilkan bahan mentah tersebut.
+
+e. Pemerintah memberikan perlindungan hukum terhadap hasil-hasil penemuan baru (hak paten) sehingga mendorong kegiatan penelitian ilmiah. Lebih-lebih setelah dibentuknya lembaga ilmiah Royal Society for Improving Natural Knowledge maka perkembangan teknologi dan industri bertambah maju.
+
+f. Arus urbanisasi yang besar akibat Revolusi Agraria di pedesaan mendorong pemerintah Inggris untuk membuka industri yang lebih banyak agar dapat menampung mereka.
+
+Tahap Perkembangan Industri
+
+Pada akhir abad Pertengahan kota-kota di Eropa berkembang sebagai pusat kerajinan dan perdagangan. Warga kota (kaum Borjuis) yang merupakan warga berjiwa bebas menjadi tulang punggung perekonomian kota. Mereka bersaing secara bebas untuk kemajuan dalam perekonomian. Pertumbuhan kerajinan menjadi industri melalui beberapa tahapan, seperti berikut.
+
+a. Domestic System
+
+Tahap ini dapat disebut sebagai tahap kerajinan rumah (home industri). Para pekerja bekerja di rumah masing-masing dengan alat yang mereka miliki sendiri. Bahkan, kerajinan diperoleh dari pengusaha yang setelah selesai dikerjakan disetorkan kepadanya. Upah diperoleh berdasarkan jumlah barang yang dikerjakan. Dengan cara kerja yang demikian, majikan yang memiliki usaha hanya membayar tenaga kerja atas dasar prestasi atau hasil. Para majikan tidak direpotkan soal tempat kerja dan gaji.
+
+b. Manufactur
+
+Setelah kerajinan industri makin berkembang diperlukan tempat khusus untuk bekerja agar majikan dapat mengawasi dengan baik cara mengerjakan dan mutu produksinya. Sebuah manufactur (pabrik) dengan puluhan tenaga kerja didirikan dan biasanya berada di bagian belakang rumah majikan. Rumah bagian tengah untuk tempat tinggal dan bagian depan sebagai toko untuk menjual produknya.
+
+Hubungan majikan dengan pekerja (buruh) lebih akrab karena tempat kerjanya jadi satu dan jumlah buruhnya masih sedikit. Barang-barang yang dibuat kadang-kadang juga masih berdasarkan pesanan.
+
+c. Factory System
+
+Tahap factory system sudah merupakan industri yang menggunakan mesin. Tempatnya di daerah industri yang telah ditentukan, bisa di dalam atau di luar kota. Tempat tersebut untuk untuk tempat kerja, sedangkan majikan tinggal di tempat lain. Demikian juga toko tempat pemasaran hasil industri diadakah di tempat lain. Jumlah tenaganya kerjanya (buruhnya) sudah puluhan, bahkan ratusan. Barang-barang produksinya untuk dipasarkan.
+
+Dengan usaha kerajinan industri, para majikan atau usahawan memiliki semangat kapitalisme dengan ciri-ciri rajin bekerja, sederhana, hemat, memiliki pandangan ekonomi yang tajam, serta menempati janji. Kehidupan ekonomi kapitalis sangat dipengaruhi oleh nafsu memperoleh keuntungan, memperbesar usaha, dan kegiatan yang bersifat dinamis.
+
+Berbagai Jenis Penemuan Penting
+
+Adanya penemuan teknologi baru, besar peranannya dalam proses industrialisasi sebab teknologi baru dapat mempermudah dan mempercepat kerja industri, melipatgandakan hasil, dan menghemat biaya. Penemuan-penemuan yang penting, antara lain sebagai berikut.
+
+a. Kumparan terbang (flying shuttle) cipataan John Kay (1733). Dengan alat ini proses pemintalan dapat berjalan secara cepat.
+b. Mesin pemintal benang (spinning jenny) ciptaan James Hargreves (1767) dan Richard Arkwright (1769). Dengan alat ini hasilnya berlipat ganda.
+c. Mesin tenun (merupakan penyempurnaan dari kumparan terbang) ciptaan Edmund Cartwight (1785). Dengan alat ini hasilnya berlipat ganda.
+d. Cottongin, alat pemisah biji kapas dari serabutnya cipataan Whitney (1794). Dengan alat ini maka kebutuhan kapas bersih dalam jumlah yang besar dapat tercukupi.
+e. Cap selinder ciptaan Thomas Bell (1785). Dengan alat ini kain putih dapat dilukisi pola kembang 200 kali lebih cepat jika dibandingkan dengan pola cap balok dengan tenaga manusia.
+f. Mesin uap, ciptaan James Watt (1769). Dari mesin uap ini dapat diciptakan berbagai peralatan besar yang menakjubkan, seperti lokomotif ciptaan Richard Trevethiek (1804) yang kemudian disempurnakan oleh George Stepenson menjadi kereta api penumpang. Kapal perang yang digerakkan dengan mesin uap diciptakan olehRobert Fulton (1814).
+
+Mesin uap merupakan inti dari Revolusi Industri sehingga James Watt sering dianggap sebagai Bapak Revolusi Industri I'. Penemuan-penemuan baru selanjutnya, semakin lengkap dan menyempurnakan. Hal ini merupakan hasil Revolusi Industri II dan III, seperti mobil, pesawat terbang, industri kimia dan sebagainya.
+
+Revolusi Industri juga merupakan masa perkembangan ilmu pengetahuan dan teknologi yang menimbulkan penemuan-penemuan baru, seperti berikut
+
+1. Tahun 1750 : Abraham Darby menggunakan batu bara (cokes) untuk melelehkan besi untuk mendapatkan nilai besi yang lebih sempurna.
+2. Tahun 1802 : Symington menemukan kapal kincir
+3. Tahun 1807 : Robert Fulton membuat kapal api yang telah menggunakan baling-baling yang dapat menggerakkan kapal. Kapal itu diberi nama Clermont yang mengarungi Lautan Atlantik pertama kali.
+Kapal ini berangkat dari Paris dan berlabuh di New York. Selanjutnya, Robert Fulton berhasil membuat kapal perang pertama (1814) yang telah digerakkan oleh mesin uap.
+4. Tahun 1804 : Richard Trevethick membuat kereta uap.
+5. Tahun 1832 : Samuel Morse membuat telegraf.
+6. Tahun 1872 : Graham Bell membuat pesawat telepon.
+7. Tahun 1887 : Daimlermembuat mobil.
+8. Tahun 1903 : Wilbur Wright dan Orville Wright membuat pesawat terbang.
+
+</field>
+</doc>
+</add>

@@ -1,0 +1,33 @@
+<add>
+<doc>
+<field name="DOCID">http://www.materisma.com/2014/08/sejarah-kerajaan-kediri-kehidupan.html</field>
+<field name="TITLE">Sejarah Kerajaan Kediri (Kehidupan Politik, Sosial, Ekonomi dan Sastra)</field>
+<field name="TEXT">
+Sejarah Kerajaan Kediri (Kehidupan Politik, Sosial, Ekonomi dan Sastra)
+
+a. Kehidupan Politik Kerajaan Kediri
+
+Dalam persaingan antara Panjalu dan Kediri, ternyata Kediri yang unggul dan menjadi kerajaan yang besar kekuasaannya. Raja terbesar dari Kerajaan Kediri adalah Jayabaya (1135–1157). Jayabaya ingin mengembalikan kejayaan seperti masa Airlangga dan berhasil. Panjalu dan Jenggala dapat bersatu kembali. Lencana kerajaan memakai simbol Garuda Mukha simbol Airlangga.
+
+Pada masa pemerintahannya kesusastraan diperhatikan. Empu Sedah dan Empu Panuluh menggubah karya sastra kitab Bharatayudha yang menggambarkan peperangan antara Pandawa dan Kurawa yang untuk menggambarkan peperangan antara Jenggala dan Kediri. Empu Panuluh juga menggubah kakawin Hariwangsa dan Gatotkacasraya. 
+
+Jayabaya juga terkenal sebagai pujangga yang ahli meramal kejadian masa depan, terutama yang akan menimpa tanah Jawa. Ramalannya terkenal dengan istilah “Jangka Jayabaya".  Raja Kediri yang juga memperhatikan kesusastraan ialah Kameswara. Empu Tan Akung menulis kitab Wartasancaya dan Lubdaka, sedangkan Empu Dharmaja menulis kitab Smaradahana. Di dalam kiitab Smaradahana ini Kameswara dipuji-puji sebagai titisan Kamajaya, permaisurinya ialah Sri Kirana atau putri Candrakirana.
+
+Raja Kediri yang terakhir ialah Kertajaya yang pada tahun 1222 kekuasaannya dihancurkan oleh Ken Arok sehingga berakhirlah Kerajaan Kediri dan muncul Kerajaan Singasari.
+
+b. Kehidupan Sosial Ekonomi Kerajaan Kediri
+
+Pada masa Kejayaan Kediri, perhatian raja terhadap kehidupan sosial ekonomi rakyat juga besar. Hal ini dapat dibuktikan dengan karya-karya sastra saat itu, yang mencerminkan kehidupan sosial ekonomi masyarakat saat itu. Di antaranya kitab Lubdaka yang berisi ajaran moral bahwa tinggi rendahnya martabat manusia tidak diukur berdasarkan asal dan kedudukan, melainkan berdasarkan kelakukannya. Berdasarkan kronik-kronik Cina maka kehidupan perekonomian rakyat Kediri dapat dikemukakan sebagai berikut. 1. Rakyat hidup dari pertanian, peternakan dan perdagangan. 2. Kediri banyak menghasilkan beras. 3. Barang-barang dagangan yang laku di pasaran saat itu antara lain emas, perak, gading dan kayu cendana. 4. Pajak rakyat berupa hasil bumi, seperti besar dan palawija. Adapun kehidupan sosialnya sebagai berikut. 1. Rakyat Kediri pada umumnya memiliki tempat tinggal yang baik, bersih, dan rapi. 2. Hukuman yang dilaksanakan ada dua macam, yakni hukuman denda (berupa emas) dan hukuman mati (khususnya bagi pencuri dan perampok).
+
+c. Kehidupan Kebudayaan, Khususnya Sastra Kerajaan Kediri
+
+Di bidang kebudayaan, khususnya sastra, masa Kahuripan dan Kediri berkembang pesat, antara lain sebagai berikut.
+
+1) Pada masa Dharmawangsa berhasil disadur kitab Mahabarata ke dalam bahasa Jawa Kuno yang disebut kitab Wirataparwa. Selain itu juga disusun kitab hukum yang bernama Siwasasana.
+2) Di zaman Airlangga disusun kitab Arjuna Wiwaha karya Empu Kanwa.
+3) Masa Jayabaya berhasil digubah kitab Bharatayudha oleh Empu Sedah dan Empu Panuluh. Di samping itu, Empu Panuluh juga menulis kitab Hariwangsa dan Gatotkacasraya.
+4) Masa Kameswara berhasil ditulis kitab Smaradhahana oleh Empu Dharmaja. Kitab Lubdaka dan Wertasancaya oleh Empu Tan Akung.
+
+</field>
+</doc>
+</add>

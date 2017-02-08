@@ -1,0 +1,18 @@
+<add>
+<doc>
+<field name="DOCID">http://www.gurusejarah.com/2015/07/faktor-penyebab-runtuhnya-kerajaan.html</field>
+<field name="TITLE">Faktor Penyebab Runtuhnya Kerajaan bercorak Hindu Buddha</field>
+<field name="TEXT">
+Faktor Penyebab Runtuhnya Kerajaan bercorak Hindu Buddha - Perkembangan pengaruh agama hindu budha cukup besar, karena dapat mempengaruhi seluruh sektor kehidupan masyarakat . Kurang lebih pengaruh hindu budaha di Indonesia selama 1000 tahun atau 10 abad. Ini semua bisa dilihat dengan munculnya kerajaan-kerajaan bercorak hindu budha dari kerajaan kutai sampai yang terakhir yaitu majapahit. Penyebab runtuhnya kerajaan bercorak hindubudha antara lain :
+Terdesaknya kerajaan-kerajaan sebagai akibat munculnya kerajaan yang lebih besar dan lebih kuat.
+Tidak ada peralihan kepemimpinan atau kaderisasi seperti yang terjadi pada zaman majapahit.
+Berlangsungnya perang saudara yang justru melemahkan kekuasaan kerajaan, seperti yang terjadi pada kerajaan syailendra dan Majapahit.
+Banyak daerah yang melepaskan diri akibat lemahnya pengawasan pemerintah pusat dan raja-raja bawahanmembangun sebuah kerajaan yang merdeka serta tidak terikat lagi oleh pemerintah pusat.
+Kemunduran ekonomi perdagangan. Akibat kelemahan pemerintah pusat, masalah perekonomian dan perdagangan diambil ailh oleh para pedagang melayu dan Islam.
+Tersiarnya agama dan budaya islam yang mudah diterima para adipati di daerah 
+pesisir. Hal ini membeuat mereka merasa tidak terikat lagi dengan pemerintahan kerajaan pusat seperti pada masa kekuasaan kerajaan majapahit.
+Setelah kerajaan hindu budha runtuh tapi kebudayaan hindu buda tidak hilang begitu saja hal ini bisa dilihat masyarakat jawa masih melakukan upacara sesaji ke sawah, punden dan upacara persembahan kepada penguasa laut kidul dan lain sebagainya. Dan tradisi hindu budha masih kental dan sepenuhnya dilakukan di bali. Orang-orang bali ini adalah pindahan orang-orang majapahit dan masih memegang teguh kepercayaannya.
+Tetapi tidak seluruh pulau Indonesia marasakan kebudayaan hindu budha. Padahal ada dua kerajaan nasional yaitu sriwijaya dan majapahit menguasai seluruh daerah Indonesia tetapi mereka hanya menguasai politik dan ekonominya saja dan tidak menyebar luaskan agamanya. Jadi pada waktu daerah tersebut melepaskan diri dari kekuasaan kerajaan itu akan kembali kepada kebisaan yang lama. Adapaun pulau Indonesia yang tidak terjamah kebudayaan hindi budha yaitu pulau Sulawesi, Maluku , Irian dan kepulaluan Nusa Tenggara Timur.[gs]
+</field>
+</doc>
+</add>

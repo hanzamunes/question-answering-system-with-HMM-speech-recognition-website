@@ -1,0 +1,13 @@
+<add>
+<doc>
+<field name="DOCID">http://www.gurusejarah.com/2015/07/pembentukan-identitas-nasional-dan.html</field>
+<field name="TITLE">Pembentukan Identitas Nasional dan Terbentuknya Nasionalisme Indonesia</field>
+<field name="TEXT">
+Pembentukan Identitas Nasional Dan Terbentuknya Nasionalisme Indonesia – Penggunaan nama Indonesia menjadi sangat penting di dalam pergerakan dan perjuangan bangsa Indonesia menghadapi kaum imperialis atau pemerintah kolonial Belanda  dalam upaya mencapai kemerdekaan bangsa dan negara Indonesia. Tokoh-tokoh yang pernah menggunakan istilah “Indonesia” antara lain : J.R Logan : ia menggunakan istilah “Indonesia” untuk menyebut kepulauan dan penduduk nusantara dan Earl G. Windsor : dalam media milik J.R Logan ia menyebutkan kata “Indonesia” bagi penduduk nusantara.
+
+Disamping tokoh-tokoh tersebut, ada juga tokoh dari Perhimpunan Indonesia di negeri Belanda yang mengganti nama Indische Vereeniging menjadi Indonesische Vereeniging. Mereka juga mempunyai majalah sebagai alat komunikasi dan alat perjuangan. Nama majalah tersebut adalah “Hindia Putra” yang kemudian diganti menjadi “Indonesia Merdeka”. Dengan demikian, Indonesische Vereeniging atau Perhimpunan Indonesia merupakan satu-satunya organisasi pergerakan bangsa Indonesia yang terus berjuang untuk memperkenalkan istilah Indonesia dimata dunia Internasional.
+Dalam perkembangan selanjutnya, kata “Indonesia” dikukuhkan menjadi identitas nasional melalui Kongres Pemuda dengan pengucapan ikrar Sumpah Pemuda tanggal 28 Oktober 1928 yang istilah “Indonesia” tercantum dalam isi Sumpah Pemuda. Melalui peristiwa Sumpah Pemuda tersebut, istilah Indonesia kemudian ditetapkan menjadi identitas nasional bangsa dan Negara.
+Sejak J.R. Logan menggunakan kata ‘Indonesia” untuk menyebut penduduk dan kepulauan Nusantara (1850), maka nama atau istilah ‘indonesia” mulai dikenal. Kemudian, melalui sumpah Pemuda, istilah “Indonesia” disebarluaskan ke segala penjuru tanah air. Oleh karena itu, penduduknya tidak lagi menyebut kepulauan Nusantara dengan sebutan Hindia Belanda, tetapi telah menyebut wilayahnya dengan sebutan Indonesia. Akhirnay, kata “Indonesia” dikukuhkan kembali malalui Proklamasi Kemerdekaan Indonesia.[gs]
+</field>
+</doc>
+</add>

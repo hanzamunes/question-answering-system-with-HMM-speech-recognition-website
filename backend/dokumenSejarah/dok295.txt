@@ -1,0 +1,18 @@
+<add>
+<doc>
+<field name="DOCID">http://www.pengertiansejarah.com/pengembangan-sektor-industri-dan-dampaknya-pada-masa-orde-baru.html</field>
+<field name="TITLE">Pengembangan Sektor Industri dan Dampaknya pada Masa Orde Baru</field>
+<field name="TEXT">
+Pengembangan Sektor Industri dan Dampaknya pada Masa Orde Baru – Masa Orde baru memiliki banyak kebijakan dalam pengembangan sektor industri yang dituangkatn ke dalam Pelita yang menjadi salah satu kegiatan untuk memajukan Indonesia ke arah lebih baik.
+Sesuai tahapan yang ada dalam pelita, sektor industri juga mengalami penargetan dan pencapaian sasaran, seperti berikut ini.
+1. Pelita I (1 April 1969–31 Maret 1974) sektor pertanian dan industri dititikberatkan pada industri yang mendukung sektor pertanian.
+2. Pelita II (1 April 1974–31 Maret 1979) sektor pertanian dan industri dititikberatkan pada industri yang mengolah bahan mentah menjadi bahan baku.
+3. Pelita III (1 April 1979–31 Maret 1984) sektor pertanian dan industri dititikberatkan pada pengolahan bahan baku menjadi barang jadi.
+4. Pelita IV (1 April 1984–31 Maret 1989) sektor pertanian dan industri dititikberatkan pada industri yang menghasilkan mesin-mesin industri baik untuk industri berat maupun ringan.
+5. Pelita V (1 April 1989–31 Maret 1994) sektor pertanian dan industri diprogramkan untuk dapat menghasilkan barang ekspor industri yang menyerap banyak tenaga kerja, industri yang mampu mengolah hasil pertanian dan swasembada pangan dan industri yang dapat menghasilkan barang-barang industri.
+6. Pelita VI (1 April 1994–31 Maret 1998) sektor pertanian dan industri dititikberatkan pada pembangunan industri nasional yang mengarah pada penguatan dan pendalaman struktur industri didukung kemampuan teknologi yang makin meningkat.
+Dengan penargetan dan pencapaian hasil teknologi yang dimaksudkan, Indonesia tumbuh menjadi kawasan industri di berbagai tempat. Lahan-lahan pertanian banyak berubah menjadi kawasan industri, baik oleh pemodal asing (PMA) maupun pemodal dalam negeri (PMDN). Mental pejabat Orde Baru yang korup menambah parah dampak industrialisasi di Indonesia. Banyak industri yang tidak mempunyai atau tidak lolos dalam penyampaian analisis dampak lingkungan (AMDAL), tetapi karena mampu menyuap pejabat berwenang yang mengeluarkan izin pendirian kawasan industri, akhirnya mampu membangun industri tersebut. Jika semua unsur pendirian industri yang mengarah pada ramah lingkungan itu terpenuhi, tentu dampak negatifnya dapat ditekan seminimal mungkin. Dengan demikian, kelestarian lingkungan hidup akan dapat selalu dijaga.
+Demikianlah Pengembangan Sektor Industri dan Dampaknya pada Masa Orde Baru yang bisa admin bagikan, semoga bermanfaat dan bisa menambah wawasan dalam masalah sejarah Indonesia khususnya sejarah Orde Baru.[ps]
+</field>
+</doc>
+</add>

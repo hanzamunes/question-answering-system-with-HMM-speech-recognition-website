@@ -1,0 +1,14 @@
+<add>
+<doc>
+<field name="DOCID">http://www.pengertiansejarah.com/pengaruh-kebudayaan-hindu-buddha-terhadap-seni-rupa.html</field>
+<field name="TITLE">Pengaruh Kebudayaan Hindu-Buddha terhadap Seni Rupa</field>
+<field name="TEXT">
+Pengaruh Kebudayaan Hindu-Buddha terhadap Seni Rupa – Seni rupa Nusantara yang banyak dipengaruhi oleh kebudayaan Hindu-Buddha dari India adalah seni pahat atau ukir dan seni patung. Seni pahat atau ukir umumnya berupa hiasan-hiasan dinding candi dengan tema suasana Gunung Mahameru, tempat kediaman para dewa. Hiasan yang terdapat pada ambang pintu atau relung adalah kepala kala yang disebut Banaspati (raja hutan). Kala yang terdapat pada candi di Jawa Tengah selalu dirangkai dengan makara, yaitu sejenis buaya yang menghiasi bagian bawah kanan kiri pintu atau relung.
+Beberapa candi memiliki relief yang melukiskan suatu cerita. Cerita tersebut diambil dari kitab kesusastraan ataupun keagamaan. Gaya relief tiap-tiap daerah memiliki keunikan. Relief di Jawa Timur bergaya mayang dengan objek-objeknya berbentuk gepeng (dua dimensi). Adapun relief di Jawa Tengah bergaya naturalis dengan lekukan-lekukan yang dalam sehingga memberi kesan tiga dimensi. Pada masa Kerajaan Majapahit, relief di Jawa Timur meniru gaya Jawa Tengah dengan memberikan latar belakang pemandangan sehingga tercipta kesan tiga dimensi.Pola hiasan lainnya berupa daun-daunan yang dirangkai dengan sulur-sulur melingkar menjadi sulur gelung. Pola ini menghiasi bidang naik horizontal maupun vertikal. Ada juga bentuk-bentuk hiasan berupa bunga teratai biru (utpala), merah (padam), dan putih (kumala). Pola-pola teratai ini tidak dibedakan berdasarkan warna, melainkan detail bentuknya yang berbeda-beda. Khususnya pada dinding candi di Jawa Tengah, terdapat hiasan pohon kalpataru (semacam beringin) yang diapit oleh dua ekor hewan atau sepasang kenari.
+Relief-relief yang penting sebagai berikut.
+1. Relief candi Borobudur menceritakan Kormanibhangga, menggambarkan perbuatan manusia serta hukum-hukumnya sesuai dengan Gandawyuha(Sudhana mencari ilmu).
+2. Relief candi Roro Jonggrang menceritakan kisah Ramayana dan Kresnayana.
+Seni patung yang berkembang umumnya berupa patung atau arca raja pada sebuah candi. Raja yang sudah meninggal dimuliakan dalam wujud arca dewa. Contoh seni patung hasil kebudayaan Hindu-Buddha kini dapat kita saksikan di candi Prambanan (patung Roro Jonggrang) dan di Museum Mojokerto (Jawa Timur). Salah satu koleksi museum tersebut yang terindah adalah patung Airlangga (perwujudan Wisnu) dan patung Ken Dedes.
+</field>
+</doc>
+</add>

@@ -1,0 +1,43 @@
+<add>
+<doc>
+<field name="DOCID">http://www.gurusejarah.com/2015/03/pembentukan-departemen-dan-pemerintahan.html</field>
+<field name="TITLE">Pembentukan Departemen dan Pemerintahan Daerah</field>
+<field name="TEXT">
+Pembentukan Departemen dan Pemerintahan Daerah - Sebagai Negara yang baru merdeka Indonesia belum mempunyai pemimpin serta pemerintahan yang berdaulat, oleh sebab itu diadakan sidang PPKI dalam upaya pembentukan pemerintahan, alat kelengkapan, serta keamanan negara Indonesia.
+Sidang tanggal 18 Agustus1945, menghasilkan keputusan sebagai berikut:
+Mengesahkan serta menetapkan UUD RI yang dikenal dengan nama UUD 1945.
+Memilih serta menetapkan Sukarno sebagai Presiden serta Mohammad Hatta sebagai wakil presiden (secara aklamasi)
+Pembentukan Komite Nasional untuk menolong pekerjaan presiden sebelum terbentuknya MPR serta DPR.
+Sidang tanggal 19 Agustus 1945, menetapkan tentang :
+Pembagian wilayah Indonesia. Menetapkan wilayah Indonesia menjadi 8 propinsi dengan 2 daerah istimewa beserta gubernurnya, yaitu :
+Jawa Barat : Sutardjo Kartohadikusumo
+Jawa Tengah : R. Panji Soeroso
+Jawa Timur : R.A Soerjo
+Kalimantan : Ir. Mohammad Noor
+Sulawesi : Dr. Sam Ratulangi
+Maluku : Mr. J. Latuharhary
+Sunda Kecil : Mr. I Gusti Ketut Pudja
+Sumatera : Mr. Teuku Moh. Hasan
+Dua daerah istimewa yaitu Yogyakarta serta Surakarta
+Pembentukan Dpartemen serta Kementrian. Pembentukan 12 Departemen serta 4 kementrian negara untuk menolong presiden.
+Departemen Dalam Negeri : Wiranata Kusumah
+Departemen Luar Negeri : Ahmad Subardjo
+Departemen Kehakiman : Dr. Soepomo
+Departemen Keuangan : A.A Maramis
+Departemen Kemakmuran : Ir. Surachman Tjokrodisuryo
+Departemen Pengajaran : Ki Hajar Dewantara
+Departemen Penerangan : Amir Syarifudin
+Departemen Sosial : Iwa Kusumasumantri
+Departemen Pertahanan : Supriyadi
+Departemen Kesehatan : Boentaran Martoatmodjo
+Departemen Perhubungan : Abikusno Tjokrosujoso
+Departemen Pekerjaan Umum : Abikusno Tjokrosujoso
+Menteri Negara : Wachid Hasyim
+Menteri Negara : R.M Sartono
+Menteri Negara : M. Amir
+Menteri Negara : R. Otto Iskandardinata
+Sidang tanggal 22 Agustus 1945, PPKI membentuk tiga badan yaitu :
+Pembentukan Komite Nasional Indonesia (KNI). Dibentuk komite nasional sebagai penjelmaan tujuan serta impian bangsa Indonesia untuk menyelenggarakan kemerdekaan yang didasarkan kedaulaan rakyat. Komite Nasional Indonesia Pusat (KNIP) berkedudukan di Jakarta, sedangkan Komite Nasional Indonesia Daerah (KNID) berkedudukan di ibukota propinsi. Tanggal 29 Agustus 1945, Presiden Sukarno melantik 135 anak buah KNIP di Gedung Kesenian Jakarta dengan ketua Kasman Singodimejo[gs]
+</field>
+</doc>
+</add>

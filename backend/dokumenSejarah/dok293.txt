@@ -1,0 +1,23 @@
+<add>
+<doc>
+<field name="DOCID">http://www.pengertiansejarah.com/pengaruh-konferensi-asia-afrika-bagi-solidaritas-dan-perjuangan-kemerdekaan-bangsa-di-asia-dan-afrika.html</field>
+<field name="TITLE">Pengaruh Konferensi Asia Afrika bagi Solidaritas dan Perjuangan Kemerdekaan Bangsa di Asia dan Afrika</field>
+<field name="TEXT">
+Pengaruh Konferensi Asia Afrika bagi Solidaritas dan Perjuangan Kemerdekaan Bangsa di Asia dan Afrika – Konferensi Asia Afrika membawa pengaruh yang besar bagi solidaritas dan perjuangan kemerdekaan bangsa di Asia dan Afrika.
+Pengaruh Konferensi Asia Afrika adalah sebagai berikut.
+1. Perintis dalam membina solidaritas bangsa-bangsa dan merupakan titik tolak untuk mengakui kenyataan bahwa semua bangsa di dunia harus dapat hidup berdampingan secara damai.
+2. Cetusan rasa setia kawan dan kebangsaan bangsa-bangsa Asia Afrika untuk menggalang persatuan.
+3. Penjelmaan kebangkitan kembali bangsa-bangsa di Asia dan Afrika.
+4. Pendorong bagi perjuangan kemerdekaan bangsa di dunia pada umumnya serta di Asia dan Afrika khususnya.
+5. Memberikan pengaruh yang besar terhadap perjuangan bangsa-bangsa di Asia dan Afrika dalam mencapai kemerdekaannya.
+6. Banyak negara-negara Asia-Afrika yang merdeka kemudian masuk menjadi anggota PBB.
+Selain membawa pengaruh bagi solidaritas dan perjuangan kemerdekaan bangsa di Asia dan Afrika, Konferensi Asia Afrika juga menimbulkan dampak yang penting dalam perkembangan dunia pada umumnya. Pengaruh atau dampak itu, antara lain sebagai berikut.
+1. Konferensi Asia Afrika mampu menjadi penengah dua blok yang saling berseteru sehingga dapat mengurangi ketegangan/détenteakibat Perang Dingin dan mencegah terjadinya perang terbuka.
+2. Gagasan Konferensi Asia Afrika berkembang lebih luas lagi dan diwujudkan dalam Gerakan Non Blok.
+3. Politik bebas aktif yang dijalankan Indonesia, India, Burma (Myanmar), dan Sri Lanka tampak mulai diikuti oleh negara-negara yang tidak bersedia masuk Blok Timur ataupun Blok Barat.
+4. Belanda cemas dalam menghadapi kelompok Asia Afrika di PBB sebab dalam Sidang Umum PBB, kelompok tersebut mendukung tuntutan Indonesia atas kembalinya Irian Barat ke pangkuan RI.
+5. Australia dan Amerika Serikat mulai berusaha menghapuskan diskriminasi ras di negaranya.
+Konferensi Asia Afrika dan pengaruhnya terhadap solidaritas antarbangsa tidak hanya berdampak pada negara-negara di Asia dan Afrika, tetapi juga bergema ke seluruh dunia.
+</field>
+</doc>
+</add>

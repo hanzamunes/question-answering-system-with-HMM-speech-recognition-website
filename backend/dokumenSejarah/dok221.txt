@@ -1,0 +1,24 @@
+<add>
+<doc>
+<field name="DOCID">http://www.gurusejarah.com/2015/03/pembentukan-partai-politik.html</field>
+<field name="TITLE">Pembentukan Partai Politik</field>
+<field name="TEXT">
+Pembentukan Partai Politik - Pada tanggal 22 Agustus 1945 PPKI bersidang untuk yang ketiga kalinya serta menghasilkan keputusan antara lain pembentukan Partai Nasional Indonesia, yang pada waktu itu dimaksudkan sebagai satu-satunya partai politik di Indonesia (partai tunggal).
+Dalam perkembangannya timbul Maklumat tanggal 31 Agustus 1945 yang memutuskan bahwa gerakan serta persiapan Partai Nasional Indonesia ditunda serta segala kegiatan dicurahkan ke dalam Komite Nasional.
+
+Sejak saat itu, gagasan satu partai tak sempat dinasibkan lagi. Demi kelangsungan kenasiban demokrasi, maka KNIP mengajukan usul terhadap pemerintah supaya rakyat diberbagi peluang seluas-luasnya untuk mendirikan partai politik.
+Sebagai tasumsi atas usul tersebut, maka pada tanggal 3 November 1945 pemerintah mengeluarkan maklumat pemerintah yang pada intinya berisi memberbagi peluang terhadap rakyat untuk mendirikan partai politik.
+Maklumat itu kemudian dikenal dengan Maklumat Pemerintah tanggal 3 November 1945. Partai politik yang timbul seusai Maklumat Pemerintah tanggal 3 November 1945 dikeluarkan antara lain
+Masyumi,
+Partai Komunis Indonesia,
+Partai Buruh Indonesia,
+Parkindo,
+Partai Rakyat Jelata,
+Partai Sosialis Indonesia,
+Partai Rakyat Sosialis,
+Partai Katolik,
+Permai, serta
+PNI.[gs]
+</field>
+</doc>
+</add>

@@ -1,0 +1,28 @@
+<add>
+<doc>
+<field name="DOCID">http://sejarah-interaktif.blogspot.com/2011/12/kerajaan-mataram-kuno.html</field>
+<field name="TITLE">KERAJAAN MATARAM KUNO</field>
+<field name="TEXT">
+Kerajaan Medang (atau sering juga disebut Kerajaan Mataram Kuno atau Kerajaan Mataram Hindu) adalah nama sebuah kerajaan yang berdiri di Jawa Tengah pada abad ke-8, kemudian berpindah ke Jawa Timur pada abad ke-10. Para raja kerajaan ini banyak meninggalkan bukti sejarah berupa prasasti-prasasti yang tersebar di Jawa Tengah dan Jawa Timur, serta membangun banyak candi baik yang bercorak Hindu maupun Buddha. Kerajaan Medang akhirnya runtuh pada awal abad ke-11.NAMA
+ Pada umumnya, istilah Kerajaan Medang hanya lazim dipakai untuk menyebut periode Jawa Timur saja, padahal berdasarkan prasasti-prasasti yang telah ditemukan, nama Medang sudah dikenal sejak periode sebelumnya, yaitu periode Jawa Tengah. Sementara itu, nama yang lazim dipakai untuk menyebut Kerajaan Medang periode Jawa Tengah adalah Kerajaan Mataram, yaitu merujuk kepada salah daerah ibu kota kerajaan ini. Kadang untuk membedakannya dengan Kerajaan Mataram Islam yang berdiri pada abad ke-16, Kerajaan Medang periode Jawa Tengah biasa pula disebut dengan nama Kerajaan Mataram Kuno atau Kerajaan Mataram Hindu.
+PUSAT KERAJAAN MATARAM KUNO Pada umumnya para sejarawan menyebut ada tiga dinasti yang pernah berkuasa di Kerajaan Medang, yaitu Wangsa Sanjaya dan Wangsa Sailendra pada periode Jawa Tengah, serta Wangsa Isyana pada periode Jawa Timur. Istilah Wangsa Sanjaya merujuk pada nama raja pertama Medang, yaitu Sanjaya. Dinasti ini menganut agama Hindu aliran Siwa. Menurut teori van Naerssen, pada masa pemerintahan Rakai Panangkaran (pengganti Sanjaya sekitar tahun 770-an), kekuasaan atas Medang direbut oleh Wangsa Sailendra yang beragama Buddha Mahayana. Mulai saat itu Wangsa Sailendra berkuasa di Pulau Jawa, bahkan berhasil pula menguasai Kerajaan Sriwijaya di Pulau Sumatra. Sampai akhirnya, sekitar tahun 840-an, seorang keturunan Sanjaya bernama Rakai Pikatan berhasil menikahi Pramodawardhani putri mahkota Wangsa Sailendra. Berkat perkawinan itu ia bisa menjadi raja Medang, dan memindahkan istananya ke Mamrati. Peristiwa tersebut dianggap sebagai awal kebangkitan kembali Wangsa Sanjaya. Menurut teori Bosch, nama raja-raja Medang dalam Prasasti Mantyasih dianggap sebagai anggota Wangsa Sanjaya secara keseluruhan. Sementara itu Slamet Muljana berpendapat bahwa daftar tersebut adalah daftar raja-raja yang pernah berkuasa di Medang, dan bukan daftar silsilah keturunan Sanjaya. Contoh yang diajukan Slamet Muljana adalah Rakai Panangkaran yang diyakininya bukan putra Sanjaya. Alasannya ialah, prasasti Kalasan tahun 778 memuji Rakai Panangkaran sebagai “permata wangsa Sailendra” (Sailendrawangsatilaka). Dengan demikian pendapat ini menolak teori van Naerssen tentang kekalahan Rakai Panangkaran oleh seorang raja Sailendra. Menurut teori Slamet Muljana, raja-raja Medang versi Prasasti Mantyasih mulai dari Rakai Panangkaran sampai dengan Rakai Garung adalah anggota Wangsa Sailendra. Sedangkan kebangkitan Wangsa Sanjaya baru dimulai sejak Rakai Pikatan naik takhta menggantikan Rakai Garung. Istilah Rakai pada zaman Medang identik dengan Bhre pada zaman Majapahit, yang bermakna “penguasa di”. Jadi, gelar Rakai Panangkaran sama artinya dengan “Penguasa di Panangkaran”. Nama aslinya ditemukan dalam prasasti Kalasan, yaitu Dyah Pancapana. Slamet Muljana kemudian mengidentifikasi Rakai Panunggalan sampai Rakai Garung dengan nama-nama raja Wangsa Sailendra yang telah diketahui, misalnya Dharanindra ataupun Samaratungga. yang selama ini cenderung dianggap bukan bagian dari daftar para raja versi Prasasti Mantyasih. Sementara itu, dinasti ketiga yang berkuasa di Medang adalah Wangsa Isana yang baru muncul pada ‘’periode Jawa Timur’’. Dinasti ini didirikan oleh Mpu Sindok yang membangun istana baru di Tamwlang sekitar tahun 929. Dalam prasasti-prasastinya, Mpu Sindok menyebut dengan tegas bahwa kerajaannya adalah kelanjutan dari Kadatwan Rahyangta i Medang i Bhumi Mataram.DAFTAR KERAJAAN MATARAM KUNO
+
+Sanjaya, pendiri Kerajaan Mataram Kuno
+Rakai Panangkaran, awal berkuasanya Wangsa Sailendra
+Rakai Panunggalan alias Dharanindra
+Rakai Warak alias Samaragrawira
+Rakai Garung alias Samaratungga
+Rakai Pikatan suami Pramodawardhani, awal kebangkitan Wangsa Sanjaya
+Rakai Kayuwangi alias Dyah Lokapala
+Rakai Watuhumalang
+Rakai Watukura Dyah Balitung
+Mpu Daksa
+Rakai Layang Dyah Tulodong
+Rakai Sumba Dyah Wawa
+Mpu Sindok, awal periode Jawa Timur
+Sri Lokapala suami Sri Isanatunggawijaya
+Makuthawangsawardhana
+Dharmawangsa Teguh, Kerajaan Mataram Kuno berakhir
+</field>
+</doc>
+</add>

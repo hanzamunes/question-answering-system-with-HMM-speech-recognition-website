@@ -1,0 +1,36 @@
+<add>
+<doc>
+<field name="DOCID">http://www.gurusejarah.com/2015/01/menggalang-kerjasama-internasional-dan.html</field>
+<field name="TITLE">Menggalang Kerjasama Internasional dan Solideritas Antar Bangsa</field>
+<field name="TEXT">
+Penggalangan Kerja Sama Internasional dan Solidaritas antarbangsa Konferensi Asia Afrika dilatarbelakangi oleh adanya perebutan pengaruh antara dua blok raksasa yaitu blok barat (Amerika) dan blok timur (Uni Soviet). Dengan berakhirnya perang dunia II dan semakin meningkatnya perjuangan bangsa-bangsa Asia Afrika untuk mencapai kemerdekaan. Gagasan untuk menyelenggarakan konferensi Asia Afrika muncul dari beberapa tokoh negarawan Asia yang mengadakan konferensi Pancanegara dikota Kolombo, Srilangka pada tanggal 24 - 25 April 1954, Tokoh-tokoh dalam konferensi Asia Afrika antara lain sebagai berikut :
+Perdana Menteri Srilanka, Sir John Kotelawala
+Perdana Menteri Indonesia, Mr. Ali Sastroamijoyo
+Perdana Menteri India, Pandit Jawaharal Nehru
+Perdana Menteri Pakistan, Mohammad Ali Jinnah
+Perdana Menteri Birma (Myanmar), Unu
+Dalam konferensi Kolombo Perdana Menteri Indonesia Mr. Ali-Sastroamijoyo mengusulkan agar diadakan konferensi yang lebih leluasa jangkauannya, yaitu tidak hanya mencakup negara-negara Asia saja, tetapi juga negara-negara Afrika. Usul tersebut diselenggarakan Konferensi Pancanegara II pada tanggal 28 - 29 Desember 1954 di kota Bogor, yang dikenal dengan Konferensi Bogor. Dalam konferensi Bogor dirumuskan tentang hal berikut:
+Tujuan Konferensi Asia Afrika
+Negara-negara peserta KAA (30 negara)
+Waktu dan acara KAA
+Negara-negara sponsor
+Mendukung Indonesia menuntut kembali Irian Barat
+Setelah melalui berbagai persiapan, maka KAA akhirnya dapat dilaksanakan di kota Bandung pada tanggal 24 April 1955, Panitia pelaksanaan Konferensi Asia Afrika (KAA) adalah perdana Menteri Ali Sastroamijoy sebagai ketua dan Ruslan Abdulgani sebagai Sekjennya. Konferensi Asia Afrika yang dibuka oleh Presiden Soekarno, seharusnya dihadiri oleh 30 negara di kawasan Asia dan Afrika, yang terdiri dari 5 negara sponor (Rhodesa), karena situasi dan kondisi politik dalam negerinya belum stabil. Walaupun demikian KAA fete berlangsung dengan dihadiri 29 negara. Konferensi Asia Afrika merupakan konferensi kulit berwarna yang terbesar, maka disebut The Afro Asian Conference. Hasil keputusan yang diambil dalam KAA, terdiri dari sepuluh (10) keputusan yang lebih dikenal dengan Dasa Sila Bandung, antara lain sebagai berikut :
+Menghormati hak dasar manusia sebagaimana tercantum dalam Piagam PBB
+Menghormati kedaulatan dan integritas nasional semua warga
+Mengakui persamaan semua bangsa, baik besar maupun kecil
+Tidak melakukan intervensi atau campur tangan persoalan dalam negeri negara lain
+Menghormati hak setiap bangsa untuk mempertahankan diri, baik secara sendirian maupun kolektif  sesuai dengan piagam PBB
+Tidak melakukan tekanan-tekanan terhadap negara lain
+Tidak melakukan tindakan-tindakan ancaman-ancaman agresi terhadap keutuhan wilayah dan kemerdekaan negara lain
+Menyelesaikan perselisihan internasional jalan damai sesuai dengan piagam PBB
+Memajukan kerja sama untuk kepentingan bersama
+Menghormati hukum dan kewajiban-kewajiban internasional
+Setelah berakhirnya Konferensi Asia Afrika, banyak negara yang belum merdeka, mulai memperjuangkan nasibnya untuk mencapai kemerdekaan dan kedudukan sebagai negara yang berdais penuh. Selain itu konferensi Asia Afrika juga memiliki pengarun internasional antara lain sebagai berikut:
+Berkurangnya ketegangan dunia, misainya Cina (RRC) bersedia berunding dengan USA mengenai Taiwan
+KAA menentang ras diskriminasi, sehingga Australia menghapus politik White Australian Policydan Amei mengadakan kelas campuran
+Medorong lahirnya organisasi Gerakan Nonblok.
+Dengan demikian, Konferensi Asia Afrika sangat besar pengaruhnya dalam usaha untuk menciptao perdamaian dunia.[gs]
+</field>
+</doc>
+</add>

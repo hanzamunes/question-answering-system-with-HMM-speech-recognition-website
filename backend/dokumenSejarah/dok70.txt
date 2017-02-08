@@ -1,0 +1,28 @@
+<add>
+<doc>
+<field name="DOCID">http://www.materisma.com/2014/01/asas-perhimpunan-indonesia-sebagai.html</field>
+<field name="TITLE">Asas Perhimpunan Indonesia sebagai Manifesto Politik Pergerakan Nasional</field>
+<field name="TEXT">
+Asas Perhimpunan Indonesia sebagai Manifesto Politik Pergerakan Nasional - Perhimpunan Indonesia (PI) merupakan penjelmaan dari Indische Vereeniging yang didirikan oleh mahasiswa-mahasiswa Indonesia yang sedang belajar di Negeri Belanda pada tahun 1908. Mereka itu, antara lain Sutan Kesayangan, R.N. Notokusumo, R.P. Sastrokartono, R. Husein Jayadiningrat, dan Notodiningrat. 
+
+Pada mulanya hanya bersifat organisasi sosial yang berjuang untuk mengurus kepentingan bersama orang-orang Indonesia yang berada di Negeri Belanda. Kedatangan tiga tokoh Indische Partij di Negeri Belanda tahun 1913 (sebagai orang pengasingan), unsur politik mulai masuk dalam tubuh Indische Vereeniging. 
+
+Setelah Perang Dunia I, jumlah mahasiswa Indonesia yang belajar ke Negeri Belanda makin banyak. Hal ini semakin mempengaruhi perkembangan Indische Vereeniging, semangat nasionalisme semakin kuat sehingga sifat organisasi sosial beralih ke organisasi politik. Mereka tidak hanya sekadar menuntut ilmu, tetapi juga berjuang memikirkan nasib bangsanya.
+
+Pada tahun 1922, nama Indische Vereeniging diubah menjadi Indonesische Vereeniging, dan pada tahun 1925 menjadi Perhimpunan Indonesia. Majalah mereka yang terbit sejak tahun 1916 dengan nama Hindia Putra berubah nama menjadi Indonesia Merdeka (1924).  Dengan perubahan itu maka terjadi pula perubahan dasar pemikiran dan orientasi pergerakan mereka. Gerakan mereka menjadi radikal dan dengan tegas menginginkan Indonesia merdeka. Untuk mempertegas dasar perjuangannya, pada tahun 1925 Perhimpunan Indonesia mengeluarkan anggaran dasarnya sebagai berikut.
+
+1. Perhimpunan Indonesia akan berjuang untuk memperoleh suatu pemerintahan untuk Indonesia yang hanya bertanggung jawab kepada rakyat Indonesia.
+2. Kemerdekaan penuh bagi Indonesia akan dicapai dengan aksi bersama dan serentak oleh rakyat Indonesia.
+3. Untuk itu sangat diperlukan persatuan nasional yang murni di antara seluruh rakyat Indonesia dalam menentang penjajahan Belanda yang telah merusak kehidupan bangsa Indonesia.
+
+Sejak itu tindakannya meningkat, di samping bersifat nasional-demokratis juga menjadi antikolonial. Untuk itu dasar perjuangannya disebarluaskan dan dipropagandakan, yakni mengadakan hubungan dengan pergerakan nasional yang ada di Indoensia, baik langsung maupun tidak langsung. Selain itu, mengadakan hubungan dengan organisasi internasional.  Itulah sebabnya Perhimpunan Indonesia juga bekerja sama dengan perhimpunan-perhimpunan dan tokoh-tokoh pemuda serta mahasiswa yang berasal dari negara-negara jajahan di Asia dan Afrika yang mempunyai cita-cita yang sama dengan Indonesia.
+
+Untuk mendapatkan perhatian dunia dan mencari dukungan perjuangan Indonesia maka Perhimpunan Indonesia ikut serta dalam organisasi internasional, seperti Liga Demokrasi Internasional di Paris (1926), Liga Penentang Imperialis dan Kolonialisme di Brusel (1927), Kongres Wanita Internasional di Swiss (1927), dan Liga Komintern di Berlin (1927).
+
+Aktivitas Perhimpunan Indonesia di Eropa dan pengaruhnya yang makin kuat di Indonesia mulai dicurigai oleh pemerintah kolonial Belanda. Atas tuduhan menghasut untuk memberontak terhadap pemerintah maka pada pada tanggal 10 September 1927 ke empat tokoh Perhimpunan Indonesia, yaitu Moh. Hatta, Nasir Datuk Pamuncak, Abdulmajid Joyodiningrat, dan Ali Sastroamijoyo ditangkap dan diadili. Di dalam pemeriksaan sidang pengadilan di Den Haag pada bulan Maret 1928, mereka terbukti tidak bersalah sehingga dibebaskan. Namun, gerakan Perhimpunan Indonesia terus diawasi dengan ketat.
+
+Di tanah air pengaruh Perhimpunan Indonesia sangat kuat, dan berdasarkan ilham dari perjuangan Perhimpunan Indonesia, maka berdirilah Perhimpunan Pelajar-Pelajar Indonesia (PPPI) tahun 1926, Partai Nasional Indonesia (PNI) tahun 1927, dan Jong Indonesia (Pemuda Indonesia) tahun 1928.
+
+</field>
+</doc>
+</add>

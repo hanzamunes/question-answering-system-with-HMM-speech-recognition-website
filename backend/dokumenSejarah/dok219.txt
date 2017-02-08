@@ -1,0 +1,14 @@
+<add>
+<doc>
+<field name="DOCID">http://www.gurusejarah.com/2015/01/konferensi-london-tentang-terusan-suez.html</field>
+<field name="TITLE">Konferensi London Tentang Terusan Suez</field>
+<field name="TEXT">
+Konferensi London tentang Terusan Suez Terusan Suez memiliki arti yang sangat besar bagi kepentingan ekonomi dan letaknya sangat strategiz. Terusan ini menghubungkan Laut Merah dan Laut Tengah, sehingga sangat penting bagi pelayaran 3: perdagangan Internasional. Terusan Suez mulai digali pada mesa Raja Muda Muhammad Said, oleh Ferdirar de Lessers (Perancis) serta dikelola oleh perusahaan Compagnie Universal de Canal Maritim de Suez (par~ 25 April 1959 dan diresmikan 17 November 1969 oleh permaisuri Napoleon III). Karena kedudukan Tenrusan Suez sangat penting, maka pada tanggal 29 Oktober 1988 bangsa Inggris, Perancis, Jerman, Turki, Spanyol, Hon-aria, Australia, Rusia, Belanda dan Italia mengadakan Konferensi di Istambul yang menetapkan hal berikut:
+Kebebasan berlayar bagi semua kapal dagang maupun kapal perang baik dalam keadaan damai maupun perang
+Semua kapal yang melalui Terusan Suez tidak boleh memperlihatkan kekerasan
+Tidak boleh menempatkan kapal perang di sepanjang Terusan Suez
+Pemerintah Mesir harus mengambil tindakan yang diperlukan guna menjaga pelaksanaan konferensi Istambul.
+Tindakan Presiden Mesir Gamal Abdul Nasser yang menasionalisasikan Terusan Suez pada 26 Juli 1956,dianggap sangat merugikan negara-negara yang menggunakan terusan tersebut. Inggris dan Perancis merupakan dua negara yang mengajukan protes atas terhadap tindakan Mesir yang disebut dengan tindakan sepihak. Protes-protes itu ditolak oleh pemerintah Mesir, Untuk menyelesaikan krisis ini Inggris, Perancis dan Israel yang juga memiliki kepentingan terhadap Terusan Suez, Untuk menyelesaikan krisis ini, Inggris dan Perancis yang dibantu oleh Amerika Serikat, London I bulan Agustus 1956 dengan tujuan untuk tetap mempertahankan internasionalisasi    Suez. Akan tetapi konferensi itu gagal dalam mencari penyelesaian. Demikian juga dengan demikian konferensi London II bulan September 1956. Karena Konferensi London tidak dapat menyelesaikan masalah terusan Suez, maka diambil alih oleh PBB dan diproses melalui Dewan Keamanan bulan Oktober 1956. Resolus! dewan keamanan PBB tetap masih menganjurkan agar Terusan Suez memiliki status internasional. Namur Mesir menolak resolusi tersebut, sehingga situasi memanas lagi setelah Inggris dan Perancis menyerbu Port Said dan Israel menyerang Terusan Suez dan Sinai. Kemudian atas usul Menteri, Luar Negeri Kanada dibentuk pasukan PBB yang bertugas memelihara perdamaian dunia dikawasan garis perbatasan Mesir - Israel.[gs]
+</field>
+</doc>
+</add>

@@ -1,0 +1,30 @@
+<add>
+<doc>
+<field name="DOCID">http://www.materisma.com/2014/02/teori-masuknya-agama-dan-kebudayaan-hindu-buddha.html</field>
+<field name="TITLE">Teori Masuknya Agama dan Kebudayaan Hindu Buddha (Teori Waisya Ksatria Brahmana dan Nasional)</field>
+<field name="TEXT">
+Teori Masuknya Agama dan Kebudayaan Hindu Buddha (Teori Waisya Ksatria Brahmana dan Nasional) - Ada beberapa teori tentang masuknya agama dan budaya Hindu–Buddha ke Indonesia, antara lain sebagai berikut.
+
+a. Teori Waisya
+
+Teori waisya mengungkapkan bahwa masuknya agama dan kebudayaan Hindu dibawa oleh golongan pedagang (waisya). Mereka mengikuti angin musim (setengah tahun berganti arah) dan enam bulan menetap di Indonesia dan menyebarkan agama dan kebudayaan Hindu.
+
+Menurut para pendukung teori waisya, kaum waisya yang umumnya merupakan kelompok pedagang inilah yang berperan besar dalam menyebarkan agama dan kebudayaan Hindu ke Nusantara. Mereka yang menjadikan munculnya budaya Hindu sehingga dapat diterima di kalangan masyarakat.. Pada saat itu, para pedagang banyak berhubungan dengan para penguasa dan rakyat. Jalinan hubungan itu yang membuka peluang terjadinya proses penyebaran agama dan budaya Hindu. Salah satu tokoh pendukung hipotesis waisya adalah N.J. Krom.
+
+b. Teori Ksatria
+
+Teori ksatria mengungkapkan bahwa pembawa agama dan kebudayaan Hindu masuk ke Nusantara adalah kaum ksatria. Menurut teori ini, pada masa lampau di India terjadi peperangan antarkerajaan. Para prajurit yang kalah perang, kemudian mengadakan migrasi ke daerah lain.  Tampaknya, di antara mereka ada yang sampai ke Indonesia dan mendirikan koloni-koloni melalui penaklukan. Mereka menyebarkan agama dan kebudayaan Hindu di Indonesia. Salah seorang pendukung teori ksatria adalah C.C. Berg.
+
+c. Teori Brahmana
+
+Teori brahmana mengungkapkan bahwa pembawa agama dan kebudayaan Hindu ke Indonesia ialah golongan brahmana. Para brahmana datang ke Nusantara diundang oleh penguasa Nusantara untuk menobatkan menjadi raja dengan upacara Hindu (abhiseka = penobatan). Selain itu, kaum brahmana juga memimpin upacara-upacara keagamaan dan mengajarkan ilmu pengetahuan. Pendukung hipotesis ini adalah J.C. van Leur.
+
+d. Teori Nasional
+
+Teori nasional mengungkapkan bahwa penduduk Indonesia banyak yang aktif berdagang ke India, pulangnya membawa agama dan kebudayaan Hindu. Sebaliknya, orang-orang Indonesia (raja) mengundang para brahmana dari India untuk menyebarkan agama dan kebudayaan Hindu di Indonesia. Jadi, bangsa Indonesia sendiri yang aktif memadukan unsur-unsur kebudayaan India. Banyak pemuda Indonesia yang belajar agama Hindu–Buddha ke India dan setelah memperoleh ilmu, mereka kembali untuk menyebarkan agama di Tanah Air.
+
+Terlepas dari teori tersebut , orang-orang Indonesia ikut memegang peranan penting dalam masuknya agama dan budaya India. Orang-orang Indonesia yang memiliki pengetahuan dari pada pendeta India kemudian pergi ke tempat asal guru mereka untuk melakukan ziarah dan menambah ilmu mereka.  Sekembalinya dari India dengan bekal pengetahuan yang cukup, mereka ikut serta menyebarkan agama dan budaya dengan memakai bahasa mereka sendiri. Ajaran-ajaran yang mereka sebarkan dapat lebih cepat diterima oleh penduduk. Jadi, proses masuknya budaya India ke Indonesia menjadi lebih cepat dan mudah.
+
+</field>
+</doc>
+</add>

@@ -1,0 +1,16 @@
+<add>
+<doc>
+<field name="DOCID">http://www.pengertiansejarah.com/sejarah-vietnam-sebelum-perang-dunia-ii.html</field>
+<field name="TITLE">Sejarah Vietnam sebelum Perang Dunia II</field>
+<field name="TEXT">
+Sejarah Vietnam sebelum Perang Dunia II – Pada kesempatan ini admin Pengertian Sejarah akan berbagi informasi mengenai Sejarah Vietnam sebelum Perang Dunia II, sebelumnya admin juga sudah berbagi tentang Sejarah Kuba Sebelum dan Sesudah Perang Dunia II.
+Negara Eropa yang pertama mendarat di Vietnam adalah Prancis. Kedatangan Prancis di Vietnam terjadi pada sekitar akhir abad ke-18. Seperti penjelajah samudra dari negara Eropa lainnya, Prancis kemudian melakukan kolonisasi di Vietnam. Wilayah Vietnam yang luas dibagi menjadi tiga daerah protektorat, seperti Tonkin di utara, Annam di tengah, dan Koncincina di selatan.
+Pada tahun 1887 ketiga protektorat tersebut disatukan dengan protektorat Kampuchea yang dibentuk pada tahun 1875. Kesatuan protektorat itu disebut Uni Indocina. Semangat cinta tanah air dan kebangsaan di Vietnam mulai bangkit setelah Perang Dunia I berakhir. Para nasionalis Vietnam bangkit dan bersatu dalam Partai Nasional Vietnam.
+Pemberontakan pertama pada masa kolonial Prancis di Vietnam terjadi pada tahun 1930. Para pemberontak melancarkan aksinya di Tonkin. Namun, upaya pemberontakan ini mengalami kegagalan. Pemerintah kolonial Prancis masih terlalu tangguh untuk dikalahkan. Akibat pemberontakan, banyak  pemimpin Partai Nasional Vietnam yang ditawan dan dihukum mati. Sementara itu, anggota yang tidak tertangkap menyebar untuk menyelamatkan diri. Akibat kevakuman aktivitas Partai Nasional Vietnam, di kalangan masyarakat Vietnam muncul wadah baru, yaitu Partai Komunis Indocina.
+Pada tahun 1940 Jepang menjadi penguasa baru di Vietnam. Prancis tidak mampu mempertahankan wilayah Vietnam karena negaranya sendiri di Eropa telah dikuasai oleh Jerman. Jadi, Prancis lebih memusatkan kekuatannya untuk membebaskan negerinya.
+Partai Komunis Vietnam yang berkembang pada masa kolonial Prancis ternyata sangat membenci Jepang. Oleh karena itu, Partai Komunis Vietnam berusaha membentuk suatu wadah perjuangan bersama dengan kelompok nasionalis di Vietnam dengan nama Viet Minh atau Liga Vietnam Merdeka.
+Organisasi Viet Minh merupakan hasil kongres yang diselenggarakan kaum komunis pada tanggal 19 Mei 1941 di Chiangsi, Provinsi Kwangsi. Pada awal pembentukannya Viet Minh bersama Viet Nam Doc Lap Dong Minh. Tujuannya adalah melenyapkan dominasi Prancis dan kekuasaan Jepang. Pemimpin organisasi Viet Minh adalah Ho Chi Minh. Rakyat Vietnam lebih mengenalnya sebagai Bapak Nasionalisme Vietnam daripada tokoh komunis.
+Posisi Jepang dalam Perang Asia Pasifik sebagai bagian dari Perang Dunia II mulai terdesak. Pada bulan Agustus 1945 Jepang menyerah tanpa syarat pada Sekutu. Kondisi demikian itu menyebabkan kedudukan Viet Minh di Vietnam makin kuat. Bao Dai, penguasa Vietnam yang merupakan boneka Jepang menyerahkan kekuasaannya pada Ho Chi Minh pada tanggal 25 Agustus 1945. Melihat situasi yang sangat menguntungkan bagi Viet Minh maka pada tanggal 25 September 1945 Ho Chi Minh memproklamasikan kemerdekaan Vietnam dengan nama Republik Demokrasi Vietnam. Pusat pemerintahannya di Hanoi. Namun, Viet Minh tidak berhasil di selatan.
+</field>
+</doc>
+</add>

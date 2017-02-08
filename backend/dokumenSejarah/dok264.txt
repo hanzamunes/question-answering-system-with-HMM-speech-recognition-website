@@ -1,0 +1,24 @@
+<add>
+<doc>
+<field name="DOCID">http://www.gurusejarah.com/2015/03/perjanjian-renville.html</field>
+<field name="TITLE">Perjanjian Renville</field>
+<field name="TEXT">
+Perjanjian Renville - Atas usulan KTN pada tanggal 8 Desember 1947 dilaksanakan perundingan antara Indonesia serta Belanada di atas kapal renville yang sedang berlabuh di Jakarta. Delegasi Indonesia terdiri atas perdana menteri Amir Syarifudin, Ali Sastroamijoyo, Dr. Tjoa Sik Len, Moh. Roem, Haji Agus Salim, Narsun serta Ir. Juanda. Delegasi Belanda terdiri dari Abdulkadir Widjojoatmojo, Jhr. Van Vredeburgh, Dr. Soumukil, Pangran Kartansupayaa serta Zulkarnain. Nyatanya wakil-wakil Belanda hampir semua berasala dari bangsa Indonesia sendiri yang pro Belanda. Dengan demikian Belanda masih meperbuat politik adu domba supaya Indonesia mudah dikuasainya. Seusai berakhir perdebatan dari tanggal 8 Desember 1947 hingga dengan 17 Januari 1948 maka diperoleh hasil persetujuan damai yang disebut Perjanjian Renville. Pokok-poko isi perjanjian Renville, antara lain sebagai berikut :
+Belanda masih berdaulat atas seluruh wilayah Indonesia samapi kedaulatan Indonesia diserahkan terhadap Republik Indonesia Serikat yang segera terbentuk.
+Republik Indonesia Serikat memiliki kedudukan yang sejajar dengan negara Belanda dalam uni Indonesia-Belanda.
+Republik Indonesia bakal menjadi negara tahap dari RIS
+Sebelum RIS terbentuk, Belanda bisa menyerahkan sebagain kekuasaannya terhadap pemerintahan federal sementara.
+Pasukan republik Indonesia yang berda di derah kantong haruns ditarik ke daerah Republik Indonesia. Daerah kantong merupakan daerah yang berada di belakang Garis Van Mook, yakni garis yang menghubungkan dua derah terdepan yang diduduki Belanda.
+Perjanjian Renville ditandatangani kedua belah pihak pada tanggal 17 Januari 1948. adapun kemenyesalan yang diderita Indonesia dengan penandatanganan perjanjian Renville merupakan sebagai berikut :
+Indonesia terpaksa menyetujui dibentuknya negara Indonesia Serikat melalaui masa peralihan.
+Indonesia kehilangan sebagaian daerah kekuasaannya sebab grais Van Mook terpaksa wajib diakui sebagai daerah kekuasaan Belanda.
+Pihak republik Indonesia wajib luar biasa seluruh pasukanya yang berda di derah kekuasaan Belanda serta kantong-kantong gerilya masuk ke daerah republic Indonesia.
+Penandatanganan naskah perjanjian Renville memunculkan dampak kurang baik bagi pemerinthan republik Indonesia, antra lain sebagai berikut: 
+Wilayah Republik Indonesia menjadi makin sempit serta dikurung oleh daerah-daerah kekuasaan belanda.
+Timbulnya reaksi kekerasan dikalangan para pemimpin republic Indonesia yang mengdampakkan jatuhnya cabinet Amir Syarifuddin sebab dianggap menjual negara terhadap Belanda.
+Perekonomian Indonesia diblokade dengan cara ketata oleh Belanda
+Indonesia terpaksa wajib luar biasa mundur kesatuan-kesatuan militernya dari daerah-daerah gerilya untuk kemudian hijrah ke wilayah Republik Indonesia yang berdekatan.
+Dalam usaha memecah belah Negara kesatuan republic Indonesia, Belanda membentuk negara-negara boneka, semacam; negara Borneo Barat, Negara Madura, Negara Sumatera Timur, serta Negara jawa Timur. Negara boneka tersebut tergabung dalam BFO (Bijeenkomstvoor Federal Overslag)..[gs]
+</field>
+</doc>
+</add>

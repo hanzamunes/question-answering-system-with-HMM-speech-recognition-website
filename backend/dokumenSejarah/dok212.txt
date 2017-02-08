@@ -1,0 +1,10 @@
+<add>
+<doc>
+<field name="DOCID">http://www.gurusejarah.com/2015/03/pengesahan-uud-1945-dan-pemilihan.html</field>
+<field name="TITLE">Pengesahan UUD 1945 dan Pemilihan Presiden dan Wakil Presiden</field>
+<field name="TEXT">
+Pengesahan UUD 1945 dan Pemilihan Presiden dan Wakil Presiden - PPKI mengadakan sidang untuk pertama kalinya pada tanggal 18 Agustus 1945. Serta pada sidang tersebut didapat keputusan bahwa UUD 1945 ditetapkan serta disahkan menjadi kontitusi Negara Indonesia serta dipilihkan Presiden Indonesia beser wakilnya beserta wakilnya. Sidang dari PPKI ini merupakan kelanjutan sidang BPUPKI pada tanggal 10-16 juli 1945 yang mengulas persoalan rancangan undang-undang dasar. Berbagai pembetulan disepakati oleh sidang, yaitu rumusan sila pertama pancasila yang sebalumnya disepakati merupakan “ketuhanan serta keharusan menjalankan syariat-syariat islam bagi pemeliknya’’,di ubah menjadi “ketuhanan yang maha esa’’. Tidak hanya itu, Bab III, pasal 6,UUD 1945yang sebelumnya menyebutkan bahwa”presiden ialah orang Indonesia orisinil yang beragama islam’’. Dalam sidang itu pularancangn undang-undang dasar ditetapkan serta disahkan menjadi undang-undang dasar Negara yang kemudian dikenal sebagai undang-undang dasar 1945.
+Pada saat mengulas bab III rancangan UUD 1945, Otto iskandardinata menganjurkan supaya sekaligus saja memilih presiden serta wakil presiden. Ia menganjurkan Soekarno menjadi presiden, serta Moh Hatta sebagai wakil presiden. Laksana dayung bersambut, usul dari Otto Iskandardinata langsung diterima dengan cara bulat serta disambut dengan upacara menyanyikan lagu Indonesia Raya setidak sedikit dua kali. Dengan demikian, kedua proklamator tersebut sejak tanggal 18 Agustus 1945 resmi menjadi presiden serta wakil presiden Republik Indonesia yang pertama.[gs]
+</field>
+</doc>
+</add>

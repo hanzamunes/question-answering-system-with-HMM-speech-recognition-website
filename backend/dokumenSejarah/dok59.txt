@@ -1,0 +1,32 @@
+<add>
+<doc>
+<field name="DOCID">http://www.materisma.com/2014/01/perubahan-politik-ekonomi-sosial-dan.html</field>
+<field name="TITLE">Perubahan Politik, Ekonomi, Sosial, dan Budaya Akibat Perluasan Kolonialisme dan Imperialisme di Indonesia</field>
+<field name="TEXT">
+Perubahan Politik, Ekonomi, Sosial, dan Budaya Akibat Perluasan Kolonialisme dan Imperialisme di Indonesia - Proses interaksi kekuasaan antara negara-negara tradisional (kerajaan) milik pribumi dan kekuasaan Belanda pada abad ke-19 menunjukkan dua perkembangan yang sangat berbeda.  Di satu pihak, tampak makin meluasnya kekuasaan kolonial dan imperialiasme Belanda. Di lain pihak terlihat makin merosotnya kekuasaan tradisional milik pribumi. Meluasnya kolonialisme dan imperialisme Belanda di Indonesia membawa akibat terhadap perubahan dalam berbagai segi kehidupan, seperti politik, ekonomi, sosial, dan budaya.
+
+Dalam bidang politik, pengaruh kekuasaan Belanda semakin kuat karena intervensi yang intensif dalam masalah-masalah istana, seperti pergantian takhta, pengangkatan pejabat-pejabat keraton, ataupun partisipasinya dalam menentukan kebijaksanaan pemerintahan kerajaan. 
+
+Dengan demikian, dalam bidang politik penguasa-penguasa pribumi makin tergantung pada kekuasaan asing sehingga kebebasan dalam menentukan kebijaksaan pemerintahan istana makin menipis. Di samping itu, aneksasi wilayah yang dilakukan oleh penguasa asing mengakibatkan makin menyempitnya wilayah kekuasaan pribumi. Penghasilan yang berupa lungguh, upeti atau hasil bumi makin berkurang, bahkan hilang sebab kedudukannya telah berganti sebagai alat pemerintah Belanda.
+
+Dalam bidang ekonomi, penghasilan penguasa pribumi makin berkurang. Sudah pasti keadaan ini akan menimbulkan kegoncangan dalam kehidupan para penguasa pribumi. Di pihak rakyat, khususnya para petani dibebani kewajiban untuk mengolah sebagian tanahnya untuk ditanami dengan tanaman-tanaman eskpor dan masih harus menyumbangkan tenaganya secara paksa kepada pemerintah kolonial. Hal inilah yang mengakibatkan runtuhnya perekonomian rakyat.
+
+Di bidang demografi (kependudukan), berdasarkan sensus Raffles (buku History of Java tulisan Raffles) bahwa pada tahun 1815 jumlah pendudukan Jawa mencapai 4,5 juta jiwa. Dari jumlah tersebut lebih dari 1,5 hidup di daerah kerajaan dan kirakira 3 juta ada di daerah yang langsung diperintah oleh pemerintah kolonial.
+
+Sejak akhir abad ke-19 telah terjadi mobilitas dalam masyarakat, baik secara geografis maupun sosiologis. Dalam pengertian geografis bahwa perpindahan tempat tinggal dan kerja makin lama makin sering dilakukan. Transmigrasi, migrasi intern, dan urbanisasi menunjukkan adanya keinginan untuk keluar dari lingkungan hidup yang lama. Hal itu karena pengaruh penetrasi ekonomi asing dan kerapatan penduduk, mobilitas dalam kerja terjadi pula. Sebagian dari masyarakat tani beralih kerja menjadi pedagang, meskipun secara kecil-kecilan. 
+
+Demikian juga jenis pekerjaan tukang dan pelayanan lainnya bertambah banyak pula. Peralihan kerja dan perpindahan ke tempat lain, ada yang membawa dampak ke kehidupan sosial. Orang yang pindah ke kota dan mendapat pekerjaan yang baik, akan naik harganya di mata masyarakat. Demikian pula jika seseorang sukses dalam usahanya. Dengan demikian terjadilah semacam mobilitas sosial vertikal.
+
+Dalam perkembangannya, pada tahun 1900 penduduk Jawa telah mencapai hampir 28,5 juta jiwa. Perkembangan penduduk di Jawa pada abad ke-19 dipengaruhi oleh berbagai faktor, antara lain terjadinya peningkatan hidup dari penduduk pribumi,meluasnya pelayanan kesehatan ( introduksi vaksinasi cacar), dan perwujudan ketertiban dan perdamaian oleh pemerintah Belanda.
+
+Dalam bidang sosial, perluasan kolonialisme dan imperialisme berakibat makin melemahnya kedudukan dan perekonomin penguasa pribumi. Penguasa pribumi lebih banyak ditugaskan untuk menggali kekayaan bumi Indonesia, seperti memungut pajak, mengurusi tanaman milik pemerintah, dan mengerahkan tenaga kerja untuk kepentingan pemerintah Belanda.Turunnya kedudukan penguasa pribumi mengakibatkan turunnya derajat dan kehormatan sebagai penguasa pribumi. 
+
+Dalam bidang budaya, makin meluasnya pengaruh kehidupan Barat dalam lingkungan kehidupan tradisional. Tata kehidupan Barat seperti cara bergaul, gaya hidup, cara berpakaian dan pendidikan mulai dikenal di kalangan atas atau istana.
+
+Sementara itu, beberapa tradisi di lingkungan istana mulai luntur. Tradisi keagamaan rakyat pun mulai terancam pula. Di kalangan penguasa timbul kekhawatiran bahwa pengaruh kehidupan Barat mulai merusak nilai-nilai kehidupan tradisional. Tantangan yang kuat terutama dari kalangan pimpinan agama yang memandang kehidupan Barat bertentangan dengan norma-norma ajaran agama Islam. Orientasi keagamaan seperti ini, terdapat juga di kalangan para bangsawan dan pejabat-pejabat istana yang patuh kepada agama. Dalam suasana kritis, pandangan keagamaan ini dijadikan dasar ajakan untuk melakukan perlawanan.
+
+Perubahan dalam berbagai segi kehidupan sebagai akibat makin meluasnya kolonialisme dan imperialisme di Indonesia menimbulkan kegelisahan, kekecewaan, dan kebencian yang meluas di kalangan rakyat Indonesia. Itulah sebabnya pada abad ke-19 muncul perlawanan-perlawanan besar di seluruh wilayah Indonesia.
+
+</field>
+</doc>
+</add>

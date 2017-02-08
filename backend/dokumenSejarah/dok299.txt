@@ -1,0 +1,38 @@
+<add>
+<doc>
+<field name="DOCID">http://www.pengertiansejarah.com/perkembangan-agama-dan-budaya-hindu.html</field>
+<field name="TITLE">Perkembangan Agama dan Budaya Hindu</field>
+<field name="TEXT">
+Perkembangan Agama dan Budaya Hindu – Lahirnya agama Hindu ada hubungannya dengan kedatangan suku bangsa Arya ke India. Bangsa Arya masuk ke India sejak 1500 SM melalui Celah Kaiber (Afghanistan) dan mendiami Aryawarta (daerah yang berada di Lembah Indus, Lembah Gangga, dan Lembah Yamuna di Dataran Tinggi Dekhan). Bangsa Arya kemudian mendesak ras Dravida (penghuni asli India) dan terjadilah percampuran kedua ras suku bangsa tersebut. Percampuran budaya antara kedua ras itu disebut peradaban Hindu atau hinduisme.
+Agama Hindu adalah sinkretisme antara kebudayaan Arya dan Dravida yang menyembah banyak dewa. Agama Hindu bersifat politeisme, artinya menyembah banyak dewa. Setiap dewa merupakan lambang kekuatan alam. Beberapa dewa yang terkenal adalah Trimurti(Brahma, dewa pencipta ; Wisnu, dewa pemelihara ; Syiwa, dewa perusak), Pertiwi (dewi bumi), Surya (dewa matahari), Bayu (dewa angin), Baruna (dewa laut), dan Agni (dewa api).
+Kitab suci agama Hindu adalah Weda, artinya pengetahuan, yang terdiri atas empat bagian.
+1. Rigweda, berisi syair pujian terhadap para dewa.
+2. Samaweda, berisi syair dan nyanyian suci dalam upacara.
+3. Yajurweda, berisi doa-doa pengantar sesaji dalam upacara.
+4. Atharwaweda, berisi mantra untuk menyembuhkan orang sakit dan jampi untuk sihir serta ilmu gaib mengusir penyakit dan para musuh.
+Di India, paham Trimurti dikembangkan berpasangan dengan Trisakti yang meliputi:
+1. Saraswati, permaisuri Brahma, melambangkan dewi kebijaksanaan dan pengetahuan;
+2. Laksmi, permaisuri Wisnu, melambangkan dewi kecantikan dan kebahagiaan;
+3. Parwati, permaisuri Syiwa, melambangkan dewi keberanian dan kegarangan (durga).
+Untuk mencapai nirwana, umat Hindu dapat melakukannya dengan tiga cara.
+1. Manusia wajib menjalankan dharma(memenuhi kewajiban sebagai manusia), artha (menjalankan pekerjaan sebagaimana mestinya), dan karma(tidak berlebihan merasakan kenikmatan duniawi).
+2. Bagi Triwangsa (brahmana, ksatria, waisya) wajib membaca kitab suci Weda.
+3. Melakukan upacara keagamaan yang berupa upacara kurban (yajnabesar dan yajna kecil). Yajnabesar, misalnya, penobatan raja, menghormati pemetikan buah pertama, dan upacara menyongsong datangnya musim. Adapun yajna kecil, misalnya, sembahyang di rumah sehari-hari, kelahiran anak, dan cukur rambut.
+Agama Hindu mengenal adanya upacara pengorbanan, yaitu kurban Soma dan kurban Asra Medha. Kurban Soma adalah upacara kebaktian yang terpandang suci di antara seluruh kebaktian di dalam Weda. Soma adalah sejenis cairan minuman yang memberi sifat kedewaan. Kurban Asra Medha adalah kurban kuda. Upacara-upacara kebaktian Hindu dilakukan oleh pejabat-pejabat agama, yaitu
+1. Brahmana(pendeta) yang menjabat sebagai kepala upacara,
+2. Hotriyang melagukan nyanyian keagamaan,
+3. Udgatriyang menabuh bunyi-bunyian dengan nada tertentu, dan
+4. Adhyaryayang menyiapkan tempat pemujaan dan tempat kurban serta persiapan lainnya sambil membacakan mantra.
+Agama Hindu mengajarkan beberapa hal, yaitu
+1. hidup di dunia adalah samsara akibat perbuatan yang kurang baik;
+2. adanya karma, yaitu hasil perbuatan yang kurang baik;
+3. akibat karma, manusia akan mengalami reinkarnasi, yakni dilahirkan kembali dalam wujud yang lebih rendah;
+4. orang yang sempurna hidupnya akan moksa, lepas dari samsara.
+Untuk menjadi Hindu, seseorang harus mendapat tali benang kasta (munya) yang diberikan oleh brahmana(pendeta). Setelah itu, barulah mereka melakukan caturasrama, yakni brahmacarin(mencari ilmu kepada brahmana (pendeta), grhasta (membentuk keluarga), wanaprasta (meninggalkan rumah untuk bertapa), dan saniasinatau pariwrajaka (hidup mengembara, meninggalkan kepentingan duniawi untuk menjadi bhiksu).
+Tempat-tempat suci bagi orang Hindu India, antara lain, Kota Benares yang dianggap sebagai kota dewa dan Sungai Gangga sebagai sungai yang suci. Agama Hindu mengalami kemunduran sekitar abad ke-6 SM karena sebab-sebab berikut.
+1. Kaum brahmana yang memonopoli agama dan upacara bertindak sewenang-wenang dengan menarik kurban yang besar sehingga menimbulkan beban.
+2. Lahirnya agama Buddha yang lebih demokratis untuk mencari nirwana sendiri tanpa pertolongan orang lain yang diajarkan oleh Siddharta Gautama.
+3. Agama Buddha lebih terbuka tanpa membeda-bedakan manusia.
+</field>
+</doc>
+</add>

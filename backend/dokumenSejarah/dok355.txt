@@ -1,0 +1,11 @@
+<add>
+<doc>
+<field name="DOCID">http://www.pengertiansejarah.com/sejarah-runtuhnya-kerajaan-mataram-kuno.html</field>
+<field name="TITLE">Sejarah Runtuhnya Kerajaan Mataram Kuno</field>
+<field name="TEXT">
+Sejarah Runtuhnya Kerajaan Mataram Kuno – Peranan Kerajaan Mataram Kuno di Jawa Tengah mundur ketika pusat kekuasaannya pindah dari Jawa Tengah ke Jawa Timur. Ada beberapa pendapat mengenai pemindahan pusat kerajaan ini. Pendapat lama mengatakan bahwa pemindahan pusat kerajaan ini sehubungan dengan adanya bencana alam berupa banjir atau gunung meletus atau adanya wabah penyakit. Namun, pendapat ini tidak dapat dibuktikan sebab tidak didukung oleh bukti-bukti sejarah. Pendapat lain menyebutkan bahwa rakyat menyingkir ke Jawa Timur akibat adanya paksaan terhadap para penganut Hindu untuk membangun candi Buddha. Pendapat baru menyebutkan dua faktor berikut.
+1. Keadaan alam bumi Mataram yang tertutup secara alamiah berakibat negara ini sulit berkembang. Sementara, keadaan alam Jawa Timur lebih terbuka untuk perdagangan luar, tidak ada pegunungan atau gunung yang merintangi, bahkan didukung adanya Sungai Bengawan Solo dan Brantas yang memperlancar lalu lintas dari pedalaman ke pantai. Apalagi, alam Jawa Timur belum banyak diusahakan sehingga tanahnya lebih subur dibandingkan dengan tanah di Jawa Tengah.
+2. Dari segi politik, ada kebutuhan untuk mewaspadai ancaman Sriwijaya, terutama karena Sriwijaya pada saat itu dikuasai dinasti Syailendra. Sebagai antisipasinya, pusat kerajaan perlu dijauhkan dari tekanan Sriwijaya. Ketika Sriwijaya sungguh-sungguh menyerang pada pertengahan abad ke-10, Mpu Sindok dapat mematahkannya. Tetapi, serangan Sriwijaya berikutnya dibantu Raja Wurawari pada tahun 1017 menghancurkan Mataram yang saat itu dipimpin Dharmawangsa. Kerajaan Mataram yang kedua berdiri kembali di Jawa Tengah pada abad ke-16, kali ini telah beragama Islam.
+</field>
+</doc>
+</add>

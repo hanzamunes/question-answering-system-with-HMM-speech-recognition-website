@@ -1,0 +1,18 @@
+<add>
+<doc>
+<field name="DOCID">http://www.pengertiansejarah.com/sejarah-agresi-militer-belanda.html</field>
+<field name="TITLE">Sejarah Agresi Militer Belanda I</field>
+<field name="TEXT">
+Sejarah Agresi Militer Belanda I – Perundingan Linggarjati bagi Belanda hanya dijadikan alat untuk mendatangkan pasukan yang lebih tak sedikit dari negerinya. Untuk mendapatkan dalil guna menyerang Republik Indonesia mereka mengajukan tuntutan sebagai berikut:
+1. Supaya dibetuk pemerintahan federal sementara yang bakal berkuasa di seluruh Indonesia samapai pembentukan Republik Indonesia Serikat. Faktor ini berarti Republik Indonesia ditiadakan.
+2. Pembentukan gendermeri (pasukan Keamanan) bersama yang bakal masuk ke daerah Republik Indonesia.
+Republik Indonesia menolak usul itu sebab berarti menghancurkan dia sendiri. Penolakan itu menyebabakan Belanda meperbuat penyerangan militer kepada wilayah Republik Indonesia. Serangan belanda dimulai tanggal 21 Juli 1947 dengan target kota-kota besar di Pulau Jawa serta sumatera. Menghadapi militer Belanda yang bersenjata lengkap serta modern menyebabakan satuan-satuan tentara Indonesia terdesak ke luar kota. Selanjutnya, TNI serta lascar rakyat meperbuat serangan balasan serta strategi perang gerilya.
+Adanya penyerangan Militer Belanda I memunculkan simpati serta reaksi keras dari dunia Internasional. Bentuk simpati dunia Internasional ditujukan dengan perbuatan sebagai berikut:
+1. Palang Merah Malaya (Malaysia) serta India mengirimkan bantuan obat-obatan yang diangkut oleh pesawat Dakota dari Singapura. Tetapi, ketika bakal mendarat di Yogyakarta pesawat itu ditembaki jatuh oleh tentara Belanda.
+2. Australia serta India bereaksi keras dengan mendesak Dewan Keamanan PBB supaya segera mengulas persoalan Indonesia.
+1. Australia (tunjukan Indonesia), diwakili oleh Richard Kirby.
+2. Belgia (tunjukan Belanda), diwakili oleh Paul Van Zeeland
+3. Amerika Serikat (tunjukan Australia serta Belgia), diwakili Dr. Frank Graham.[ps]
+</field>
+</doc>
+</add>

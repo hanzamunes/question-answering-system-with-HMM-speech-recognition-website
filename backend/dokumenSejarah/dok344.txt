@@ -1,0 +1,22 @@
+<add>
+<doc>
+<field name="DOCID">http://www.pengertiansejarah.com/sejarah-organisasi-gerakan-non-blok.html</field>
+<field name="TITLE">Sejarah Organisasi Gerakan Non Blok</field>
+<field name="TEXT">
+Sejarah Organisasi Gerakan Non Blok – Perang Dunia II (1939–1945) telah menimbulkan berbagai akibat yang mengerikan bagi umat manusia. Selain jutaan manusia mati, terjadi pula kehancuran berbagai bangunan, sarana produksi, sarana transportasi, terjadi krisis ekonomi, dan penyebaran wabah penyakit. Peta politik dunia pun ikut berubah. Dua kekuatan adidaya telah lahir yang menyebabkan terjadinya pertentangan di antara keduanya.
+Gerakan Non Blok (GNB) atau Non Alignment(NAM) merupakan gerakan yang tidak memihak/netral terhadap Blok Barat dan Blok Timur.
+Di sela-sela puing kehancuran akibat Perang Dunia II, muncullah dua negara adidaya yang saling berhadapan. Mereka berebut pengaruh terhadap negaranegara yang sedang berkembang agar menjadi sekutunya. Dua negara adidaya itu ialah Amerika Serikat dan Uni Soviet. Persaingan kekuatan di antara dua blok itu mengakibatkan terjadinya Perang Dingin (the Cold War).Mereka saling berhadapan, bersaing, dan saling memperkuat sistem persenjataan. Setiap kelompok telah mengarahkan kekuatan bomnya ke negara lawan. Akibatnya, situasi dunia tercekam oleh ketakutan akan meletusnya Perang Dunia III atau Perang Nuklir yang jauh lebih mengerikan dibandingkan Perang Dunia I dan Perang Dunia II. Menghadapi situasi dunia yang penuh konflik tersebut, Indonesia menentukan sistem politik luar negeri bebas aktif. Prinsip kebijaksanaan politik luar negeri Indonesia tersebut ternyata juga sesuai dengan sikap negara-negara sedang berkembang lainnya. Oleh karena itu, mereka sepakat untuk membentuk suatu kelompok baru yang netral, tidak memihak Blok Barat ataupun Blok Timur. Kelompok inilah yang nantinya disebut kelompok negaranegara Non Blok. Dengan demikian faktor-faktor yang melatarbelakangi berdirinya Gerakan Non Blok adalah sebagai berikut.
+1. Munculnya dua blok, yaitu Blok Barat di bawah Amerika Serikat dan Blok Timur di bawah Uni Soviet yang saling memperebutkan pengaruh di dunia.
+2. Adanya kecemasan negara-negara yang baru merdeka dan negara-negara berkembang, sehingga berupaya meredakan ketegangan dunia.
+3. Ditandatanganinya “Dokumen Brioni” tahun 1956 oleh Presiden Joseph Broz Tito (Yugoslavia), PM Jawaharlal Nehru (India), Presiden Gamal Abdul Nasser (Mesir), bertujuan mempersatukan negara-negara non blok.
+4. Terjadinya krisis Kuba 1961 karena US membangun pangkalan militer di Kuba secara besar-besaran, sehingga mengkhawatirkan AS.
+5. Pertemuan 5 orang negarawan pada sidang umum PBB di markas besar PBB, yaitu:
+1. Presiden Soekarno (Indonesia),
+2. PM Jawaharlal Nehru (India),
+3. Presiden Gamal Abdul Nasser (Mesir),
+4. Presiden Joseph Broz Tito (Yugoslavia), dan
+5. Presiden Kwame Nkrumah (Ghana).
+Berdirinya Gerakan Non Blok (Non Aligned Movement)diprakarsai oleh para pemimpin negara dari Indonesia (Presiden Soekarno), Republik Persatuan Arab–Mesir (Presiden Gamal Abdul Nasser), India (Perdana Menteri Pandith Jawaharlal Nehru), Yugoslavia (Presiden Joseph Broz Tito), dan Ghana (Presiden Kwame Nkrumah).
+</field>
+</doc>
+</add>

@@ -1,0 +1,26 @@
+<add>
+<doc>
+<field name="DOCID">http://www.materisma.com/2014/01/perluasan-kolonialisme-dan-imperialisme.html</field>
+<field name="TITLE">Perluasan Kolonialisme dan Imperialisme di Indonesia</field>
+<field name="TEXT">
+Perluasan Kolonialisme dan Imperialisme di Indonesia - VOC yang didirikan pada tahun 1602, oleh pemerintah Kerajaan Belanda diberikan octrooi (hak istimewa) sebagai berikut.
+
+a. Hak monopoli perdagangan.
+b. Hak untuk memiliki tentara.
+c. Hak untuk melakukan ekspansi ke Asia, Afrika dan Australia.
+d. Hak untuk melakukan peperangan, membuat perdamaian, dan mengadakan perjanjian dengan raja-raja yang dikuasainya.
+e. Hak untuk mencetak uang.
+
+Dengan hak-hak istimewa tersebut, VOC bukan saja sebagai kongsi dagang, tetapi juga merupakan pemerintahan semiresmi. Pada tahun 1605, VOC di bawah pimpinan Steven van der Haagen berhasil merebut benteng Portugis di Ambon. 
+
+Untuk memperkuat kedudukannya maka VOC mengangkat seorang pimpinan yang berpangkat gubernur jenderal. Untuk membantu gubernur jenderal di daerah-daerah penting diangkatkan seorang gubernur. Gubernur Jenderal VOC yang pertama ialah Pieter Both dan berkedudukan di Ambon dengan alasana Ambon merupakan pangkalan dagang VOC yang paling kuat dan strategis.
+
+Dalam perkembangannya, Ambon dinilai tidak strategis lagi. Perhatian VOC ditujukan ke Jayakarta, kota pelabuhan Kerajaan Banten. Di bawah pimpinan Gubernur Jenderal Jan Pieterzoon Coen (J.P. Coen) pada tahun 1619, VOC berhasil merebut Jayakarta dan dijadikan sebagai Markas Besar VOC.
+
+J.P. Coen kemudian mengganti nama Jayakarta menjadi Batavia sesuai dengan nama salah satu suku di Negeri Belanda, yakni suku Batavir. Selanjutnya, Batavia dijadikan Markas Besar VOC sebagi tempat kedudukan gubernur jenderal dan menjadi pangkalan imperialisme Belanda di Indonesia.
+
+Dengan Batavia sebagai Markas Besar VOC maka kedudukannya semakin kuat. VOC terus mengadakan perluasan wilayah kekuasaannya. Untuk mendapatkan keuntungan sebesar-besarnya melalui perdagangan, VOC melaksanakan sistem monopoli. Pelaksanaan sistem monopoli VOC lebih keras daripada bangsa Portugis, terutama di Maluku. Untuk mencegah terjadinya pelanggaran terhadap peraturan monopolinya, VOC melakukan pelayaran Hongi. Praktik monopoli dan pelayaran Hongi itu kemudian menimbulkan kebencian di kalangan rakyat. Rakyat yang hidup tertekan dan tertindas, akhirnya melakukan perlawanan terhadap VOC.
+
+</field>
+</doc>
+</add>
