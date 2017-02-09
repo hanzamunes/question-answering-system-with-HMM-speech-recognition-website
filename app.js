@@ -68,6 +68,18 @@ setInterval(function() {
     http.get("http://hobertsite.herokuapp.com");
 }, 300000); // every 5 minutes (300000)
 
+var boot = cp.exec ("java -jar "+process.cwd()+"/backend/booting.jar",function (err,stdout){
+  if (err)
+  {
+    console.log(err);
+    return;
+  }
+  else
+  {
+    console.log ("index created");
+  }
+});
+
 app.post('/getAnswer',function(req,res){
   var question = req.body.question;
   var outputPath = process.cwd()+"/backend/output/questionOutput";
