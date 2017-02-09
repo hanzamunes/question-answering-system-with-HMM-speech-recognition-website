@@ -11,6 +11,7 @@ var cp = require ('child_process');
 var fs = require ('fs');
 var CronJob = require ('cron').CronJob;
 var rimraf = require ('rimraf');
+var http = require ('http');
 
 var routes = require('./routes/index');
 var sound = require ('./routes/sound');
@@ -62,6 +63,10 @@ new CronJob("0 0 * * * *", function(){
     });
   });
 },null,true);
+
+setInterval(function() {
+    http.get("http://hobertsite.herokuapp.com");
+}, 300000); // every 5 minutes (300000)
 
 app.post('/getAnswer',function(req,res){
   var question = req.body.question;
