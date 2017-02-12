@@ -126,6 +126,45 @@ app.post('/getAnswer',function(req,res){
 
 });
 
+app.post('/getAnswerAJAX',function(req,res){
+  console.log('masuk nih');
+  var question = req.body.question;
+  var outputPath = process.cwd()+"/backend/output/questionOutput";
+  var fileName = Date.now();
+  var backendPath = process.cwd()+"/backend/questionAnsweringSystem.jar";
+  var execCommand = 'java -jar "'+backendPath+'" "'+question+'" '+fileName;
+  var ls = cp.exec (execCommand,function (err,stdout){
+    if (err)
+    {
+      console.log (err);
+      return;
+    }
+    else
+    {
+      console.log(stdout);
+      console.log ("uda masuk nih");
+      fs.readdir(outputPath,function (err,files){
+      if (err)
+      {
+        console.log('error '+err);
+      }
+      else
+      {
+        var temp = fileName+'.json';
+        if (files.indexOf(temp)!=-1)
+        {
+          var jsonContent = JSON.parse(fs.readFileSync(outputPath+'/'+temp));
+          jsonContent.content = jsonContent.content.replace("\\n","<br>");
+          res.send(jsonContent);
+        }
+      }
+    });
+    }
+  });
+
+});
+
+
 function decodeBase64Image(dataString) {
   var matches = dataString.match(/^data:([A-Za-z-+\/]+);base64,(.+)$/),
     response = {};
@@ -143,7 +182,8 @@ function decodeBase64Image(dataString) {
 app.post('/saveAudio', function (req,res){
   var b64string = req.body.blob;
   var soundBuffer = decodeBase64Image(b64string);
-  var wavName = new Date().getTime()+'.wav';
+  var prepName = Date.now();
+  var wavName = prepName+'.wav';
   var path = process.cwd()+'/backend/recordedSound/'+wavName;
   fs.writeFile(path,soundBuffer.data,function(err){
     if (err)
@@ -152,10 +192,51 @@ app.post('/saveAudio', function (req,res){
     }
     else
     {
-      console.log('suksess');
+      var backendPath = process.cwd()+"/backend/convertRate.jar";
+      var sampleRate = 16000;
+      var newpath = process.cwd()+'/backend/recordedSound/'+ prepName+'-1.wav';
+      var execCommand = "java -jar "+backendPath+' '+sampleRate+" "+path+" "+newpath;
+      var ls = cp.exec (execCommand, function (err,stdout){
+        if (err)
+        {
+          console.log(err);
+        }
+        else
+        {
+          console.log (stdout);
+          fs.unlink(path);
+          var recognizerPath = process.cwd()+"/backend/speechRecognition.jar";
+          var cmdCommand = "java -jar "+recognizerPath+" "+newpath;
+          var outputPath = process.cwd()+"/backend/output/speechOutput";
+          var java = cp.exec (cmdCommand,function(err,stdout){
+            if (err)
+            {
+              console.log(err);
+            }
+            else
+            {
+              console.log(stdout);
+              fs.readdir(outputPath,function (err,files){
+                if (err)
+                {
+                  console.log('error '+err);
+                }
+                else
+                {
+                  var temp = prepName+'-1.json';
+                  if (files.indexOf(temp)!=-1)
+                  {
+                    var jsonContent = JSON.parse(fs.readFileSync(outputPath+'/'+temp));
+                    res.send (jsonContent.Hasil);
+                  }
+                }
+              });
+            }
+          })
+        }
+      });
     }
   });
-  
 });
 
 // catch 404 and forward to error handler

@@ -38,6 +38,12 @@
     <![endif]-->
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
     <!-- Angular.JS -->
+    <script type="text/javascript" src="assets/plugins/jquery-1.12.4.min.js"></script>
+
+    <script src="/javascripts/MediaStreamRecorder.js"></script>
+
+    <!-- for Edige/FF/Chrome/Opera/etc. getUserMedia support -->
+    <script src="https://cdn.WebRTC-Experiment.com/gumadapter.js"></script>
 </head> 
 
 <body>
@@ -69,9 +75,14 @@
                     
                     <div class="player text-center">
                         <p>Record Sound here</p>
-                        <button type="button" id="button_stop" class="btn {{greenRecord}}" ng-disabled="cantRecord" ng-click="recordFunction()" >
-                          <i class="{{recorder}}"></i>
-                        </button>
+                         <div>
+                        <section class="experiment" style="padding: 5px;">
+
+                            <button id="start-recording">Start</button>
+                            <button id="stop-recording" disabled>Stop</button>
+                            <button id="save-recording" disabled>Save</button>
+                        </section>
+                    </div>
 
                         <!-- <button type="button" id="button_play" class="btn {{greenPlayer}}" ng-disabled="cantPlayed" ng-click="playFunction()"> -->
                           <!-- <i class="{{player}}"></i> -->
@@ -81,36 +92,26 @@
                     <h4 align="left">Question Generated:</h4>
                     <div class="item active">
                         <blockquote class="quote">
-                            <p>Lorem ipsum dolor sit amet, autem honestatis ad ius, mei omnis laboramus cu. Et solum perfecto vituperatoribus per. Vis iracundia elaboraret definitionem ut. Sea modo choro euismod et, purto errem saperet et usu. Mea iudico explicari te. At sea soluta albucius, usu ea gubergren persecuti, eu sonet graecis salutatus mel.</p>
+                            <p id="hasil"></p>
                         </blockquote>
                     </div>
 
                     <div class="player text-center" >
                         
-                        <button class="btn btn-primary">Get Answer</button>
+                        <button class="btn btn-primary" id="submitQuery">Get Answer</button>
                         <h4 align="left">Output Text:</h4>
                         <div class="item active" id="output-text">
+                        <div id="loadingImage">
+                        </div>
                             <blockquote class="quote">
-                                <p>Lorem ipsum dolor sit amet, autem honestatis ad ius, mei omnis laboramus cu. Et solum perfecto vituperatoribus per. Vis iracundia elaboraret definitionem ut. Sea modo choro euismod et, purto errem saperet et usu. Mea iudico explicari te. At sea soluta albucius, usu ea gubergren persecuti, eu sonet graecis salutatus mel.</p>
+                                <h3 id="jawaban"></h3>
                             </blockquote>
                         </div>
                     </div>
                     <div class="col-md-6col-md-offset-3" id="grow-box" >
                         <div class="relevant-list" ng-hide="showR">
-                            <h4>Relevant Document:</h4>
-                            <ul style="list-style-type:circle">
-                              <li><a href="#">Lorem ipsum dolor sit amet,</a></li>
-                              <li><a href="#">autem honestatis ad ius,</a></li>
-                              <li><a href="#">mei omnis laboramus cu.</a></li>
-                              <li><a href="#">Et solum perfecto vituperatoribus per.</a></li>
-                              <li><a href="#">Vis iracundia elaboraret definitionem ut.</a></li>
-                              <li><a href="#">Sea modo choro euismod et,</a></li>
-                              <li><a href="#">purto errem saperet et usu.</a></li>
-                              <li><a href="#">Mea iudico explicari te.</a></li>
-                              <li><a href="#">At sea soluta albucius,</a></li>
-                              <li><a href="#">usu ea gubergren persecuti,</a></li>
-                              <li><a href="#">eu sonet graecis salutatus mel.</a></li>
-                            </ul>    
+                            <h4 id='title'></h4>
+                            <p id = 'dokumen'></p>
                         </div>
                         <br>
                         <div class="btnshow-frame text-center">
@@ -140,6 +141,138 @@
 
     <!-- custom js -->
     <script type="text/javascript" src="assets/js/main.js"></script>
+    <script>
+        $('#submitQuery').click(function(){
+            var questionText = document.getElementById('hasil').innerHTML;
+            console.log(questionText);
+            $.ajax({
+                method:'POST',
+                url:'/getAnswerAJAX',
+                data: {'question':questionText},
+                beforeSend: function(){
+                    $('#submitQuery').attr("disabled",true);
+                    $("#loadingImage").html("<img src='images/loading.gif' max-width='80px' max-height='60px'>");
+                }
+            }).done(function(response){
+                $('#loadingImage').html('');
+                $('#submitQuery').attr('disabled',false);
+                console.log(response);
+                var jawaban = document.getElementById('jawaban');
+                var title = document.getElementById('title');
+                var dokumen = document.getElementById('dokumen');
+                if (response.jawaban =='undefined')
+                {
+                    response.jawaban = "NO ANSWER";
+                }
+                if (response.titleDoc =='undefined')
+                {
+                    response.titleDoc = 'not available';
+                }
+                if (response.content =='undefined')
+                {
+                    response.content = 'not available';
+                }
+                jawaban.innerHTML = response.jawaban;
+                title.innerHTML = response.titleDoc;
+                dokumen.innerHTML = response.content;
+            });  
+        });
+    </script>
+
+    <script>
+            function captureUserMedia(mediaConstraints, successCallback, errorCallback) {
+                navigator.mediaDevices.getUserMedia(mediaConstraints).then(successCallback).catch(errorCallback);
+            }
+            var mediaConstraints = {
+                audio: true
+            };
+            document.querySelector('#start-recording').onclick = function() {
+                this.disabled = true;
+                console.log('masuk');
+                captureUserMedia(mediaConstraints, onMediaSuccess, onMediaError);
+            };
+            document.querySelector('#stop-recording').onclick = function() {
+                this.disabled = true;
+                mediaRecorder.stop();
+                mediaRecorder.stream.stop();
+                document.querySelector('#start-recording').disabled = false;
+
+            };
+            document.querySelector('#save-recording').onclick = function() {
+                this.disabled = true;
+                mediaRecorder.save();
+                // alert('Drop WebM file on Chrome or Firefox. Both can play entire file. VLC player or other players may not work.');
+            };
+            var mediaRecorder;
+            function onMediaSuccess(stream) {
+                var audio = document.createElement('audio');
+                audio = mergeProps(audio, {
+                    controls: true,
+                    muted: true,
+                    src: URL.createObjectURL(stream)
+                });
+                audio.play();
+                //audiosContainer.appendChild(audio);
+                //audiosContainer.appendChild(document.createElement('hr'));
+                mediaRecorder = new MediaStreamRecorder(stream);
+
+                console.log(mediaRecorder);
+                mediaRecorder.stream = stream;
+                //var recorderType = document.getElementById('audio-recorderType').value;
+                var recorderType = 'WebAudio API (WAV)';
+                if (recorderType === 'MediaRecorder API') {
+                    mediaRecorder.recorderType = MediaRecorderWrapper;
+                }
+                if (recorderType === 'WebAudio API (WAV)') {
+                    mediaRecorder.recorderType = StereoAudioRecorder;
+                    mediaRecorder.mimeType = 'audio/wav';
+                }
+                if (recorderType === 'WebAudio API (PCM)') {
+                    mediaRecorder.recorderType = StereoAudioRecorder;
+                    mediaRecorder.mimeType = 'audio/pcm';
+                }
+                // don't force any mimeType; use above "recorderType" instead.
+                // mediaRecorder.mimeType = 'audio/webm'; // audio/ogg or audio/wav or audio/webm
+                mediaRecorder.audioChannels = 1;
+                mediaRecorder.ondataavailable = function(blob) {
+                    var a = document.createElement('a');
+                    a.target = '_blank';
+                    a.innerHTML = 'Open Recorded Audio No. ' + (index++) + ' (Size: ' + bytesToSize(blob.size) + ') Time Length: ' + getTimeLength(timeInterval);
+                    a.href = URL.createObjectURL(blob);
+                    //audiosContainer.appendChild(a);
+                    //audiosContainer.appendChild(document.createElement('hr'));
+                };
+                var timeInterval = 600000;
+                if (timeInterval) timeInterval = parseInt(timeInterval);
+                else timeInterval = 5 * 1000;
+                // get blob after specific time interval
+                mediaRecorder.start(timeInterval);
+                document.querySelector('#stop-recording').disabled = false;
+                document.querySelector('#save-recording').disabled = false;
+            }
+            function onMediaError(e) {
+                console.error('media error', e);
+            }
+            //var audiosContainer = document.getElementById('audios-container');
+            var index = 1;
+            // below function via: http://goo.gl/B3ae8c
+            function bytesToSize(bytes) {
+                var k = 1000;
+                var sizes = ['Bytes', 'KB', 'MB', 'GB', 'TB'];
+                if (bytes === 0) return '0 Bytes';
+                var i = parseInt(Math.floor(Math.log(bytes) / Math.log(k)), 10);
+                return (bytes / Math.pow(k, i)).toPrecision(3) + ' ' + sizes[i];
+            }
+            // below function via: http://goo.gl/6QNDcI
+            function getTimeLength(milliseconds) {
+                var data = new Date(milliseconds);
+                return data.getUTCHours() + " hours, " + data.getUTCMinutes() + " minutes and " + data.getUTCSeconds() + " second(s)";
+            }
+            window.onbeforeunload = function() {
+                document.querySelector('#start-recording').disabled = false;
+            };
+        </script>
+
     <script type="text/javascript">
         var state = 'stop';
         var app = angular.module('soundApp', []);

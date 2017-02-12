@@ -125,6 +125,8 @@ function MediaStreamRecorder(mediaStream) {
                                     data: {'blob':base64data}
                                 }).done(function(response){
                                     console.log(response);
+                                    var blockquote = document.getElementById('hasil');
+                                    blockquote.innerHTML = response;
                                 });              
                 }
                 /*$.ajax({
