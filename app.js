@@ -12,6 +12,10 @@ var fs = require ('fs');
 var CronJob = require ('cron').CronJob;
 var rimraf = require ('rimraf');
 var http = require ('http');
+var formidable = require ('formidable');
+var util = require ('util');
+var multer = require ('multer');
+var upload = multer({dest:'/backend/recordedSound'});
 
 var routes = require('./routes/index');
 var sound = require ('./routes/sound');
@@ -28,7 +32,7 @@ app.set('view engine', 'ejs');
 //app.use(favicon(path.join(__dirname, 'public', 'favicon.ico')));
 app.use(logger('dev'));
 app.use(bodyParser.json());
-app.use(bodyParser.urlencoded({ extended: true }));
+app.use(bodyParser.urlencoded({ extended: true, limit:'100mb' }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 app.use(session({ secret: 'login',saveUninitialized:false, resave:false}));
@@ -38,6 +42,7 @@ app.use('/', routes);
 app.use('/sound',sound);
 app.use('/text',text);
 app.use('/sound-text',soundtext);
+
 
 new CronJob("0 0 * * * *", function(){
   var outputPath = process.cwd()+"/backend/output/questionOutput";
@@ -119,6 +124,38 @@ app.post('/getAnswer',function(req,res){
     }
   });
 
+});
+
+function decodeBase64Image(dataString) {
+  var matches = dataString.match(/^data:([A-Za-z-+\/]+);base64,(.+)$/),
+    response = {};
+
+  if (matches.length !== 3) {
+    return new Error('Invalid input string');
+  }
+
+  response.type = matches[1];
+  response.data = new Buffer(matches[2], 'base64');
+
+  return response;
+}
+
+app.post('/saveAudio', function (req,res){
+  var b64string = req.body.blob;
+  var soundBuffer = decodeBase64Image(b64string);
+  var wavName = new Date().getTime()+'.wav';
+  var path = process.cwd()+'/backend/recordedSound/'+wavName;
+  fs.writeFile(path,soundBuffer.data,function(err){
+    if (err)
+    {
+      console.log(err);
+    }
+    else
+    {
+      console.log('suksess');
+    }
+  });
+  
 });
 
 // catch 404 and forward to error handler
