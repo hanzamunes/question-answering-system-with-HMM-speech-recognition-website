@@ -134,7 +134,7 @@ var boot = cp.exec ("java -jar "+process.cwd()+"/backend/booting.jar",function (
 app.post('/getAnswer',function(req,res){
   var question = req.body.question;
   var outputPath = process.cwd()+"/backend/output/questionOutput";
-  var fileName = Date.now();
+  var fileName = new Date().getTime();
   var backendPath = process.cwd()+"/backend/questionAnsweringSystem.jar";
   var execCommand = 'java -jar "'+backendPath+'" "'+question+'" '+fileName;
   var ls = cp.exec (execCommand,function (err,stdout){
@@ -176,7 +176,7 @@ app.post('/getAnswerAJAX',function(req,res){
   console.log('masuk nih');
   var question = req.body.question;
   var outputPath = process.cwd()+"/backend/output/questionOutput";
-  var fileName = Date.now();
+  var fileName = new Date().getTime();
   var backendPath = process.cwd()+"/backend/questionAnsweringSystem.jar";
   var execCommand = 'java -jar "'+backendPath+'" "'+question+'" '+fileName;
   var ls = cp.exec (execCommand,function (err,stdout){
@@ -228,7 +228,7 @@ function decodeBase64Image(dataString) {
 app.post('/saveAudio', function (req,res){
   var b64string = req.body.blob;
   var soundBuffer = decodeBase64Image(b64string);
-  var prepName = Date.now();
+  var prepName = new Date().getTime();
   var wavName = prepName+'.wav';
   var path = process.cwd()+'/backend/recordedSound/'+wavName;
   fs.writeFile(path,soundBuffer.data,function(err){
