@@ -250,6 +250,7 @@ app.post('/saveAudio', function (req,res){
         else
         {
           console.log (stdout);
+          console.log('berhasil ubah suara');
           fs.unlink(path);
           var recognizerPath = process.cwd()+"/backend/speechRecognition.jar";
           var cmdCommand = "java -jar "+recognizerPath+" "+newpath;
