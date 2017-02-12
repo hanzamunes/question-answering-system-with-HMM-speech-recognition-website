@@ -251,11 +251,11 @@ app.post('/saveAudio', function (req,res){
         {
           console.log (stdout);
           console.log('berhasil ubah suara');
+          setTimeout(function(){
           fs.unlink(path);
           var recognizerPath = process.cwd()+"/backend/speechRecognition.jar";
           var cmdCommand = "java -jar "+recognizerPath+" "+newpath;
           var outputPath = process.cwd()+"/backend/output/speechOutput";
-          setTimeout(function(){
             var java = cp.exec (cmdCommand,function(err,stdout){
             if (err)
             {
