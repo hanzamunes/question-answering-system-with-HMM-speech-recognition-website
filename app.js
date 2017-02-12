@@ -255,7 +255,8 @@ app.post('/saveAudio', function (req,res){
           var recognizerPath = process.cwd()+"/backend/speechRecognition.jar";
           var cmdCommand = "java -jar "+recognizerPath+" "+newpath;
           var outputPath = process.cwd()+"/backend/output/speechOutput";
-          var java = cp.exec (cmdCommand,function(err,stdout){
+          setTimeout(function(){
+            var java = cp.exec (cmdCommand,function(err,stdout){
             if (err)
             {
               console.log(err);
@@ -279,7 +280,9 @@ app.post('/saveAudio', function (req,res){
                 }
               });
             }
-          })
+          });
+          },3000);
+          
         }
       });
     }
