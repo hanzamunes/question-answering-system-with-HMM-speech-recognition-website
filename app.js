@@ -15,7 +15,6 @@ var http = require ('http');
 var formidable = require ('formidable');
 var util = require ('util');
 var multer = require ('multer');
-var upload = multer({dest:'/backend/recordedSound'});
 
 var routes = require('./routes/index');
 var sound = require ('./routes/sound');
@@ -66,6 +65,53 @@ new CronJob("0 0 * * * *", function(){
         }
       });
     });
+  });
+
+    var outputPath1 = process.cwd()+"/backend/output/speechOutput";
+    console.log(outputPath1);
+    fs.readdir(outputPath1,function(err,files){
+      files.forEach(function(file, index) {
+        fs.stat(path.join(outputPath1, file), function(err, stat) {
+          var endTime, now;
+          if (err) {
+            return console.error(err);
+          }
+          now = new Date().getTime();
+          endTime = new Date(stat.ctime).getTime() + 3600000;
+          if (now > endTime) {
+            return rimraf(path.join(outputPath1, file), function(err) {
+              if (err) {
+                return console.error(err);
+              }
+              console.log('successfully deleted');
+            });
+          }
+        });
+      });
+    });
+
+      var outputPath2 = process.cwd()+"/backend/recordedSound";
+      console.log(outputPath2);
+      fs.readdir(outputPath2,function(err,files){
+        files.forEach(function(file, index) {
+          fs.stat(path.join(outputPath2, file), function(err, stat) {
+            var endTime, now;
+            if (err) {
+              return console.error(err);
+            }
+            now = new Date().getTime();
+            endTime = new Date(stat.ctime).getTime() + 3600000;
+            if (now > endTime) {
+              return rimraf(path.join(outputPath2, file), function(err) {
+                if (err) {
+                  return console.error(err);
+                }
+                console.log('successfully deleted');
+              });
+            }
+          });
+        });
+
   });
 },null,true);
 
