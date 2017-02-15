@@ -1,1462 +1,1338 @@
 searching awal
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok127.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok56.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok128.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok57.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok166.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok349.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok28.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok99.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok131.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok60.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok177.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok272.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok175.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok359.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok168.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok344.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok222.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok200.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok370.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok178.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok190.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok301.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok124.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok53.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok107.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok36.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok318.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok227.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok317.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok135.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok64.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok187.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok181.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok169.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok374.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok352.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok150.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok186.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok117.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok46.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok235.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok337.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok172.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok114.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok259.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok393.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok43.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok122.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok138.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok189.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok319.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok51.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok67.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok233.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok197.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok108.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok37.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok184.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok339.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok378.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok217.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok256.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok366.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok18.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok89.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok373.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok214.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok20.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok267.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok308.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok91.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok209.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok400.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok104.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok171.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok33.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok346.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok269.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok125.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok364.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok54.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok7.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok78.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok203.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok224.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok213.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok334.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok380.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok253.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok385.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok257.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok381.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok384.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok110.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok245.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok335.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok39.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok80.txt
-File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok9.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok201.txt
 File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok248.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok236.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok255.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok365.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok402.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok349.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok212.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok143.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok170.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok164.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok287.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok240.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok282.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok226.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok320.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok321.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok158.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok234.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok286.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok381.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok114.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok43.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok224.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok132.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok154.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok61.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok350.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok295.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok344.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok262.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok278.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok342.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok175.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok220.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok223.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok324.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok199.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok238.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok241.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok311.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok100.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok29.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok333.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok384.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok359.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok386.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok165.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok166.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok183.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok235.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok209.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok24.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok95.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok130.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok141.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok188.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok217.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok318.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok376.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok59.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok70.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok203.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok245.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok389.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok1.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok109.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok182.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok271.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok288.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok327.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok38.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok72.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok206.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok382.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok108.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok187.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok246.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok265.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok293.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok322.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok335.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok358.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok369.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok37.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok284.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok313.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok360.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok102.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok178.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok270.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok31.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok103.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok104.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok16.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok17.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok266.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok273.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok315.txt
+File: C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok32.txt
 
 
 query token : 
-pimpin perang diponegoro 
-document : C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok127.txt
-title : sejarah perlawanan pangeran diponegoro terhadap belanda (1825–1830)
+rengasdengklok jadi 
+document : C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok201.txt
+title : perbedaan pendapat dan penculikan
 passage 3 score = 8.5
-sentence 1: setelah pertempuran di tegalrejo , pangeran diponegoro dan pasukannya menyingkir ke dekso .
-sentence 2: di daerah plered , pasukan diponegoro dipimpin oleh kertapengalasan yang memiliki kemampuan yang cukup kuat .
-sentence 3: kabar mengenai pecahnya perang melawan belanda segera meluas ke berbagai daerah .
-sentence 4: dengan dikumandangkannya perang sabil , di surakarta oleh kiai mojo , di kedu oleh kiai hasan besari , dan di daerah-daerah lain maka pada pertempuran-pertempuran tahun 1825 – 1826 pasukan belanda banyak terpukul dan terdesak .
-sentence 5: melihat kenyatan ini , kemudian belanda menggunakan usaha dan tipu daya untuk mematahkan perlawanan , antara lain sebagai berikut .
-passage 5 score = 8.5
-sentence 1: d. siasat tipu muslihat , yaitu ajakan berunding dengan pangeran diponegoro dan akhirnya ditangkap .
-sentence 2: dengan berbagai tipu daya , akhirnya satu per satu pemimpin perlawanan tertangkap dan menyerah , antara lain pangeran suryamataram dan ario prangwadono ( tertangkap 19 januari 1827 ) , pangeran serang , dan notoprodjo ( menyerah 21 juni 1827 , pangeran mangkubumi ( menyerah 27 september 1829 ) , dan alibasah sentot prawirodirdjo ( menyerah tanggal 24 oktober 1829 ) .
-sentence 3: kesemuanya itu merupakan pukulan yang berat bagi pangeran diponegoro .
-sentence 4: melihat situasi yang demikian , pihak belanda ingin menyelesaikan perang secara cepat .
-sentence 5: jenderal de kock melakukan tipu muslihat dengan mengajak berunding pangeran diponegoro .
-passage 1 score = 8.166666666666668
-sentence 1: #sejarah _ kelas_11 sejarah perlawanan pangeran diponegoro terhadap belanda ( 1825 – 1830 ) - pengaruh belanda di surakarta dan yogyakarta semakin bertambah kuat pada permulaan abad ke-19 .
-sentence 2: khususnya di yogyakarta , campur tangan belanda telah menimbulkan kekecewaan di kalangan kerabat keraton yang kemudian menimbulkan perlawanan di bawah pimpinan pangeran diponegoro .
-sentence 3: sebab-sebab perlawanan diponegoro , antara lain sebagai berikut .
-sentence 4: a. adanya kekecewaan dan kebencian kerabat istana terhadap tindakan belanda yang makin intensif mencampuri urusan keraton melalui patih danurejo ( kaki tangan belanda ) .
-sentence 5: b. adanya kebencian rakyat pada umumnya dan para petani khususnya akibat tekanan pajak yang sangat memberatkan .
-passage 2 score = 7.833333333333333
-sentence 1: b. adanya kebencian rakyat pada umumnya dan para petani khususnya akibat tekanan pajak yang sangat memberatkan .
-sentence 2: c. adanya kekecewaan di kalangan para bangsawan , karena hak-haknya banyak yang dikurangi .
-sentence 3: d. sebagai sebab khususnya ialah adanya pembuatan jalan oleh belanda melewati makam leluhur pangeran diponegoro di tegalrejo .
-sentence 4: pertempuran pertama meletus pada tanggal 20 juli 1825 di tegalrejo .
-sentence 5: setelah pertempuran di tegalrejo , pangeran diponegoro dan pasukannya menyingkir ke dekso .
-passage 4 score = 7.333333333333333
-sentence 1: melihat kenyatan ini , kemudian belanda menggunakan usaha dan tipu daya untuk mematahkan perlawanan , antara lain sebagai berikut .
-sentence 2: a. siasat benteng stelsel , yang dilakukan oleh jenderal de kock mulai tahun 1827 .
-sentence 3: b. siasat bujukan agar perlawanan menjadi reda .
-sentence 4: c. siasat pemberian hadiah sebesar 20.000 , - ringgit kepada siapa saja yang dapat menangkap pangeran diponegoro .
-sentence 5: d. siasat tipu muslihat , yaitu ajakan berunding dengan pangeran diponegoro dan akhirnya ditangkap .
+sentence 1: pada tanggal 16 agustus 1945 di asrama baperpi jalan cikini 74 jakarta , golongan muda mengadakan rapat yang dihadiri oleh sukarni , jusuf kunto , dr. muwardi , dan shudanco singgih dan paidan peta jakarta .
+sentence 2: rapat ini membikin keputusan untuk mengasingkan ir .
+sentence 3: soekarno dan mohammad hatta ke luar kota dengan tujuan untuk menjauhkan mereka dan segala pengaruh jepang .
+sentence 4: untuk menghindari kecurigaan dari pihak jepang , shudanco singgih memperoleh kepercayaan untuk melaksanakan rencana tersebut .
+sentence 5: rencana tersebut berlangsung lancar sebab mendapat dukungan perlengkapan tentara peta dan cudanco latief hendraningrat jadi cocok pada tanggal 16 agustus 1945 pukul 04.30 , ir.soekarno , mohammad hattaa , dan sekelompok golongan pemuda tiba di rengasdengklok .
+passage 4 score = 8.0
+sentence 1: rencana tersebut berlangsung lancar sebab mendapat dukungan perlengkapan tentara peta dan cudanco latief hendraningrat jadi cocok pada tanggal 16 agustus 1945 pukul 04.30 , ir.soekarno , mohammad hattaa , dan sekelompok golongan pemuda tiba di rengasdengklok .
+sentence 2: atasan mereka mengangkat ir .
+sentence 3: soekarno dan mohammad hatta untuk mengamankan mereka dari situasi genting yang terjadi di bunda kota .
+sentence 4: di rengasdengklok , akhirnya in .
+sentence 5: soekarno dan mohammad hatta bersedia untuk menyebutkan kemerdekaan seusai kembali ke jakarta .
+passage 5 score = 8.0
+sentence 1: soekarno dan mohammad hatta bersedia untuk menyebutkan kemerdekaan seusai kembali ke jakarta .
+sentence 2: sementara itu , di jakarta terjadi perundingan antara golongan tua dan golongan muda .
+sentence 3: golongan tua diwakili oleh ahmad subardjo , sedangkan golongan muda diwakili wikana .
+sentence 4: dan perundingan tersebut , diperoleh kesepakatan bahwa proklamasi kemerdekaan wajib dilaksanakan di jakarta .
+sentence 5: ahmad subardjo bersedia memberiikan jaminan bahwa proklamasi kemerdekaan indonesia bakal diumumkan pada keesokan harinya tanggal 17 agustus 1945 , maka komandan kompi peta rengasdengklok cudanco subeno bersedia melepaskan ir .
+passage 2 score = 7.5
+sentence 1: momen rengasdengklok dikarenakan oleh adanya perbedaan pendapat antara golongan tua dan golongan muda berkaitan dengan waktu yang cocok untuk mengumandangkan proklamasi kemerdekaan .
+sentence 2: menurut pendapat golongan tua , untuk memproklamasikan kemerdekaan , indonesia wajib menantikan waktu yang diberbagi oleh pemerintah jepang sebab mereka sudah memberbagi janji kemerdekaan , sedangkan menurut golongan muda , secepat mungkin dilaksanakan proklamasi kemerdekaan dengan mekegunaaankan kekosongan kekuasaan alias vacuum of power .
+sentence 3: dampak munculnya perbedaan pendapat tersebut , maka golongan pemuda meperbuat penculikan kepada golongan tua , yaitu ir .
+sentence 4: soekarno dan mohammad hatta yang diasingkan di rengasdengklok .
+sentence 5: pada tanggal 16 agustus 1945 di asrama baperpi jalan cikini 74 jakarta , golongan muda mengadakan rapat yang dihadiri oleh sukarni , jusuf kunto , dr. muwardi , dan shudanco singgih dan paidan peta jakarta .
+passage 6 score = 7.5
+sentence 1: ahmad subardjo bersedia memberiikan jaminan bahwa proklamasi kemerdekaan indonesia bakal diumumkan pada keesokan harinya tanggal 17 agustus 1945 , maka komandan kompi peta rengasdengklok cudanco subeno bersedia melepaskan ir .
+sentence 2: soekarno dan mohammad hatta .
+sentence 3: [ gs ]
 
-document : C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok56.txt
-title : sejarah perlawanan pangeran diponegoro terhadap belanda (1825–1830)
-passage 3 score = 8.5
-sentence 1: setelah pertempuran di tegalrejo , pangeran diponegoro dan pasukannya menyingkir ke dekso .
-sentence 2: di daerah plered , pasukan diponegoro dipimpin oleh kertapengalasan yang memiliki kemampuan yang cukup kuat .
-sentence 3: kabar mengenai pecahnya perang melawan belanda segera meluas ke berbagai daerah .
-sentence 4: dengan dikumandangkannya perang sabil , di surakarta oleh kiai mojo , di kedu oleh kiai hasan besari , dan di daerah-daerah lain maka pada pertempuran-pertempuran tahun 1825 – 1826 pasukan belanda banyak terpukul dan terdesak .
-sentence 5: melihat kenyatan ini , kemudian belanda menggunakan usaha dan tipu daya untuk mematahkan perlawanan , antara lain sebagai berikut .
-passage 5 score = 8.5
-sentence 1: d. siasat tipu muslihat , yaitu ajakan berunding dengan pangeran diponegoro dan akhirnya ditangkap .
-sentence 2: dengan berbagai tipu daya , akhirnya satu per satu pemimpin perlawanan tertangkap dan menyerah , antara lain pangeran suryamataram dan ario prangwadono ( tertangkap 19 januari 1827 ) , pangeran serang , dan notoprodjo ( menyerah 21 juni 1827 , pangeran mangkubumi ( menyerah 27 september 1829 ) , dan alibasah sentot prawirodirdjo ( menyerah tanggal 24 oktober 1829 ) .
-sentence 3: kesemuanya itu merupakan pukulan yang berat bagi pangeran diponegoro .
-sentence 4: melihat situasi yang demikian , pihak belanda ingin menyelesaikan perang secara cepat .
-sentence 5: jenderal de kock melakukan tipu muslihat dengan mengajak berunding pangeran diponegoro .
-passage 1 score = 8.166666666666668
-sentence 1: #sejarah _ kelas_11 sejarah perlawanan pangeran diponegoro terhadap belanda ( 1825 – 1830 ) - pengaruh belanda di surakarta dan yogyakarta semakin bertambah kuat pada permulaan abad ke-19 .
-sentence 2: khususnya di yogyakarta , campur tangan belanda telah menimbulkan kekecewaan di kalangan kerabat keraton yang kemudian menimbulkan perlawanan di bawah pimpinan pangeran diponegoro .
-sentence 3: sebab-sebab perlawanan diponegoro , antara lain sebagai berikut .
-sentence 4: a. adanya kekecewaan dan kebencian kerabat istana terhadap tindakan belanda yang makin intensif mencampuri urusan keraton melalui patih danurejo ( kaki tangan belanda ) .
-sentence 5: b. adanya kebencian rakyat pada umumnya dan para petani khususnya akibat tekanan pajak yang sangat memberatkan .
-passage 2 score = 7.833333333333333
-sentence 1: b. adanya kebencian rakyat pada umumnya dan para petani khususnya akibat tekanan pajak yang sangat memberatkan .
-sentence 2: c. adanya kekecewaan di kalangan para bangsawan , karena hak-haknya banyak yang dikurangi .
-sentence 3: d. sebagai sebab khususnya ialah adanya pembuatan jalan oleh belanda melewati makam leluhur pangeran diponegoro di tegalrejo .
-sentence 4: pertempuran pertama meletus pada tanggal 20 juli 1825 di tegalrejo .
-sentence 5: setelah pertempuran di tegalrejo , pangeran diponegoro dan pasukannya menyingkir ke dekso .
-passage 4 score = 7.333333333333333
-sentence 1: melihat kenyatan ini , kemudian belanda menggunakan usaha dan tipu daya untuk mematahkan perlawanan , antara lain sebagai berikut .
-sentence 2: a. siasat benteng stelsel , yang dilakukan oleh jenderal de kock mulai tahun 1827 .
-sentence 3: b. siasat bujukan agar perlawanan menjadi reda .
-sentence 4: c. siasat pemberian hadiah sebesar 20.000 , - ringgit kepada siapa saja yang dapat menangkap pangeran diponegoro .
-sentence 5: d. siasat tipu muslihat , yaitu ajakan berunding dengan pangeran diponegoro dan akhirnya ditangkap .
+document : C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok248.txt
+title : peristiwa seputar proklamasi kemerdekaan 17 agustus 1945
+passage 13 score = 8.5
+sentence 1: pada tanggal 12 agustus 1945 jendral terauchi mengucapkan selamat atas dibentuknya ppki dan menyerahkan pelaksanaan proklamasi kemerdekaan pada ppki .
+sentence 2: dengan demikian jepang sudah menyerahkan sepenuhnya pelaksanaan proklamasi kemerdekaan kepada bangsa indonesia melalui ppki .
+sentence 3: peristiwa seputar proklamasi dari rengasdengklok hingga proklamasi kemerdekaan indonesia menjelang berlangsung pelaksanaan proklamasi kemerdekaan , terjadi beberapa peristiwa yang merupakan salah satu bentuk aspirasi perjuangan baik dari golongan tua maupun golongan pemuda .
+sentence 4: meskipun demikian aspirasi-aspirasi tersebut merupakan suatu upaya agar kemerdekaan yang diperoleh merupakan hasil perjuangan bangsa indonesia , bukan pemberian dari jepang atau bangsa asing lainnya .
+sentence 5: adapun peristiwa-peristiwa yang melatar belakangi pelaksanaan proklamasi kemerdekaan indonesia adalah sebagai berikut : peristiwa rengasdengklok pada tanggal 14 agustus 1945 jepang menyerah tanpa syarat pada sekutu di kapal missaurri milik angkatan laut amerika serikat .
+passage 7 score = 8.0
+sentence 1: sukarno .
+sentence 2: anggota : drs. mohammad hatta , mr. muhammad yamin , mr ahmad subarjo mr. a.a. maramis , abikusno cokrosuyoso , abdul kahar muzakir , wachid hasyim dan h. agus salim .
+sentence 3: adapun tugas panitia sembilan adalah merumuskan kembali konsep dasar negara yang diusul oleh mr. muhammad yamin , mr. supomo , dan ir soekarno pada sidang bpupki tanggal 29 maret-1 juni 1945 .
+sentence 4: setelah konsep dasar negara dibahas , maka panitia sembilan berhasil merumuskan dasar negara sebagai berikut : lima rumusan dasar negara tersebut oleh panitia sembilan dicantumkan dan disyahkan pada piagam djakarta ( djakarta charter ) pada tanggal 22 juni 1945 .
+sentence 5: kemudian setelah mendengar saran dan usul dari umat kristen , maka sila pertama dirubah menjadi ketuhanan yang maha esa .
+passage 14 score = 8.0
+sentence 1: adapun peristiwa-peristiwa yang melatar belakangi pelaksanaan proklamasi kemerdekaan indonesia adalah sebagai berikut : peristiwa rengasdengklok pada tanggal 14 agustus 1945 jepang menyerah tanpa syarat pada sekutu di kapal missaurri milik angkatan laut amerika serikat .
+sentence 2: berita tersebut oleh jepang dirahasiakan , akan tetapi berita tersebut dapat diketahui oleh sutan syahrir melalui siaran radio gelap .
+sentence 3: kemudian sutan syahrir menyampaikan berita tersebut baik pada golongan pemuda maupun golongan tua .
+sentence 4: sehingga diantara dua golongan tersebut terjadi perbedaan pendapat mengenai proklamasi kemerdekaan indonesia , sebagai berikut : kemudian golongan pemuda mendesak ir .
+sentence 5: sukarno dan drs. mohammad hatta agar secepatnya melaksanakan proklamasi kemerdekaan , tanpa menunggu perintah dari jepang .
+passage 23 score = 8.0
+sentence 1: kalimat penutup yang berbunyi “ wakil-wakil bangsa indonesia diganti menjadi atas nama bangsa indonesia ” .
+sentence 2: tulisan kata tempoh diganti menjadi tempo , dan tulisan “ djakarta , 17-08-05 ” diganti menjadi “ djakarta , 17 boelan 8 tahun 05 ” .
+sentence 3: setelah konsep naskah teks proklamasi diperbaiki kemudian diserahkan pada sayuti melik supaya diketik , sehingga dikenal manjadi naskah teks proklamasi autentik atau asli .
+sentence 4: dalam rapat disepati bahwa pelaksanaan proklamasi kemerdekaan indonesia pada tanggal 17 agustus 1945 dilapangan ikada , jakarta .
+sentence 5: peristiwa pelaksanaan proklamasi kemerdekaan indonesia tempat pelaksanaan proklamasi kemerdekaan indonesia pada mulanya disepakati di lapangan ikada , karena alasan keamanan , maka dialihkan ke halaman rumah ir .
+passage 8 score = 7.5
+sentence 1: kemudian setelah mendengar saran dan usul dari umat kristen , maka sila pertama dirubah menjadi ketuhanan yang maha esa .
+sentence 2: 2 .
+sentence 3: sidang kedua ( 10 sampai 17 juli 1945 ) pada sidang tahap kedua bpupki membahas rancangan undang-undang dasar termasuk pembukaan ( preambule ) , pasal-pasal dan ayat-ayatnya .
+sentence 4: untuk menyusun rancangan undang-undang dasar bpupki membentuk panita perancang undang-undang dasar yang diketuai oleh ir .
+sentence 5: sukarno dengan jumlah anggota seluruhnya 19 orang .
 
-document : C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok128.txt
-title : sejarah perlawanan kaum paderi terhadap belanda (1821–1838)
-passage 5 score = 8.166666666666668
-sentence 1: sebaliknya , belanda yang telah berhasil menguasai lembah tanah datar , kemudian mendirikan benteng pertahanan di batusangkar ( fort van den capellen ) .
-sentence 2: b. periode 1825 – 1830 , ditandai dengan meredanya pertempuran .
-sentence 3: kaum paderi perlu menyusun kekuatan , sedangkan pihak belanda baru memusatkan perhatiannya menghadapi perlawanan diponegoro di jawa .
-sentence 4: c. periode 1830 – 1838 , ditandai dengan perlawanan di kedua belah yang makin menghebat .
-sentence 5: pemimpin di pihak belanda , antara lain letkol a.f. raaff , kolonel de stuer , mac .
-passage 1 score = 7.833333333333333
-sentence 1: sejarah perlawanan kaum paderi terhadap belanda ( 1821 – 1838 ) - perang paderi melawan belanda berlangsung 1821 – 1838 , tetapi gerakan paderi sendiri sudah ada sejak awal abad ke-19 .
-sentence 2: di lihat dari sasarannya , gerakan paderi dapat dibagi menjadi dua periode .
-sentence 3: a. periode 1803 – 1821 adalah masa perang paderi melawan adat dengan corak keagamaan .
-sentence 4: b. periode 1821 – 1838 adalah masa perang paderi melawan belanda dengan corak keagamaan dan patriotisme .
-sentence 5: sejak tahun 1821 saat kembalinya tiga orang haji dari mekkah , yaitu haji miskin , haji sumanik dan haji piabang , gerakan paderi melawan kaum adat dimulai .
-passage 3 score = 7.833333333333333
-sentence 1: terjadilan perbenturan antara kaum adat dengan kaum paderi .
-sentence 2: kaum adat yang merasa terdesak , kemudian minta bantuan kepada pihak ketiga , yang semula inggris kemudian digantikan oleh belanda ( berdasarkan konvensi london ) .
-sentence 3: perang paderi melawan belanda meletus ketika belanda mengerahkan pasukannya menduduki semawang pada tanggal 18 februari 1821 .
-sentence 4: masa perang paderi melawan belanda dapat dibagi menjadi tiga periode .
-sentence 5: a. periode 1821 – 1825 , ditandai dengan meletusnya perlawanan di seluruh daerah minangkabau .
-passage 4 score = 7.833333333333333
-sentence 1: a. periode 1821 – 1825 , ditandai dengan meletusnya perlawanan di seluruh daerah minangkabau .
-sentence 2: di bawah pimpinan tuanku pasaman , kaum paderi menggempur pos-pos belanda yang ada di semawang , sulit air , sipinan , dan tempat-tempat lain .
-sentence 3: pertempuran menimbulkan banyak korban di kedua belah pihak .
-sentence 4: tuanku pasaman kemudian mengundurkan diri ke daerah lintau .
-sentence 5: sebaliknya , belanda yang telah berhasil menguasai lembah tanah datar , kemudian mendirikan benteng pertahanan di batusangkar ( fort van den capellen ) .
-passage 6 score = 7.333333333333333
-sentence 1: pemimpin di pihak belanda , antara lain letkol a.f. raaff , kolonel de stuer , mac .
-sentence 2: gillavry dan elout , sedangkan di pihak paderi ialah tuanku imam bonjol , tuanku nan renceh , tuanku nan gapuk , tuanku hitam , tuanku nan cerdik dan tuanku tambusi .
-sentence 3: pada tahun 1833 , belanda mengeluarkan pelakat panjang yang isinya , antara lain sebagai berikut .
-sentence 4: a. penduduk dibebaskan dari pembayaran pajak yang berat dan kerja rodi .
-sentence 5: b. belanda akan bertindak sebagai penengah jika terjadi perselisihan antarpenduduk .
+document : C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok236.txt
+title : soekarni tokoh pengusul yang menandatangi teks proklamasi adalah bung karno dan bung hatta atas nama bangsa indonesia
+passage 8 score = 8.5
+sentence 1: nama sukarni sebagai tokoh pemuda mencuat setelah bersama-sama kawan-kawannya di asrama menteng 31 mendesak soekarno dan hatta untuk segera memproklamasikan kemerdekaan indonesia di masa-masa genting periode 15 hingga 17 agustus 1945 .
+sentence 2: dalam buku penerima gelar pahlawan nasional 2014 yang dikeluarkan oleh dewan gelar , tanda jasa dan tanda kehormatan republik indonesia tahun 2014 , sukarni merupakan salah satu tokoh angkatan baru indonesia yang bermarkas di menteng nomor 31 jakarta , yang kini dikenal dengan gedung juang 45 .
+sentence 3: ia bersama-sama dengan supeno , chairul saleh dan adam malik serta pemuda lainnya saat ini mendorong perjuangan kemerdekaan indonesia melalui gerakan pemuda .
+sentence 4: gerakan ini terkenal ketika mendesak soekarno dan hatta , ikon perjuangan kemerdekaan indonesia , untukmemproklamasikan kemerdekaan dan membawa kedua proklamator itu ke rengasdengklok .
+sentence 5: pada 16 agustus 1945 sore , mereka kemudian mengantarkan kembali soekarno dan hatta ke jakarta dan malam harinya terjadi perumusan naskah proklamasi di jalan imam bonjol nomor 1 , rumah laksamana maeda .
+passage 1 score = 8.0
+sentence 1: soekarni tokoh pengusul yang menandatangi teks proklamasi adalah bung karno dan bung hatta atas nama bangsa indonesia - soekarni kartodiwirjo menjadi salah seorang tokoh pejuang dari jawa timur yang mendapat penghargaan gelar pahlawan nasional dari presiden joko widodo .
+sentence 2: pria kelahiran blitar ini punya peran penting di balik sejarah proses pembacaan teks proklamasi kemerdekaan ri .
+sentence 3: saat prosesnya , sukarni adalah sosok yang mewakili kelompok muda agar pasangan soekarno-hatta secepatnya memproklamasikan kemerdekaan negara pada 17 agustus 1945 .
+sentence 4: dia tidak menginginkan pasangan itu terlalu berpikir lama menyatakan kemerdekaan negara .
+sentence 5: sejarah ini yang membuat kelompok pemuda harus melakukan ‘ penculikan ’ terhadap kedua pemimpin itu ke rengasdengklok , jawa barat .
+passage 2 score = 8.0
+sentence 1: sejarah ini yang membuat kelompok pemuda harus melakukan ‘ penculikan ’ terhadap kedua pemimpin itu ke rengasdengklok , jawa barat .
+sentence 2: sosoknya sejak kecil digambarkan sebagai orang yang membenci belanda .
+sentence 3: lahir di blitar , jawa timur , 14 juli 1916 , sukarni punya catatan gemar berkelahi dengan anak-anak belanda .
+sentence 4: hal ini dilakukannya hampir setiap hari .
+sentence 5: pola pikir membenci belanda ini karena tertanam oleh gurunya yang juga tokoh pergerakan indonesia saat itu , mohammad anwar .
+passage 9 score = 8.0
+sentence 1: pada 16 agustus 1945 sore , mereka kemudian mengantarkan kembali soekarno dan hatta ke jakarta dan malam harinya terjadi perumusan naskah proklamasi di jalan imam bonjol nomor 1 , rumah laksamana maeda .
+sentence 2: sukarni kartodiwirjo lahir di blitar , jawa timur pada 14 juli 1916 .
+sentence 3: pada tahun 1930 ia bergabung dengan partai indonesia ( partindo ) sejak bersekolah di mulo blitar .
+sentence 4: ia kemudian dikirim oleh pengurus partindo untuk mengikuti pendidikan kader di bandung , soekarno kemudian menjadi mentornya .
+sentence 5: karir politik sukarni terus bergulir sebagai aktivis kemerdekaan dengan menjadi ketua umum pengurus besar indonesia muda pada 1935 .
+passage 10 score = 8.0
+sentence 1: karir politik sukarni terus bergulir sebagai aktivis kemerdekaan dengan menjadi ketua umum pengurus besar indonesia muda pada 1935 .
+sentence 2: ia sempat ke banyuwangi jawa timur dan kediri untuk menghindari penangkapan polisi hindia belanda .
+sentence 3: ia pada 1938 menyeberang ke kalimantan dengan nama samaran maidi .
+sentence 4: pada 1941 ia kemudian tertangkap di balikpapan dan dipindahkan ke penjara di samarinda , surabaya , batavia .
+sentence 5: sebelum dibuang ke boven digul , ia sementara ditahan di penjara garut .
 
-document : C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok57.txt
-title : sejarah perlawanan kaum paderi terhadap belanda (1821–1838)
-passage 5 score = 8.166666666666668
-sentence 1: sebaliknya , belanda yang telah berhasil menguasai lembah tanah datar , kemudian mendirikan benteng pertahanan di batusangkar ( fort van den capellen ) .
-sentence 2: b. periode 1825 – 1830 , ditandai dengan meredanya pertempuran .
-sentence 3: kaum paderi perlu menyusun kekuatan , sedangkan pihak belanda baru memusatkan perhatiannya menghadapi perlawanan diponegoro di jawa .
-sentence 4: c. periode 1830 – 1838 , ditandai dengan perlawanan di kedua belah yang makin menghebat .
-sentence 5: pemimpin di pihak belanda , antara lain letkol a.f. raaff , kolonel de stuer , mac .
-passage 1 score = 7.833333333333333
-sentence 1: sejarah perlawanan kaum paderi terhadap belanda ( 1821 – 1838 ) - perang paderi melawan belanda berlangsung 1821 – 1838 , tetapi gerakan paderi sendiri sudah ada sejak awal abad ke-19 .
-sentence 2: di lihat dari sasarannya , gerakan paderi dapat dibagi menjadi dua periode .
-sentence 3: a. periode 1803 – 1821 adalah masa perang paderi melawan adat dengan corak keagamaan .
-sentence 4: b. periode 1821 – 1838 adalah masa perang paderi melawan belanda dengan corak keagamaan dan patriotisme .
-sentence 5: sejak tahun 1821 saat kembalinya tiga orang haji dari mekkah , yaitu haji miskin , haji sumanik dan haji piabang , gerakan paderi melawan kaum adat dimulai .
-passage 3 score = 7.833333333333333
-sentence 1: terjadilan perbenturan antara kaum adat dengan kaum paderi .
-sentence 2: kaum adat yang merasa terdesak , kemudian minta bantuan kepada pihak ketiga , yang semula inggris kemudian digantikan oleh belanda ( berdasarkan konvensi london ) .
-sentence 3: perang paderi melawan belanda meletus ketika belanda mengerahkan pasukannya menduduki semawang pada tanggal 18 februari 1821 .
-sentence 4: masa perang paderi melawan belanda dapat dibagi menjadi tiga periode .
-sentence 5: a. periode 1821 – 1825 , ditandai dengan meletusnya perlawanan di seluruh daerah minangkabau .
-passage 4 score = 7.833333333333333
-sentence 1: a. periode 1821 – 1825 , ditandai dengan meletusnya perlawanan di seluruh daerah minangkabau .
-sentence 2: di bawah pimpinan tuanku pasaman , kaum paderi menggempur pos-pos belanda yang ada di semawang , sulit air , sipinan , dan tempat-tempat lain .
-sentence 3: pertempuran menimbulkan banyak korban di kedua belah pihak .
-sentence 4: tuanku pasaman kemudian mengundurkan diri ke daerah lintau .
-sentence 5: sebaliknya , belanda yang telah berhasil menguasai lembah tanah datar , kemudian mendirikan benteng pertahanan di batusangkar ( fort van den capellen ) .
-passage 6 score = 7.333333333333333
-sentence 1: pemimpin di pihak belanda , antara lain letkol a.f. raaff , kolonel de stuer , mac .
-sentence 2: gillavry dan elout , sedangkan di pihak paderi ialah tuanku imam bonjol , tuanku nan renceh , tuanku nan gapuk , tuanku hitam , tuanku nan cerdik dan tuanku tambusi .
-sentence 3: pada tahun 1833 , belanda mengeluarkan pelakat panjang yang isinya , antara lain sebagai berikut .
-sentence 4: a. penduduk dibebaskan dari pembayaran pajak yang berat dan kerja rodi .
-sentence 5: b. belanda akan bertindak sebagai penengah jika terjadi perselisihan antarpenduduk .
+document : C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok255.txt
+title : yusuf ronodipuro tokoh yang menyebarkan berita proklamasi lewat rri
+passage 9 score = 8.5
+sentence 1: esoknya , hari kamis 16 agustus 1945 tidak ada kejadian berarti , siaran berjalan seperti biasa .
+sentence 2: malam harinya ada sedikit keributan di depan kantor , ternyata sukarni datang bersama beberapa orang jepang tetapi dilarang masuk .
+sentence 3: dari dalam mobil , sukarni berteriak , “ tunggu , akan ada pengumuman penting , ” lalu ia pergi .
+sentence 4: di tempat lain , di sebuah rumah di pegangsaan 56 , tanggal 16 agustus dini hari , selepas sahur , sukarni dkk datang ke rumah bung karno .
+sentence 5: mereka berusaha meyakinkan bung karno bahwa jakarta tidak aman karena jakarta akan menjadi lautan api , sehingga mereka ingin mengamankan bung karno dan bung hatta ke rengasdengklok .
+passage 1 score = 8.0
+sentence 1: yusuf ronodipuro tokoh yang menyebarkan berita proklamasi lewat rri - yusuf ronodipuro ( lahir di salatiga , jawa tengah , 30 september 1919 – meninggal di jakarta selatan , 27 januari 2008 pada umur 88 tahun ) adalah duta besar indonesia .
+sentence 2: pada awalnya ia dikenal sebagai penyiar kemerdekaan republik indonesia secara luas .
+sentence 3: selain itu ia pernah menjadi duta besar luar biasa indonesia di uruguay , argentina , dan chili .
+sentence 4: yusuf ronodipuro dianggap sebagai salah satu tokoh pahlawan indonesia karena perannya dalam menyiarkan proklamasi kemerdekaan indonesia ke seluruh dunia saat dia bekerja di radio hoso kyoku .
+sentence 5: dia juga adalah salah satu pendiri dari radio republik indonesia pada tanggal 11 september 1945 , yang berdiri sampai sekarang , dan kemudian hari jadinya diperingati setiap tanggal 11 september .
+passage 2 score = 8.0
+sentence 1: dia juga adalah salah satu pendiri dari radio republik indonesia pada tanggal 11 september 1945 , yang berdiri sampai sekarang , dan kemudian hari jadinya diperingati setiap tanggal 11 september .
+sentence 2: di negara dengan luas wilayah sebesar indonesia , tentu bukan perkara mudah mengabarkan berita proklamasi ke seluruh penjuru nusantara pada tahun 1945 .
+sentence 3: hanya radio lah yang bisa menjangkau seluruh pelosok negeri .
+sentence 4: kala itu satu-satunya stasiun radio yang ada hanyalah hoso kyoku , milik dai nippon .
+sentence 5: lalu bagaimana kabar kemerdekaan kita bisa disebarluaskan ?
+passage 10 score = 8.0
+sentence 1: mereka berusaha meyakinkan bung karno bahwa jakarta tidak aman karena jakarta akan menjadi lautan api , sehingga mereka ingin mengamankan bung karno dan bung hatta ke rengasdengklok .
+sentence 2: kedua pemimpin tersebut setuju dan berangkatlah mereka menggunakan mobil ke rengasdengklok .
+sentence 3: hari itu tak hanya serdadu jepang yang sibuk mencari bung karno dan bung hatta , para anggota ppki ( panitia persiapan kemerdekaan indonesia ) juga mencari karena sedianya hari itu dilakukan rapat .
+sentence 4: malam harinya kedua pemimpin tersebut kembali ke jakarta dan langsung melakukan rapat perumusan naskah proklamasi di rumah laksamana tadashi mayda di jalan imam bonjol no. 1 dengan dihadiri anggota ppki dan angkatan muda .
+sentence 5: kembali ke jalan medan merdeka , hari jumat 17 agustus 1945 , radio hoso kyoku tetap melakukan siaran seperti biasa .
+passage 8 score = 7.5
+sentence 1: diisolasi hari itu pimpinan hoso kyoku menyampaikan dua pengumuman kepada para karyawan .
+sentence 2: pertama , para karyawan yang sudah di kantor dilarang keluar lagi dan yang di luar tidak diizinkan masuk .
+sentence 3: kedua , siaran luar negeri dihentikan ( mungkin agar berita kekalahan jepang tidak sampai ke rakyat indonesia ) .
+sentence 4: jadilah mereka semua diisolasi di kantor radio dan terpaksa bermalam di sana .
+sentence 5: esoknya , hari kamis 16 agustus 1945 tidak ada kejadian berarti , siaran berjalan seperti biasa .
 
-document : C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok166.txt
-title : sejarah lengkap perang dunia ii
-passage 1 score = 8.166666666666668
-sentence 1: perang dunia ii tahun-tahun setelah perang dunia i usai ditandai dengan kerinduan akan perdamaian , sesuatu yang tidak bisa dijaga oleh liga bangsa-bangsa .
-sentence 2: beberapa negara mencoba-coba sistem pemerintahan baru , seperti komunisme yang jalankan di rusia ( uni soviet ) , nazisme yang dijalankan di jerman , dan fasisme yang dijalankan di italia dan spanyol , dimana para diktator memaksakan kekuasaanya pada semua aspek kehidupan , membungkam kelompok oposisi dengan menggunakan polisi rahasia yang brutal , siksaan dan kamp penjara .
-sentence 3: diktator jerman adolf hitler , pemimpin partai nazi jerman , berupaya untuk mendirikan kembali kekaisaran jerman .
-sentence 4: negara-negara kecil , seperti cekoslovakia dan austria , terancam oleh ekspansi jerman .
-sentence 5: perancis dan inggris hanya mengamati tanpa ikut campur , karena kondisi ekonomi yang melanda mereka , namun akhirnya terlibat perang untuk menghentikan agresi jerman pada tahun 1939 .
-passage 2 score = 8.166666666666668
-sentence 1: perancis dan inggris hanya mengamati tanpa ikut campur , karena kondisi ekonomi yang melanda mereka , namun akhirnya terlibat perang untuk menghentikan agresi jerman pada tahun 1939 .
-sentence 2: italia yang berperang bersama sekutu pada perang dunia i , merasa kecewa karena memperoleh bagian yang sedikit dalam perjanjian damai .
-sentence 3: pasca perang dunia i , di italia muncul konflik yang hampir berujung pada perang saudara .
-sentence 4: sebuah gerakan baru , yang dipimpin benito mussolini , fasisme , tumbuh di kota-kota .
-sentence 5: kaum fasis merupakan kumpulan pekerja yang menginginkan perubahan dan percaya pda kebanggaan nasional dan kepatuhan kepada pemimpinnya .
-passage 7 score = 8.166666666666668
-sentence 1: tindakan jepang ini menjadikan asia sebagai medan pertempuran perang dunia ii .
-sentence 2: amerika serikat yang awalnya tidak ikut perang secara langsung mulai mengangkat senjata melawan blok axis bergabung bersama inggris dan perancis .
-sentence 3: salah satu faktor yang mendorong menjadi negara imperium adalah kebutuhan akan bahan baku industri dan daerah pemasaran hasil-hasil industri ; dan keinginan jepang menguasai dunia , sebagaimana yang dilakukan oleh negara-negara maju lainnya .
-sentence 4: tekad jepang ini dipengaruhi oleh ajaran shinto yang memandang dunia sebagai satu keluarga ( hakko ichi u ) .
-sentence 5: ajaran ini mengartikan bahwa dunia baru disusun sebagai satu keluarga , dengan jepang sebagai pemimpinnya .
-passage 3 score = 7.833333333333333
-sentence 1: kaum fasis merupakan kumpulan pekerja yang menginginkan perubahan dan percaya pda kebanggaan nasional dan kepatuhan kepada pemimpinnya .
-sentence 2: untuk menarik kelas atas dan menengah golongan ini menyerang kelompok komunisme .
-sentence 3: pada tahun 1922 , 50.000 fasis bergerak ke roma , dan mussolini menjadi perdana menteri italia .
-sentence 4: pemerintahan fasis mussolini dalam menjalankan pemerintahannya dilakukan secara diktator sehingga rakyat tidak bisa mengeluarkan pendapatnya secara bebas dan menjalankan politik luar negeri yang agresif .
-sentence 5: pada awalnya mussolini bermusuhan dengan hitler karena takut akan invasi jerman ke austria , namun ketika akan menginvasi ethiopia pada 1935 , mussolini meminta bantuan hitler .
-passage 5 score = 7.833333333333333
-sentence 1: selain itu , kepercayaan rakyat terhadap partai politik semakin merosot karena bebeapa skandal terbuka di muka umum .
-sentence 2: keadaan ini dimanfaatkan oleh kaum ekstrimis dan kaum militer sehingga memperburuk keadaan jepang saat itu .
-sentence 3: bahkan , partai politik digabungkan dan rakyat dipaksa untuk berperang melawan cina .
-sentence 4: di cina , terutama di manchuria , jepang semakin menyebarkan pengaruhnya lewat perkembangan industri yang berbiaya mahal .
-sentence 5: pada tahun 1932 jepang medirikan republik manchukuo .
+document : C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok365.txt
+title : bpupki-ppki dan peristiwa rengasdengklok
+passage 26 score = 8.5
+sentence 1: hatta ( wakil ketua ) prof. mr. dr. soepomo ( anggota ) krt radjiman wedyodiningrat ( anggota ) r. p. soeroso ( anggota ) soetardjo kartohadikoesoemo ( anggota ) kiai abdoel wachid hasjim ( anggota ) ki bagus hadikusumo ( anggota ) otto iskandardinata ( anggota ) abdoel kadir ( anggota ) pangeran soerjohamidjojo ( anggota ) pangeran poerbojo ( anggota ) dr. mohammad amir ( anggota ) mr. abdul abbas ( anggota ) mr. mohammad hasan ( anggota ) dr. gssj ratulangi ( anggota ) andi pangerang ( anggota ) a.h. hamidan ( anggota ) i goesti ketoet poedja ( anggota ) mr. johannes latuharhary ( anggota ) drs. yap tjwan bing ( anggota ) selanjutnya tanpa sepengetahuan jepang , keanggotaan bertambah 6 yaitu : achmad soebardjo ( anggota ) sajoeti melik ( anggota ) ki hadjar dewantara ( anggota ) r.a.a. wiranatakoesoema ( anggota ) kasman singodimedjo ( anggota ) iwa koesoemasoemantri ( anggota ) persidangan tanggal 9 agustus 1945 , sebagai pimpinan ppki yang baru , soekarno , hatta dan radjiman wedyodiningrat diundang ke dalat untuk bertemu marsekal terauchi .
+sentence 2: setelah pertemuan tersebut , ppki tidak dapat bertugas karena para pemuda mendesak agar proklamasi kemerdekaan tidak dilakukan atas nama ppki , yang dianggap merupakan alat buatan jepang .
+sentence 3: bahkan rencana rapat 16 agustus 1945 tidak dapat terlaksana karena terjadi peristiwa rengasdengklok .
+sentence 4: setelah proklamasi , pada tanggal 18 agustus 1945 , ppki memutuskan antara lain : mengesahkan undang-undang dasar , memilih dan mengangkat ir .
+sentence 5: soekarno sebagai presiden dan drs. m. hatta sebagai wakil presiden ri , membentuk komite nasional untuk membantu tugas presiden sebelum dpr/mpr terbentuk .
+passage 6 score = 8.0
+sentence 1: pada rapat pertama ini terdapat 3 orang yang mengajukan pendapatnya tentang dasar negara .
+sentence 2: pada tanggal 29 mei 1945 , mr. muhammad yamin dalam pidato singkatnya mengemukakan lima asas yaitu : peri kebangsaan peri ke tuhanan kesejahteraan rakyat peri kemanusiaan peri kerakyatan pada tanggal 31 mei 1945 , prof. dr. mr. soepomo mengusulkan lima asas yaitu persatuan mufakat dan demokrasi keadilan sosial kekeluargaan musyawarah pada tanggal 1 juni 1945 , soekarno mengusulkan lima asas pula yang disebut pancasila yaitu : kebangsaan indonesia internasionalisme dan peri kemanusiaan mufakat atau demokrasi kesejahteraan sosial ketuhanan yang maha esa kelima asas dari soekarno disebut pancasila yang menurut beliau bilamana diperlukan dapat diperas menjadi trisila atau tiga sila yaitu : sosionasionalisme sosiodemokrasi ketuhanan yang berkebudayaan bahkan masih menurut soekarno , trisila tersebut di atas bila diperas kembali disebutnya sebagai ekasila yaitu merupakan sila gotong royong merupakan upaya soekarno dalam menjelaskan bahwa konsep tersebut adalah dalam satu-kesatuan .
+sentence 3: selanjutnya lima asas tersebut kini dikenal dengan istilah pancasila , namun konsep bersikaf kesatuan tersebut pada akhirnya disetujui dengan urutan serta redaksi yang sedikit berbeda .
+sentence 4: sementara itu , perdebatan terus berlanjut di antara peserta sidang bpupki mengenai penerapan aturan islam dalam indonesia yang baru .
+sentence 5: masa antara rapat pertama dan kedua sampai akhir rapat pertama , masih belum ditemukan kesepakatan untuk perumusan dasar negara , sehingga akhirnya dibentuklah panitia kecil untuk menggodok berbagai masukan .
+passage 23 score = 8.0
+sentence 1: selain lewat radio , berita proklamasi juga disiarkan lewat pers dan surat sebaran .8 .
+sentence 2: reaksi rakyat terhadap proklamasi kemerdekaan reaksi berbagai daerah di indonesia terhadap proklamasi kemerdekaan republik indonesia adalah terjadinya perubahan kekuasaan , baik dengan cara kekerasan maupun dengan cara perundingan .
+sentence 3: b. pembentukan pemerintahan indonesia 1 .
+sentence 4: pembentukan perlengkapan negara a ) sidang ppki tanggal 18 agustus 1945 1 ) pembahasan dan pengesahaan uud 2 ) perubahan uud dalam rapat ppki tanggal 18agustus 1945 3 ) masa lah penmgangkatan presiden dan wakil presiden 4 ) pembentukan komite nasional b ) sidang ppki tgl 19 agustus 1945 1 ) pembagian wilayah indonesia menjadi 8 propinsi beserta gubernur 2 ) pembentukan komite nasionol 3 ) menetapkan 12 kementrian c ) sidang ppki tgl 22 agustus 1945 1 ) pembentukan komite nasionol 2 ) pembentukan partai nasional indonesia 3 ) pembentukan bsdan keamanan rakyat ( bkr ) d ) rapat raksasa di lapangan ikada 2 .
+sentence 5: perubahan otoritas knip dan lembaga kepresidenan pada awal kemerdekaan a ) ka binet presidensil pertamab ) maklumat pemerintah no.x tgl 16 oktobor 19453 .
+passage 28 score = 8.0
+sentence 1: sejalan dengan usulan kedua , maka pasal 29 pun berubah .
+sentence 2: c. peristiwa rengasdengklok peristiwa rengasdengklok adalah peristiwa dimulai dari “ penculikan ” yang dilakukan oleh sejumlah pemuda ( a.l. adam malik dan chaerul saleh dari menteng 31 terhadap soekarno dan hatta .
+sentence 3: peristiwa ini terjadi pada tanggal 16 agustus 1945 pukul 04.30 .
+sentence 4: wib , soekarno dan hatta dibawa ke rengasdengklok , karawang , untuk kemudian didesak agar mempercepat proklamasi kemerdekaan republik indonesia , sampai dengan terjadinya kesepakatan antara golongan tua yang diwakili soekarno dan hatta serta mr. achmad subardjo dengan golongan muda tentang kapan proklamasi akan dilaksanakan .
+sentence 5: menghadapi desakan tersebut , soekarno dan hatta tetap tidak berubah pendirian .
+passage 34 score = 8.0
+sentence 1: pada 1 april 1945 pasukan amerika mendarat di okinawa .
+sentence 2: kemudian pada tanggal 6 dan 9 agustus 1945 amerika menjatukan bom atom di hiroshima dan nagasaki ( jepang ) .
+sentence 3: beberapa hari kemudian , pada 14 agustus 1945 , jepang menyerah kepada tentara sekutu .
+sentence 4: kejadian tersebut membuka peluang bagi bangsa indonesia untuk memproklamirkan kemerdekaan .
+sentence 5: tiga hari setelah jepang menyerah tanpa syarat , pada tanggal 17 agustus 1945 , pemimpin nasional indonesia ir .
+
+document : C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok402.txt
+title : proklamasi kemerdekaan dan pembentukan pemerintahan indonesia
+passage 21 score = 7.0
+sentence 1: undang-undang dasar ( batang tubuh ) .
+sentence 2: c. aktivitas golongan muda angkatan moeda indonesia dan gerakan angkatan baroe indonesia sebelum bpupki dibentuk di bandung pada tanggal 16 mei 1945 telah diadakan kongres pemuda seluruh jawa yang diprakarsai angkatan moeda indonesia .
+sentence 3: organisasi itu sebenarnya dibentuk atas inisitaif jepang pada pertengahan 1944 , akan tetapi kemudian berkembang menjadi suatu pergerakan pemuda yang anti-jepang .
+sentence 4: kongres pemuda itu dihadiri oleh lebih 100 utusan pemuda , pelajar dan mahasiswa seluruh jawa diantaranya djamal ali , chairul saleh , anwar tjokroaminoto , harsono tjokroaminoto serta sejumlah mahasiswa ika daigaku jakarta .
+sentence 5: kongres menghimbau para pemuda di jawa hendaknya bersatu dan mempersiapkan diri untuk melaksanakan proklamasi kemerdekaan yang bukan hadiah jepang .
+passage 32 score = 7.0
+sentence 1: wilayah indonesia akan meliputi seluruh bekas wilayah hindia belanda .
+sentence 2: ketika ketiga tokoh itu berangkat kembali menuju jakarta pada tanggal 14 agustus 1945 , jepang telah dibom atom oleh sekutu di kota hirosima dan nagasaki .
+sentence 3: bahkan uni soviet mengingkari janjinya dan menyatakan perang terhadap jepang seraya melakukan penyerbuan ke manchuria .
+sentence 4: dengan demikian dapat diramalkan bahwa kekalahan jepang akan segera terjadi .
+sentence 5: keesokan harinya , pada tanggal 15 agustus 1945 sukarno-hatta tiba kembali di tanah air .
+passage 42 score = 7.0
+sentence 1: utusan itu pun menjawab “ kalau begitu pendirian saudara-saudara berdua , baiklah !
+sentence 2: dan kami pemuda-pemuda tidak dapat menanggung sesuatu , jika besok siang proklamasi belum juga diumumkan .
+sentence 3: kami pemuda-pemuda akan bertindak dan menunjukkan kesanggupan yang saudara kehendaki itu ! ”
+sentence 4: f. peristiwa rengasdengklok sekitar pukul 12.00 kedua utusan meninggalkan halaman rumah ir .
+sentence 5: sukarno dengan diliputi perasaan kesal memikirkan sikap dan perkataan sukarno-hatta .
+passage 47 score = 7.0
+sentence 1: namun dalam suatu pembicaraan berdua dengan ir .
+sentence 2: sukarno , shudanco singgih beranggapan sukarno bersedia untuk menyatakan proklamasi segera setelah kembali ke jakarta .
+sentence 3: oleh karena itulah singgih pada tengah hari itu kembali ke jakarta untuk menyampaikan rencana proklamasi kepada kawan-kawannya .
+sentence 4: sementara itu di jakarta para anggota ppki yang diundang rapat pada tanggal 16 agustus memenuhi undangannya dan berkumpul di gedung pejambon 2 .
+sentence 5: akan tetapi rapat itu tidak dapat dihadiri oleh pengundangnya sukarno-hatta yang sedang berada di rengasdengklok .
+passage 49 score = 7.0
+sentence 1: selanjutnya antara kedua tokoh golongan tua dan tokoh golongan muda itu tercapai kesepakatan bahwa proklamasi kemerdekaan harus dilaksanakan di jakarta .
+sentence 2: karena adanya kesepakatan itu , maka jusuf kunto dari golongan muda bersedia mengantarkan mr. ahmad subardjo bersama sekretarisnya , sudiro ( mbah ) ke rengasdengklok .
+sentence 3: rombongan ini tiba pada pukul 18.00 waktu jawa .
+sentence 4: selanjutnya ahmad subardjo memberikan jaminan dengan taruhan nyawa bahwa proklamasi kemerdekaan akan diumumkan pada keesokan harinya tanggal 17 agustus 1945 selambat-lambatnya pukul 12.00 .
+sentence 5: dengan adanya jaminan itu , maka komandan kompi peta rengasdengklok , cudanco subeno bersedia melepaskan ir .
 
 document : C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok349.txt
 title : sejarah penyebab terjadinya perang dingin
-passage 2 score = 6.666666666666667
-sentence 1: akibat perbedaan ideologi , setelah musuh bersama ( jerman ) dapat mereka lenyapkan dalam perang dunia ii , pertentangan ideologi kembali terjadi .
-sentence 2: akibatnya , kedua kekuatan adidaya tersebut berusaha saling mengalahkan .
-sentence 3: salah satu caranya adalah memengaruhi negara-negara lain untuk bergabung dalam kelompoknya .
-sentence 4: oleh karena itu , dunia ini akhirnya seolah-olah terbagi menjadi blok barat yang berpaham liberal kapitalis dengan amerika serikat sebagai pemimpinnya , dan blok timur yang berpaham sosialis komunis dengan uni soviet sebagai pemimpinnya .
-sentence 5: amerika serikat dan uni soviet saling berusaha menjadi pemimpin dunia .
-passage 5 score = 5.5
-sentence 1: hanya kemiskinan yang menjadi ladang subur bagi perkembangan sosialis komunis .
-sentence 2: sedangkan uni soviet yang mempunyai kekuatan ekonomi , tetapi tidak sebesar amerika serikat juga berusaha membentengi negara-negara yang telah mendapat pengaruhnya .
-sentence 3: paket bantuan ekonomi uni soviet juga diberikan guna memperbaiki keadaan ekonomi negara-negara tersebut .
-sentence 4: selain itu , uni soviet juga berusaha mendekati rakyat yang sedang melakukan perjuangan nasionalnya dengan mengirimkan para tenaga ahli dan juga berbagai peralatan militer .
-passage 4 score = 5.0
-sentence 1: dengan demikian , amerika serikat dan uni soviet tampil sebagai imperialis muda .
-sentence 2: amerika serikat dengan kekuatan ekonominya berusaha memengaruhi negara-negara lain khususnya yang baru merdeka dengan paket bantuan ekonomi .
-sentence 3: pemerintah amerika serikat beranggapan bahwa negara yang rakyatnya hidup makmur dapat menjadi tempat pemasaran hasil industrinya .
-sentence 4: selain itu , rakyat yang hidupnya telah makmur juga akan menjauhkan dari pengaruh sosialis komunis .
-sentence 5: hanya kemiskinan yang menjadi ladang subur bagi perkembangan sosialis komunis .
-passage 1 score = 1.3333333333333333
+passage 1 score = 1.5
 sentence 1: sejarah penyebab terjadinya perang dingin – secara umum , perang dingin terjadi akibat dipicu oleh hal-hal sebagai berikut .
 sentence 2: amerika serikat adalah negara yang berideologi liberal kapitalis , sedangkan uni soviet adalah negara yang berideologi sosialis komunis .
 sentence 3: sejak awal kelahirannya , paham sosialis komunis memang tidak sejalan dengan paham liberal kapitalis .
 sentence 4: bahkan , kelahiran sosialis komunis memang dipicu adanya liberal kapitalis yang pada waktu itu bertindak sewenang-wenang .
 sentence 5: akibat perbedaan ideologi , setelah musuh bersama ( jerman ) dapat mereka lenyapkan dalam perang dunia ii , pertentangan ideologi kembali terjadi .
-passage 3 score = 1.3333333333333333
+passage 2 score = 1.5
+sentence 1: akibat perbedaan ideologi , setelah musuh bersama ( jerman ) dapat mereka lenyapkan dalam perang dunia ii , pertentangan ideologi kembali terjadi .
+sentence 2: akibatnya , kedua kekuatan adidaya tersebut berusaha saling mengalahkan .
+sentence 3: salah satu caranya adalah memengaruhi negara-negara lain untuk bergabung dalam kelompoknya .
+sentence 4: oleh karena itu , dunia ini akhirnya seolah-olah terbagi menjadi blok barat yang berpaham liberal kapitalis dengan amerika serikat sebagai pemimpinnya , dan blok timur yang berpaham sosialis komunis dengan uni soviet sebagai pemimpinnya .
+sentence 5: amerika serikat dan uni soviet saling berusaha menjadi pemimpin dunia .
+passage 3 score = 1.5
 sentence 1: amerika serikat dan uni soviet saling berusaha menjadi pemimpin dunia .
 sentence 2: mereka memimpikan dapat berkuasa dan memimpin dunia seperti masa kejayaan inggris dan prancis pada masa imperialis kuno .
 sentence 3: namun , kekuasaan yang biasanya dilakukan pada masa imperialis kuno sekarang sudah tidak mereka lakukan lagi .
 sentence 4: amerika serikat dan uni soviet berusaha menjadi pemimpin dunia dengan cara baru , misalnya dengan kekuatan ekonominya .
 sentence 5: dengan demikian , amerika serikat dan uni soviet tampil sebagai imperialis muda .
+passage 4 score = 1.5
+sentence 1: dengan demikian , amerika serikat dan uni soviet tampil sebagai imperialis muda .
+sentence 2: amerika serikat dengan kekuatan ekonominya berusaha memengaruhi negara-negara lain khususnya yang baru merdeka dengan paket bantuan ekonomi .
+sentence 3: pemerintah amerika serikat beranggapan bahwa negara yang rakyatnya hidup makmur dapat menjadi tempat pemasaran hasil industrinya .
+sentence 4: selain itu , rakyat yang hidupnya telah makmur juga akan menjauhkan dari pengaruh sosialis komunis .
+sentence 5: hanya kemiskinan yang menjadi ladang subur bagi perkembangan sosialis komunis .
+passage 5 score = 1.5
+sentence 1: hanya kemiskinan yang menjadi ladang subur bagi perkembangan sosialis komunis .
+sentence 2: sedangkan uni soviet yang mempunyai kekuatan ekonomi , tetapi tidak sebesar amerika serikat juga berusaha membentengi negara-negara yang telah mendapat pengaruhnya .
+sentence 3: paket bantuan ekonomi uni soviet juga diberikan guna memperbaiki keadaan ekonomi negara-negara tersebut .
+sentence 4: selain itu , uni soviet juga berusaha mendekati rakyat yang sedang melakukan perjuangan nasionalnya dengan mengirimkan para tenaga ahli dan juga berbagai peralatan militer .
 
-document : C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok28.txt
-title : pengaruh revolusi industri terhadap perubahan sosial, ekonomi, dan politik di indonesia
-passage 3 score = 7.166666666666667
-sentence 1: pindahnya kekuasaan pemerintahan dari voc ke tangan pemerintah belanda tidak berarti dengan sendirinya membawa perbaikan .
-sentence 2: kemerosotan moral di kalangan para penguasa dan penderitaan penduduk jajahan tidak berubah .
-sentence 3: usaha perbaikan bagi penduduk tanah jajahan tidak dapat dilaksanakan karena negeri belanda sendiri terseret dalam perang dengan negara-negara besar tetangganya .
-sentence 4: hal ini terjadi karena negeri belanda pada waktu itu diperintah oleh pemerintah boneka dari kemaharajaan prancis di bawah pimpinan napoleon .
-sentence 5: dalam situasi yang demikian , inggris dapat memperluas daerah kekuasaannya dengan merebut jajahan belanda , indonesia .
-passage 14 score = 7.166666666666667
-sentence 1: oleh karena itu , para petani mempunyai kewajiban membayar sewa tanah kepada pemerintah .
-sentence 2: sewa tanah atau landrente ini harus diserahkan sebagai suatu pajak atas pemakaian tanah pemerintah oleh penduduk .
-sentence 3: sistem sewa tanah smacam itu oleh pemerintah inggris dijadikan pegangan dalam menjalankan kebijaksanaan ekonominya selama berkuasa di indonesia .
-sentence 4: sistem ini kemudian juga diteruskan oleh pemerintah hindia belanda setelah indonesia diserahkan kembali kepada belanda .
-sentence 5: pengaruh revolusi industri terhadap perubahan di bidang sosial ekonomi sejak awal abad ke-19 , pemerintah belanda mengeluarkan biaya yang sangat besar untuk membiayai peperangan baik di negeri belanda sendiri ( pemberontakan rakyat belgia ) , maupun di indonesia ( terutama perlawanan diponegoro ) sehingga negeri belanda harus menanggung hutang yang sangat besar .
-passage 15 score = 7.166666666666667
-sentence 1: pengaruh revolusi industri terhadap perubahan di bidang sosial ekonomi sejak awal abad ke-19 , pemerintah belanda mengeluarkan biaya yang sangat besar untuk membiayai peperangan baik di negeri belanda sendiri ( pemberontakan rakyat belgia ) , maupun di indonesia ( terutama perlawanan diponegoro ) sehingga negeri belanda harus menanggung hutang yang sangat besar .
-sentence 2: untuk menyelamatkan negeri belanda dari bahaya kebrangkrutan maka johanes van den bosch diangkat sebagai gubernur jenderal di indonesia dengan tugas pokok menggali dana semaksimal mungkin untuk mengisi kekosongan kas negara , membayar hutang , dan membiayai perang .
-sentence 3: untuk melaksanakan tugas berat itu , van den bosch memusatkan kebijaksanaannya pada peningkatan produksi tanaman ekspor .
-sentence 4: untuka itu , yang perlu dilakukan ialah mengerahkan tenaga rakyat tanah jajahan untuk melakukan penanaman tanaman yang hasil-hasilnya dapat laku di pasaran dunia dan dilakukan dengan sistem paksa .
-sentence 5: setelah tiba di indonesia ( 1830 ) van den bosch menyusun program kerja sebagai berikut .
-passage 1 score = 5.5
-sentence 1: pengaruh revolusi industri terhadap perubahan sosial , ekonomi , dan politik di indonesia - revolusi industri yang terjadi di eropa dan di inggris khususnya membawa dampak di bidang sosial , ekonomi , dan politik .
-sentence 2: di bidang sosial munculnya golongan buruh yang hidup menderita dan berusaha berjuang untuk memperbaiki nasib .
-sentence 3: gerakan kaum buruh inilah yang kemudian melahirkan gerakan sosialis yang menjadi lawan dari kapitalis .
-sentence 4: bahkan , kaum buruh akhirnya bersatu dalam suatu wadah organisasi , yakni partai buruh .
-sentence 5: di bidang ekonomi , perdagangan makin berkembang .
-passage 2 score = 5.5
-sentence 1: di bidang ekonomi , perdagangan makin berkembang .
-sentence 2: perdagangan lokal berubah menjadi perdagangan regional dan internasional .
-sentence 3: sebaliknya , di bidang politik , revolusi industri melahirkan imperialisme modern .
-sentence 4: pengaruh revolusi industri terhadap perubahan di bidang politik sejak voc dibubarkan pada tahun 1799 , indonesia diserahkan kembali kepada pemerintahan kerajaan belanda .
-sentence 5: pindahnya kekuasaan pemerintahan dari voc ke tangan pemerintah belanda tidak berarti dengan sendirinya membawa perbaikan .
+document : C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok212.txt
+title : pengesahan uud 1945 dan pemilihan presiden dan wakil presiden
+passage 1 score = 7.0
+sentence 1: pengesahan uud 1945 dan pemilihan presiden dan wakil presiden - ppki mengadakan sidang untuk pertama kalinya pada tanggal 18 agustus 1945 .
+sentence 2: serta pada sidang tersebut didapat keputusan bahwa uud 1945 ditetapkan serta disahkan menjadi kontitusi negara indonesia serta dipilihkan presiden indonesia beser wakilnya beserta wakilnya .
+sentence 3: sidang dari ppki ini merupakan kelanjutan sidang bpupki pada tanggal 10-16 juli 1945 yang mengulas persoalan rancangan undang-undang dasar .
+sentence 4: berbagai pembetulan disepakati oleh sidang , yaitu rumusan sila pertama pancasila yang sebalumnya disepakati merupakan “ ketuhanan serta keharusan menjalankan syariat-syariat islam bagi pemeliknya ’’ , di ubah menjadi “ ketuhanan yang maha esa ’’ .
+sentence 5: tidak hanya itu , bab iii , pasal 6 , uud 1945yang sebelumnya menyebutkan bahwa ” presiden ialah orang indonesia orisinil yang beragama islam ’’ .
+passage 2 score = 7.0
+sentence 1: tidak hanya itu , bab iii , pasal 6 , uud 1945yang sebelumnya menyebutkan bahwa ” presiden ialah orang indonesia orisinil yang beragama islam ’’ .
+sentence 2: dalam sidang itu pularancangn undang-undang dasar ditetapkan serta disahkan menjadi undang-undang dasar negara yang kemudian dikenal sebagai undang-undang dasar 1945 .
+sentence 3: pada saat mengulas bab iii rancangan uud 1945 , otto iskandardinata menganjurkan supaya sekaligus saja memilih presiden serta wakil presiden .
+sentence 4: ia menganjurkan soekarno menjadi presiden , serta moh hatta sebagai wakil presiden .
+sentence 5: laksana dayung bersambut , usul dari otto iskandardinata langsung diterima dengan cara bulat serta disambut dengan upacara menyanyikan lagu indonesia raya setidak sedikit dua kali .
+passage 3 score = 6.5
+sentence 1: laksana dayung bersambut , usul dari otto iskandardinata langsung diterima dengan cara bulat serta disambut dengan upacara menyanyikan lagu indonesia raya setidak sedikit dua kali .
+sentence 2: dengan demikian , kedua proklamator tersebut sejak tanggal 18 agustus 1945 resmi menjadi presiden serta wakil presiden republik indonesia yang pertama .
+sentence 3: [ gs ]
 
-document : C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok99.txt
-title : pengaruh revolusi industri terhadap perubahan sosial, ekonomi, dan politik di indonesia
-passage 3 score = 7.166666666666667
-sentence 1: pindahnya kekuasaan pemerintahan dari voc ke tangan pemerintah belanda tidak berarti dengan sendirinya membawa perbaikan .
-sentence 2: kemerosotan moral di kalangan para penguasa dan penderitaan penduduk jajahan tidak berubah .
-sentence 3: usaha perbaikan bagi penduduk tanah jajahan tidak dapat dilaksanakan karena negeri belanda sendiri terseret dalam perang dengan negara-negara besar tetangganya .
-sentence 4: hal ini terjadi karena negeri belanda pada waktu itu diperintah oleh pemerintah boneka dari kemaharajaan prancis di bawah pimpinan napoleon .
-sentence 5: dalam situasi yang demikian , inggris dapat memperluas daerah kekuasaannya dengan merebut jajahan belanda , indonesia .
-passage 14 score = 7.166666666666667
-sentence 1: oleh karena itu , para petani mempunyai kewajiban membayar sewa tanah kepada pemerintah .
-sentence 2: sewa tanah atau landrente ini harus diserahkan sebagai suatu pajak atas pemakaian tanah pemerintah oleh penduduk .
-sentence 3: sistem sewa tanah smacam itu oleh pemerintah inggris dijadikan pegangan dalam menjalankan kebijaksanaan ekonominya selama berkuasa di indonesia .
-sentence 4: sistem ini kemudian juga diteruskan oleh pemerintah hindia belanda setelah indonesia diserahkan kembali kepada belanda .
-sentence 5: pengaruh revolusi industri terhadap perubahan di bidang sosial ekonomi sejak awal abad ke-19 , pemerintah belanda mengeluarkan biaya yang sangat besar untuk membiayai peperangan baik di negeri belanda sendiri ( pemberontakan rakyat belgia ) , maupun di indonesia ( terutama perlawanan diponegoro ) sehingga negeri belanda harus menanggung hutang yang sangat besar .
-passage 15 score = 7.166666666666667
-sentence 1: pengaruh revolusi industri terhadap perubahan di bidang sosial ekonomi sejak awal abad ke-19 , pemerintah belanda mengeluarkan biaya yang sangat besar untuk membiayai peperangan baik di negeri belanda sendiri ( pemberontakan rakyat belgia ) , maupun di indonesia ( terutama perlawanan diponegoro ) sehingga negeri belanda harus menanggung hutang yang sangat besar .
-sentence 2: untuk menyelamatkan negeri belanda dari bahaya kebrangkrutan maka johanes van den bosch diangkat sebagai gubernur jenderal di indonesia dengan tugas pokok menggali dana semaksimal mungkin untuk mengisi kekosongan kas negara , membayar hutang , dan membiayai perang .
-sentence 3: untuk melaksanakan tugas berat itu , van den bosch memusatkan kebijaksanaannya pada peningkatan produksi tanaman ekspor .
-sentence 4: untuka itu , yang perlu dilakukan ialah mengerahkan tenaga rakyat tanah jajahan untuk melakukan penanaman tanaman yang hasil-hasilnya dapat laku di pasaran dunia dan dilakukan dengan sistem paksa .
-sentence 5: setelah tiba di indonesia ( 1830 ) van den bosch menyusun program kerja sebagai berikut .
-passage 1 score = 5.5
-sentence 1: pengaruh revolusi industri terhadap perubahan sosial , ekonomi , dan politik di indonesia - revolusi industri yang terjadi di eropa dan di inggris khususnya membawa dampak di bidang sosial , ekonomi , dan politik .
-sentence 2: di bidang sosial munculnya golongan buruh yang hidup menderita dan berusaha berjuang untuk memperbaiki nasib .
-sentence 3: gerakan kaum buruh inilah yang kemudian melahirkan gerakan sosialis yang menjadi lawan dari kapitalis .
-sentence 4: bahkan , kaum buruh akhirnya bersatu dalam suatu wadah organisasi , yakni partai buruh .
-sentence 5: di bidang ekonomi , perdagangan makin berkembang .
-passage 2 score = 5.5
-sentence 1: di bidang ekonomi , perdagangan makin berkembang .
-sentence 2: perdagangan lokal berubah menjadi perdagangan regional dan internasional .
-sentence 3: sebaliknya , di bidang politik , revolusi industri melahirkan imperialisme modern .
-sentence 4: pengaruh revolusi industri terhadap perubahan di bidang politik sejak voc dibubarkan pada tahun 1799 , indonesia diserahkan kembali kepada pemerintahan kerajaan belanda .
-sentence 5: pindahnya kekuasaan pemerintahan dari voc ke tangan pemerintah belanda tidak berarti dengan sendirinya membawa perbaikan .
+document : C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok143.txt
+title : penjelasan kondisi ekonomi dan politik sebelum reformasi
+passage 1 score = 7.0
+sentence 1: penjelasan kondisi ekonomi dan politik sebelum reformasi - pertikaian sosial dan kekerasan politik terus berlangsung dalam masyarakat sepanjang tahun 1996 , kerusuhan meletus di situbondo jawa timur oktober 1996 .
+sentence 2: kerusuhan serupa terjadi di tasikmalaya jawa barat desember 1996 , kemudian di berbagai daerah di indonesia .
+sentence 3: hal seperti ini mempengaruhi kondisi politik , sosial , dan ekonomi indonesia .
+sentence 4: reformasi merupakan perubahan yang radikal dan menyeluruh untuk perbaikan .
+sentence 5: perubahan yang mendasar atas paradigma baru atau kerangka berpikir baru yang dijiwai oleh suatu pandangan keterbukaan dan transparansi merupakan tuntutan dalam era reformasi .
+passage 2 score = 7.0
+sentence 1: perubahan yang mendasar atas paradigma baru atau kerangka berpikir baru yang dijiwai oleh suatu pandangan keterbukaan dan transparansi merupakan tuntutan dalam era reformasi .
+sentence 2: reformasi menghendaki adanya perubahan kehidupan bermasyarakat , berbangsa , dan bernegara ke arah yang lebih baik secara konstitusional dalam berbagai bidang kehidupan .
+sentence 3: ketika terjadi krisis ekonomi , politik , hukum dan krisis kepercayan , maka seluruh rakyat mendukung adanya reformasi dan menghendaki adanya pergantian pemimpin yang diharapkan dapat membawa perubahan indonesia di segala bidang ke arah yang lebih baik .
+sentence 4: perkembangan politik setelah pemilu 1997 di tengah-tengah perkembangan kehidupan berbangsa dan bernegara terjadilah ganjalan dalam kehidupan berpolitik menjelang pemilu 1997 disebabkan adanya peristiwa 27 juli 1996 , yaitu adanya kerusuhan dan perusakan gedung dpp pdi yang membawa korban jiwa dan harta .
+sentence 5: tekanan pemerintah orba terhadap oposisi sangat besar dengan adanya tiga kekuatan politik yakni ppp , golkar , pdi , dan dilarang mendirikan partai politik lain .
+passage 3 score = 7.0
+sentence 1: tekanan pemerintah orba terhadap oposisi sangat besar dengan adanya tiga kekuatan politik yakni ppp , golkar , pdi , dan dilarang mendirikan partai politik lain .
+sentence 2: hal ini berkaitan dengan diberlakukan paket uu politik , yaitu : 1 .
+sentence 3: uu no. 1 tahun 1985 tentang pemilu , 2 .
+sentence 4: uu no. 2 tahun 1985 tentang susunan dan kedudukan anggota mpr , dpr , dprd yang kemudian disempurnakan menjadi uu no 5 tahun 1995 , 3 .
+sentence 5: uu no. 3 tahun 1985 tentang partai politik dan golongan karya , 4 .
+passage 4 score = 7.0
+sentence 1: uu no. 3 tahun 1985 tentang partai politik dan golongan karya , 4 .
+sentence 2: uu no. 8 tahun 1985 tentang organisasi kemasyarakatan .
+sentence 3: pertikaian sosial dan kekerasan politik terus berlangsung dalam masyarakat sepanjang tahun 1996 , kerusuhan meletus di situbondo , jawa timur oktober 1996 .
+sentence 4: kerusuhan serupa terjadi di tasikmalaya , jawa barat desember 1996 , kemudian di berbagai daerah di indonesia .
+sentence 5: pemilu 1997 , dengan hasil golkar sebagai pemenang mutlak .
+passage 5 score = 7.0
+sentence 1: pemilu 1997 , dengan hasil golkar sebagai pemenang mutlak .
+sentence 2: hal ini berarti dukungan mutlak kepada soeharto makin besar untuk menjadi presiden lagi di indonesia dalam sidang mpr 1998 .
+sentence 3: pencalonan kembali soeharto menjadi presiden tidak dapat dipisahkan dengan komposisi anggota dpr/mpr yang mengandung nepotisme yang tinggi bahkan hampir semua putra-putrinya tampil dalam lembaga negara ini .
+sentence 4: terpilihnya kembali soeharto menjadi presiden ri dan kemudian membentuk kabinet pembangunan vii yang penuh dengan ciri nepotisme dan kolusi .
+sentence 5: mahasiswa dan golongan intelektual mengadakan protes terhadap pelaksanaan pemerintahan ini .
 
-document : C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok131.txt
-title : pengertian dan sejarah tanam paksa (cultuurstelsel )
-passage 1 score = 7.166666666666667
-sentence 1: #sejarah _ kelas_11 pengertian dan sejarah tanam paksa ( cultuurstelsel ) a. latar belakang timbulnya sistem tanam paksa tanam paksa atau cultuurstelsel merupakan sistem yang bertujuan dan bermanfaat bagi belanda , tanam paksa adalah peraturan mempekerjakan seseorang dengan paksa tanpa diberi gaji dan tanpa istirahat , sehingga sangat merugikan pekerja dan menyengsarakan .
-sentence 2: sistem tanam paksa telah menjadi sejarah bagi rakyat indonesia .
-sentence 3: sejak awal abad ke-19 , pemerintah belanda mengeluarkan biaya yang sangat besar untuk membiayai peperangan , baik di negeri belanda sendiri ( pemberontakan belgia ) maupun di indonesia ( terutama perlawanan diponegoro ) sehingga negeri belanda harus menanggung hutang yang sangat besar .
-sentence 4: untuk menyelamatkan negeri belanda dari bahaya kebrangkrutan maka johanes van den bosch diangkat sebagai gubernur jenderal di indonesia dengan tugas pokok menggali dana semaksimal mungkin untuk mengisi kekosongan kas negara , membayar hutang , dan membiayai perang .
-sentence 5: untuk melaksanakan tugas yang sangat berat itu , van den bosch memusatkan kebijaksanaannya pada peningkatan produksi tanaman ekspor .
-passage 2 score = 5.5
-sentence 1: untuk melaksanakan tugas yang sangat berat itu , van den bosch memusatkan kebijaksanaannya pada peningkatan produksi tanaman ekspor .
-sentence 2: oleh karena itu , yang perlu dilakukan ialah mengerahkan tenaga rakyat jajahan untuk melakukan penanaman tanaman yang hasil-hasilnya dapat laku di pasaran dunia secara paksa .
-sentence 3: setelah tiba di indonesia ( 1830 ) van den bosch menyusun program sebagai berikut .
-sentence 4: 1 ) sistem sewa tanah dengan uang harus dihapus karena pemasukannya tidak banyak dan pelaksanaannya sulit .
-sentence 5: 2 ) sistem tanam bebas harus diganti dengan tanam wajib dengan jenis-jenis tanaman yang sudah ditentukan oleh pemerintah .
-passage 3 score = 5.5
-sentence 1: 2 ) sistem tanam bebas harus diganti dengan tanam wajib dengan jenis-jenis tanaman yang sudah ditentukan oleh pemerintah .
-sentence 2: 3 ) pajak atas tanah harus dibayar dengan penyerahan sebagian dari hasil tanamannya kepada pemerintah belanda .
-sentence 3: b. aturan-aturan tanam paksa sistem tanam paksa yang diajukan oleh van den bosch pada dasarnya merupakan gabungan dari sistem tanam wajib ( voc ) dan sistem pajak tanah ( raffles ) dengan ketentuan-ketentuan sebagai berikut .
-sentence 4: 1 ) penduduk desa yang punya tanah diminta menyediakan seperlima dari tanahnya untuk ditanami tanaman yang laku di pasaran dunia .
-sentence 5: 2 ) tanah yang disediakan bebas dari pajak .
-passage 4 score = 5.5
-sentence 1: 2 ) tanah yang disediakan bebas dari pajak .
-sentence 2: 3 ) hasil tanaman itu harus diserahkan kepada pemerintah belanda .
-sentence 3: apabila harganya melebihi pembayaran pajak maka kelebihannya akan dikembalikan kepada petani .
-sentence 4: 4 ) waktu untuk menanam tidak boleh melebihi waktu untuk menanam padi .
-sentence 5: 5 ) kegagalan panenan menjadi tanggung jawab pemerintah .
-passage 5 score = 5.5
-sentence 1: 5 ) kegagalan panenan menjadi tanggung jawab pemerintah .
-sentence 2: 6 ) wajib tanam dapat diganti dengan penyerahan tenaga untuk dipekerjakan di pengangkutan , perkebunan , atau di pabrik-pabrik selama 66 hari .
-sentence 3: 7 ) penggarapan tanaman di bawah pengawasan langsung oleh kepala-kepala pribumi , sedangkan pihak belanda bertindak sebagai pengawas secara umum .
-sentence 4: c. pelaksanaan tanam paksa melihat aturan-aturannya , sistem tanam paksa tidak terlalu memberatkan , namun pelaksanaannya sangat menekan dan memberatkan rakyat .
-sentence 5: adanya cultuur procent menyangkut upah yang diberikan kepada penguasa pribumi berdasarkan besar kecilnya setoran , ternyata cukup memberatkan beban rakyat .
-
-document : C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok60.txt
-title : pengertian dan sejarah tanam paksa (cultuurstelsel )
-passage 1 score = 7.166666666666667
-sentence 1: #sejarah _ kelas_11 pengertian dan sejarah tanam paksa ( cultuurstelsel ) a. latar belakang timbulnya sistem tanam paksa tanam paksa atau cultuurstelsel merupakan sistem yang bertujuan dan bermanfaat bagi belanda , tanam paksa adalah peraturan mempekerjakan seseorang dengan paksa tanpa diberi gaji dan tanpa istirahat , sehingga sangat merugikan pekerja dan menyengsarakan .
-sentence 2: sistem tanam paksa telah menjadi sejarah bagi rakyat indonesia .
-sentence 3: sejak awal abad ke-19 , pemerintah belanda mengeluarkan biaya yang sangat besar untuk membiayai peperangan , baik di negeri belanda sendiri ( pemberontakan belgia ) maupun di indonesia ( terutama perlawanan diponegoro ) sehingga negeri belanda harus menanggung hutang yang sangat besar .
-sentence 4: untuk menyelamatkan negeri belanda dari bahaya kebrangkrutan maka johanes van den bosch diangkat sebagai gubernur jenderal di indonesia dengan tugas pokok menggali dana semaksimal mungkin untuk mengisi kekosongan kas negara , membayar hutang , dan membiayai perang .
-sentence 5: untuk melaksanakan tugas yang sangat berat itu , van den bosch memusatkan kebijaksanaannya pada peningkatan produksi tanaman ekspor .
-passage 2 score = 5.5
-sentence 1: untuk melaksanakan tugas yang sangat berat itu , van den bosch memusatkan kebijaksanaannya pada peningkatan produksi tanaman ekspor .
-sentence 2: oleh karena itu , yang perlu dilakukan ialah mengerahkan tenaga rakyat jajahan untuk melakukan penanaman tanaman yang hasil-hasilnya dapat laku di pasaran dunia secara paksa .
-sentence 3: setelah tiba di indonesia ( 1830 ) van den bosch menyusun program sebagai berikut .
-sentence 4: 1 ) sistem sewa tanah dengan uang harus dihapus karena pemasukannya tidak banyak dan pelaksanaannya sulit .
-sentence 5: 2 ) sistem tanam bebas harus diganti dengan tanam wajib dengan jenis-jenis tanaman yang sudah ditentukan oleh pemerintah .
-passage 3 score = 5.5
-sentence 1: 2 ) sistem tanam bebas harus diganti dengan tanam wajib dengan jenis-jenis tanaman yang sudah ditentukan oleh pemerintah .
-sentence 2: 3 ) pajak atas tanah harus dibayar dengan penyerahan sebagian dari hasil tanamannya kepada pemerintah belanda .
-sentence 3: b. aturan-aturan tanam paksa sistem tanam paksa yang diajukan oleh van den bosch pada dasarnya merupakan gabungan dari sistem tanam wajib ( voc ) dan sistem pajak tanah ( raffles ) dengan ketentuan-ketentuan sebagai berikut .
-sentence 4: 1 ) penduduk desa yang punya tanah diminta menyediakan seperlima dari tanahnya untuk ditanami tanaman yang laku di pasaran dunia .
-sentence 5: 2 ) tanah yang disediakan bebas dari pajak .
-passage 4 score = 5.5
-sentence 1: 2 ) tanah yang disediakan bebas dari pajak .
-sentence 2: 3 ) hasil tanaman itu harus diserahkan kepada pemerintah belanda .
-sentence 3: apabila harganya melebihi pembayaran pajak maka kelebihannya akan dikembalikan kepada petani .
-sentence 4: 4 ) waktu untuk menanam tidak boleh melebihi waktu untuk menanam padi .
-sentence 5: 5 ) kegagalan panenan menjadi tanggung jawab pemerintah .
-passage 5 score = 5.5
-sentence 1: 5 ) kegagalan panenan menjadi tanggung jawab pemerintah .
-sentence 2: 6 ) wajib tanam dapat diganti dengan penyerahan tenaga untuk dipekerjakan di pengangkutan , perkebunan , atau di pabrik-pabrik selama 66 hari .
-sentence 3: 7 ) penggarapan tanaman di bawah pengawasan langsung oleh kepala-kepala pribumi , sedangkan pihak belanda bertindak sebagai pengawas secara umum .
-sentence 4: c. pelaksanaan tanam paksa melihat aturan-aturannya , sistem tanam paksa tidak terlalu memberatkan , namun pelaksanaannya sangat menekan dan memberatkan rakyat .
-sentence 5: adanya cultuur procent menyangkut upah yang diberikan kepada penguasa pribumi berdasarkan besar kecilnya setoran , ternyata cukup memberatkan beban rakyat .
+document : C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok170.txt
+title : sistem dan struktur sosial masyarakat di kerajaan-kerajaan bercorak islam
+passage 1 score = 6.5
+sentence 1: sistem dan struktur sosial masyarakat di kerajaan-kerajaan bercorak islam - pada masa kerajaan-kerajaan islam , kehidupan masyarakat mengalami pertumbuhan lebih cepat di daerah pesisir .
+sentence 2: daerah pesisir berkembang menjadi suatu perkotaan .
+sentence 3: hal ini terjadi disebabkan di daerah pesisir tumbuh perdagangan .
+sentence 4: perdagangan di pesisir dapat tumbuh karena daerah pesisir merupakan daerah titik temu lalu lintas .
+sentence 5: lalu lintas terjadi , baik antarpulau yang dihubungkan melalui laut maupun dari pedalaman yang biasanya dihubungkan dengan sungai .
+passage 2 score = 1.5
+sentence 1: lalu lintas terjadi , baik antarpulau yang dihubungkan melalui laut maupun dari pedalaman yang biasanya dihubungkan dengan sungai .
+sentence 2: keterikatan daerah pedalaman atau pedesaan sangat tinggi terhadap daerah pesisir .
+sentence 3: struktur masyarakat yang terbentuk pada masa penyebaran islam meliputi , sebagai berikut .
+sentence 4: 1 .
+sentence 5: golongan raja dan keluarganya raja dan keluarganya merupakan golongan tertinggi dalam struktur masyarakat .
+passage 7 score = 1.5
+sentence 1: jabatan pemerintahan bisa berasal dari kalangan keluarga raja sendiri atau orang luar , bahkan ada yang diangkat dari bangsa asing .
+sentence 2: pengangkatan orang luar biasanya dilakukan oleh raja karena raja memandang orang luar tersebut sangat layak untuk memangku jabatan yang diberikannya .
+sentence 3: jabatan yang diberikan kepada orang asing misalnya jabatan syahbandar.dalam beberapa contoh pengangkatan orang asing menjadi syahbandarterjadi seperti orang india menjabat syahbandar di kerajaan aceh , orang cina di selebar , orang cina dan gujarat di banten , orang belanda di cirebon , dan orang aceh di kutai .
+sentence 4: para pedagang memiliki kedudukan penting pula dalam struktur masyarakat pada kerajaan islam .
+sentence 5: peran padagang sangat penting karena mereka sangat menentukan terhadap aktivitas perdagangan kerajaan .
+passage 9 score = 1.5
+sentence 1: golongan non elite golongan ini merupakan golongan rendah yaitu golongan rakyat banyak .
+sentence 2: dalam struktur masyarakat di jawa , golongan ini disebut dengan sebutan wong cilik.adapun yang termasuk golongan ini yaitu petani , nelayan , para tukang .
+sentence 3: kehidupan mereka biasanya sangat bergantung pada golongan elite .
+sentence 4: misalnya di jawa , ada sekelompok petani yang pekerjaannya menjadi penggarap tanah yang dimiliki oleh golongan bangsawan .
+sentence 5: 4 .
+passage 10 score = 1.5
+sentence 1: 4 .
+sentence 2: golongan hamba sahaya atau budak golongan ini merupakan golongan paling rendah dalam struktur masyarakat .
+sentence 3: kehidupan mereka sangat ditentukan oleh orang lain , dengan kata lain mereka hidupnya tidak merdeka .
+sentence 4: golongan budak dapat terjadi disebabkan oleh beberapa faktor , di antaranya karena tawanan perang , dan tidak mampu membayar utang .
+sentence 5: pada masa lalu , sering terjadi perang antara satu kelompok masyarakat dengan kelompok yang lainnya .
 
 
 After sorted, chosen passage is : 
-document : C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok127.txt
-title : sejarah perlawanan pangeran diponegoro terhadap belanda (1825–1830)
+document : C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok201.txt
+title : perbedaan pendapat dan penculikan
 passage 3 score = 8.5
-sentence 1: setelah pertempuran di tegalrejo , pangeran diponegoro dan pasukannya menyingkir ke dekso .
-sentence 2: di daerah plered , pasukan diponegoro dipimpin oleh kertapengalasan yang memiliki kemampuan yang cukup kuat .
-sentence 3: kabar mengenai pecahnya perang melawan belanda segera meluas ke berbagai daerah .
-sentence 4: dengan dikumandangkannya perang sabil , di surakarta oleh kiai mojo , di kedu oleh kiai hasan besari , dan di daerah-daerah lain maka pada pertempuran-pertempuran tahun 1825 – 1826 pasukan belanda banyak terpukul dan terdesak .
-sentence 5: melihat kenyatan ini , kemudian belanda menggunakan usaha dan tipu daya untuk mematahkan perlawanan , antara lain sebagai berikut .
+sentence 1: pada tanggal 16 agustus 1945 di asrama baperpi jalan cikini 74 jakarta , golongan muda mengadakan rapat yang dihadiri oleh sukarni , jusuf kunto , dr. muwardi , dan shudanco singgih dan paidan peta jakarta .
+sentence 2: rapat ini membikin keputusan untuk mengasingkan ir .
+sentence 3: soekarno dan mohammad hatta ke luar kota dengan tujuan untuk menjauhkan mereka dan segala pengaruh jepang .
+sentence 4: untuk menghindari kecurigaan dari pihak jepang , shudanco singgih memperoleh kepercayaan untuk melaksanakan rencana tersebut .
+sentence 5: rencana tersebut berlangsung lancar sebab mendapat dukungan perlengkapan tentara peta dan cudanco latief hendraningrat jadi cocok pada tanggal 16 agustus 1945 pukul 04.30 , ir.soekarno , mohammad hattaa , dan sekelompok golongan pemuda tiba di rengasdengklok .
 
-document : C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok127.txt
-title : sejarah perlawanan pangeran diponegoro terhadap belanda (1825–1830)
-passage 5 score = 8.5
-sentence 1: d. siasat tipu muslihat , yaitu ajakan berunding dengan pangeran diponegoro dan akhirnya ditangkap .
-sentence 2: dengan berbagai tipu daya , akhirnya satu per satu pemimpin perlawanan tertangkap dan menyerah , antara lain pangeran suryamataram dan ario prangwadono ( tertangkap 19 januari 1827 ) , pangeran serang , dan notoprodjo ( menyerah 21 juni 1827 , pangeran mangkubumi ( menyerah 27 september 1829 ) , dan alibasah sentot prawirodirdjo ( menyerah tanggal 24 oktober 1829 ) .
-sentence 3: kesemuanya itu merupakan pukulan yang berat bagi pangeran diponegoro .
-sentence 4: melihat situasi yang demikian , pihak belanda ingin menyelesaikan perang secara cepat .
-sentence 5: jenderal de kock melakukan tipu muslihat dengan mengajak berunding pangeran diponegoro .
+document : C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok248.txt
+title : peristiwa seputar proklamasi kemerdekaan 17 agustus 1945
+passage 13 score = 8.5
+sentence 1: pada tanggal 12 agustus 1945 jendral terauchi mengucapkan selamat atas dibentuknya ppki dan menyerahkan pelaksanaan proklamasi kemerdekaan pada ppki .
+sentence 2: dengan demikian jepang sudah menyerahkan sepenuhnya pelaksanaan proklamasi kemerdekaan kepada bangsa indonesia melalui ppki .
+sentence 3: peristiwa seputar proklamasi dari rengasdengklok hingga proklamasi kemerdekaan indonesia menjelang berlangsung pelaksanaan proklamasi kemerdekaan , terjadi beberapa peristiwa yang merupakan salah satu bentuk aspirasi perjuangan baik dari golongan tua maupun golongan pemuda .
+sentence 4: meskipun demikian aspirasi-aspirasi tersebut merupakan suatu upaya agar kemerdekaan yang diperoleh merupakan hasil perjuangan bangsa indonesia , bukan pemberian dari jepang atau bangsa asing lainnya .
+sentence 5: adapun peristiwa-peristiwa yang melatar belakangi pelaksanaan proklamasi kemerdekaan indonesia adalah sebagai berikut : peristiwa rengasdengklok pada tanggal 14 agustus 1945 jepang menyerah tanpa syarat pada sekutu di kapal missaurri milik angkatan laut amerika serikat .
 
-document : C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok56.txt
-title : sejarah perlawanan pangeran diponegoro terhadap belanda (1825–1830)
-passage 3 score = 8.5
-sentence 1: setelah pertempuran di tegalrejo , pangeran diponegoro dan pasukannya menyingkir ke dekso .
-sentence 2: di daerah plered , pasukan diponegoro dipimpin oleh kertapengalasan yang memiliki kemampuan yang cukup kuat .
-sentence 3: kabar mengenai pecahnya perang melawan belanda segera meluas ke berbagai daerah .
-sentence 4: dengan dikumandangkannya perang sabil , di surakarta oleh kiai mojo , di kedu oleh kiai hasan besari , dan di daerah-daerah lain maka pada pertempuran-pertempuran tahun 1825 – 1826 pasukan belanda banyak terpukul dan terdesak .
-sentence 5: melihat kenyatan ini , kemudian belanda menggunakan usaha dan tipu daya untuk mematahkan perlawanan , antara lain sebagai berikut .
+document : C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok236.txt
+title : soekarni tokoh pengusul yang menandatangi teks proklamasi adalah bung karno dan bung hatta atas nama bangsa indonesia
+passage 8 score = 8.5
+sentence 1: nama sukarni sebagai tokoh pemuda mencuat setelah bersama-sama kawan-kawannya di asrama menteng 31 mendesak soekarno dan hatta untuk segera memproklamasikan kemerdekaan indonesia di masa-masa genting periode 15 hingga 17 agustus 1945 .
+sentence 2: dalam buku penerima gelar pahlawan nasional 2014 yang dikeluarkan oleh dewan gelar , tanda jasa dan tanda kehormatan republik indonesia tahun 2014 , sukarni merupakan salah satu tokoh angkatan baru indonesia yang bermarkas di menteng nomor 31 jakarta , yang kini dikenal dengan gedung juang 45 .
+sentence 3: ia bersama-sama dengan supeno , chairul saleh dan adam malik serta pemuda lainnya saat ini mendorong perjuangan kemerdekaan indonesia melalui gerakan pemuda .
+sentence 4: gerakan ini terkenal ketika mendesak soekarno dan hatta , ikon perjuangan kemerdekaan indonesia , untukmemproklamasikan kemerdekaan dan membawa kedua proklamator itu ke rengasdengklok .
+sentence 5: pada 16 agustus 1945 sore , mereka kemudian mengantarkan kembali soekarno dan hatta ke jakarta dan malam harinya terjadi perumusan naskah proklamasi di jalan imam bonjol nomor 1 , rumah laksamana maeda .
 
-document : C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok56.txt
-title : sejarah perlawanan pangeran diponegoro terhadap belanda (1825–1830)
-passage 5 score = 8.5
-sentence 1: d. siasat tipu muslihat , yaitu ajakan berunding dengan pangeran diponegoro dan akhirnya ditangkap .
-sentence 2: dengan berbagai tipu daya , akhirnya satu per satu pemimpin perlawanan tertangkap dan menyerah , antara lain pangeran suryamataram dan ario prangwadono ( tertangkap 19 januari 1827 ) , pangeran serang , dan notoprodjo ( menyerah 21 juni 1827 , pangeran mangkubumi ( menyerah 27 september 1829 ) , dan alibasah sentot prawirodirdjo ( menyerah tanggal 24 oktober 1829 ) .
-sentence 3: kesemuanya itu merupakan pukulan yang berat bagi pangeran diponegoro .
-sentence 4: melihat situasi yang demikian , pihak belanda ingin menyelesaikan perang secara cepat .
-sentence 5: jenderal de kock melakukan tipu muslihat dengan mengajak berunding pangeran diponegoro .
+document : C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok255.txt
+title : yusuf ronodipuro tokoh yang menyebarkan berita proklamasi lewat rri
+passage 9 score = 8.5
+sentence 1: esoknya , hari kamis 16 agustus 1945 tidak ada kejadian berarti , siaran berjalan seperti biasa .
+sentence 2: malam harinya ada sedikit keributan di depan kantor , ternyata sukarni datang bersama beberapa orang jepang tetapi dilarang masuk .
+sentence 3: dari dalam mobil , sukarni berteriak , “ tunggu , akan ada pengumuman penting , ” lalu ia pergi .
+sentence 4: di tempat lain , di sebuah rumah di pegangsaan 56 , tanggal 16 agustus dini hari , selepas sahur , sukarni dkk datang ke rumah bung karno .
+sentence 5: mereka berusaha meyakinkan bung karno bahwa jakarta tidak aman karena jakarta akan menjadi lautan api , sehingga mereka ingin mengamankan bung karno dan bung hatta ke rengasdengklok .
 
-document : C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok127.txt
-title : sejarah perlawanan pangeran diponegoro terhadap belanda (1825–1830)
-passage 1 score = 8.166666666666668
-sentence 1: #sejarah _ kelas_11 sejarah perlawanan pangeran diponegoro terhadap belanda ( 1825 – 1830 ) - pengaruh belanda di surakarta dan yogyakarta semakin bertambah kuat pada permulaan abad ke-19 .
-sentence 2: khususnya di yogyakarta , campur tangan belanda telah menimbulkan kekecewaan di kalangan kerabat keraton yang kemudian menimbulkan perlawanan di bawah pimpinan pangeran diponegoro .
-sentence 3: sebab-sebab perlawanan diponegoro , antara lain sebagai berikut .
-sentence 4: a. adanya kekecewaan dan kebencian kerabat istana terhadap tindakan belanda yang makin intensif mencampuri urusan keraton melalui patih danurejo ( kaki tangan belanda ) .
-sentence 5: b. adanya kebencian rakyat pada umumnya dan para petani khususnya akibat tekanan pajak yang sangat memberatkan .
+document : C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok365.txt
+title : bpupki-ppki dan peristiwa rengasdengklok
+passage 26 score = 8.5
+sentence 1: hatta ( wakil ketua ) prof. mr. dr. soepomo ( anggota ) krt radjiman wedyodiningrat ( anggota ) r. p. soeroso ( anggota ) soetardjo kartohadikoesoemo ( anggota ) kiai abdoel wachid hasjim ( anggota ) ki bagus hadikusumo ( anggota ) otto iskandardinata ( anggota ) abdoel kadir ( anggota ) pangeran soerjohamidjojo ( anggota ) pangeran poerbojo ( anggota ) dr. mohammad amir ( anggota ) mr. abdul abbas ( anggota ) mr. mohammad hasan ( anggota ) dr. gssj ratulangi ( anggota ) andi pangerang ( anggota ) a.h. hamidan ( anggota ) i goesti ketoet poedja ( anggota ) mr. johannes latuharhary ( anggota ) drs. yap tjwan bing ( anggota ) selanjutnya tanpa sepengetahuan jepang , keanggotaan bertambah 6 yaitu : achmad soebardjo ( anggota ) sajoeti melik ( anggota ) ki hadjar dewantara ( anggota ) r.a.a. wiranatakoesoema ( anggota ) kasman singodimedjo ( anggota ) iwa koesoemasoemantri ( anggota ) persidangan tanggal 9 agustus 1945 , sebagai pimpinan ppki yang baru , soekarno , hatta dan radjiman wedyodiningrat diundang ke dalat untuk bertemu marsekal terauchi .
+sentence 2: setelah pertemuan tersebut , ppki tidak dapat bertugas karena para pemuda mendesak agar proklamasi kemerdekaan tidak dilakukan atas nama ppki , yang dianggap merupakan alat buatan jepang .
+sentence 3: bahkan rencana rapat 16 agustus 1945 tidak dapat terlaksana karena terjadi peristiwa rengasdengklok .
+sentence 4: setelah proklamasi , pada tanggal 18 agustus 1945 , ppki memutuskan antara lain : mengesahkan undang-undang dasar , memilih dan mengangkat ir .
+sentence 5: soekarno sebagai presiden dan drs. m. hatta sebagai wakil presiden ri , membentuk komite nasional untuk membantu tugas presiden sebelum dpr/mpr terbentuk .
 
 
 Pencarian jawaban
 ---------------------
 
 
-setelah pertempuran di <LOCATION>tegalrejo , pangeran diponegoro</LOCATION> dan pasukannya menyingkir ke <LOCATION>dekso .</LOCATION>
-
-
-tidak ada entitas jawaban, skip
-
-
-di <LOCATION>daerah plered , pasukan</LOCATION> diponegoro dipimpin oleh kertapengalasan yang memiliki kemampuan yang cukup kuat .
-
-
-tidak ada entitas jawaban, skip
-
-
-kabar mengenai pecahnya perang melawan <PERSON>belanda</PERSON> segera meluas ke <LOCATION>berbagai daerah .</LOCATION>
+pada <TIME>tanggal 16 agustus 1945</TIME> di asrama baperpi jalan cikini 74 jakarta , golongan muda mengadakan rapat yang dihadiri oleh <PERSON>sukarni , jusuf kunto , dr. muwardi ,</PERSON> dan shudanco singgih dan paidan peta jakarta .
 
 memproses passage 3
-sentence : 3
-from document : C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok127.txt
-title : sejarah perlawanan pangeran diponegoro terhadap belanda (1825–1830)
-list jawaban dan posisi dalam passage
-belanda | position = 5
-
-
-melakukan pencarian:
-kata kunci = pimpin
-tokenwithtagstemmed = kabar
-tokenwithtagstemmed = kena
-tokenwithtagstemmed = pecah
-tokenwithtagstemmed = perang
-tokenwithtagstemmed = lawan
-tokenwithtagstemmed = belanda
-tokenwithtagstemmed = luas
-tokenwithtagstemmed = bagai daerah
-kata kunci = perang
-tokenwithtagstemmed = kabar
-tokenwithtagstemmed = kena
-tokenwithtagstemmed = pecah
-tokenwithtagstemmed = perang
-posisi dalam passage = 3
-jarak dengan tiap kandidat jawaban:
-belanda 2
-
-tokenwithtagstemmed = lawan
-tokenwithtagstemmed = belanda
-tokenwithtagstemmed = luas
-tokenwithtagstemmed = bagai daerah
-kata kunci = diponegoro
-tokenwithtagstemmed = kabar
-tokenwithtagstemmed = kena
-tokenwithtagstemmed = pecah
-tokenwithtagstemmed = perang
-tokenwithtagstemmed = lawan
-tokenwithtagstemmed = belanda
-tokenwithtagstemmed = luas
-tokenwithtagstemmed = bagai daerah
-
-
-dengan dikumandangkannya perang sabil , di <LOCATION>surakarta</LOCATION> oleh <PERSON>kiai mojo ,</PERSON> di kedu oleh kiai hasan besari , dan di <LOCATION>daerah-daerah lain</LOCATION> maka pada pertempuran-pertempuran <TIME>tahun 1825 – 1826</TIME> <PERSON>pasukan belanda</PERSON> banyak terpukul dan terdesak .
-
-memproses passage 3
-sentence : 4
-from document : C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok127.txt
-title : sejarah perlawanan pangeran diponegoro terhadap belanda (1825–1830)
-list jawaban dan posisi dalam passage
-kiai mojo | position = 4
-pasukan belanda | position = 13
-
-
-melakukan pencarian:
-kata kunci = pimpin
-tokenwithtagstemmed = kumandang
-tokenwithtagstemmed = perang
-tokenwithtagstemmed = sabil
-tokenwithtagstemmed = surakarta
-tokenwithtagstemmed = kiai mojo
-tokenwithtagstemmed = kedu
-tokenwithtagstemmed = kiai
-tokenwithtagstemmed = hasan
-tokenwithtagstemmed = besar
-tokenwithtagstemmed = daerah daerah
-tokenwithtagstemmed = tempur
-tokenwithtagstemmed = tempur
-tokenwithtagstemmed = tahun 1825 1826
-tokenwithtagstemmed = pasu belanda
-tokenwithtagstemmed = pukul
-tokenwithtagstemmed = desak
-kata kunci = perang
-tokenwithtagstemmed = kumandang
-tokenwithtagstemmed = perang
-posisi dalam passage = 1
-jarak dengan tiap kandidat jawaban:
-kiai mojo 3
-pasukan belanda 12
-
-tokenwithtagstemmed = sabil
-tokenwithtagstemmed = surakarta
-tokenwithtagstemmed = kiai mojo
-tokenwithtagstemmed = kedu
-tokenwithtagstemmed = kiai
-tokenwithtagstemmed = hasan
-tokenwithtagstemmed = besar
-tokenwithtagstemmed = daerah daerah
-tokenwithtagstemmed = tempur
-tokenwithtagstemmed = tempur
-tokenwithtagstemmed = tahun 1825 1826
-tokenwithtagstemmed = pasu belanda
-tokenwithtagstemmed = pukul
-tokenwithtagstemmed = desak
-kata kunci = diponegoro
-tokenwithtagstemmed = kumandang
-tokenwithtagstemmed = perang
-tokenwithtagstemmed = sabil
-tokenwithtagstemmed = surakarta
-tokenwithtagstemmed = kiai mojo
-tokenwithtagstemmed = kedu
-tokenwithtagstemmed = kiai
-tokenwithtagstemmed = hasan
-tokenwithtagstemmed = besar
-tokenwithtagstemmed = daerah daerah
-tokenwithtagstemmed = tempur
-tokenwithtagstemmed = tempur
-tokenwithtagstemmed = tahun 1825 1826
-tokenwithtagstemmed = pasu belanda
-tokenwithtagstemmed = pukul
-tokenwithtagstemmed = desak
-
-
-melihat kenyatan ini , kemudian <PERSON>belanda</PERSON> menggunakan usaha dan tipu daya untuk mematahkan perlawanan , antara lain sebagai berikut .
-
-memproses passage 3
-sentence : 5
-from document : C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok127.txt
-title : sejarah perlawanan pangeran diponegoro terhadap belanda (1825–1830)
-list jawaban dan posisi dalam passage
-belanda | position = 2
-
-
-melakukan pencarian:
-kata kunci = pimpin
-tokenwithtagstemmed = lihat
-tokenwithtagstemmed = kenyat
-tokenwithtagstemmed = belanda
-tokenwithtagstemmed = guna
-tokenwithtagstemmed = usaha
-tokenwithtagstemmed = tipu
-tokenwithtagstemmed = daya
-tokenwithtagstemmed = untuk
-tokenwithtagstemmed = patah
-tokenwithtagstemmed = lawan
-tokenwithtagstemmed = ikut
-kata kunci = perang
-tokenwithtagstemmed = lihat
-tokenwithtagstemmed = kenyat
-tokenwithtagstemmed = belanda
-tokenwithtagstemmed = guna
-tokenwithtagstemmed = usaha
-tokenwithtagstemmed = tipu
-tokenwithtagstemmed = daya
-tokenwithtagstemmed = untuk
-tokenwithtagstemmed = patah
-tokenwithtagstemmed = lawan
-tokenwithtagstemmed = ikut
-kata kunci = diponegoro
-tokenwithtagstemmed = lihat
-tokenwithtagstemmed = kenyat
-tokenwithtagstemmed = belanda
-tokenwithtagstemmed = guna
-tokenwithtagstemmed = usaha
-tokenwithtagstemmed = tipu
-tokenwithtagstemmed = daya
-tokenwithtagstemmed = untuk
-tokenwithtagstemmed = patah
-tokenwithtagstemmed = lawan
-tokenwithtagstemmed = ikut
-
-
-d. siasat tipu muslihat , yaitu ajakan berunding dengan pangeran diponegoro dan akhirnya ditangkap .
-
-
-tidak ada entitas jawaban, skip
-
-
-dengan berbagai tipu daya , akhirnya satu per satu pemimpin perlawanan tertangkap dan menyerah , antara lain pangeran suryamataram dan <PERSON>ario prangwadono</PERSON> ( tertangkap <TIME>19 januari 1827</TIME> ) , pangeran serang , dan <PERSON>notoprodjo</PERSON> ( menyerah <TIME>21 juni 1827</TIME> , pangeran mangkubumi ( menyerah <TIME>27 september 1829</TIME> ) , dan alibasah sentot prawirodirdjo ( menyerah <TIME>tanggal 24 oktober 1829</TIME> ) .
-
-memproses passage 5
-sentence : 2
-from document : C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok127.txt
-title : sejarah perlawanan pangeran diponegoro terhadap belanda (1825–1830)
-list jawaban dan posisi dalam passage
-ario prangwadono | position = 11
-notoprodjo | position = 16
-
-
-melakukan pencarian:
-kata kunci = pimpin
-tokenwithtagstemmed = bagai
-tokenwithtagstemmed = tipu
-tokenwithtagstemmed = daya
-tokenwithtagstemmed = satu
-tokenwithtagstemmed = satu
-tokenwithtagstemmed = pimpin
-posisi dalam passage = 5
-jarak dengan tiap kandidat jawaban:
-ario prangwadono 6
-notoprodjo 11
-
-tokenwithtagstemmed = lawan
-tokenwithtagstemmed = tangkap
-tokenwithtagstemmed = serah
-tokenwithtagstemmed = pangeran
-tokenwithtagstemmed = suryamataram
-tokenwithtagstemmed = ario prangwadono
-tokenwithtagstemmed = tangkap
-tokenwithtagstemmed = 19 januari 1827
-tokenwithtagstemmed = pangeran
-tokenwithtagstemmed = serang
-tokenwithtagstemmed = notoprodjo
-tokenwithtagstemmed = serah
-tokenwithtagstemmed = 21 juni 1827
-tokenwithtagstemmed = pangeran
-tokenwithtagstemmed = mangkubumi
-tokenwithtagstemmed = serah
-tokenwithtagstemmed = 27 september 1829
-tokenwithtagstemmed = alibasah
-tokenwithtagstemmed = sentot
-tokenwithtagstemmed = prawirodirdjo
-tokenwithtagstemmed = serah
-tokenwithtagstemmed = tanggal 24 oktober 1829
-kata kunci = perang
-tokenwithtagstemmed = bagai
-tokenwithtagstemmed = tipu
-tokenwithtagstemmed = daya
-tokenwithtagstemmed = satu
-tokenwithtagstemmed = satu
-tokenwithtagstemmed = pimpin
-tokenwithtagstemmed = lawan
-tokenwithtagstemmed = tangkap
-tokenwithtagstemmed = serah
-tokenwithtagstemmed = pangeran
-tokenwithtagstemmed = suryamataram
-tokenwithtagstemmed = ario prangwadono
-tokenwithtagstemmed = tangkap
-tokenwithtagstemmed = 19 januari 1827
-tokenwithtagstemmed = pangeran
-tokenwithtagstemmed = serang
-tokenwithtagstemmed = notoprodjo
-tokenwithtagstemmed = serah
-tokenwithtagstemmed = 21 juni 1827
-tokenwithtagstemmed = pangeran
-tokenwithtagstemmed = mangkubumi
-tokenwithtagstemmed = serah
-tokenwithtagstemmed = 27 september 1829
-tokenwithtagstemmed = alibasah
-tokenwithtagstemmed = sentot
-tokenwithtagstemmed = prawirodirdjo
-tokenwithtagstemmed = serah
-tokenwithtagstemmed = tanggal 24 oktober 1829
-kata kunci = diponegoro
-tokenwithtagstemmed = bagai
-tokenwithtagstemmed = tipu
-tokenwithtagstemmed = daya
-tokenwithtagstemmed = satu
-tokenwithtagstemmed = satu
-tokenwithtagstemmed = pimpin
-tokenwithtagstemmed = lawan
-tokenwithtagstemmed = tangkap
-tokenwithtagstemmed = serah
-tokenwithtagstemmed = pangeran
-tokenwithtagstemmed = suryamataram
-tokenwithtagstemmed = ario prangwadono
-tokenwithtagstemmed = tangkap
-tokenwithtagstemmed = 19 januari 1827
-tokenwithtagstemmed = pangeran
-tokenwithtagstemmed = serang
-tokenwithtagstemmed = notoprodjo
-tokenwithtagstemmed = serah
-tokenwithtagstemmed = 21 juni 1827
-tokenwithtagstemmed = pangeran
-tokenwithtagstemmed = mangkubumi
-tokenwithtagstemmed = serah
-tokenwithtagstemmed = 27 september 1829
-tokenwithtagstemmed = alibasah
-tokenwithtagstemmed = sentot
-tokenwithtagstemmed = prawirodirdjo
-tokenwithtagstemmed = serah
-tokenwithtagstemmed = tanggal 24 oktober 1829
-
-
-kesemuanya itu merupakan pukulan yang berat bagi pangeran diponegoro .
-
-
-tidak ada entitas jawaban, skip
-
-
-melihat situasi yang demikian , pihak belanda ingin menyelesaikan perang secara cepat .
-
-
-tidak ada entitas jawaban, skip
-
-
-jenderal de kock melakukan tipu muslihat dengan mengajak berunding pangeran diponegoro .
-
-
-tidak ada entitas jawaban, skip
-
-
-setelah pertempuran di <LOCATION>tegalrejo , pangeran diponegoro</LOCATION> dan pasukannya menyingkir ke <LOCATION>dekso .</LOCATION>
-
-
-tidak ada entitas jawaban, skip
-
-
-di <LOCATION>daerah plered , pasukan</LOCATION> diponegoro dipimpin oleh kertapengalasan yang memiliki kemampuan yang cukup kuat .
-
-
-tidak ada entitas jawaban, skip
-
-
-kabar mengenai pecahnya perang melawan <PERSON>belanda</PERSON> segera meluas ke <LOCATION>berbagai daerah .</LOCATION>
-
-memproses passage 3
-sentence : 3
-from document : C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok56.txt
-title : sejarah perlawanan pangeran diponegoro terhadap belanda (1825–1830)
-list jawaban dan posisi dalam passage
-belanda | position = 5
-
-
-melakukan pencarian:
-kata kunci = pimpin
-tokenwithtagstemmed = kabar
-tokenwithtagstemmed = kena
-tokenwithtagstemmed = pecah
-tokenwithtagstemmed = perang
-tokenwithtagstemmed = lawan
-tokenwithtagstemmed = belanda
-tokenwithtagstemmed = luas
-tokenwithtagstemmed = bagai daerah
-kata kunci = perang
-tokenwithtagstemmed = kabar
-tokenwithtagstemmed = kena
-tokenwithtagstemmed = pecah
-tokenwithtagstemmed = perang
-posisi dalam passage = 3
-jarak dengan tiap kandidat jawaban:
-belanda 2
-
-tokenwithtagstemmed = lawan
-tokenwithtagstemmed = belanda
-tokenwithtagstemmed = luas
-tokenwithtagstemmed = bagai daerah
-kata kunci = diponegoro
-tokenwithtagstemmed = kabar
-tokenwithtagstemmed = kena
-tokenwithtagstemmed = pecah
-tokenwithtagstemmed = perang
-tokenwithtagstemmed = lawan
-tokenwithtagstemmed = belanda
-tokenwithtagstemmed = luas
-tokenwithtagstemmed = bagai daerah
-
-
-dengan dikumandangkannya perang sabil , di <LOCATION>surakarta</LOCATION> oleh <PERSON>kiai mojo ,</PERSON> di kedu oleh kiai hasan besari , dan di <LOCATION>daerah-daerah lain</LOCATION> maka pada pertempuran-pertempuran <TIME>tahun 1825 – 1826</TIME> <PERSON>pasukan belanda</PERSON> banyak terpukul dan terdesak .
-
-memproses passage 3
-sentence : 4
-from document : C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok56.txt
-title : sejarah perlawanan pangeran diponegoro terhadap belanda (1825–1830)
-list jawaban dan posisi dalam passage
-kiai mojo | position = 4
-pasukan belanda | position = 13
-
-
-melakukan pencarian:
-kata kunci = pimpin
-tokenwithtagstemmed = kumandang
-tokenwithtagstemmed = perang
-tokenwithtagstemmed = sabil
-tokenwithtagstemmed = surakarta
-tokenwithtagstemmed = kiai mojo
-tokenwithtagstemmed = kedu
-tokenwithtagstemmed = kiai
-tokenwithtagstemmed = hasan
-tokenwithtagstemmed = besar
-tokenwithtagstemmed = daerah daerah
-tokenwithtagstemmed = tempur
-tokenwithtagstemmed = tempur
-tokenwithtagstemmed = tahun 1825 1826
-tokenwithtagstemmed = pasu belanda
-tokenwithtagstemmed = pukul
-tokenwithtagstemmed = desak
-kata kunci = perang
-tokenwithtagstemmed = kumandang
-tokenwithtagstemmed = perang
-posisi dalam passage = 1
-jarak dengan tiap kandidat jawaban:
-kiai mojo 3
-pasukan belanda 12
-
-tokenwithtagstemmed = sabil
-tokenwithtagstemmed = surakarta
-tokenwithtagstemmed = kiai mojo
-tokenwithtagstemmed = kedu
-tokenwithtagstemmed = kiai
-tokenwithtagstemmed = hasan
-tokenwithtagstemmed = besar
-tokenwithtagstemmed = daerah daerah
-tokenwithtagstemmed = tempur
-tokenwithtagstemmed = tempur
-tokenwithtagstemmed = tahun 1825 1826
-tokenwithtagstemmed = pasu belanda
-tokenwithtagstemmed = pukul
-tokenwithtagstemmed = desak
-kata kunci = diponegoro
-tokenwithtagstemmed = kumandang
-tokenwithtagstemmed = perang
-tokenwithtagstemmed = sabil
-tokenwithtagstemmed = surakarta
-tokenwithtagstemmed = kiai mojo
-tokenwithtagstemmed = kedu
-tokenwithtagstemmed = kiai
-tokenwithtagstemmed = hasan
-tokenwithtagstemmed = besar
-tokenwithtagstemmed = daerah daerah
-tokenwithtagstemmed = tempur
-tokenwithtagstemmed = tempur
-tokenwithtagstemmed = tahun 1825 1826
-tokenwithtagstemmed = pasu belanda
-tokenwithtagstemmed = pukul
-tokenwithtagstemmed = desak
-
-
-melihat kenyatan ini , kemudian <PERSON>belanda</PERSON> menggunakan usaha dan tipu daya untuk mematahkan perlawanan , antara lain sebagai berikut .
-
-memproses passage 3
-sentence : 5
-from document : C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok56.txt
-title : sejarah perlawanan pangeran diponegoro terhadap belanda (1825–1830)
-list jawaban dan posisi dalam passage
-belanda | position = 2
-
-
-melakukan pencarian:
-kata kunci = pimpin
-tokenwithtagstemmed = lihat
-tokenwithtagstemmed = kenyat
-tokenwithtagstemmed = belanda
-tokenwithtagstemmed = guna
-tokenwithtagstemmed = usaha
-tokenwithtagstemmed = tipu
-tokenwithtagstemmed = daya
-tokenwithtagstemmed = untuk
-tokenwithtagstemmed = patah
-tokenwithtagstemmed = lawan
-tokenwithtagstemmed = ikut
-kata kunci = perang
-tokenwithtagstemmed = lihat
-tokenwithtagstemmed = kenyat
-tokenwithtagstemmed = belanda
-tokenwithtagstemmed = guna
-tokenwithtagstemmed = usaha
-tokenwithtagstemmed = tipu
-tokenwithtagstemmed = daya
-tokenwithtagstemmed = untuk
-tokenwithtagstemmed = patah
-tokenwithtagstemmed = lawan
-tokenwithtagstemmed = ikut
-kata kunci = diponegoro
-tokenwithtagstemmed = lihat
-tokenwithtagstemmed = kenyat
-tokenwithtagstemmed = belanda
-tokenwithtagstemmed = guna
-tokenwithtagstemmed = usaha
-tokenwithtagstemmed = tipu
-tokenwithtagstemmed = daya
-tokenwithtagstemmed = untuk
-tokenwithtagstemmed = patah
-tokenwithtagstemmed = lawan
-tokenwithtagstemmed = ikut
-
-
-d. siasat tipu muslihat , yaitu ajakan berunding dengan pangeran diponegoro dan akhirnya ditangkap .
-
-
-tidak ada entitas jawaban, skip
-
-
-dengan berbagai tipu daya , akhirnya satu per satu pemimpin perlawanan tertangkap dan menyerah , antara lain pangeran suryamataram dan <PERSON>ario prangwadono</PERSON> ( tertangkap <TIME>19 januari 1827</TIME> ) , pangeran serang , dan <PERSON>notoprodjo</PERSON> ( menyerah <TIME>21 juni 1827</TIME> , pangeran mangkubumi ( menyerah <TIME>27 september 1829</TIME> ) , dan alibasah sentot prawirodirdjo ( menyerah <TIME>tanggal 24 oktober 1829</TIME> ) .
-
-memproses passage 5
-sentence : 2
-from document : C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok56.txt
-title : sejarah perlawanan pangeran diponegoro terhadap belanda (1825–1830)
-list jawaban dan posisi dalam passage
-ario prangwadono | position = 11
-notoprodjo | position = 16
-
-
-melakukan pencarian:
-kata kunci = pimpin
-tokenwithtagstemmed = bagai
-tokenwithtagstemmed = tipu
-tokenwithtagstemmed = daya
-tokenwithtagstemmed = satu
-tokenwithtagstemmed = satu
-tokenwithtagstemmed = pimpin
-posisi dalam passage = 5
-jarak dengan tiap kandidat jawaban:
-ario prangwadono 6
-notoprodjo 11
-
-tokenwithtagstemmed = lawan
-tokenwithtagstemmed = tangkap
-tokenwithtagstemmed = serah
-tokenwithtagstemmed = pangeran
-tokenwithtagstemmed = suryamataram
-tokenwithtagstemmed = ario prangwadono
-tokenwithtagstemmed = tangkap
-tokenwithtagstemmed = 19 januari 1827
-tokenwithtagstemmed = pangeran
-tokenwithtagstemmed = serang
-tokenwithtagstemmed = notoprodjo
-tokenwithtagstemmed = serah
-tokenwithtagstemmed = 21 juni 1827
-tokenwithtagstemmed = pangeran
-tokenwithtagstemmed = mangkubumi
-tokenwithtagstemmed = serah
-tokenwithtagstemmed = 27 september 1829
-tokenwithtagstemmed = alibasah
-tokenwithtagstemmed = sentot
-tokenwithtagstemmed = prawirodirdjo
-tokenwithtagstemmed = serah
-tokenwithtagstemmed = tanggal 24 oktober 1829
-kata kunci = perang
-tokenwithtagstemmed = bagai
-tokenwithtagstemmed = tipu
-tokenwithtagstemmed = daya
-tokenwithtagstemmed = satu
-tokenwithtagstemmed = satu
-tokenwithtagstemmed = pimpin
-tokenwithtagstemmed = lawan
-tokenwithtagstemmed = tangkap
-tokenwithtagstemmed = serah
-tokenwithtagstemmed = pangeran
-tokenwithtagstemmed = suryamataram
-tokenwithtagstemmed = ario prangwadono
-tokenwithtagstemmed = tangkap
-tokenwithtagstemmed = 19 januari 1827
-tokenwithtagstemmed = pangeran
-tokenwithtagstemmed = serang
-tokenwithtagstemmed = notoprodjo
-tokenwithtagstemmed = serah
-tokenwithtagstemmed = 21 juni 1827
-tokenwithtagstemmed = pangeran
-tokenwithtagstemmed = mangkubumi
-tokenwithtagstemmed = serah
-tokenwithtagstemmed = 27 september 1829
-tokenwithtagstemmed = alibasah
-tokenwithtagstemmed = sentot
-tokenwithtagstemmed = prawirodirdjo
-tokenwithtagstemmed = serah
-tokenwithtagstemmed = tanggal 24 oktober 1829
-kata kunci = diponegoro
-tokenwithtagstemmed = bagai
-tokenwithtagstemmed = tipu
-tokenwithtagstemmed = daya
-tokenwithtagstemmed = satu
-tokenwithtagstemmed = satu
-tokenwithtagstemmed = pimpin
-tokenwithtagstemmed = lawan
-tokenwithtagstemmed = tangkap
-tokenwithtagstemmed = serah
-tokenwithtagstemmed = pangeran
-tokenwithtagstemmed = suryamataram
-tokenwithtagstemmed = ario prangwadono
-tokenwithtagstemmed = tangkap
-tokenwithtagstemmed = 19 januari 1827
-tokenwithtagstemmed = pangeran
-tokenwithtagstemmed = serang
-tokenwithtagstemmed = notoprodjo
-tokenwithtagstemmed = serah
-tokenwithtagstemmed = 21 juni 1827
-tokenwithtagstemmed = pangeran
-tokenwithtagstemmed = mangkubumi
-tokenwithtagstemmed = serah
-tokenwithtagstemmed = 27 september 1829
-tokenwithtagstemmed = alibasah
-tokenwithtagstemmed = sentot
-tokenwithtagstemmed = prawirodirdjo
-tokenwithtagstemmed = serah
-tokenwithtagstemmed = tanggal 24 oktober 1829
-
-
-kesemuanya itu merupakan pukulan yang berat bagi pangeran diponegoro .
-
-
-tidak ada entitas jawaban, skip
-
-
-melihat situasi yang demikian , pihak belanda ingin menyelesaikan perang secara cepat .
-
-
-tidak ada entitas jawaban, skip
-
-
-jenderal de kock melakukan tipu muslihat dengan mengajak berunding pangeran diponegoro .
-
-
-tidak ada entitas jawaban, skip
-
-
-#sejarah _ kelas_11 sejarah perlawanan pangeran diponegoro terhadap <PERSON>belanda</PERSON> ( <TIME>1825 – 1830</TIME> ) - pengaruh belanda di <LOCATION>surakarta</LOCATION> dan yogyakarta semakin bertambah kuat pada permulaan <TIME>abad ke-19 .</TIME>
-
-memproses passage 1
 sentence : 1
-from document : C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok127.txt
-title : sejarah perlawanan pangeran diponegoro terhadap belanda (1825–1830)
+from document : C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok201.txt
+title : perbedaan pendapat dan penculikan
 list jawaban dan posisi dalam passage
-belanda | position = 6
+tanggal 16 agustus 1945 | position = 0
 
 
 melakukan pencarian:
-kata kunci = pimpin
-tokenwithtagstemmed = sejarah
-tokenwithtagstemmed = kelas_11
-tokenwithtagstemmed = sejarah
-tokenwithtagstemmed = lawan
-tokenwithtagstemmed = pangeran
-tokenwithtagstemmed = diponegoro
-tokenwithtagstemmed = belanda
-tokenwithtagstemmed = 1825 1830
-tokenwithtagstemmed = pengaruh
-tokenwithtagstemmed = belanda
-tokenwithtagstemmed = surakarta
-tokenwithtagstemmed = yogyakarta
-tokenwithtagstemmed = tambah
-tokenwithtagstemmed = kuat
-tokenwithtagstemmed = mula
-tokenwithtagstemmed = abad 19
-kata kunci = perang
-tokenwithtagstemmed = sejarah
-tokenwithtagstemmed = kelas_11
-tokenwithtagstemmed = sejarah
-tokenwithtagstemmed = lawan
-tokenwithtagstemmed = pangeran
-tokenwithtagstemmed = diponegoro
-tokenwithtagstemmed = belanda
-tokenwithtagstemmed = 1825 1830
-tokenwithtagstemmed = pengaruh
-tokenwithtagstemmed = belanda
-tokenwithtagstemmed = surakarta
-tokenwithtagstemmed = yogyakarta
-tokenwithtagstemmed = tambah
-tokenwithtagstemmed = kuat
-tokenwithtagstemmed = mula
-tokenwithtagstemmed = abad 19
-kata kunci = diponegoro
-tokenwithtagstemmed = sejarah
-tokenwithtagstemmed = kelas_11
-tokenwithtagstemmed = sejarah
-tokenwithtagstemmed = lawan
-tokenwithtagstemmed = pangeran
-tokenwithtagstemmed = diponegoro
-posisi dalam passage = 5
+kata kunci = rengasdengklok
+tokenwithtagstemmed = tanggal 16 agustus 1945
+tokenwithtagstemmed = asrama
+tokenwithtagstemmed = baperpi
+tokenwithtagstemmed = jalan
+tokenwithtagstemmed = cikini
+tokenwithtagstemmed = 74
+tokenwithtagstemmed = jakarta
+tokenwithtagstemmed = golong
+tokenwithtagstemmed = muda
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = rapat
+tokenwithtagstemmed = hadir
+tokenwithtagstemmed = sukarni jusuf kunto dr muwardi
+tokenwithtagstemmed = shudanco
+tokenwithtagstemmed = singgih
+tokenwithtagstemmed = paidan
+tokenwithtagstemmed = peta
+tokenwithtagstemmed = jakarta
+kata kunci = jadi
+tokenwithtagstemmed = tanggal 16 agustus 1945
+tokenwithtagstemmed = asrama
+tokenwithtagstemmed = baperpi
+tokenwithtagstemmed = jalan
+tokenwithtagstemmed = cikini
+tokenwithtagstemmed = 74
+tokenwithtagstemmed = jakarta
+tokenwithtagstemmed = golong
+tokenwithtagstemmed = muda
+tokenwithtagstemmed = ada
+tokenwithtagstemmed = rapat
+tokenwithtagstemmed = hadir
+tokenwithtagstemmed = sukarni jusuf kunto dr muwardi
+tokenwithtagstemmed = shudanco
+tokenwithtagstemmed = singgih
+tokenwithtagstemmed = paidan
+tokenwithtagstemmed = peta
+tokenwithtagstemmed = jakarta
+
+
+rapat ini membikin keputusan untuk mengasingkan ir .
+
+
+tidak ada entitas jawaban, skip
+
+
+soekarno dan <PERSON>mohammad hatta</PERSON> ke <LOCATION>luar kota</LOCATION> dengan tujuan untuk menjauhkan mereka dan segala pengaruh jepang .
+
+
+tidak ada entitas jawaban, skip
+
+
+untuk menghindari kecurigaan dari pihak jepang , shudanco singgih memperoleh kepercayaan untuk melaksanakan rencana tersebut .
+
+
+tidak ada entitas jawaban, skip
+
+
+rencana tersebut berlangsung lancar sebab mendapat dukungan perlengkapan tentara peta dan cudanco latief hendraningrat jadi cocok pada <TIME>tanggal 16 agustus 1945 pukul 04.30 ,</TIME> <PERSON>ir.soekarno , mohammad hattaa ,</PERSON> dan sekelompok golongan pemuda tiba di <LOCATION>rengasdengklok .</LOCATION>
+
+memproses passage 3
+sentence : 5
+from document : C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok201.txt
+title : perbedaan pendapat dan penculikan
+list jawaban dan posisi dalam passage
+tanggal 16 agustus 1945 pukul 04.30 | position = 13
+
+
+melakukan pencarian:
+kata kunci = rengasdengklok
+tokenwithtagstemmed = rencana
+tokenwithtagstemmed = langsung
+tokenwithtagstemmed = lancar
+tokenwithtagstemmed = dapat
+tokenwithtagstemmed = dukung
+tokenwithtagstemmed = lengkap
+tokenwithtagstemmed = tentara
+tokenwithtagstemmed = peta
+tokenwithtagstemmed = cudanco
+tokenwithtagstemmed = latief
+tokenwithtagstemmed = hendraningrat
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = cocok
+tokenwithtagstemmed = tanggal 16 agustus 1945 pukul 04.30
+tokenwithtagstemmed = ir.soekarno mohammad hattaa
+tokenwithtagstemmed = kelompok
+tokenwithtagstemmed = golong
+tokenwithtagstemmed = pemuda
+tokenwithtagstemmed = tiba
+tokenwithtagstemmed = rengasdengklok
+posisi dalam passage = 19
 jarak dengan tiap kandidat jawaban:
-belanda 1
+tanggal 16 agustus 1945 pukul 04.30 -6
 
-tokenwithtagstemmed = belanda
-tokenwithtagstemmed = 1825 1830
-tokenwithtagstemmed = pengaruh
-tokenwithtagstemmed = belanda
-tokenwithtagstemmed = surakarta
-tokenwithtagstemmed = yogyakarta
-tokenwithtagstemmed = tambah
-tokenwithtagstemmed = kuat
-tokenwithtagstemmed = mula
-tokenwithtagstemmed = abad 19
-
-
-khususnya di <LOCATION>yogyakarta</LOCATION> , campur tangan <PERSON>belanda</PERSON> telah menimbulkan kekecewaan di kalangan <PERSON>kerabat keraton</PERSON> yang kemudian menimbulkan perlawanan di bawah pimpinan <PERSON>pangeran diponegoro .</PERSON>
-
-memproses passage 1
-sentence : 2
-from document : C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok127.txt
-title : sejarah perlawanan pangeran diponegoro terhadap belanda (1825–1830)
-list jawaban dan posisi dalam passage
-belanda | position = 3
-kerabat keraton | position = 7
-pangeran diponegoro | position = 12
-
-
-melakukan pencarian:
-kata kunci = pimpin
-tokenwithtagstemmed = yogyakarta
-tokenwithtagstemmed = campur
-tokenwithtagstemmed = tangan
-tokenwithtagstemmed = belanda
-tokenwithtagstemmed = timbul
-tokenwithtagstemmed = kecewa
-tokenwithtagstemmed = kalang
-tokenwithtagstemmed = kerabat keraton
-tokenwithtagstemmed = timbul
-tokenwithtagstemmed = lawan
-tokenwithtagstemmed = bawah
-tokenwithtagstemmed = pimpin
+kata kunci = jadi
+tokenwithtagstemmed = rencana
+tokenwithtagstemmed = langsung
+tokenwithtagstemmed = lancar
+tokenwithtagstemmed = dapat
+tokenwithtagstemmed = dukung
+tokenwithtagstemmed = lengkap
+tokenwithtagstemmed = tentara
+tokenwithtagstemmed = peta
+tokenwithtagstemmed = cudanco
+tokenwithtagstemmed = latief
+tokenwithtagstemmed = hendraningrat
+tokenwithtagstemmed = jadi
 posisi dalam passage = 11
 jarak dengan tiap kandidat jawaban:
-belanda -8
-kerabat keraton -4
-pangeran diponegoro 1
+tanggal 16 agustus 1945 pukul 04.30 2
 
-tokenwithtagstemmed = pangeran diponegoro
-kata kunci = perang
-tokenwithtagstemmed = yogyakarta
-tokenwithtagstemmed = campur
-tokenwithtagstemmed = tangan
-tokenwithtagstemmed = belanda
-tokenwithtagstemmed = timbul
-tokenwithtagstemmed = kecewa
-tokenwithtagstemmed = kalang
-tokenwithtagstemmed = kerabat keraton
-tokenwithtagstemmed = timbul
-tokenwithtagstemmed = lawan
-tokenwithtagstemmed = bawah
-tokenwithtagstemmed = pimpin
-tokenwithtagstemmed = pangeran diponegoro
-kata kunci = diponegoro
-tokenwithtagstemmed = yogyakarta
-tokenwithtagstemmed = campur
-tokenwithtagstemmed = tangan
-tokenwithtagstemmed = belanda
-tokenwithtagstemmed = timbul
-tokenwithtagstemmed = kecewa
-tokenwithtagstemmed = kalang
-tokenwithtagstemmed = kerabat keraton
-tokenwithtagstemmed = timbul
-tokenwithtagstemmed = lawan
-tokenwithtagstemmed = bawah
-tokenwithtagstemmed = pimpin
-tokenwithtagstemmed = pangeran diponegoro
+tokenwithtagstemmed = cocok
+tokenwithtagstemmed = tanggal 16 agustus 1945 pukul 04.30
+tokenwithtagstemmed = ir.soekarno mohammad hattaa
+tokenwithtagstemmed = kelompok
+tokenwithtagstemmed = golong
+tokenwithtagstemmed = pemuda
+tokenwithtagstemmed = tiba
+tokenwithtagstemmed = rengasdengklok
 
 
-sebab-sebab perlawanan diponegoro , antara lain sebagai berikut .
+pada <TIME>tanggal 12 agustus 1945</TIME> jendral terauchi mengucapkan selamat atas dibentuknya ppki dan menyerahkan pelaksanaan proklamasi kemerdekaan pada ppki .
+
+memproses passage 13
+sentence : 1
+from document : C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok248.txt
+title : peristiwa seputar proklamasi kemerdekaan 17 agustus 1945
+list jawaban dan posisi dalam passage
+tanggal 12 agustus 1945 | position = 0
+
+
+melakukan pencarian:
+kata kunci = rengasdengklok
+tokenwithtagstemmed = tanggal 12 agustus 1945
+tokenwithtagstemmed = jendral
+tokenwithtagstemmed = terauchi
+tokenwithtagstemmed = ucap
+tokenwithtagstemmed = selamat
+tokenwithtagstemmed = atas
+tokenwithtagstemmed = bentuk
+tokenwithtagstemmed = ppki
+tokenwithtagstemmed = serah
+tokenwithtagstemmed = laksana
+tokenwithtagstemmed = proklamasi
+tokenwithtagstemmed = merdeka
+tokenwithtagstemmed = ppki
+kata kunci = jadi
+tokenwithtagstemmed = tanggal 12 agustus 1945
+tokenwithtagstemmed = jendral
+tokenwithtagstemmed = terauchi
+tokenwithtagstemmed = ucap
+tokenwithtagstemmed = selamat
+tokenwithtagstemmed = atas
+tokenwithtagstemmed = bentuk
+tokenwithtagstemmed = ppki
+tokenwithtagstemmed = serah
+tokenwithtagstemmed = laksana
+tokenwithtagstemmed = proklamasi
+tokenwithtagstemmed = merdeka
+tokenwithtagstemmed = ppki
+
+
+dengan demikian jepang sudah menyerahkan sepenuhnya pelaksanaan proklamasi kemerdekaan kepada bangsa indonesia melalui ppki .
 
 
 tidak ada entitas jawaban, skip
 
 
-a. adanya kekecewaan dan kebencian <PERSON>kerabat istana</PERSON> terhadap tindakan <PERSON>belanda</PERSON> yang makin intensif mencampuri urusan keraton melalui patih danurejo ( kaki tangan <PERSON>belanda</PERSON> ) .
-
-memproses passage 1
-sentence : 4
-from document : C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok127.txt
-title : sejarah perlawanan pangeran diponegoro terhadap belanda (1825–1830)
-list jawaban dan posisi dalam passage
-kerabat istana | position = 3
-belanda | position = 5
-belanda | position = 14
+peristiwa seputar proklamasi dari rengasdengklok hingga proklamasi kemerdekaan indonesia menjelang berlangsung pelaksanaan proklamasi kemerdekaan , terjadi beberapa peristiwa yang merupakan salah satu bentuk aspirasi perjuangan baik dari golongan tua maupun <PERSON>golongan pemuda .</PERSON>
 
 
-melakukan pencarian:
-kata kunci = pimpin
-tokenwithtagstemmed = a
-tokenwithtagstemmed = kecewa
-tokenwithtagstemmed = benci
-tokenwithtagstemmed = kerabat istana
-tokenwithtagstemmed = tindak
-tokenwithtagstemmed = belanda
-tokenwithtagstemmed = intensif
-tokenwithtagstemmed = campur
-tokenwithtagstemmed = urus
-tokenwithtagstemmed = keraton
-tokenwithtagstemmed = patih
-tokenwithtagstemmed = danurejo
-tokenwithtagstemmed = kaki
-tokenwithtagstemmed = tangan
-tokenwithtagstemmed = belanda
-kata kunci = perang
-tokenwithtagstemmed = a
-tokenwithtagstemmed = kecewa
-tokenwithtagstemmed = benci
-tokenwithtagstemmed = kerabat istana
-tokenwithtagstemmed = tindak
-tokenwithtagstemmed = belanda
-tokenwithtagstemmed = intensif
-tokenwithtagstemmed = campur
-tokenwithtagstemmed = urus
-tokenwithtagstemmed = keraton
-tokenwithtagstemmed = patih
-tokenwithtagstemmed = danurejo
-tokenwithtagstemmed = kaki
-tokenwithtagstemmed = tangan
-tokenwithtagstemmed = belanda
-kata kunci = diponegoro
-tokenwithtagstemmed = a
-tokenwithtagstemmed = kecewa
-tokenwithtagstemmed = benci
-tokenwithtagstemmed = kerabat istana
-tokenwithtagstemmed = tindak
-tokenwithtagstemmed = belanda
-tokenwithtagstemmed = intensif
-tokenwithtagstemmed = campur
-tokenwithtagstemmed = urus
-tokenwithtagstemmed = keraton
-tokenwithtagstemmed = patih
-tokenwithtagstemmed = danurejo
-tokenwithtagstemmed = kaki
-tokenwithtagstemmed = tangan
-tokenwithtagstemmed = belanda
+tidak ada entitas jawaban, skip
 
 
-b. adanya kebencian <PERSON>rakyat</PERSON> pada umumnya dan <PERSON>para petani</PERSON> khususnya akibat tekanan pajak yang sangat memberatkan .
+meskipun demikian aspirasi-aspirasi tersebut merupakan suatu upaya agar kemerdekaan yang diperoleh merupakan hasil perjuangan bangsa indonesia , bukan pemberian dari jepang atau <PERSON>bangsa asing</PERSON> lainnya .
 
-memproses passage 1
+
+tidak ada entitas jawaban, skip
+
+
+adapun peristiwa-peristiwa yang melatar belakangi pelaksanaan proklamasi kemerdekaan indonesia adalah sebagai berikut : peristiwa rengasdengklok pada <TIME>tanggal 14 agustus 1945</TIME> jepang menyerah tanpa syarat pada <PERSON>sekutu</PERSON> di kapal missaurri milik angkatan laut amerika serikat .
+
+memproses passage 13
 sentence : 5
-from document : C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok127.txt
-title : sejarah perlawanan pangeran diponegoro terhadap belanda (1825–1830)
+from document : C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok248.txt
+title : peristiwa seputar proklamasi kemerdekaan 17 agustus 1945
 list jawaban dan posisi dalam passage
-rakyat | position = 2
-petani | position = 4
+tanggal 14 agustus 1945 | position = 11
 
 
 melakukan pencarian:
-kata kunci = pimpin
-tokenwithtagstemmed = b
-tokenwithtagstemmed = benci
-tokenwithtagstemmed = rakyat
-tokenwithtagstemmed = umum
-tokenwithtagstemmed = tani
-tokenwithtagstemmed = akibat
-tokenwithtagstemmed = tekan
-tokenwithtagstemmed = pajak
-tokenwithtagstemmed = berat
-kata kunci = perang
-tokenwithtagstemmed = b
-tokenwithtagstemmed = benci
-tokenwithtagstemmed = rakyat
-tokenwithtagstemmed = umum
-tokenwithtagstemmed = tani
-tokenwithtagstemmed = akibat
-tokenwithtagstemmed = tekan
-tokenwithtagstemmed = pajak
-tokenwithtagstemmed = berat
-kata kunci = diponegoro
-tokenwithtagstemmed = b
-tokenwithtagstemmed = benci
-tokenwithtagstemmed = rakyat
-tokenwithtagstemmed = umum
-tokenwithtagstemmed = tani
-tokenwithtagstemmed = akibat
-tokenwithtagstemmed = tekan
-tokenwithtagstemmed = pajak
-tokenwithtagstemmed = berat
+kata kunci = rengasdengklok
+tokenwithtagstemmed = peristiwa
+tokenwithtagstemmed = peristiwa
+tokenwithtagstemmed = latar
+tokenwithtagstemmed = belakang
+tokenwithtagstemmed = laksana
+tokenwithtagstemmed = proklamasi
+tokenwithtagstemmed = merdeka
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = ikut
+tokenwithtagstemmed = peristiwa
+tokenwithtagstemmed = rengasdengklok
+posisi dalam passage = 10
+jarak dengan tiap kandidat jawaban:
+tanggal 14 agustus 1945 1
+
+tokenwithtagstemmed = tanggal 14 agustus 1945
+tokenwithtagstemmed = jepang
+tokenwithtagstemmed = serah
+tokenwithtagstemmed = syarat
+tokenwithtagstemmed = sekutu
+tokenwithtagstemmed = kapal
+tokenwithtagstemmed = missaurri
+tokenwithtagstemmed = milik
+tokenwithtagstemmed = angkat
+tokenwithtagstemmed = laut
+tokenwithtagstemmed = amerika
+tokenwithtagstemmed = serikat
+kata kunci = jadi
+tokenwithtagstemmed = peristiwa
+tokenwithtagstemmed = peristiwa
+tokenwithtagstemmed = latar
+tokenwithtagstemmed = belakang
+tokenwithtagstemmed = laksana
+tokenwithtagstemmed = proklamasi
+tokenwithtagstemmed = merdeka
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = ikut
+tokenwithtagstemmed = peristiwa
+tokenwithtagstemmed = rengasdengklok
+tokenwithtagstemmed = tanggal 14 agustus 1945
+tokenwithtagstemmed = jepang
+tokenwithtagstemmed = serah
+tokenwithtagstemmed = syarat
+tokenwithtagstemmed = sekutu
+tokenwithtagstemmed = kapal
+tokenwithtagstemmed = missaurri
+tokenwithtagstemmed = milik
+tokenwithtagstemmed = angkat
+tokenwithtagstemmed = laut
+tokenwithtagstemmed = amerika
+tokenwithtagstemmed = serikat
+
+
+nama <PERSON>sukarni</PERSON> sebagai tokoh pemuda mencuat setelah bersama-sama kawan-kawannya di <LOCATION>asrama menteng 31</LOCATION> mendesak soekarno dan hatta untuk segera memproklamasikan kemerdekaan indonesia di <LOCATION>masa-masa genting</LOCATION> <TIME>periode 15 hingga 17 agustus 1945</TIME> .
+
+memproses passage 8
+sentence : 1
+from document : C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok236.txt
+title : soekarni tokoh pengusul yang menandatangi teks proklamasi adalah bung karno dan bung hatta atas nama bangsa indonesia
+list jawaban dan posisi dalam passage
+periode 15 17 agustus 1945 | position = 16
+
+
+melakukan pencarian:
+kata kunci = rengasdengklok
+tokenwithtagstemmed = nama
+tokenwithtagstemmed = sukarni
+tokenwithtagstemmed = tokoh
+tokenwithtagstemmed = pemuda
+tokenwithtagstemmed = cuat
+tokenwithtagstemmed = kawan
+tokenwithtagstemmed = kawan
+tokenwithtagstemmed = asrama menteng 31
+tokenwithtagstemmed = desak
+tokenwithtagstemmed = soekarno
+tokenwithtagstemmed = hatta
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = proklamasi
+tokenwithtagstemmed = merdeka
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = masa masa genting
+tokenwithtagstemmed = periode 15 17 agustus 1945
+kata kunci = jadi
+tokenwithtagstemmed = nama
+tokenwithtagstemmed = sukarni
+tokenwithtagstemmed = tokoh
+tokenwithtagstemmed = pemuda
+tokenwithtagstemmed = cuat
+tokenwithtagstemmed = kawan
+tokenwithtagstemmed = kawan
+tokenwithtagstemmed = asrama menteng 31
+tokenwithtagstemmed = desak
+tokenwithtagstemmed = soekarno
+tokenwithtagstemmed = hatta
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = proklamasi
+tokenwithtagstemmed = merdeka
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = masa masa genting
+tokenwithtagstemmed = periode 15 17 agustus 1945
+
+
+dalam buku penerima gelar pahlawan nasional 2014 yang dikeluarkan oleh dewan gelar , tanda jasa dan tanda kehormatan republik indonesia <TIME>tahun 2014</TIME> <PERSON>, sukarni</PERSON> merupakan salah satu tokoh angkatan baru indonesia yang bermarkas di <LOCATION>menteng nomor 31 jakarta</LOCATION> , yang kini dikenal dengan gedung juang 45 .
+
+memproses passage 8
+sentence : 2
+from document : C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok236.txt
+title : soekarni tokoh pengusul yang menandatangi teks proklamasi adalah bung karno dan bung hatta atas nama bangsa indonesia
+list jawaban dan posisi dalam passage
+tahun 2014 | position = 15
+
+
+melakukan pencarian:
+kata kunci = rengasdengklok
+tokenwithtagstemmed = buku
+tokenwithtagstemmed = terima
+tokenwithtagstemmed = gelar
+tokenwithtagstemmed = pahlawan
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = 2014
+tokenwithtagstemmed = keluar
+tokenwithtagstemmed = dewan
+tokenwithtagstemmed = gelar
+tokenwithtagstemmed = tanda
+tokenwithtagstemmed = jasa
+tokenwithtagstemmed = tanda
+tokenwithtagstemmed = hormat
+tokenwithtagstemmed = republik
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = tahun 2014
+tokenwithtagstemmed = sukarni
+tokenwithtagstemmed = salah
+tokenwithtagstemmed = satu
+tokenwithtagstemmed = tokoh
+tokenwithtagstemmed = angkat
+tokenwithtagstemmed = baru
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = markas
+tokenwithtagstemmed = menteng nomor 31 jakarta
+tokenwithtagstemmed = kenal
+tokenwithtagstemmed = gedung
+tokenwithtagstemmed = juang
+tokenwithtagstemmed = 45
+kata kunci = jadi
+tokenwithtagstemmed = buku
+tokenwithtagstemmed = terima
+tokenwithtagstemmed = gelar
+tokenwithtagstemmed = pahlawan
+tokenwithtagstemmed = nasional
+tokenwithtagstemmed = 2014
+tokenwithtagstemmed = keluar
+tokenwithtagstemmed = dewan
+tokenwithtagstemmed = gelar
+tokenwithtagstemmed = tanda
+tokenwithtagstemmed = jasa
+tokenwithtagstemmed = tanda
+tokenwithtagstemmed = hormat
+tokenwithtagstemmed = republik
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = tahun 2014
+tokenwithtagstemmed = sukarni
+tokenwithtagstemmed = salah
+tokenwithtagstemmed = satu
+tokenwithtagstemmed = tokoh
+tokenwithtagstemmed = angkat
+tokenwithtagstemmed = baru
+tokenwithtagstemmed = indonesia
+tokenwithtagstemmed = markas
+tokenwithtagstemmed = menteng nomor 31 jakarta
+tokenwithtagstemmed = kenal
+tokenwithtagstemmed = gedung
+tokenwithtagstemmed = juang
+tokenwithtagstemmed = 45
+
+
+ia bersama-sama dengan supeno , chairul saleh dan adam malik serta pemuda lainnya saat ini mendorong perjuangan kemerdekaan indonesia melalui gerakan pemuda .
+
+
+tidak ada entitas jawaban, skip
+
+
+gerakan ini terkenal ketika mendesak soekarno dan <PERSON>hatta , ikon</PERSON> perjuangan kemerdekaan <PERSON>indonesia ,</PERSON> untukmemproklamasikan kemerdekaan dan membawa kedua proklamator itu ke <LOCATION>rengasdengklok .</LOCATION>
+
+
+tidak ada entitas jawaban, skip
+
+
+pada <TIME>16 agustus 1945</TIME> sore , mereka kemudian mengantarkan kembali soekarno dan hatta ke <LOCATION>jakarta</LOCATION> dan <TIME>malam harinya</TIME> terjadi perumusan naskah proklamasi di jalan imam bonjol nomor 1 , rumah laksamana maeda .
+
+memproses passage 8
+sentence : 5
+from document : C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok236.txt
+title : soekarni tokoh pengusul yang menandatangi teks proklamasi adalah bung karno dan bung hatta atas nama bangsa indonesia
+list jawaban dan posisi dalam passage
+16 agustus 1945 | position = 0
+malam harinya | position = 7
+
+
+melakukan pencarian:
+kata kunci = rengasdengklok
+tokenwithtagstemmed = 16 agustus 1945
+tokenwithtagstemmed = sore
+tokenwithtagstemmed = antar
+tokenwithtagstemmed = kembali
+tokenwithtagstemmed = soekarno
+tokenwithtagstemmed = hatta
+tokenwithtagstemmed = jakarta
+tokenwithtagstemmed = malam hari
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = rumus
+tokenwithtagstemmed = naskah
+tokenwithtagstemmed = proklamasi
+tokenwithtagstemmed = jalan
+tokenwithtagstemmed = imam
+tokenwithtagstemmed = bonjol
+tokenwithtagstemmed = nomor
+tokenwithtagstemmed = 1
+tokenwithtagstemmed = rumah
+tokenwithtagstemmed = laksamana
+tokenwithtagstemmed = maeda
+kata kunci = jadi
+tokenwithtagstemmed = 16 agustus 1945
+tokenwithtagstemmed = sore
+tokenwithtagstemmed = antar
+tokenwithtagstemmed = kembali
+tokenwithtagstemmed = soekarno
+tokenwithtagstemmed = hatta
+tokenwithtagstemmed = jakarta
+tokenwithtagstemmed = malam hari
+tokenwithtagstemmed = jadi
+posisi dalam passage = 8
+jarak dengan tiap kandidat jawaban:
+16 agustus 1945 -8
+malam harinya -1
+
+tokenwithtagstemmed = rumus
+tokenwithtagstemmed = naskah
+tokenwithtagstemmed = proklamasi
+tokenwithtagstemmed = jalan
+tokenwithtagstemmed = imam
+tokenwithtagstemmed = bonjol
+tokenwithtagstemmed = nomor
+tokenwithtagstemmed = 1
+tokenwithtagstemmed = rumah
+tokenwithtagstemmed = laksamana
+tokenwithtagstemmed = maeda
+
+
+esoknya <TIME>, hari kamis 16 agustus 1945</TIME> tidak ada kejadian berarti , siaran berjalan seperti biasa .
+
+memproses passage 9
+sentence : 1
+from document : C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok255.txt
+title : yusuf ronodipuro tokoh yang menyebarkan berita proklamasi lewat rri
+list jawaban dan posisi dalam passage
+hari kamis 16 agustus 1945 | position = 1
+
+
+melakukan pencarian:
+kata kunci = rengasdengklok
+tokenwithtagstemmed = esok
+tokenwithtagstemmed = hari kamis 16 agustus 1945
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = arti
+tokenwithtagstemmed = siar
+tokenwithtagstemmed = jalan
+kata kunci = jadi
+tokenwithtagstemmed = esok
+tokenwithtagstemmed = hari kamis 16 agustus 1945
+tokenwithtagstemmed = jadi
+posisi dalam passage = 2
+jarak dengan tiap kandidat jawaban:
+hari kamis 16 agustus 1945 -1
+
+tokenwithtagstemmed = arti
+tokenwithtagstemmed = siar
+tokenwithtagstemmed = jalan
+
+
+malam harinya ada sedikit keributan di <LOCATION>depan kantor ,</LOCATION> ternyata sukarni datang bersama beberapa orang jepang tetapi dilarang masuk .
+
+
+tidak ada entitas jawaban, skip
+
+
+dari dalam mobil , sukarni berteriak , “ tunggu , akan ada pengumuman penting , ” lalu ia pergi .
+
+
+tidak ada entitas jawaban, skip
+
+
+di tempat lain , di sebuah rumah di <LOCATION>pegangsaan 56</LOCATION> , <TIME>tanggal 16 agustus dini hari ,</TIME> selepas sahur , sukarni dkk datang ke <LOCATION>rumah bung karno .</LOCATION>
+
+memproses passage 9
+sentence : 4
+from document : C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok255.txt
+title : yusuf ronodipuro tokoh yang menyebarkan berita proklamasi lewat rri
+list jawaban dan posisi dalam passage
+tanggal 16 agustus hari | position = 3
+
+
+melakukan pencarian:
+kata kunci = rengasdengklok
+tokenwithtagstemmed = tempat
+tokenwithtagstemmed = rumah
+tokenwithtagstemmed = gangsa 56
+tokenwithtagstemmed = tanggal 16 agustus hari
+tokenwithtagstemmed = lepas
+tokenwithtagstemmed = sahur
+tokenwithtagstemmed = sukarni
+tokenwithtagstemmed = dkk
+tokenwithtagstemmed = datang
+tokenwithtagstemmed = rumah bung karno
+kata kunci = jadi
+tokenwithtagstemmed = tempat
+tokenwithtagstemmed = rumah
+tokenwithtagstemmed = gangsa 56
+tokenwithtagstemmed = tanggal 16 agustus hari
+tokenwithtagstemmed = lepas
+tokenwithtagstemmed = sahur
+tokenwithtagstemmed = sukarni
+tokenwithtagstemmed = dkk
+tokenwithtagstemmed = datang
+tokenwithtagstemmed = rumah bung karno
+
+
+mereka berusaha meyakinkan bung karno bahwa jakarta tidak aman karena jakarta akan menjadi lautan api , sehingga mereka ingin mengamankan bung karno dan bung hatta ke <LOCATION>rengasdengklok .</LOCATION>
+
+
+tidak ada entitas jawaban, skip
+
+
+hatta ( wakil ketua ) <PERSON>prof. mr. dr. soepomo</PERSON> ( anggota ) krt radjiman wedyodiningrat ( anggota ) r. p. soeroso ( anggota ) <PERSON>soetardjo kartohadikoesoemo</PERSON> ( anggota ) kiai abdoel wachid hasjim ( anggota ) ki bagus hadikusumo ( anggota ) otto iskandardinata ( anggota ) abdoel kadir ( anggota ) pangeran soerjohamidjojo ( anggota ) <PERSON>pangeran poerbojo</PERSON> ( anggota ) <PERSON>dr. mohammad amir</PERSON> ( anggota ) mr. abdul abbas ( anggota ) mr. mohammad hasan ( anggota ) <PERSON>dr. gssj ratulangi</PERSON> ( anggota ) andi pangerang ( anggota ) a.h. hamidan ( anggota ) i goesti ketoet poedja ( anggota ) mr. johannes latuharhary ( anggota ) drs. yap tjwan bing ( anggota ) selanjutnya tanpa sepengetahuan jepang , keanggotaan bertambah 6 yaitu <PERSON>: achmad soebardjo</PERSON> ( anggota ) sajoeti melik ( anggota ) ki hadjar dewantara ( anggota ) r.a.a. wiranatakoesoema ( anggota ) kasman singodimedjo ( anggota ) iwa koesoemasoemantri ( anggota ) persidangan <TIME>tanggal 9 agustus 1945</TIME> , sebagai pimpinan ppki yang baru , soekarno , hatta dan <PERSON>radjiman wedyodiningrat</PERSON> diundang ke dalat untuk bertemu marsekal terauchi .
+
+memproses passage 26
+sentence : 1
+from document : C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok365.txt
+title : bpupki-ppki dan peristiwa rengasdengklok
+list jawaban dan posisi dalam passage
+tanggal 9 agustus 1945 | position = 92
+
+
+melakukan pencarian:
+kata kunci = rengasdengklok
+tokenwithtagstemmed = hatta
+tokenwithtagstemmed = wakil
+tokenwithtagstemmed = ketua
+tokenwithtagstemmed = prof mr dr soepomo
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = krt
+tokenwithtagstemmed = radjiman
+tokenwithtagstemmed = wedyodiningrat
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = r
+tokenwithtagstemmed = p
+tokenwithtagstemmed = soeroso
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = soetardjo kartohadikoesoemo
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = kiai
+tokenwithtagstemmed = abdoel
+tokenwithtagstemmed = wachid
+tokenwithtagstemmed = hasjim
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = ki
+tokenwithtagstemmed = bagus
+tokenwithtagstemmed = hadikusumo
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = otto
+tokenwithtagstemmed = iskandardinata
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = abdoel
+tokenwithtagstemmed = kadir
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = pangeran
+tokenwithtagstemmed = soerjohamidjojo
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = pangeran poerbojo
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = dr mohammad amir
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = mr
+tokenwithtagstemmed = abdul
+tokenwithtagstemmed = abbas
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = mr
+tokenwithtagstemmed = mohammad
+tokenwithtagstemmed = hasan
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = dr gssj ratulangi
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = andi
+tokenwithtagstemmed = pangerang
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = a.h
+tokenwithtagstemmed = hamidan
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = i
+tokenwithtagstemmed = goesti
+tokenwithtagstemmed = ketoet
+tokenwithtagstemmed = poedja
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = mr
+tokenwithtagstemmed = johannes
+tokenwithtagstemmed = latuharhary
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = drs
+tokenwithtagstemmed = yap
+tokenwithtagstemmed = tjwan
+tokenwithtagstemmed = bing
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = lanjut
+tokenwithtagstemmed = tahu
+tokenwithtagstemmed = jepang
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = tambah
+tokenwithtagstemmed = 6
+tokenwithtagstemmed = achmad soebardjo
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = sajoeti
+tokenwithtagstemmed = melik
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = ki
+tokenwithtagstemmed = hadjar
+tokenwithtagstemmed = dewantara
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = r.a.a
+tokenwithtagstemmed = wiranatakoesoema
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = kasman
+tokenwithtagstemmed = singodimedjo
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = iwa
+tokenwithtagstemmed = koesoemasoemantri
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = sidang
+tokenwithtagstemmed = tanggal 9 agustus 1945
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = ppki
+tokenwithtagstemmed = baru
+tokenwithtagstemmed = soekarno
+tokenwithtagstemmed = hatta
+tokenwithtagstemmed = radjiman wedyodiningrat
+tokenwithtagstemmed = undang
+tokenwithtagstemmed = dalat
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = temu
+tokenwithtagstemmed = marsekal
+tokenwithtagstemmed = terauchi
+kata kunci = jadi
+tokenwithtagstemmed = hatta
+tokenwithtagstemmed = wakil
+tokenwithtagstemmed = ketua
+tokenwithtagstemmed = prof mr dr soepomo
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = krt
+tokenwithtagstemmed = radjiman
+tokenwithtagstemmed = wedyodiningrat
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = r
+tokenwithtagstemmed = p
+tokenwithtagstemmed = soeroso
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = soetardjo kartohadikoesoemo
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = kiai
+tokenwithtagstemmed = abdoel
+tokenwithtagstemmed = wachid
+tokenwithtagstemmed = hasjim
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = ki
+tokenwithtagstemmed = bagus
+tokenwithtagstemmed = hadikusumo
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = otto
+tokenwithtagstemmed = iskandardinata
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = abdoel
+tokenwithtagstemmed = kadir
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = pangeran
+tokenwithtagstemmed = soerjohamidjojo
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = pangeran poerbojo
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = dr mohammad amir
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = mr
+tokenwithtagstemmed = abdul
+tokenwithtagstemmed = abbas
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = mr
+tokenwithtagstemmed = mohammad
+tokenwithtagstemmed = hasan
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = dr gssj ratulangi
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = andi
+tokenwithtagstemmed = pangerang
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = a.h
+tokenwithtagstemmed = hamidan
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = i
+tokenwithtagstemmed = goesti
+tokenwithtagstemmed = ketoet
+tokenwithtagstemmed = poedja
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = mr
+tokenwithtagstemmed = johannes
+tokenwithtagstemmed = latuharhary
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = drs
+tokenwithtagstemmed = yap
+tokenwithtagstemmed = tjwan
+tokenwithtagstemmed = bing
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = lanjut
+tokenwithtagstemmed = tahu
+tokenwithtagstemmed = jepang
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = tambah
+tokenwithtagstemmed = 6
+tokenwithtagstemmed = achmad soebardjo
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = sajoeti
+tokenwithtagstemmed = melik
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = ki
+tokenwithtagstemmed = hadjar
+tokenwithtagstemmed = dewantara
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = r.a.a
+tokenwithtagstemmed = wiranatakoesoema
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = kasman
+tokenwithtagstemmed = singodimedjo
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = iwa
+tokenwithtagstemmed = koesoemasoemantri
+tokenwithtagstemmed = anggota
+tokenwithtagstemmed = sidang
+tokenwithtagstemmed = tanggal 9 agustus 1945
+tokenwithtagstemmed = pimpin
+tokenwithtagstemmed = ppki
+tokenwithtagstemmed = baru
+tokenwithtagstemmed = soekarno
+tokenwithtagstemmed = hatta
+tokenwithtagstemmed = radjiman wedyodiningrat
+tokenwithtagstemmed = undang
+tokenwithtagstemmed = dalat
+tokenwithtagstemmed = untuk
+tokenwithtagstemmed = temu
+tokenwithtagstemmed = marsekal
+tokenwithtagstemmed = terauchi
+
+
+setelah pertemuan tersebut , ppki tidak dapat bertugas karena <PERSON>para pemuda</PERSON> mendesak agar proklamasi kemerdekaan tidak dilakukan atas nama <PERSON>ppki ,</PERSON> yang dianggap merupakan alat buatan jepang .
+
+
+tidak ada entitas jawaban, skip
+
+
+bahkan rencana rapat <TIME>16 agustus 1945</TIME> tidak dapat terlaksana karena terjadi peristiwa rengasdengklok .
+
+memproses passage 26
+sentence : 3
+from document : C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok365.txt
+title : bpupki-ppki dan peristiwa rengasdengklok
+list jawaban dan posisi dalam passage
+16 agustus 1945 | position = 2
+
+
+melakukan pencarian:
+kata kunci = rengasdengklok
+tokenwithtagstemmed = rencana
+tokenwithtagstemmed = rapat
+tokenwithtagstemmed = 16 agustus 1945
+tokenwithtagstemmed = laksana
+tokenwithtagstemmed = jadi
+tokenwithtagstemmed = peristiwa
+tokenwithtagstemmed = rengasdengklok
+posisi dalam passage = 6
+jarak dengan tiap kandidat jawaban:
+16 agustus 1945 -4
+
+kata kunci = jadi
+tokenwithtagstemmed = rencana
+tokenwithtagstemmed = rapat
+tokenwithtagstemmed = 16 agustus 1945
+tokenwithtagstemmed = laksana
+tokenwithtagstemmed = jadi
+posisi dalam passage = 4
+jarak dengan tiap kandidat jawaban:
+16 agustus 1945 -2
+
+tokenwithtagstemmed = peristiwa
+tokenwithtagstemmed = rengasdengklok
+
+
+setelah proklamasi , pada <TIME>tanggal 18 agustus 1945</TIME> , ppki memutuskan antara lain : mengesahkan undang-undang dasar , memilih dan mengangkat ir .
+
+memproses passage 26
+sentence : 4
+from document : C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok365.txt
+title : bpupki-ppki dan peristiwa rengasdengklok
+list jawaban dan posisi dalam passage
+tanggal 18 agustus 1945 | position = 1
+
+
+melakukan pencarian:
+kata kunci = rengasdengklok
+tokenwithtagstemmed = proklamasi
+tokenwithtagstemmed = tanggal 18 agustus 1945
+tokenwithtagstemmed = ppki
+tokenwithtagstemmed = putus
+tokenwithtagstemmed = kesah
+tokenwithtagstemmed = undang
+tokenwithtagstemmed = undang
+tokenwithtagstemmed = dasar
+tokenwithtagstemmed = pilih
+tokenwithtagstemmed = angkat
+tokenwithtagstemmed = ir
+kata kunci = jadi
+tokenwithtagstemmed = proklamasi
+tokenwithtagstemmed = tanggal 18 agustus 1945
+tokenwithtagstemmed = ppki
+tokenwithtagstemmed = putus
+tokenwithtagstemmed = kesah
+tokenwithtagstemmed = undang
+tokenwithtagstemmed = undang
+tokenwithtagstemmed = dasar
+tokenwithtagstemmed = pilih
+tokenwithtagstemmed = angkat
+tokenwithtagstemmed = ir
+
+
+soekarno sebagai presiden dan drs. m. hatta sebagai wakil presiden ri , membentuk komite nasional untuk membantu tugas presiden sebelum dpr/mpr terbentuk .
+
+
+tidak ada entitas jawaban, skip
 
 Pengurutan kandidat jawaban
-this.answer = belanda
-passage rank = 5
+this.answer = tanggal 14 agustus 1945
+passage rank = 2
 distance = 1
-doc rank = 1
-total Score = 7
+doc rank = 2
+total Score = 5
 frequency = 1
-order process = 11
-document file = C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok127.txt
-document Title = sejarah perlawanan pangeran diponegoro terhadap belanda (1825–1830)
+order process = 2
+document file = C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok248.txt
+document Title = peristiwa seputar proklamasi kemerdekaan 17 agustus 1945
 
-this.answer = pangeran diponegoro
-passage rank = 5
-distance = 1
-doc rank = 1
-total Score = 7
-frequency = 1
-order process = 12
-document file = C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok127.txt
-document Title = sejarah perlawanan pangeran diponegoro terhadap belanda (1825–1830)
-
-this.answer = belanda
+this.answer = tanggal 16 agustus 1945 pukul 04.30
 passage rank = 1
 distance = 2
 doc rank = 1
 total Score = 4
 frequency = 1
 order process = 1
-document file = C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok127.txt
-document Title = sejarah perlawanan pangeran diponegoro terhadap belanda (1825–1830)
-
-this.answer = belanda
-passage rank = 3
-distance = 2
-doc rank = 2
-total Score = 7
-frequency = 1
-order process = 6
-document file = C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok56.txt
-document Title = sejarah perlawanan pangeran diponegoro terhadap belanda (1825–1830)
-
-this.answer = kiai mojo
-passage rank = 1
-distance = 3
-doc rank = 1
-total Score = 5
-frequency = 1
-order process = 2
-document file = C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok127.txt
-document Title = sejarah perlawanan pangeran diponegoro terhadap belanda (1825–1830)
-
-this.answer = kiai mojo
-passage rank = 3
-distance = 3
-doc rank = 2
-total Score = 8
-frequency = 1
-order process = 7
-document file = C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok56.txt
-document Title = sejarah perlawanan pangeran diponegoro terhadap belanda (1825–1830)
-
-this.answer = ario prangwadono
-passage rank = 2
-distance = 6
-doc rank = 1
-total Score = 9
-frequency = 1
-order process = 4
-document file = C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok127.txt
-document Title = sejarah perlawanan pangeran diponegoro terhadap belanda (1825–1830)
-
-this.answer = ario prangwadono
-passage rank = 4
-distance = 6
-doc rank = 2
-total Score = 12
-frequency = 1
-order process = 9
-document file = C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok56.txt
-document Title = sejarah perlawanan pangeran diponegoro terhadap belanda (1825–1830)
-
-this.answer = notoprodjo
-passage rank = 2
-distance = 11
-doc rank = 1
-total Score = 14
-frequency = 1
-order process = 5
-document file = C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok127.txt
-document Title = sejarah perlawanan pangeran diponegoro terhadap belanda (1825–1830)
-
-this.answer = notoprodjo
-passage rank = 4
-distance = 11
-doc rank = 2
-total Score = 17
-frequency = 1
-order process = 10
-document file = C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok56.txt
-document Title = sejarah perlawanan pangeran diponegoro terhadap belanda (1825–1830)
-
-this.answer = pasukan belanda
-passage rank = 1
-distance = 12
-doc rank = 1
-total Score = 14
-frequency = 1
-order process = 3
-document file = C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok127.txt
-document Title = sejarah perlawanan pangeran diponegoro terhadap belanda (1825–1830)
-
-this.answer = pasukan belanda
-passage rank = 3
-distance = 12
-doc rank = 2
-total Score = 17
-frequency = 1
-order process = 8
-document file = C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok56.txt
-document Title = sejarah perlawanan pangeran diponegoro terhadap belanda (1825–1830)
+document file = C:\Users\hobert\workspace\website\backend\dokumenSejarah\dok201.txt
+document Title = perbedaan pendapat dan penculikan
 
 
 

@@ -20,6 +20,7 @@ var routes = require('./routes/index');
 var sound = require ('./routes/sound');
 var text = require ('./routes/text');
 var soundtext = require ('./routes/sound-text');
+var soundtextchrome = require ('./routes/sound-text-chrome');
 
 var app = express();
 
@@ -41,6 +42,7 @@ app.use('/', routes);
 app.use('/sound',sound);
 app.use('/text',text);
 app.use('/sound-text',soundtext);
+app.use('/sound-text-chrome',soundtextchrome);
 
 
 new CronJob("0 0 * * * *", function(){
